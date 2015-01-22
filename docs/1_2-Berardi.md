@@ -17,19 +17,16 @@ Rights: CC BY-NC 4.0
 ...
 
 
-1.  # Is There Life Beyond Money?
+# Is There Life Beyond Money?
 
-    # Franco Berardi
+### Franco Berardi {.author}
 
-What is the price of Experience? Do men buy it for a song?
-
-Or wisdom for a dance in the street? No, it is bought with the price
-
-Of all that a man hath, his house, his wife, his children
-
-Wisdom is sold in the desolate market where none come to buy
-
-– William Blake
+> What is the price of Experience? Do men buy it for a song?  
+> Or wisdom for a dance in the street? No, it is bought with the price  
+> Of all that a man hath, his house, his wife, his children  
+> Wisdom is sold in the desolate market where none come to buy  
+>
+> – William Blake
 
 I’m far from being an expert in the field of finance. So I should
 explain why I’m writing on the subject of money. The problem is that
@@ -183,7 +180,7 @@ the adventures of money; the best way to speak of financial matters
 nowadays is to start from an understanding of the effects that
 monetarism has provoked on work and society.
 
-1.  ## Money and Work
+## Money and Work
 
 ‘The workday is not an extension of the human nature; long working hours
 are not rooted in need and are not something that workers have
@@ -307,7 +304,7 @@ constraints that force them to accept any blackmail, and particularly
 force them to sell their labor time for unfair salary in unfairly
 precarious conditions.
 
-1.  ## A Digression About Language and Money
+## A Digression About Language and Money
 
 Thanks to Wittgenstein I know that the limits of my language are the
 limits of my world.[^8] When we talk of ‘limit’ however we are dealing
@@ -411,7 +408,7 @@ nervous connections. The bio-informational automaton is the product of
 the insertion of the digital automaton in the flow of socio-linguistic
 interactions.
 
-1.  ## Abstraction and Automation
+## Abstraction and Automation
 
 Abstraction is the main trend of the last century in the field of art,
 language, and the economy. Abstraction can be defined as the mental
@@ -502,7 +499,7 @@ not emerge from a physical relationship between work and things, but
 rather from infinite self-replication of virtual exchanges of nothing
 with nothing. 
 
-1.  ## Alternative Currencies and the Automation Trend
+## Alternative Currencies and the Automation Trend
 
 Is it possible to undo the financial system from the inside? Is it
 possible to use money as a lever against the financial trap and against
@@ -603,7 +600,7 @@ play a role in the disarrangement of the monetary flow, it is difficult
 to guess how money, a tool for automation, can disentangle our life from
 the financial automation.
 
-**References**
+## References
 
 Aronowitz, Stanley and Jonathan Cutler. *Post-Work*, New York:
 Routledge, 1998.

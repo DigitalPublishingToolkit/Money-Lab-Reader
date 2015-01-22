@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Accumulation and Resistance in the 21st Century
 
-# Andrew Ross
+### Andrew Ross {.author}
 
 Thanks to Thomas Piketty and Emmanuel Saez, a lot of attention has been
 focused recently on wealth accumulation at the top. The income data they
@@ -379,7 +379,6 @@ honestly question whether we owe anything at all to people and
 institutions that, were it not for the figment of the banker’s new
 clothes, would rightly be seen as engaged in extortion.
 
-## 
 
 ## Abolishing the Debt Sentence
 
@@ -441,19 +440,10 @@ not be applied in a way that would produce some hard numbers:
     incurred simply to prepare ourselves, in mind and body, for
     employment.
 
-<!-- -->
-
--   
-
-<!-- -->
-
 -   Given the fraud and deceit practiced by bankers, and the likelihood
     that they will not refrain from such anti-social conduct, it would
     be morally hazardous of us to reward them any further.
 
-<!-- -->
-
--   
 
 ## References
 

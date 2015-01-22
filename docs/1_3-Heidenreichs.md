@@ -17,21 +17,20 @@ Rights: CC BY-NC 4.0
 ...
 
 
-1.  # On a Post-Monetary Network Based Economy
+# On a Post-Monetary Network Based Economy
 
-    # Ralph and Stefan Heidenreich
+### Ralph and Stefan Heidenreich {.author}
 
-The love of money as a possession – as distinguished from the love of
-money as a means to the enjoyments and realities of life – will be
-recognized for what it is, a somewhat disgusting morbidity, one of those
-semi-criminal, semi-pathological propensities which one hands over with
-a shudder to the specialists in mental disease.
+> The love of money as a possession – as distinguished from the love of
+> money as a means to the enjoyments and realities of life – will be
+> recognized for what it is, a somewhat disgusting morbidity, one of those
+> semi-criminal, semi-pathological propensities which one hands over with
+> a shudder to the specialists in mental disease.
+>
+> – John Maynard Keynes
 
-– John Maynard Keynes
 
-1.  ## 
-
-    ## Allocation, Distribution
+## Allocation, Distribution
 
 The economy as a whole deals with allocating work and distributing
 goods. Both operations are based on relations between economic agents,
@@ -77,7 +76,7 @@ Technically it might still be possible to tweak a post-monetary system
 to keep redistributing wealth to the rich, but morally those practices
 would be regarded highly doubtful systemic bugs.
 
-1.  ## Matching
+## Matching
 
 The core routine of a money-free economy is the matching algorithm. Its
 main purpose is to make needs and capabilities meet. Matching is not to
@@ -123,7 +122,7 @@ the need to implement etiquettes, guidelines, or sanctions. These
 dynamics count for economic processes no less than for all sorts of
 communication.
 
-1.  ## Money as Medium 
+## Money as Medium 
 
 Within the current economy matching is handled by markets mediated
 through money. Each good is assigned an owner and a price. The price is
@@ -209,7 +208,7 @@ and would model a networked, data-driven process. The second approach
 would expand the set of economic agents and might then arrive at a
 surprisingly lean and elegant solution.
 
-1.  ## Data Transactions
+## Data Transactions
 
 Money can fully be replaced by memory, according to a paper by N.
 Kocherlakota, at least for certain types of economic systems.[^6]
@@ -277,7 +276,7 @@ Some of the perverse incentives coming with money were still obvious
 shortly after its introduction.[^7] But once the monetary regime had
 become the general rule, they appear to be the new normal.
 
-1.  ## Ticklish Objects
+## Ticklish Objects
 
 The obstacles of a data rich exchange-oriented system may be overcome by
 reconsidering the participants in the market. Whomever or whatever
@@ -313,9 +312,8 @@ sides and features. The system does not need to have preset rules for
 once and ever. Its life depends on how humans interact with things, and
 how objects mirror the world.
 
-1.  ## 
 
-    ## Human Agents
+## Human Agents
 
 As much as objects, humans have an economic agency, which can be
 described by sets of needs or desires. A strong concept of subjectivity
@@ -365,7 +363,7 @@ monetary regime, it should not be impossible to surpass the current
 system with its inclination to exclusive freedom for the wealthy and
 rising inequality.
 
-1.  ## Multidimensional Values, Ecosystem of Games
+## Multidimensional Values, Ecosystem of Games
 
 The economic field does not need to be governed by one universal
 algorithm alone. A diversity of needs, different products and services
@@ -418,7 +416,7 @@ valuation that counts the effects on the ecosystem at large. All these
 value dimensions may be kept in parallel and enter the calculation of a
 transaction according to the politically agreed rules.
 
-1.  ## Commons and Infrastructure
+## Commons and Infrastructure
 
 The kind of services and products that are made available to the whole
 population as common goods, is the result of a communal decision taken
@@ -478,7 +476,7 @@ according to the economy of material production, one should rather
 transform the market of material goods along the distribution models of
 intellectual labor and file sharing.
 
-1.  ## Futures
+## Futures
 
 One of the main problems with all planning economies is innovation.
 Algorithmic economies are very different from planned economies in this
@@ -509,7 +507,7 @@ rarely corresponds with the final social practice that develops around a
 technology. Misunderstandings and inappropriate modes of use are key
 factors in the dissemination of communication technologies.
 
-1.  ## Consequences
+## Consequences
 
 In its consequences, post-monetary economies would come very close to
 what Keynes envisions in his essay on the ‘Economic Possibilities for
@@ -544,7 +542,7 @@ our resources, produce overabundance without distributing it, and insist
 in making workers’ lives miserable, will be looked back at with
 amazement and awe.
 
-1.  ## References
+## References
 
 Aristotle. *Politics*, trans. D.C. Reeve, Indianapolis: Hackett, 1998.
 

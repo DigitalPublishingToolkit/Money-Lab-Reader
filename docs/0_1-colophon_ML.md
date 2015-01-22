@@ -17,9 +17,8 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# MoneyLab Reader
+# MoneyLab Reader: An Intervention in Digital Economy
 
-# An Intervention in Digital Economy
 
 **MoneyLab Reader: An Intervention in Digital Economy**
 
@@ -162,7 +161,9 @@ Accumulation and Resistance in the 21st Century
 
 FINANCIAL INTERVENTIONS
 
-# **Primavera De Filippi and Samer Hassan** Measuring Value in the Commons-Based Ecosystem: Bridging the Gap Between the Commons and the Market 
+**Primavera De Filippi and Samer Hassan**
+
+Measuring Value in the Commons-Based Ecosystem: Bridging the Gap Between the Commons and the Market 
 
 **Pekka Piironen and Akseli Virtanen**
 
@@ -194,7 +195,7 @@ Heat Exchanges
 
 ECONOMIES OF IMAGINATION
 
-**Max Haiven**<span id="h.va3qlrjeewi3" class="anchor"></span>
+**Max Haiven**
 
 Money as a Medium of the Imagination: Art and the Currencies of
 Cooperation
@@ -219,27 +220,25 @@ Wild, Wild West: A View From Two California Schoolmarms
 
 **Rachel O’Dwyer**
 
-# Money Talks: The Enclosure of Mobile Payments
+Money Talks: The Enclosure of Mobile Payments
 
 **Erin Taylor**
 
 Mobile Money: Financial Globalization, Alternative, or Both?
 
-# **Eduard de Jong, Nathaniel Tkacz and Pablo Velasco **
+**Eduard de Jong, Nathaniel Tkacz and Pablo Velasco **
 
-# ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
+‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 
 CROWDFUNDING AND BEYOND
 
-# **Inge Ejbye Sørensen**
+**Inge Ejbye Sørensen**
 
-# Go Crowdfund Yourself! Some Unintended Consequences of Crowdfunding for Documentary Film and Industry in the U.K.
+Go Crowdfund Yourself! Some Unintended Consequences of Crowdfunding for Documentary Film and Industry in the U.K.
 
-# 
+**Renée Ridgway**
 
-# **Renée Ridgway**
-
-# Crowdfunding the Commons?
+Crowdfunding the Commons?
 
 **Irina Enache and Robert van Boeschoten**
 
@@ -251,8 +250,7 @@ APPENDICES
 
 **Author Biographies**
 
-**\
-Appendix**
+**Appendix**
 
 **MONEYLAB: COINING ALTERNATIVES**
 
@@ -260,7 +258,7 @@ Appendix**
 
 **FRIDAY, March 21, 2014**
 
-[**Session 1: Monetization of Everything**](#s1bios)
+**Session 1: Monetization of Everything**
 
 Moderators: Geert Lovink, Nathaniel Tkacz
 
@@ -272,13 +270,13 @@ Moderator: Nathaniel Tkacz
 
 Speakers: Franco Berardi, Brett Scott, Tiziana Terranova, Brian Holmes
 
-[**Session 3: Critical Art Practices**](#s2bios)
+**Session 3: Critical Art Practices**
 
 Moderator: Patricia de Vries
 
 Speakers: Ron Peperkamp, Dadara, Dette Glashouwer
 
-[**Session 4: Mobile Money**](#s3bios)
+**Session 4: Mobile Money**
 
 Moderator: Bill Maurer
 
@@ -286,7 +284,7 @@ Speakers: Erin Taylor, Taylor Nelms, and Gawain Lynch
 
 **SATURDAY, March 22, 2014**
 
-[**Session 5: Bitcoin and Beyond**](#s4bios)
+**Session 5: Bitcoin and Beyond**
 
 Moderators: Nathaniel Tkacz and Lana Swartz
 
@@ -298,14 +296,14 @@ Speakers: Bitcoin ATM, Geheimagentur, Noppes, Peerby, Qoin, Kunst
 Reserve Bank, Share NL, The Next Nature Network, Timebank CC, Transition
 Towns Netherlands
 
-[**Session 7: Critique of Crowdfunding**](#s6bios)
+**Session 7: Critique of Crowdfunding**
 
 Moderator: Brett Scott
 
 Speakers: Inge Ejbye Sørensen, Jamie King, Marijke Hoogenboom, Irina
 Enache and Robert van Boeschoten
 
-[**Session 8: Designing Alternatives**](#s7bios)
+**Session 8: Designing Alternatives**
 
 Moderator: Rob Van Hilten
 

@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Money in the Making of World Society
 
-# Keith Hart
+### Keith Hart {.author}
 
 According to writers as varied as John Locke and Karl Marx, ours is an
 age of money, a transitional phase in the history of humanity. Seen in
@@ -442,7 +442,6 @@ corporations, we need to be very sure that we are human and they are
 not. The drive for economic democracy will not be won until that
 confusion has been cleared up.
 
-# 
 
 ## Heads or Tails Revisited
 
@@ -617,7 +616,7 @@ from old social structures and habits of mind that have not yet been
 fully destroyed, as they would be by a period of general war of the kind
 that has accompanied all the major revolutions of modern history.
 
-**References**
+## References
 
 Blanc, Jerome. ‘Community and Complementary Currencies’, in Keith Hart,
 Jean-Louis Laville, and Antonio David Cattani (eds) *The Human Economy*,

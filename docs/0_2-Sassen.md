@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Foreword to the MoneyLab Reader
 
-# Saskia Sassen
+### Saskia Sassen {.author}
 
 When Money Becomes an Extraction Tool Rather Than Exchange Medium.
 

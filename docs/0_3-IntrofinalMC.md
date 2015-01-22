@@ -17,13 +17,12 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# **Introduction to the MoneyLab Reader\
-\
-**By Geert Lovink and Nathaniel Tkacz
+# Introduction to the MoneyLab Reader
 
-# 
+### Geert Lovink and Nathaniel Tkacz {.author}
+ 
 
-The best way to rob a bank is to design a currency – Johan Sjerpstra
+> The best way to rob a bank is to design a currency – Johan Sjerpstra
 
 Welcome to MoneyLab, a network of artists, activists and researchers,
 founded in 2013 by the Amsterdam-based Institute of Network Cultures;

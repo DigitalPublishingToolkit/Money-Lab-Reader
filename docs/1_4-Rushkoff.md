@@ -17,16 +17,16 @@ Rights: CC BY-NC 4.0
 ...
 
 
-1.  # Playability and the Search for an Open Source Economy
+# Playability and the Search for an Open Source Economy
 
-    # Douglas Rushkoff
+### Douglas Rushkoff {.author}
 
 > You can’t compete with a monopoly by playing the game by the
 > monopolist’s rules. The monopoly has the resources, the distribution
 > channels, the R&D resources; in short, they just have too many
 > strengths. You compete with a monopoly by changing the rules of the
 > game into a set that favors your strengths.[^1]
->
+> 
 > – John R. Young, founder of SourceForge, the world’s largest provider
 > of hosting for Open Source development projects.
 
@@ -291,7 +291,7 @@ and how we can participate in this process – or at least become more
 conscious of the media ecology in which we are functioning as a first
 step toward an alternative to corporatism.
 
-**References**
+## References
 
 Berger, Frank. *Die Mittelalterlichen Brakteaten im Kestner-Museum,
 Hannover 2,* Hannover: Teil, 1996.
