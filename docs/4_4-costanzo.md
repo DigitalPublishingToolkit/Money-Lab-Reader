@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # The Free Money Movement
 
-# Jim Costanzo
+### Jim Costanzo {.author}
 
 The Aaron Burr Society (ABS) launched the *Free Money Movement* on Wall
 Street on April Fools Day 2009. ABS was inspired by the bailout of Wall
@@ -87,14 +87,12 @@ it has always taken great care to be factually accurate. We have
 exercised poetic license with terms like *Free Money*, but the issues
 addressed are serious.
 
-## 
-
 ## Genesis
 
-Those who control the present, control the past and those who control
-the past control the future.[^3]
-
-– George Orwell, [*1984*](http://www.goodreads.com/work/quotes/153313)
+> Those who control the present, control the past and those who control
+> the past control the future.[^3]
+> 
+> – George Orwell, [*1984*](http://www.goodreads.com/work/quotes/153313)
 
 ABS originated in the spring and summer of 2008, just before the crash
 of the international financial markets, but it was a sign placed in
@@ -140,7 +138,6 @@ crash of 2008 was obvious. In June of that year, *Harper’s Magazine*
 published my letter to the editor in response to an article about how
 environmental sustainability would be financed by the next bubble.
 
-## 
 
 ## Toil and Trouble
 
@@ -252,8 +249,8 @@ this editorial:
 > to prevent you from enjoying, under it, at any future time, an
 > opportunity of expressing your sentiments of it by an equal
 > representation. They provided no other mode of reformation than the
-> inadequate and unequal one of a council of censors. [Amendments to the
-> Constitution requires a two-thirds majority.][^7]
+> inadequate and unequal one of a council of censors. Amendments to the
+> Constitution requires a two-thirds majority.[^7]
 
 This editorial laid the foundation of the Whiskey Rebellion of 1791 that
 was sparked by Constitution and later fanned by Hamilton’s capitalist
@@ -601,7 +598,7 @@ regional and local public banks, could be one of many important steps
 toward building an equitable transnational green economy under a system
 of direct democracy.
 
-**References**
+## References
 
 Beard, Charles A. *An Economic Interpretation of the Constitution of the
 United States*, New York: The Macmillan Company, 1921.

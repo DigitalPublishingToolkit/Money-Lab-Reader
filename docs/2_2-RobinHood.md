@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Democratizing the Power of Finance: A Discussion about Robin Hood Asset Management Cooperative with founder Akseli Virtanen
 
-# Pekka Piironen and Akseli Virtanen
+### Pekka Piironen and Akseli Virtanen {.author}
 
 **Pekka Piironen:** What is Robin Hood?
 

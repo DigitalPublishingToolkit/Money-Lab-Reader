@@ -16,10 +16,14 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+<!--
+Figures missing
+-->
 
-1.  # The MonelyLab Crowdfunding Toolkit for Creatives
 
-    # Irina Enache and Robert van Boeschoten
+# The MonelyLab Crowdfunding Toolkit for Creatives
+
+### Irina Enache and Robert van Boeschoten {.author}
 
 The MoneyLab Crowdfunding Toolkit (MCT) helps creatives explore the
 opportunities and challenges of an increasingly popular form of
@@ -34,7 +38,7 @@ creatives using crowdfunding, and an interactive graph of 60 Dutch and
 international crowdfunding websites. We conclude with some insights into
 future needs of the crowdfunding model.
 
-1.  ## Adding the Missing Voice
+## Adding the Missing Voice
 
 An important issue with the ongoing crowdfunding hype is that the voices
 of creative workers – the ones actually using crowdfunding platforms as
@@ -64,7 +68,7 @@ and family for money. The widely held notion that crowdfunding helps you
 find an anonymous crowd actively participating and financially
 supporting your project is questionable.
 
-1.  ## What Does Crowdfunding Involve? Some Numbers
+## What Does Crowdfunding Involve? Some Numbers
 
 Second, the Toolkit addresses the lack of informational resources at
 hand for those who are planning to start a crowdfunding campaign. What
@@ -111,7 +115,7 @@ different aspects of the campaign.
 [Fig. 5: 35 out of 60 respondents would crowdfund again. Figures
 represent numbers of responses.]
 
-1.  ## Visualizing Crowdfunding Platforms
+## Visualizing Crowdfunding Platforms
 
 There are hundreds of crowdfunding platforms worldwide, and most offer
 very little insight into what happens behind their popular
@@ -154,7 +158,7 @@ visual encodings.]
 [Fig. 8: The results displayed after opting for the filter and sorting
 options in Fig. 8.]
 
-1.  ## In Closing: Critical Comments on the Future of Crowdfunding Platforms
+## In Closing: Critical Comments on the Future of Crowdfunding Platforms
 
 Crowdfunding is commonly hailed as the new, democratic and transparent
 finance model for creative industries. However, crowdfunding is a
@@ -198,28 +202,24 @@ disparate needs of people using it. One standard interface and a suite
 of standardized services cannot provide an accurate response to these
 very different needs.
 
-1.  # References
+## References
 
-Amsterdams Fonds voor de Kunst,
-[*http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/*](http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded)[*.
-*](http://www.amsterdamsfondsvoordekunst.nl/watñwijñdoen/voordekunst/)
-
+Amsterdams Fonds voor de Kunst, http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/
 Culture Crowd UK,
-[*http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf*](http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf).
+[http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf](http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf).
 
 Jeffers, Adrianne. ‘Indie No-go: Only One in Ten Projects Gets Fully
 Funded on Kickstarter's Biggest Rival’, The Verge, 7 August 2013,
-[*http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded*](http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded).
+[http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded](http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded).
 
 Kickstarter,
-[*https://www.kickstarter.com/help/stats*](https://www.kickstarter.com/help/stats).
+[https://www.kickstarter.com/help/stats](https://www.kickstarter.com/help/stats).
 
 Mondriaan Fonds,
-[*http://www.mondriaanfonds.nl/Aanvragen/item/Voor\_de\_kunst/*](http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/).
+[http://www.mondriaanfonds.nl/Aanvragen/item/Voor\_de\_kunst/](http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/).
 
 MoneyLab Crowdfunding Toolkit,
-[*www.networkcultures.org/moneylab-toolkit.
-*](http://www.networkcultures.org/moneylab-toolkit)
+[www.networkcultures.org/moneylab-toolkit](http://www.networkcultures.org/moneylab-toolkit).
 
 [^1]: MoneyLab Crowdfunding Toolkit,
     [www.networkcultures.org/moneylab-toolkit](http://www.networkcultures.org/moneylab-toolkit).

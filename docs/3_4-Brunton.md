@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Heat Exchanges
 
-# Finn Brunton
+### Finn Brunton {.author}
 
 ## Hot Bits
 
@@ -188,7 +188,6 @@ cranking through climate models or rendering polygons for cinematic
 airships. They're solving a set of arbitrary challenges to produce
 hashes of data – that is, they're mining Bitcoin.[^17]
 
-## 
 
 ## Making Money Money
 
@@ -620,7 +619,7 @@ new, promising form where they meet in their deficiency. Made of nothing
 but hot air, technical ingenuity, and social fascination, the balloon
 takes off into the open sky.
 
-**References**
+## References
 
 Andreev, Oleg. ‘Crypto-Anarchy Does Not Require Anonymity’,
 <http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity>.

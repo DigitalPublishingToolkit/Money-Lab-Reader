@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Financial Capital and the Money of the Common: The Case of Commoncoin
 
-# Tiziana Terranova and Andrea Fumagalli
+### Tiziana Terranova and Andrea Fumagalli {.author}
 
 On the 21st and 22nd of June 2014, just a few months after the MoneyLab
 conference in Amsterdam, a group of researchers and militants including

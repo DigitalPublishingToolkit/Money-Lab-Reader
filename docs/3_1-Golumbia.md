@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Bitcoin as Politics: Distributed Right-Wing Extremism 
 
-# David Golumbia
+### David Golumbia {.author}
 
 Theorists of science and technology have long insisted that their
 objects of study can and should often be construed as profoundly

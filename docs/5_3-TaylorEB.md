@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Mobile Money: Financial Globalization, Alternative, or Both?
 
-# Erin B. Taylor
+### Erin B. Taylor {.author}
 
 Mobile money, and indeed microfinance generally, seems to generate
 strong opinions. After giving a presentation about mobile money in Haiti
@@ -134,7 +134,6 @@ better placed to offer alternatives and choice than a decentralized
 system. How can we assess the contribution of mobile money to the
 welfare of its users?
 
-## 
 
 ## Mobile Money as Finance
 
@@ -742,8 +741,7 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 
 [^31]: Privacy is also a growing issue, especially in cases where people
     must supply biometric information to register for financial products
-    such as bankcards. See
-    [*http://www.usaid.gov/results-data/success-stories/biometric-technology-improves-financial-services*](http://www.usaid.gov/results-data/success-stories/biometric-technology-improves-financial-services).
+    such as bankcards. See [http://www.usaid.gov/results-data/success-stories/biometric-technology-improves-financial-services](http://www.usaid.gov/results-data/success-stories/biometric-technology-improves-financial-services).
 
 [^32]: Anke Schwittay, ‘The Marketization of Poverty’, *Current
     Anthropology* 52.3 (2011): 71-82.

@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Inculcating Ethical Behaviour in Market Transactions? The Case of the Sharia Online Trading System in Indonesia
 
-# Lena Rethel and Irwan Abdalloh
+### Lena Rethel and Irwan Abdalloh {.author}
 
 In the wake of the global financial crisis of 2007-9,[^1] the search is
 on for finding alternatives to a global financial system whose flaws

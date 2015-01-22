@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Money Talks: The Enclosure of Mobile Payments
 
-# Rachel O’Dwyer
+### Rachel O’Dwyer {.author}
 
 > *Much still depends on who owns and controls the networks, who sets
 > the terms of entry, and who gathers and sorts […] information and for
@@ -446,7 +446,7 @@ spaces. The effects of such scrutiny will be unevenly distributed; for
 example, individual purchase tracking of low-income families or of
 individuals who have claimed bankruptcy or insolvency.[^46]
 
-**Conclusion**
+## Conclusion
 
 The forces governing information are coming to govern value, and vice
 versa. Networks are no longer a subset of political economy; the
@@ -476,14 +476,14 @@ and sites of resistance and struggle within networks might also be
 fruitful sites for radicalizing or open sourcing money in the near
 future.
 
-**Acknowledgements**
+## Acknowledgements
 
 I would like to thank CTVR, the Telecommunications Research Centre, the
 MoneyLab conference and mailing list organized by the Institute of
 Network Cultures and Prof. Bill Maurer of the University of California,
 Irvine for his recommendations regarding mobile money.
 
-**References**
+## References
 
 ‘Airtime is Money’, *The Economist*, 19 January 2013,
 <http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money>.
@@ -672,8 +672,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 [^4]: Jan Chipchase and Panthea Lee, ‘Mobile Money: Afghanistan’,
     *Innovations* 6.2 (2011): 27.
 
-[^5]: See
-    [https://www.econet.co.zw/services/airtime-transfer](numbering.xml).
+[^5]: See [https://www.econet.co.zw/services/airtime-transfer](numbering.xml).
 
 [^6]: Paul Nyakazeya and Bernard Mpofu, ‘Econet Phone Tokens Used as
     Change, *The Independent,* 27 May 2010,
@@ -804,8 +803,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Cash: Channeling Agency in Mobile Money’, *Journal of the Royal
     Anthropological Institute* 19.1 (2013).
 
-[^28]: See
-    [https://ripple.com](http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/%09MobileMoneyReport-Summary.pdf?MOD=AJPERES)
+[^28]: See [https://ripple.com](http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/%09MobileMoneyReport-Summary.pdf?MOD=AJPERES)
     or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
     on your Reputation’, *Wired Magazine*, 18 July 2014,
     [http://www.wired.com/2014/07/document-coin/](http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports_SpectrumV%20alue.pdf).
@@ -814,8 +812,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001),
     [http://www.strategy-business.com/article/17163?gko=4cda6](http://mondato.com/blog/airtime/).
 
-[^30]: See
-    [http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked](http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-%09money-remains-a-strategic-priority-for-mno-groups).
+[^30]: See [http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked](http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-%09money-remains-a-strategic-priority-for-mno-groups).
 
 [^31]: MMU Deployment Tracker,
     [http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-the-unbanked/insights/tracker](http://vimeo.com/90207123).

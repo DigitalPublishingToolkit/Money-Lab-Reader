@@ -19,9 +19,8 @@ Rights: CC BY-NC 4.0
 
 # ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 
-# Eduard de Jong, Nathaniel Tkacz and Pablo Velasco 
+### Eduard de Jong, Nathaniel Tkacz and Pablo Velasco {.author}
 
-# 
 
 Currency experiments are enjoying something of a renaissance. Some have
 the number of digital currencies as high as 143, most of which have
@@ -149,7 +148,7 @@ market a technology so advanced, and how to get people to buy into it.
 DigiCash was certainly way more advanced than any solution that society
 was willing to accept at the time. It's probably fair to say that it was
 *too early* in its insistence and successful implementation of
-*absolute* security.’ **
+*absolute* security.’**
 
 In 1992, de Jong left DigiCash and together with another former DigiCash
 employee, he started a consultation company on smart cards and
@@ -200,8 +199,7 @@ Everett, who worked at NatWest bank at the time, Mondex, like e-Cash and
 Danmønt, used an exchange of messages to transfer a value. The Mondex
 team started building a system with technology that had already been
 patented in 1990 by Tim Jones and Graham Higgins, who refer in their
-patent application to Chaum’s ideas. <span
-id="__Fieldmark__453_244507565" class="anchor"></span>In the Mondex
+patent application to Chaum’s ideas. In the Mondex
 scheme a secure computer acted as ‘originator’, one per country, to
 create units of electronic cash, which were then sold for traditional
 currency to ‘issuers’ (banks) that could sell them – again, in exchange
@@ -489,12 +487,9 @@ payer to be stay anonymous but not the payee, as in traditional cash
 payments, and will be usable through a phone user interface. There are
 plans to deploy it in Canada.
 
-<span id="__UnoMark__2295_244507565" class="anchor"></span>
+
 
 ## References
-
-<span id="__UnoMark__4626_244507565" class="anchor"><span
-id="__UnoMark__5251_244507565" class="anchor"></span></span>
 
 Böhle, Knud, Michael Rader, and Ulrich Riehm. ‘Electronic Payment
 Systems in European Countries: Country Synthesis Report’,
@@ -537,26 +532,19 @@ Formal Methods*, Lecture Notes in Computer Science 4085, Berling and
 Heidelberg: Springer, 2006, p.16-31,
 <http://link.springer.com/chapter/10.1007/11813040_2>.
 
-[^1]: <span id="__UnoMark__4618_244507565" class="anchor"></span> ‘How
-    DigiCash Blew Everything’], January 1999,
+[^1]: ‘How DigiCash Blew Everything’], January 1999,
     [http://cryptome.org/jya/digicrash.htm\#15](#15).
 
-[^2]: <span id="__UnoMark__4616_244507565" class="anchor"></span>David
-    Chaum, ‘Blind Signatures for Untraceable Payments’, in David Chaum,
+[^2]: David Chaum, ‘Blind Signatures for Untraceable Payments’, in David Chaum,
     Ronald L. Rivest, and Alan T. Sherman (eds) *Advances in
-    Cryptology*<span id="__UnoMark__4932_244507565"
-    class="anchor"></span>, New York: Springer, 1983, pp. 199-203,
+    Cryptology*, New York: Springer, 1983, pp. 199-203,
     [http://link.springer.com/chapter/10.1007/978-1-4757-0602-4\_18](styles.xml).
 
-[^3]: <span id="__UnoMark__4617_244507565" class="anchor"></span>Andy
-    Greenberg, *This Machine Kills Secrets: How WikiLeakers,
+[^3]: Andy Greenberg, *This Machine Kills Secrets: How WikiLeakers,
     Hacktivists, and Cypherpunks Are Freeing the World’s
-    Information*<span id="__UnoMark__4984_244507565"
-    class="anchor"><span id="__UnoMark__4970_244507565"
-    class="anchor"></span></span>, New York: Random House, 2012.
+    Information*, New York: Random House, 2012.
 
-[^4]: <span id="__UnoMark__4619_244507565" class="anchor"></span>Knud
-    Böhle, Michael Rader, and Ulrich Riehm, ‘Electronic Payment Systems
+[^4]: Knud Böhle, Michael Rader, and Ulrich Riehm, ‘Electronic Payment Systems
     in European Countries: Country Synthesis Report’, Forschungszentrum
     Karlsruhe*,* September 1999,
     [http://www.itas.kit.edu/pub/v/1999/boua99b.pdf](stylesWithEffects.xml).
@@ -568,33 +556,22 @@ Heidelberg: Springer, 2006, p.16-31,
 
 [^6]: Clemons, Croson, and Weber, ‘Reengineering Money’.
 
-[^7]: <span id="__UnoMark__4621_244507565" class="anchor"><span
-    id="__UnoMark__5104_244507565" class="anchor"></span></span>Peter
-    L-, ‘Mondex’, in *Encyclopedia of Cryptography and Security* (ed.)
+[^7]: Peter L-, ‘Mondex’, in *Encyclopedia of Cryptography and Security* (ed.)
     Henk C.A. van Tilborg, Berlin and Heidelberg: Springer, 2005, p.
     394,
     [http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7\_262](settings.xml).
 
-[^8]: <span id="__UnoMark__4622_244507565" class="anchor"><span
-    id="__UnoMark__5150_244507565" class="anchor"></span></span>Gerhard
-    Schellhorn et al., ‘The Mondex Challenge: Machine Checked Proofs for
-    an Electronic Purse’, i<span id="__UnoMark__5148_244507565"
-    class="anchor"></span>n Jayadev Misra, Tobias Nipkow, and Emil
+[^8]: Gerhard Schellhorn et al., ‘The Mondex Challenge: Machine Checked Proofs for
+    an Electronic Purse’, in Jayadev Misra, Tobias Nipkow, and Emil
     Sekerinski (ed.) *FM 2006: Formal Methods*, Lecture Notes in
     Computer Science 4085, Berlin and Heidelberg: Springer 2006, pp.
-    16-31,
-    [http://link.springer.com/chapter/10.1007/11813040\_2](webSettings.xml).
+    16-31, [http://link.springer.com/chapter/10.1007/11813040\_2](webSettings.xml).
 
-[^9]: <span id="__UnoMark__4620_244507565" class="anchor"><span
-    id="__UnoMark__5196_244507565" class="anchor"></span></span> Thomas
-    Haug, ‘A Commentary on Standardization Practices: Lessons from the
+[^9]: Thomas Haug, ‘A Commentary on Standardization Practices: Lessons from the
     NMT and GSM Mobile Telephone Standards Histories’,
     *Telecommunications Polic* 26 (2002): 101-7.
 
-[^10]: <span id="__UnoMark__4625_244507565"
-    class="anchor"></span>[‘<span id="__UnoMark__5227_244507565"
-    class="anchor"><span id="__UnoMark__5217_244507565"
-    class="anchor"></span></span>How DigiCash Blew Everything’].
+[^10]: ‘How DigiCash Blew Everything’.
 
 [^11]: Karl Polanyi, *The Great Transformation: The Political and
     Economic Origins of Our Time*, 2nd edition, Boston, MA: Beacon

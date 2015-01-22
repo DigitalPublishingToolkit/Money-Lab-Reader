@@ -1,4 +1,5 @@
 ---
+
 Pr-id: MoneyLab
 P-id: INC Reader
 A-id: 10
@@ -19,7 +20,7 @@ Rights: CC BY-NC 4.0
 
 # Wild, Wild West: A View From Two California Schoolmarms 
 
-# Bill Maurer and Lana Swartz
+### Bill Maurer and Lana Swartz {.author}
 
 People who work in payments innovation are really into the Wild West.
 Since 2008, when the industry started to heat up, we've heard them say,
@@ -146,7 +147,6 @@ instead of our schoolmarm bonnets, we might suggest that if they really
 wanted to be the winning robber barons in this metaphor, they might
 consider a railroad.
 
-## 
 
 ## The *Old* Old West
 
@@ -365,7 +365,6 @@ Foundation, (SES 0960423). The opinions presented here are the authors
 own and do not reflect those of the National Science Foundation or any
 other organization.
 
-## 
 
 ## References 
 
@@ -431,8 +430,7 @@ University Press, 1994.
 
 [^5]: @Greg\_Coogan, ‘@dgwbirch @sammaule You could sell treasure maps
     too. Today we call that consulting.’ Twitter post, 4 November 2014,
-    7:10 AM,
-    [https://twitter.com/Greg\_Coogan/status/529651859942678529](styles.xml).
+    7:10 AM, [https://twitter.com/Greg\_Coogan/status/529651859942678529](styles.xml).
 
 [^6]: See Michael Hudson, ‘The Development of Money-of-Account in
     Sumer’s Temples’, in Michael Hudson and Cornelia Wunsch (eds)

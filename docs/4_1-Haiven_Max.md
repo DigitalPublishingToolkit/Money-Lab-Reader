@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Money as a Medium of the Imagination: Art and the Currencies of Cooperation
 
-# Max Haiven
+### Max Haiven {.author}
 
 Economic philosophers and historians generally agree that there are
 three (sometimes four) main qualities of modern money, qualities that we
@@ -710,7 +710,6 @@ a slightly less heinous version of the old regime or, on the other,
 setting ourselves up for the (symbolic) slaughter as the much greater,
 more powerful forces of empire amass today at the proverbial gates?
 
-## <span id="h.4ciskxl2vxea" class="anchor"><span id="h.ygvr3hyqgvxr" class="anchor"><span id="h.2wyac4k7b74y" class="anchor"></span></span></span>
 
 ## References
 
@@ -831,7 +830,7 @@ Princeton University Press, 2005.
 [^2]: Lawrence Weschler, *Boggs: A Comedy of Values*. Chicago:
     University of Chicago Press, 1999.
 
-[^3]: #  *The Onion*, ‘U.S. Economy Grinds To Halt As Nation Realizes Money Just A Symbolic, Mutually Shared Illusion’, 16 February 2010, http://www.theonion.com/articles/us-economy-grinds-to-halt-as-nation-realizes-money,2912/.
+[^3]: *The Onion*, ‘U.S. Economy Grinds To Halt As Nation Realizes Money Just A Symbolic, Mutually Shared Illusion’, 16 February 2010, http://www.theonion.com/articles/us-economy-grinds-to-halt-as-nation-realizes-money,2912/.
 
 [^4]: David Harvey, *A Brief History of Neoliberalism*, Oxford: Oxford
     University Press, 2005.
@@ -937,8 +936,7 @@ Princeton University Press, 2005.
 
 [^35]: See [http://www.cassiethornton.com/.](endnotes.xml)
 
-[^36]: See
-    [http://www.melchin.org/](http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html).
+[^36]: See [http://www.melchin.org/](http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html).
 
 [^37]: See Max Haiven and Alex Khasnabish, *The Radical Imagination:
     Social Movement Research in the Age of Austerity*, London and New
@@ -950,15 +948,12 @@ Princeton University Press, 2005.
 [^39]: Karl Marx and V. I. Lenin, *The Civil War in France and the Paris
     Commune*, New York: International, 1993.
 
-[^40]: See
-    [https://www.marxists.org/archive/marx/works/1871/civil-war-france/ch05.htm](https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm).
+[^40]: See [https://www.marxists.org/archive/marx/works/1871/civil-war-france/ch05.htm](https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm).
 
 [^41]: C.L.R. James, ‘They Showed the Way to Labor Emancipation: On Karl
-    Marx and the 75th Anniversary of the Paris Commune’ (1946),
-    [https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm](http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm).
+    Marx and the 75th Anniversary of the Paris Commune’ (1946), [https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm](http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm).
 
-[^42]: See
-    [http://www.marxists.org/archive/marx/works/1871/civil-war-france/postscript.htm](capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf).
+[^42]: See [http://www.marxists.org/archive/marx/works/1871/civil-war-france/postscript.htm](capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf).
 
 [^43]: See Kristen Ross, *The Emergence of Social Space: Rimbaud and the
     Paris Commune*, Minneapolis: University of Minnesota Press, 1988.

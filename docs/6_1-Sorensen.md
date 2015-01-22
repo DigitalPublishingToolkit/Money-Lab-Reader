@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Go Crowdfund Yourself! Some Unintended Consequences of Crowdfunding for Documentary Film and Industry in the U.K.
 
-# Inge Ejbye Sørensen
+### Inge Ejbye Sørensen {.author}
 
 Since Kickstarter pioneered online crowdfunding in 2009, this form of
 financing has entered the mainstream as a way to co-fund projects,
@@ -511,19 +511,18 @@ alternative to existing funding models.
 
 ## References
 
-<span id="_ENREF_1" class="anchor"></span>Baxter, Anthony. <span
-id="_ENREF_2" class="anchor"></span>*You’ve Been Trumped*, 2012,
+Baxter, Anthony. *You’ve Been Trumped*, 2012,
 <http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html>.
 
 Belleflamme, Paul, Thomas Labert and Armin Schwienbacher. ‘Crowdfunding:
 Tapping the Right Crowd’, Paper presented at the International
 Conference of the French Finance Association (AFFI), 11 May 2011.
 
-<span id="_ENREF_3" class="anchor"></span>\_\_\_\_\_. ‘Individual
+\_\_\_\_\_. ‘Individual
 Crowdfunding Practices’, *Venture Capital: An Internatiuonal Journal of
 Entrepreneurial Finance* 15.4 (2013).
 
-<span id="_ENREF_4" class="anchor"></span>Branham, Darren C. ‘[The Myth
+Branham, Darren C. ‘[The Myth
 of Amateur Crowds: A Critical Discourse Analysis of Crowdsourcing
 Coverage](http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991)’,
 *Information, Communication & Society,* 15.3 (2012): 394-410.
@@ -531,102 +530,102 @@ Coverage](http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991)’,
 Chapman, Jane, and Kate Allison. *Issues in Contemporary Documentary*,
 Cambridge: Polity, 2009.
 
-<span id="_ENREF_5" class="anchor"></span>Child, Ben. ‘Tom Hanks Film
+Child, Ben. ‘Tom Hanks Film
 Seeks Crowdfunding Via “Kickstarter for the Rich” Site’, *The Guardian,*
 27 March 2014,
 <http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction>.
 
-<span id="_ENREF_6" class="anchor"></span>Collins, Liam, Peter Baeck and
+Collins, Liam, Peter Baeck and
 Stian Westlake. *Crowding In*, London: Nesta, 2012.
 
-<span id="_ENREF_7" class="anchor"></span>Collins, Liam, Richard Swart
+Collins, Liam, Richard Swart
 and Bryan Zhang. *The Rise of Future Finance*, London: Nesta, Berkeley
 and University of Cambridge, 2013.
 
-<span id="_ENREF_8" class="anchor"></span>Cox, David. ‘Is This the End
+Cox, David. ‘Is This the End
 of the Line for the Impartial Documentary’*, The Guardian*, 9 November
 2009,
 <http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films>.
 
-<span id="_ENREF_9" class="anchor"></span>Danmayr, Florian. *Archetypes
+Danmayr, Florian. *Archetypes
 of Crowdfunding Platforms : A Multidimensional Comparison,* Wiesbaden
 Springer Gable, 2014.
 
-<span id="_ENREF_10" class="anchor"></span>Doyle, Gillian.
+Doyle, Gillian.
 *Understanding Media Economics*. 2nd ed. London: SAGE, 2013.
 
-<span id="_ENREF_11" class="anchor"></span>Fitzpatrick, Alex. ’Obama
+Fitzpatrick, Alex. ’Obama
 Signs “Game-Changing” Crowd-Funding Jobs Act’, *Mashable*, 5 April 2012,
 <http://mashable.com/2012/04/05/jobs-act-signed/>.
 
-<span id="_ENREF_12" class="anchor"></span>Hickman, David. ‘Documentary
+Hickman, David. ‘Documentary
 Funding Gap Stalls Great Films Like the Act of Killing’, *The
 Conversation,* 6 March 2014,
 <http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737>.
 
-<span id="_ENREF_13" class="anchor"></span>Kendall, Geraldine.
+Kendall, Geraldine.
 ‘Trendswatch: Can You Kick Start It?’, *Museums Journal* 114.3 (2014):
 39.
 
-<span id="_ENREF_14" class="anchor"></span>Kickstarter.
+Kickstarter.
 http://www.[kickstarter.com](http://www.kickstarter.com).
 
 Kocer, Suncem. ‘Social Business in Online Financing: Crowdfunding
 Narratives of Independent Documentary Producers in Turkey’, *New Media
 and Society* (Forthcoming 2014).
 
-<span id="_ENREF_15" class="anchor"></span>Lovefilms.
+Lovefilms.
 <http://www.lovefilm.com>.
 
 Luzar, Charles. ‘Ai Weiwei Secretly Shot a Sci-Fi Film and It’s Funding
 on Kickstarter’, *Crowdfunder insider*,
 <http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/>.
 
-<span id="_ENREF_16" class="anchor"></span>Mollick, Ethan R. ‘The
+Mollick, Ethan R. ‘The
 Dynamics of Crowdfunding: An Exploratory Study’, *Journal of Business
 Venturing* 29. 1 (2014): 1-16.
 
-<span id="_ENREF_17" class="anchor"></span>Morozov, Evgeny. ‘Kickstarter
+Morozov, Evgeny. ‘Kickstarter
 Will Not Save Artists from the Entertainment Industry’s Shackles: A New
 Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, *Slate
 Magazine*, 25 September 2012.
 
-<span id="_ENREF_18" class="anchor"></span>Nesta.
+Nesta.
 <http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013>.
 
-<span id="_ENREF_19" class="anchor"></span>Ofcom. *Public Service
+Ofcom. *Public Service
 Broadcasting Annual Report 2013*, London: Ofcom, 2013.
 
-<span id="_ENREF_20" class="anchor"></span>Ordanini, A., L. Miceli, M.
+Ordanini, A., L. Miceli, M.
 Pizzetti, and A. Parasuraman. ‘Crowd-Funding: Transforming Customers
 into Investors through Innovative Service Platforms’, *Journal of
 Service Management* 22.4 (2011): 443-470.
 
-<span id="_ENREF_21" class="anchor"></span>PACT. *Pact Policy Survey and
+PACT. *Pact Policy Survey and
 Financial Census 2009*, London: Oliver & Ohlbaum Associates ltd., 2009.
 
-<span id="_ENREF_22" class="anchor"></span>Plantinga, Carl R. *Rhetoric
+Plantinga, Carl R. *Rhetoric
 and Representation in Nonfiction Film*, Cambridge: Cambridge University
 Press, 1997.
 
-<span id="_ENREF_23" class="anchor"></span>Reidl, John. ‘Crowdfunding
+Reidl, John. ‘Crowdfunding
 Technology Innovation’, *Computer* 46. 3 (2013): 100-103.
 
-<span id="_ENREF_24" class="anchor"></span>Sørensen, Inge.
+Sørensen, Inge.
 ‘Crowdsourcing and Outsourcing. The Impact of Online Funding and
 Distribution on the Documentary Film Industry in the UK’, *Media ,
 Culture & Society* 34.6 (2012): 726-743.
 
-<span id="_ENREF_25" class="anchor"></span>\_\_\_\_\_. *Documentary in a
+\_\_\_\_\_. *Documentary in a
 Multiplatform Context,* PhD Diss., Department for Media, Cognition and
 Communication, Copenhagen University, Copenhagen, Denmark, 2013,
 <http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf>.
 
-<span id="_ENREF_26" class="anchor"></span>Steemers, Jeanette, *Selling
+Steemers, Jeanette, *Selling
 Television: British Television in the Global Marketplace*, London: BFI,
 2004.
 
-<span id="_ENREF_27" class="anchor"></span>Towse, Ruth. *Advanced
+Towse, Ruth. *Advanced
 Introduction To Cultural Economics*, Cheltenham: Edward Elgar
 Publishing, 2014.
 
@@ -635,7 +634,7 @@ Microfunding Online Experience Goods’, workshop at NIPS2010, Whistler,
 Canada, 10 December 2010,
 <http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf>.
 
-<span id="_ENREF_28" class="anchor"></span>Wells, Nicholas. ‘The Risks
+Wells, Nicholas. ‘The Risks
 of Crowdfunding: Most Have the Best Intentions When It Comes to
 Crowdfunding an Ambitious Project, but Intellectual Property Issues,
 Ownership Rights and Perk Obligations Present Potential Hurdles to
@@ -646,8 +645,7 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     Richard Swart, and Bryan Zhang, The Rise of Future Finance, London:
     Nesta, Berkeley and University of Cambridge, 2013.
 
-[^2]: Nesta,
-    [http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013](../customXml/item1.xml).
+[^2]: Nesta, [http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013](../customXml/item1.xml).
 
 [^3]: Alex Fitzpatrick, ‘Obama Signs “Game-Changing” Crowd-Funding Jobs
     Act’, *Mashable*, 5 April 2012,

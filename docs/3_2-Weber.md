@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # The Economic Viability of Complementary Currencies: Bound to Fail?
 
-# Beat Weber[^1]
+### Beat Weber[^1] {.author}
 
 Bitcoin and similar cryptocurrencies are the latest embodiments of a
 longer history of attempts to establish something that is frequently
@@ -536,7 +536,6 @@ issuer to assure the quality of a currency, and the likelihood of other
 users adopting it are therefore decisive features in currency network
 competition.[^21]
 
-### 
 
 ### The Role of the Issuer
 
@@ -971,8 +970,7 @@ Ingham,* Houndsmill/New York: Palgrave, 2013, pp. 101-123.
     Geoffrey Ingham,* Houndsmill and New York: Palgrave, 2013, pp.
     101-123.
 
-[^12]: See
-    [http://www.sco.ca.gov/eo\_news\_registeredwarrants.html](webSettings.xml).
+[^12]: See [http://www.sco.ca.gov/eo\_news\_registeredwarrants.html](webSettings.xml).
 
 [^13]: Thomas Greco, *The End of Money and the Future of Civilization*,
     White River Junction: Chelsea Green Publishing (Kindle Edition),

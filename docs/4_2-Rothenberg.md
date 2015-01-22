@@ -16,10 +16,18 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+<!--
+Missing image from figures
+[Fig. 1: Reversal of Fortune: Garden of Virtual Kinship. Photo credit: Shasti O’Leary Soudant.]
+[Fig. 2: Reversal of Fortune: Desiring Subjects, Desiring Plants.]
+
+
+
+-->
 
 # Reversal of Fortune: Visualizing Marketized Philanthropy
 
-# Stephanie Rothenberg
+### Stephanie Rothenberg {.author}
 
 ## The Veneer of Philanthropy
 
@@ -173,7 +181,7 @@ decade, you can’t take any risks. [...] But if your experiment is a
 million dollars and being done by grad students, you can do crazy and
 brilliant things.’[^10]
 
-## Recent Artwork: Garden of Virtual Kinship\
+## Recent Artwork: Garden of Virtual Kinship
 [Fig. 1: Reversal of Fortune: Garden of Virtual Kinship. Photo credit: Shasti O’Leary Soudant.]
 
 With particular focus on the world of microfinance, my recent series of
@@ -319,7 +327,7 @@ makes visible the complex lives that are so often overlooked when
 abstracted? And for David Bowie’s sake, will there be plant life on
 Mars?
 
-## References\
+## References
 
 Bajde, Domen. ‘Marketized Philanthropy: Kiva's Utopian Ideology of
 Entrepreneurial Philanthropy’, *Marketing Theory*, 13.1 (March 2013):
