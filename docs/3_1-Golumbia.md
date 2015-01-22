@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Bitcoin as Politics: Distributed Right-Wing Extremism 
 
 # David Golumbia
@@ -973,4 +992,3 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     Politics of the Bitcoin Blockchain’, *E-International Relations*, 1
     June 2014,
     [http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/](http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/).
-

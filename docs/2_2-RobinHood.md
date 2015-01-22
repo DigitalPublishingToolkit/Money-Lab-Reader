@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Democratizing the Power of Finance: A Discussion about Robin Hood Asset Management Cooperative with founder Akseli Virtanen
 
 # Pekka Piironen and Akseli Virtanen
@@ -619,4 +638,3 @@ for making these profits. We are the wild side of finance.
     it means nothing to their functionality. Yet their weak spot is in
     the softness or unpredictability of social sensibility and
     unconsciousness. It is their ‘soft belly’.
-

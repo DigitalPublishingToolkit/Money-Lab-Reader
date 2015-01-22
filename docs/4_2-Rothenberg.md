@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Reversal of Fortune: Visualizing Marketized Philanthropy
 
 # Stephanie Rothenberg
@@ -399,4 +418,3 @@ Yunas, Muhammed. Nobel Lecture, Oslo, 10 December 2006,
     [http://www.ted.com/talks/jessica\_jackley\_poverty\_money\_and\_love?language=en](http://nextbillion.net/blogpost.aspx?blogid=3726).
 
 [^21]: Roy, *Poverty Capital*, p. 144.
-

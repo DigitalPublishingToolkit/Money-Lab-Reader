@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Money as a Medium of the Imagination: Art and the Currencies of Cooperation
 
 # Max Haiven
@@ -943,4 +962,3 @@ Princeton University Press, 2005.
 
 [^43]: See Kristen Ross, *The Emergence of Social Space: Rimbaud and the
     Paris Commune*, Minneapolis: University of Minnesota Press, 1988.
-

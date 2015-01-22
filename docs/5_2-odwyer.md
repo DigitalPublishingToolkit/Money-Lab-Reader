@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Money Talks: The Enclosure of Mobile Payments
 
 # Rachel O’Dwyer
@@ -878,4 +897,3 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^46]: Kate Crawford, ‘The Uses and Abuses of Big Data’, *Transmediale
     Conference,* Berlin, 29 January - 2 February, 2014.
-

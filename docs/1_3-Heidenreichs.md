@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 1.  # On a Post-Monetary Network Based Economy
 
     # Ralph and Stefan Heidenreich
@@ -626,4 +645,3 @@ of A. Mitchell Innes*, Cheltenham: Edward Elgar 2004.
 [^13]: John Maynard Keynes, ‘Economic Possibilities for our
     Grandchildren’, in *Essay in Persuasion*, New York: W.W. Norton
     1963, pp. 358-373.
-

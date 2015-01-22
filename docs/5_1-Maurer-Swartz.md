@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Wild, Wild West: A View From Two California Schoolmarms 
 
 # Bill Maurer and Lana Swartz
@@ -452,4 +471,3 @@ University Press, 1994.
     University Press, 1992.
 
 [^14]: Hart, *Memory Bank* 2000.
-

@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Inculcating Ethical Behaviour in Market Transactions? The Case of the Sharia Online Trading System in Indonesia
 
 # Lena Rethel and Irwan Abdalloh
@@ -666,4 +685,3 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
 [^26]: See in particular Bill Maurer, ‘Resocializing Finance? Or
     Dressing it in Mufti? Calculating Alternatives for Cultural
     Economies’, *Journal of Cultural Economy* 1.1 (2008): 65-78.
-

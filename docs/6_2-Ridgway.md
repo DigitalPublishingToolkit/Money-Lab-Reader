@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Crowdfunding the Commons?
 
 # Renée Ridgway
@@ -725,4 +744,3 @@ Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
 
 [^51]: ^‘The\\ crowdfunding\\ donations\\ are\\ a\\ prerequisite,\\ testing\\ open\\ projects\\ for\\ the\\ subsequent\\ search\\ of\\ micro-investments\\ that\\ may\\ be\\ the\\ way\\ to\\ further\\ fuel\\ the\\ emergence\\ of\\ this\\ new\\ world\\ of\\ business\\ models\\ and\\ non-profit\\ oriented\\ real\\ social\\ purpose,\\ rather\\ than\\ the\\ model\\ of\\ a\\ maximization\\ of\\ profit\\ and\\ perpetual\\ growth\\ regardless\\ of\\ the\\ needs\\ of\\ society’,\\ ‘Sobre\\ la\\ regulación\\ del\\ crowdfunding\\ y\\ Ley\\ de\\ Fomento\\ de\\ la\\ Financiación\\ Empresarial’,^
     [^https://goteo.org/blog/4325^](http://www.youcoop.org/)^.^
-

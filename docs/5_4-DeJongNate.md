@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 
 # Eduard de Jong, Nathaniel Tkacz and Pablo Velasco 
@@ -580,4 +599,3 @@ Heidelberg: Springer, 2006, p.16-31,
 [^11]: Karl Polanyi, *The Great Transformation: The Political and
     Economic Origins of Our Time*, 2nd edition, Boston, MA: Beacon
     Press, 2002.
-

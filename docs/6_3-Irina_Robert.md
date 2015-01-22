@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 1.  # The MonelyLab Crowdfunding Toolkit for Creatives
 
     # Irina Enache and Robert van Boeschoten
@@ -220,4 +239,3 @@ MoneyLab Crowdfunding Toolkit,
     Fully Funded on Kickstarter’s Biggest Rival’, *The Verge*, 7 August
     2013,
     <http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded>.
-

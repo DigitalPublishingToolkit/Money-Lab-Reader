@@ -1,3 +1,22 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Go Crowdfund Yourself! Some Unintended Consequences of Crowdfunding for Documentary Film and Industry in the U.K.
 
 # Inge Ejbye Sørensen
@@ -730,4 +749,3 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
 
 [^21]: Carl R. Plantinga, *Rhetoric and Representation in Nonfiction
     Film*, Cambridge: Cambridge University Press, 1997, p. 219.
-
