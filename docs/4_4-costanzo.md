@@ -37,7 +37,7 @@ Federal Reserve Notes. The goal was to raise awareness of the predatory
 nature of capitalism and the Wall Street agenda of deregulation, fraud,
 and bailouts.
 
-[Fig. 1: Stamped U.S. dollars – Federal Reserve Notes, 2009-2014.]
+![Fig. 1: Stamped U.S. dollars – Federal Reserve Notes, 2009-2014.](media/Images_Costanzo/Fig_1_A.jpg)
 
 Later in the year, ABS printed *Revolutionary Script* using a
 letterpress to print on hemp paper. The *Script*, outlining
@@ -55,7 +55,7 @@ Vice-President Aaron Burr, killed Hamilton in a duel, and although
 Burr’s political career eventually ended badly, after killing Hamilton
 he returned to Washington DC, and finished his term as Vice-President.
 
-[Fig. 2: Revolutionary Script.]
+![Fig. 2.1: Revolutionary Script.](media/Images_Costanzo/Fig_2_A.jpg)![Fig. 2.2: Revolutionary Script.](media/Images_Costanzo/Fig_2_B.jpg)
 
 ABS continues to distribute *Free Money* using a viral strategy that
 circulates stamped bills through monetary exchanges in bars and shopping
@@ -64,18 +64,18 @@ in assorted venues. During Occupy Wall Street (OWS), ABS added an
 the U.S. and in 2012 ABS was invited to the 7th Berlin Biennale as part
 of Occupy Museums and distributed stamped Euros.
 
-[Fig. 3: Free Money foto-montage Portland left, Free Money in Humboldt
-County right, both 2013.]
+![Fig. 3.1: Free Money Portland, 2013](media/Images_Costanzo/Fig_3_A.jpg)
 
+![Fig 3.2 Free Money in Humboldt County, 2013.](media/Images_Costanzo/Fig_3_A.jpg)
 In 2014 ABS added a *Common Good/Commonwealth* stamp which alternates
 with *Slave of Wall Street*, while the opposite side is always *Free
 Money*. The latest addition provides a comparison between giving money
 to Wall Street and the 1 percent, or using our commonwealth to invest in
 the common good.
 
-[Fig. 4: Back of *Free Money* distributed by 2012 Berlin Biennale
-bookstore; dramatic recreation of discussion about Free Money with
-anonymous M15 member who lives without money, Berlin Biennale, 2012.]
+![Fig. 4.1: Back of *Free Money* distributed by 2012 Berlin Biennale bookstore, 2012.](media/Images_Costanzo/Fig_4_A.jpg)
+
+![Fig. 4.2: Dramatic recreation of discussion about Free Money with anonymous M15 member who lives without money, Berlin Biennale, 2012.](media/Images_Costanzo/Fig_4_B.jpg)
 
 Though founded before the corporate sponsored Tea Party, ABS’ goal was
 to counter long-standing conservative strategies that distort history by
@@ -101,7 +101,7 @@ ABS’s philosophy. REPOhistory’s *Lower Manhattan Sign Project* included
 an artwork that I created titled *Advantages of an Unregulated Free
 Market Economy*. The text on the back of the sign read:
 
-[Fig. 5: REPOhistory 1992, photo Tom Klem.]
+![Fig. 5: REPOhistory 1992, photo Tom Klem.](media/Images_Costanzo/Fig_5_.jpg)
 
 > **Myth:** Traders and brokers jumped from Wall Street skyscrapers
 > after losing their fortunes in the 1929 stock market crash.
@@ -195,7 +195,7 @@ Challenging the Integrity of Wall Street and their Corporate Cronies***
 
 Aaron Burr Society motto
 
-[Fig. 6: Aaron Burr Society card, motto printed on back.]
+![Fig. 6: Aaron Burr Society card, motto printed on back.](media/Images_Costanzo/Fig_6_.jpg)
 
 Historically the policies of Wall Street and King George, though
 different, are similar in that the king used corporations like the East
@@ -285,7 +285,7 @@ Rights, a declaration adopted by the United Nations General Assembly in
 
 ## The Whiskey Rebellion of 1791-1794
 
-[Fig. 7: Alexander Hamilton’s portrait on stamped \$10 bill.]
+![Fig. 7: Alexander Hamilton’s portrait on stamped \$10 bill.](media/Images_Costanzo/Fig_7_.jpg)
 
 Before Marx there was opposition to the emerging economic system that
 would later become know as capitalism. After the American Revolution,
@@ -298,8 +298,10 @@ a Constitution that valued property rights over human rights;
 slave-holding and limited voting rights to property-owning white males
 being just two examples.
 
-[Fig. 8: The Society’s distillation on Oxbow Creek up-state New York,
-2010.]
+![Fig. 8: The Society’s distillation on Oxbow Creek up-state New York,
+2010.](media/Images_Costanzo/Fig_8_A.jpg)
+
+![](media/Images_Costanzo/Fig_8_B.jpg)
 
 The primary cause of all of the rebellions was speculation on war bonds
 that led to high taxes, which often resulted in foreclosures. The
@@ -354,11 +356,13 @@ occupation. Months later his name returned and he wrote this editorial:
 Skull, like many of the founders, was a Deist so the reference to god
 was metaphorical. But the Devil was Hamilton and capitalism.
 
-[Fig. 9: Aaron Burr Society whiskey still at Carnegie Mellon University
+![Fig. 9: Aaron Burr Society whiskey still at Carnegie Mellon University
 2010, left and right; Whiskey bottle with letterpress label printed on
 hemp paper in front of Nancy Isenberg book *Fallen Founder*, 2010
 center; logo on the back label stating *Label Printed on Hemp: Drink the
-Liquid • Smoke the Label • Recycle the Glass.*]
+Liquid • Smoke the Label • Recycle the Glass.*](media/Images_Costanzo/Fig_9_A.jpg)
+
+![](media/Images_Costanzo/Fig_9_B.jpg)
 
 Secretary of State Thomas Jefferson would resign because of Hamilton’s
 economic policies. Later Jefferson asked former U.S. Senator Aaron Burr
@@ -421,9 +425,11 @@ structures within capitalism that are transformative. They include land
 trusts; worker, energy, and food coops; creating collations that protect
 the environment; open source software and collective use of technology.
 
-[Fig. 10: Making Worlds meeting at Momenta Art in Bushwick Brooklyn,
+![Fig. 10: Making Worlds meeting at Momenta Art in Bushwick Brooklyn,
 part of an Occupy Museum’s month long action, October 2012; left. Author
-at Public Banking Institute Conference, 2013, right.]
+at Public Banking Institute Conference, 2013, right.](media/Images_Costanzo/Fig_10_A.jpg)
+
+![](media/Images_Costanzo/Fig_10_B.jpg)
 
 An article twice this length would be needed to describe the activities
 of these working groups, so I will stay focused on monetary policy.
@@ -537,11 +543,13 @@ was to take Wall Street’s profits an turn them into a people’s equity
 that would pay for health care, education and building local
 infrastructure.
 
-[Fig. 11: Author in front of Federal Reserve Bank, FedUp action,
+![Fig. 11: Author in front of Federal Reserve Bank, FedUp action,
 Washington DC, March 2014, left; Author performing at New Museum for
 Pawel Althamer’s *The Neighbors*, a collaboration started at BB7, March
 2014, center; Author and Harrison Tesoura Schultz in front of the New
-York Federal Reserve Bank, FedUp action July, 2014, right.]
+York Federal Reserve Bank, FedUp action July, 2014, right.](media/Images_Costanzo/Fig_11_A.jpg)
+![](media/Images_Costanzo/Fig_11_B.jpg)
+![](media/Images_Costanzo/Fig_11_C.jpg)
 
 Again, ABS agrees with the NEED Act but advocates expanding its mission.
 The nationalized Fed should directly finance community-based
@@ -560,7 +568,7 @@ storms. We are not limited by economics but by a failed political
 economy that protects existing class and economic structures.
 
 [Fig. 12: Aaron Burr Society poster for performance series at Pine Box
-Rock Shop in Bushwick Brooklyn, 2014.]
+Rock Shop in Bushwick Brooklyn, 2014.](media/Images_Costanzo/Fig_12_A.jpg)
 
 Every school child should be taught the relationship between governments
 and the different forms of monetary exchange and production, not only in

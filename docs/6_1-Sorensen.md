@@ -232,7 +232,7 @@ projects have more finance behind them than other productions.[^12] This
 is eroding the budgets for more independent types of documentaries
 further.
 
-[Fig. 1: Source: Ofcom’s Public Service Broadcasting Annual Report 2013]
+![Fig. 1: Source: Ofcom’s Public Service Broadcasting Annual Report 2013](media/Images_Sorensen/Fig_1.jpg)
 
 In addition to the broadcasters’ declining investment in documentary
 films, feature-length documentary films received little support from the

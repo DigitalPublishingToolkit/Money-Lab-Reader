@@ -72,13 +72,13 @@ over time. The mathematical average of the values of currencies (A) in
 the basket keeps the value of (W) steady. The gains compensate the
 losses in the total average (G). 
  
-![](media/media/image1.png) 
+![](media/PaoloCirio_Images/Fig_1_.png) 
  
 ## The Algorithm 
 The following diagram illustrates how an algorithm can automatically
 aggregate (W) by wiring currencies over the multiple reserve deposits
 based on the recursive calculation of the (W) equation. 
-![](media/media/image2.emf) 
+![](media/PaoloCirio_Images/Fig_2.png) 
 
 ##  Glossary
 W: Value of World Currency. Symbol (W). 

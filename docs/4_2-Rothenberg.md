@@ -16,15 +16,6 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-<!--
-Missing image from figures
-[Fig. 1: Reversal of Fortune: Garden of Virtual Kinship. Photo credit: Shasti O’Leary Soudant.]
-[Fig. 2: Reversal of Fortune: Desiring Subjects, Desiring Plants.]
-
-
-
--->
-
 # Reversal of Fortune: Visualizing Marketized Philanthropy
 
 ### Stephanie Rothenberg {.author}
@@ -182,7 +173,7 @@ million dollars and being done by grad students, you can do crazy and
 brilliant things.’[^10]
 
 ## Recent Artwork: Garden of Virtual Kinship
-[Fig. 1: Reversal of Fortune: Garden of Virtual Kinship. Photo credit: Shasti O’Leary Soudant.]
+![Fig. 1: Reversal of Fortune: Garden of Virtual Kinship. Photo credit: Shasti O’Leary Soudant.](media/Images_Rothenberg/Fig_1_rothenberg_image1.jpg)
 
 With particular focus on the world of microfinance, my recent series of
 artworks draw upon this legacy of expressing the interplay of affect,
@@ -260,7 +251,7 @@ reputation economy. With every ‘like’, the privileged are empowered to
 empower the global entrepreneur in a seamless circuit of warm and fuzzy
 affective production.
 
-[Fig. 2: Reversal of Fortune: Desiring Subjects, Desiring Plants.]
+![Fig. 2: Reversal of Fortune: Desiring Subjects, Desiring Plants.](media/Images_Rothenberg/Fig_2_rothenberg_image2.jpg)
 
 These techno-social rhythms that Roy describes are animated in another
 garden in the series entitled *Desiring Subjects, Desiring Plants*.[^18]
