@@ -2,17 +2,10 @@
 Pr-id: MoneyLab
 P-id: INC Reader
 A-id: 10
-Type: article
+Type: colophon
 Book-type: anthology
-Anthology item: article
+Anthology item: colophon
 Item-id: unique no.
-Article-title: title of the article
-Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
@@ -34,7 +27,9 @@ Printer:
 
 Publisher: Institute of Network Cultures, Amsterdam, 2015
 
-ISBN: 978-90-822345-5-8
+ISBN: 978-90-822345-5-8 (print)
+ISBN: 978-90-822345-6-5 (EPUB)
+
 
 **Contact**
 
@@ -70,15 +65,13 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/.
 
 [cover]
 
-MoneyLab Reader
-
-**An Intervention in Digital Economy**
+**MoneyLab Reader: An Intervention in Digital Economy**
 
 Edited by Geert Lovink, Nathaniel Tkacz, Patricia de Vries
 
 INC Reader \#10
 
-**Previously published INC Readers:**
+##Previously published INC Readers
 
 The INC Reader series is derived from conference contributions and
 produced by the Institute of Network Cultures. They are available in
@@ -127,7 +120,7 @@ All INC Readers, and other publications like the Network Notebooks
 Series and Theory on Demand, can be downloaded and read for free. See
 www.networkcultures.org/publications.
 
-**CONTENTS**
+##CONTENTS
 
 **Saskia Sassen**
 
@@ -309,7 +302,7 @@ Moderator: Rob Van Hilten
 
 Speakers: Max Haiven, Matthew Slater and Eli Gothill, Lana Swartz
 
-**Author Biographies**
+##Author Biographies
 
 **Irwan Abdalloh** is the head of Islamic Capital Market Development at
 the Indonesia Stock Exchange (IDX). He is a lecturer in Islamic
@@ -364,15 +357,10 @@ Media and Digital Culture in Amsterdam, Netherlands (2013).
 Department of Economics and Management at University of Pavia. His
 research activity deals with the hypothesis of cognitive bio-capitalism,
 basic income, and precarity issues. He is co-editor of *The Global
-Economic Crisis*,
-
-(Semiotext(e), 2011).
+Economic Crisis*, (Semiotext(e), 2011).
 
 **David Golumbia** teaches at Virginia Commonwealth University. He is
-the author of
-
-*The Cultural Logic of Computation* (Harvard, 2009), and of many
-articles on digital culture, language, linguistics, and literary
+the author of *The Cultural Logic of Computation* (Harvard, 2009), and of many articles on digital culture, language, linguistics, and literary
 studies. He maintains the blog <http://uncomputing.org>. Golumbia is
 completing a book titled *Cyberlibertarianism: The False Promise of
 Digital Freedom*.
@@ -452,9 +440,7 @@ Professor at SUNY Buffalo.
 
 **Douglas Rushkoff** is the author of *Present Shock: When Everything
 Happens Now*, as well as a dozen other bestselling books on media,
-technology, and culture, including *Program or Be Programmed*,
-
-*Media Virus and Life Inc*. He lives in New York, and lectures about
+technology, and culture, including *Program or Be Programmed*, *Media Virus and Life Inc*. He lives in New York, and lectures about
 media, society, and economics around the world.
 
 **Saskia Sassen** is a Robert S. Lynd Professor of Sociology and
@@ -516,11 +502,9 @@ and Business. He is an expert at the Division for European Affairs and
 International Financial Organizations of Oesterreichische Nationalbank,
 the central bank of Austria.
 
-[flaptekst]
+##Back cover
 
-MoneyLab Reader
-
-An Intervention In Digital Economy
+MoneyLab Reader: An Intervention In Digital Economy
 
 Edited by Geert Lovink, Nathaniel Tkacz, Patricia de Vries
 
@@ -545,7 +529,7 @@ or if we are simply witnessing the creative extension of neoliberalism.
 At stake, however, is the full spectrum of technologies of economic
 (re)distribution.
 
-www.networkcultures.org/publications
+[http://www.networkcultures.org/publications](http://www.networkcultures.org/publications)
 
 **Contributors:**
 
@@ -560,8 +544,9 @@ Velasco, Akseli Virtanen, Beat Weber.
 
 **Institute of Network Cultures, Amsterdam 2015**
 
-ISBN 978-90-822345-5-8
+ISBN: 978-90-822345-5-8 (print)
+ISBN: 978-90-822345-6-5 (EPUB)
 
-[Logo’s: ]
+<!--Logo’s: -->
 
 INC | HvA | Warwick University | Amsterdam Creative Industries Network |
