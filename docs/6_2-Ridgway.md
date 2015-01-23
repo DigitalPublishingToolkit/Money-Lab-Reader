@@ -476,7 +476,6 @@ Kickstarter Ever With \$6.2m’, *The Guardian*, 16 April 2014,
 
 Broderick, Daniel. ‘Crowdfunding’s Untapped Potential in Emerging
 Markets’, *Forbes*, 5 August 2014,
-[http://www.forbes.com/sites/hsbc/2014/08/05/crowdfundings-untapped-potential-in-emerging-markets/](http://www.forbes.com/sites/hsbc/2014/08/05/crowdfundings-untapped-potential-in-%09emerging-markets/).
 
 Clover, Joshua. ‘Amanda Palmer’s Accidental Experiment with Real
 Communism’, *The New Yorker*, 2 October 2012,
@@ -536,7 +535,6 @@ Ioby. <http://ioby.org>.
 
 Issue.com. ‘Goteo, From Crowdfunding to Crowdvocacy: Here Come the Civic
 Makers’,
-[http://issuu.com/goteo.org/docs/goteo-from\_crowdfunding\_to\_crowdvoc\#](http://issuu.com/goteo.org/docs/goteo-from_crowdfunding_to_crowdvoc).
 
 JOBS ACT.
 <http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf>.
@@ -589,99 +587,96 @@ Ridgway, Renée. ‘Crowdfunding: Monetizing the Crowd’, *n.e.w.s.*, 2 March 2
 Platform for Art, Culture and the Public Domain*,
 <http://www.onlineopen.org/columns/monetizing-the-crowds>.
 
-Spacehive. [https://spacehive.com](https://spacehive.com/).
 
 Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
 *Shareable*, 13 June 2012,
 <http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview>.
 
 [^1]: Daniel Broderick, ‘Crowdfunding’s Untapped Potential in Emerging Markets’, *Forbes*, 5 August 2014,
-    [http://www.forbes.com/sites/hsbc/2014/08/05/crowdfundings-untapped-potential-in-emerging-markets/](numbering.xml).
+    <http://www.forbes.com/sites/hsbc/2014/08/05/crowdfundings-untapped-potential-in-emerging-markets/>.
 
 [^2]: Kickstarter, ‘Stats’,
-    [https://www.kickstarter.com/help/stats](styles.xml).
+    <https://www.kickstarter.com/help/stats>.
 
 [^3]: Renée Ridgway, ‘Crowdfunding: Monetizing the Crowd’, *n.e.w.s.*, 2 March 2014,
-    [http://northeastwestsouth.net/crowdfunding-monetizing-crowd](stylesWithEffects.xml). 
-
+    <http://northeastwestsouth.net/crowdfunding-monetizing-crowd>. 
 [^4]: For this article I contacted Goteo directly and conducted an online interview on 12 September 2014 with María G. Perulero, their campaigns representative. 
 
 [^5]: Income tax is collected from the campaigner and the donor may be able to write-off the contribution as a tax deduction.
 
 [^6]: Joshua Clover, ‘Amanda Palmer’s Accidental Experiment with Real Communism’, *The New Yorker*, 2 October 2012,
-    [http://www.newyorker.com/culture/culture-desk/amanda-palmers-accidental-experiment-with-real-communism](settings.xml).
+    <http://www.newyorker.com/culture/culture-desk/amanda-palmers-accidental-experiment-with-real-communism>.
 
 [^7]: Ben Beaumont-Thomas, ‘Neil Young’s Pono Becomes Third Most Successful Kickstarter Ever With \$6.2m’, *The Guardian*, 16 April, 2014,
-    [http://www.theguardian.com/music/2014/apr/16/neil-young-pono-kickstarter](webSettings.xml).
+    <http://www.theguardian.com/music/2014/apr/16/neil-young-pono-kickstarter>.
 
 [^8]: Kickstarter,’The Newest Hottest Spike Lee Joint’,
-    [https://www.kickstarter.com/projects/spikelee/the-newest-hottest-spike-lee-joi](footnotes.xml). 
+    <https://www.kickstarter.com/projects/spikelee/the-newest-hottest-spike-lee-joi>. 
 
 [^9]: Kickstarter, ‘Touch Board: Interactivity Everywhere’,
-    [https://www.kickstarter.com/projects/863853574/touch-board-interactivity-everywhere](endnotes.xml).
+    <https://www.kickstarter.com/projects/863853574/touch-board-interactivity-everywhere>.
 
 [^10]: Kickstarter, ‘Pebble: E-paper Watch for iPhone and Android’,
-    [https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android].
+    <https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android>.
 
 [^11]: Kickstarter, ‘Marina Abramovic Institute: The Founders’,
-    [https://www.kickstarter.com/projects/maihudson/marina-abramovic-institute-the-founders].
+    <https://www.kickstarter.com/projects/maihudson/marina-abramovic-institute-the-founders>.
 
 [^12]: For more about the jury process see: https://www.artbasel.com/en/Crowdfunding/Discover-Projects. The initiative can be found here:
-    [https://www.artbasel.com/crowdfunding].
+    <https://www.artbasel.com/crowdfunding>.
 
 [^13]: ‘In the United States Equity Crowdfunding is only accessible for accredited investors, but this could change soon based on the JOBS Act. This is an exciting development for investors and also start-up entrepreneurs as this expands their possibilities of raising capital’, Isabelle De Clerq, ‘Untangling Peer-To-Peer Lending, Crowdfunding, and Microlending’, *BTC Jam*, 24 July 2014,
-    [http://blog.btcjam.com/2014/07/24/untangling-peer-to-peer-lending-crowdfunding-and/].
+    <http://blog.btcjam.com/2014/07/24/untangling-peer-to-peer-lending-crowdfunding-and/>.
 
 [^14]: JOBS ACT,
-    [http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf].
+    <http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf>.
 
 [^15]: *New York Times Editorial*, 3 March 2011, ‘According to some it is ‘a terrible package of bills that would undo essential investor protections, reduce market transparency and distort the efficient allocation of capital’,
-    [http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?\_r=0].
+    <http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?\_r=0>.
 
 [^16]: Paul Langley lecture at Copenhagen Business School, ‘The Marketization of Crowdfunding: A New Digital Frontier for Finance’, 8 September 2014.
 
-[17]: Indiegogo, ‘AFDI Jihad Awareness Campaign’, https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign. Cited from: Rodrigo Davies, ‘The Ethics of Crowdfunding’, Center for Digital Ethics and Policy, Loyola University Chicago, 17 December 2013,
-    [http://digitalethics.org/essays/the-ethics-of-crowdfunding/]. 
+<17]: Indiegogo, ‘AFDI Jihad Awareness Campaign’, https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign. Cited from: Rodrigo Davies, ‘The Ethics of Crowdfunding’, Center for Digital Ethics and Policy, Loyola University Chicago, 17 December 2013,
+    <http://digitalethics.org/essays/the-ethics-of-crowdfunding/>. 
 
 [^18]: Kickstarter, ‘We Were Wrong’, 21 June 2013,
-    [https://www.kickstarter.com/blog/we-were-wrong](https://goteo.org/project/foldarap-peer-to-peer-edition/); Davies, ‘The Ethics of Crowdfunding’.
 
 [^19]: Davies, ‘The Ethics of Crowdfunding’. 
 
 [^20]: Kickstarter, ‘The Pocket Drone – Your Personal Flying Robot’,
-    [https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot].
+    <https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot>.
 
 [^21]: Peoples Project, ‘First People’s Drones’,
-    [http://www.peoplesproject.com/en/bpla/].
+    <http://www.peoplesproject.com/en/bpla/>.
 
-[^22]: Oksana Grytsanko and Luke Harding, ‘Ukranians Crowdfund to Raise Cash for ‘People’s Drone” to Help Outgunned Army’, *The Guardian*, 29 June 2014, [http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone]. 
+[^22]: Oksana Grytsanko and Luke Harding, ‘Ukranians Crowdfund to Raise Cash for ‘People’s Drone” to Help Outgunned Army’, *The Guardian*, 29 June 2014, <http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone>. 
 
-[^23]: Spacehive, [https://spacehive.com].
+[^23]: Spacehive, <https://spacehive.com>.
 
-[^24]: Neighbourly, [https://www.neighbourly.com].
+[^24]: Neighbourly, <https://www.neighbourly.com>.
 
 [^25]: Kickstarter allows a tag for ‘civic’, although most of the projects are not ‘civically’ engaged. With their ‘for-profit’ status Kickstarter bought a building for \$3.6 million in Brooklyn as HQ, after the funds from venture capitalists. Matt Collette, ‘New Kickstarter HQ May Jumpstart Greenpoint’s Emerging Arts Scene’, *The Brooklyn Ink*, 14
-    November 2013, [http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint/].
+    November 2013, <http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint/>.
 
-[^26]: Ioby, [http://ioby.org].
+[^26]: Ioby, <http://ioby.org>.
 
 [^27]: Sascha Lobo, ‘S.P.O.N. - Die Mensch-Maschine: Auf dem Weg in die Dumpinghölle’, *Der Spiegel*,
-    [http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html].
+    <http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html>.
 
 [^28]: ‘Goteo, ‘From Crowdfunding to Crowdvocacy: Here Come the Civic Makers’, *Issue.com*,
-    [http://issuu.com/goteo.org/docs/goteo-from\_crowdfunding\_to\_crowdvoc\#]. 
+    <http://issuu.com/goteo.org/docs/goteo-from\_crowdfunding\_to\_crowdvoc\#>. 
 
 [^29]: Goteo, ‘The Case of Goteo: From Crowdfunding to Cloudfunding to Expand Resources for the Commons’,
-    [https://goteo.org/blog/3317]. 
+    <https://goteo.org/blog/3317>. 
 
 [^30]: Goteo, ‘The Case of Goteo’. 
 
-[^31]: Platoniq, [http://www.youcoop.org/].
+[^31]: Platoniq, <http://www.youcoop.org/>.
 
 [^32]: The managing body of Goteo is a foundation, whose mission is ‘to share meaningful knowledge publishing on the internet in the form of code, data and/or digital files on free or open source licenses’, and is therefore able to escape corporate finance taxes. While the government can charge taxes for selling (so there is income tax) there is an open standard of supporting copy left which means tax benefits for supporters and Goteo attempts to make the public aware of the difference.
 
 [^33]: Even though Goteo has a higher than average services fee (8 percent of amount obtained), this money is invested back into the collective that the Foundation is committed (obligated) to share with society. ‘The Case of Goteo: From Crowdfunding to Cloudfunding to Expand Resources for the Commons’,
-    [https://goteo.org/blog/3317].
+    <https://goteo.org/blog/3317>.
 
 [^34]: ‘In the first week the promoter needs to reach 20 percent. If they don’t reach this amount the campaign most likely won’t take off. This 20 percent is usually the immediate network of the promoter who have been approached for financial support’. Collective returns form the basis and that means implicitly to follow up with a good execution of the project, maintaining momentum to ‘keep the ball in the air’. Interview with María G. Perulero (Goteo) 12 September 2014. 
 
@@ -690,43 +685,43 @@ Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
 [^36]: ‘Goteo does not explore financial benefits, has no commercial benefits, that would be equity. Instead we have a donation crowd funding model with collective returns.’ Interview with María G. Perulero (Goteo) 12 September 2014.
 
 [^37]: El Diario,
-    [http://www.eldiario.es/colaboratorio/] or in partnership with the ECF,
-    [http://www.culturalfoundation.eu/] or with dissemination through Shareable:
-    [http://www.shareable.net/].
+    <http://www.eldiario.es/colaboratorio/> or in partnership with the ECF,
+    <http://www.culturalfoundation.eu/> or with dissemination through Shareable:
+    <http://www.shareable.net/>.
 
 [^38]: Felix Stadler, ‘Crowdfunding the Commons: Goteo.org Interview’,
-    Shareable, 13 June 2012, [http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview].
+    Shareable, 13 June 2012, <http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview>.
 
 [^39]: Ridgway, ‘Monetizing the Crowd’.
 
 [^40]: This project is deemed as one of the best social innovation crowdfunded projects by the EU commission. Goteo, ‘The Social Coin’,
-    [https://goteo.org/project/the-social-coin?lang=en].
+    <https://goteo.org/project/the-social-coin?lang=en>.
 
 [^41]: Goteo, ‘Tuderechoasaber’,
-    [https://goteo.org/project/tuderechoasaber.es?lang=en].
+    <https://goteo.org/project/tuderechoasaber.es?lang=en>.
 
 [^42]: Goteo has been awarded an ECF (European Cultural Foundation) hub grant and an ‘Award of Distinction’ in Digital Communities at Ars Electronica in Linz.
 
 [^43]: This campaign concerns the case of Rodrigo Rato who misrepresented Bankia at their IPO, promising growth and prosperity on 20 July 2011 with shares trading at €3,75. With the help of a PR campaign he was able to convince taxpayers to invest their savings, but then the shares collapsed to only €1 ten months later, and the gap grew. ‘\#Crowdfundparato’,
-    [https://goteo.org/project/crowdfundparato/].
+    <https://goteo.org/project/crowdfundparato/>.
 
 [^44]: They state: ‘We will undertake criminal and civil actions against members of Bankia’s Board of Directors, at the time when it was chaired by Mr. Rodrigo Rato and against the Board of Directors of the Financial and Savings Bank, for endorsing on the State a toxic and ruinous matrix. We demand prison and seizure of assets for a value equivalent to the amount obtained with the irregular placement of shares. 400,000 investors have been misled, many of them with savings in this bank. Seized money has now mysteriously disappeared, dragging the country to an imminent bailout’,
-    [15mparato.wordpress.com/]; ‘\#Crowdfundparato’, [https://goteo.org/project/crowdfundparato/].
+  ‘\#Crowdfundparato’, <https://goteo.org/project/crowdfundparato/>.
 
 [^45]: Citizens needed to contribute a small amount (€15) each to reach the first goal (€15,000) in order to start the lawsuit. They needed to raise the amount in just 6 days, and instead they raised €18,359 in 24 hours. They admit to potentially needing more funding at later stages, for the cost of hiring independent auditors (€30,000-80,000) and an investigation of several months, perhaps years. 
 
 [^46]: Ki Mae Heussner, ‘Fred Wilson: What Crowdfunding Means for VC Business’, *Gigaom*, 8 May 2012,
-    [https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/].
+    <https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/>.
 
 [^47]: The financial transaction tax (EU FTT) has been postponed until 2016. Banks and the financial industry are debating on the Robin Hood tax, where a percent of every transaction is taxed.
 
-[^48]: Brian Holmes, ‘Money Unlimited: The Consequences of Quantitative Easing’, talk at MoneyLab conference, 22 March 2014, [http://vimeo.com/90207678].  
+[^48]: Brian Holmes, ‘Money Unlimited: The Consequences of Quantitative Easing’, talk at MoneyLab conference, 22 March 2014, <http://vimeo.com/90207678>.  
 
 [^49]: Renée Ridgway, ‘Monetizing the Crowds’, *Open! Platform for Art, Culture and the Public Domain*, 2 November 2013,
-    [http://www.onlineopen.org/columns/monetizing-the-crowds].
+    <http://www.onlineopen.org/columns/monetizing-the-crowds>.
 
 [^50]: Felix Stadler, ‘Crowdfunding the Commons: Goteo.org Interview’, *Shareable*, 13 June 2012,
-[http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview].
+<http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview>.
 
 [^51]: ‘The crowdfunding donations are a prerequisite, testing open projects for the subsequent search of micro-investments that may be the way to further fuel the emergence of this new world of business models and non-profit oriented real social purpose, rather than the model of a maximization of profit and perpetual growth regardless of the needs of society’, ‘Sobre la regulación del crowdfunding y Ley de Fomento de la Financiación Empresarial’,
-    [https://goteo.org/blog/4325].
+    <https://goteo.org/blog/4325>.

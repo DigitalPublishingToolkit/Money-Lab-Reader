@@ -553,7 +553,6 @@ Turning Cellphones into 24-hour Tellers in Kenya’, *Innovations* 2.1-2
 (2007): 63-81.
 
 International Finance Corporation (IFC). ‘Mobile Money Study 2011’,
-[http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES](http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/%09MobileMoneyReport-Summary.pdf?MOD=AJPERES).
 
 International Telecommunications Union (ITU). *Exploring the Value and
 Economic Valuation of Spectrum*. ITU (2012),
@@ -613,7 +612,6 @@ the-unbanked/insights/tracker](http://www.gsma.com/mobilefordevelopment/programm
 
 Mumo, Muthoki. ‘Equity Bank Seeks Share of Telco Business’, *Mobile
 Nation*, 25 February 2014,
-[http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html](http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-%09business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html).
 
 Nyakazeya, Paul and Bernard Mpofu. ‘Econet Phone Tokens Used as Change’,
 *The Independent*, 27 May 2010,
@@ -635,7 +633,6 @@ valuable-than-payment-fees/](http://techcrunch.com/2012/08/18/payment-data-is-mo
 Remittances to Developing Countries to Stay Robust this Year, Despite
 Increased Deportations of Migrant Workers, says WB, *World Bank* 11
 April 2014,
-[http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb](http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-%09developing-countries-deportations-migrant-workers-wb).
 
 Rosingh, Wouter, Adam Seal, and David Osborn. ‘Why Banks and Telecoms
 Must Merge to Surge’, *Strategy + Business* 23 (2001),
@@ -672,18 +669,18 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 [^4]: Jan Chipchase and Panthea Lee, ‘Mobile Money: Afghanistan’,
     *Innovations* 6.2 (2011): 27.
 
-[^5]: See [https://www.econet.co.zw/services/airtime-transfer](numbering.xml).
+[^5]: See [https://www.econet.co.zw/services/airtime-transfer](https://www.econet.co.zw/services/airtime-transfer).
 
 [^6]: Paul Nyakazeya and Bernard Mpofu, ‘Econet Phone Tokens Used as
     Change, *The Independent,* 27 May 2010,
-    [http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/](styles.xml).
+    [http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/](http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/).
 
 [^7]: ‘In the Shadow of Mobile Money: International Airtime
     Remittances’, *Mondato*, 28 May 2014,
-    [http://mondato.com/blog/airtime/](stylesWithEffects.xml).
+    [http://mondato.com/blog/airtime/](http://mondato.com/blog/airtime/).
 
 [^8]: ‘Airtime is Money’, *The Economist*, 19 January 2013,
-    [http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money](settings.xml).
+    [http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money](http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money).
 
 [^9]: A.M. Seybold, ‘Seybold’s Take: Spectrum is the True Currency of
     Wireless Operators’, *Fierce Wireless*, 22 June 2012,
@@ -735,7 +732,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Phone Licenses in the National Accounts’ *Review of Income and
     Wealth* 49.3 (2003); System of National Accounts (SNA), *System of
     National Accounts 2008,* New York,
-    [http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf](endnotes.xml).
+    [http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf](http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf).
 
 [^19]: I’ve written in more detail about this phenomenon elsewhere. See
     Rachel O’Dwyer and Linda Doyle, ‘This is not a Bit-pipe: A Political
@@ -745,7 +742,6 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 [^20]: Paul Jaeger, Jimmy Lin, Justin M. Grimes, and Shannon N. Simmons,
     ‘Where is the Cloud? Geography, Economics, Environment, and
     Jurisdiction in Cloud Computing’, *First Monday* 14.5 (2009),
-    [http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171](http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money).
 
 [^21]: Alexander R. Galloway, *Protocol: How Control Exists After
     Decentralization*, London: MIT Press, 2004, p. 11.
@@ -753,7 +749,6 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 [^22]: Bill Maurer, ‘Closed Loops and Private Gateways: Money,
     Technology and the Private Interest in Payment’, MoneyLab
     Conference, Amsterdam, March 21-22 2014,
-    [http://vimeo.com/90207123](http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/).
 
 [^23]: Historically there are lots of different telematic
     infrastructures involved in circulating money and price information
@@ -785,11 +780,9 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^24]: David Zax, ‘Is Personal Data the New Currency? *MIT Technology
     Review*, 30 November 2011,
-    [http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/](http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908).
 
 [^25]: International Finance Corporation (IFC), ‘Mobile Money Study
     2011’,
-    [http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES](http://www.wired.com/2014/07/document-coin/).
 
 [^26]: Describing a pre-computational banking period from 1864-1945,
     Batis-Lazo and Wood demonstrated the necessity of trust
@@ -803,36 +796,28 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Cash: Channeling Agency in Mobile Money’, *Journal of the Royal
     Anthropological Institute* 19.1 (2013).
 
-[^28]: See [https://ripple.com](http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/%09MobileMoneyReport-Summary.pdf?MOD=AJPERES)
     or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
     on your Reputation’, *Wired Magazine*, 18 July 2014,
-    [http://www.wired.com/2014/07/document-coin/](http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports_SpectrumV%20alue.pdf).
 
 [^29]: Wouter Rosingh, Adam Seal, and David Osborn, ‘Why Banks and
     Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001),
-    [http://www.strategy-business.com/article/17163?gko=4cda6](http://mondato.com/blog/airtime/).
 
-[^30]: See [http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked](http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-%09money-remains-a-strategic-priority-for-mno-groups).
 
 [^31]: MMU Deployment Tracker,
-    [http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-the-unbanked/insights/tracker](http://vimeo.com/90207123).
 
 [^32]: Muthoki Mumo, ‘Equity Bank Seeks Share of Telco Business’,
     *Mobile Nation*, 25 February 2014,
-    [http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html](http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-%09the-unbanked/insights/tracker).
 
 [^33]: See Kevin Donovan, ‘Mobile Money, More Freedom? The Impact of
     M-PESA’s Network Power on Development as Freedom’, *International
     Journal of Communication* 6 (2012); Erin Taylor, ‘Mobile Money and
     the ‘Social Good’ of Global Financialization’, MoneyLab Conference,
     Amsterdam, March 21-22 2014,
-    [http://vimeo.com/90208804](http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-%09business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html).
 
 [^34]: International remittances currently amount to 581 billion a year.
     According to the WB, remittances to developing countries are to stay
     robust this year, despite increased deportations of migrant workers,
     *World Bank*, 11 April 2014,
-    [http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb](http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/).
 
 [^35]: Kevin Donovan, ‘Mobile Money for Financial Inclusion’,
     *Information and Communications for Development* 61 (2012); Bill
@@ -845,7 +830,6 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^36]: Arunjay Katakam, ‘Annual Reports Show Mobile Money Remains a
     Strategic Priority for MNO Groups’, *GSMA,* 19 June 2014,
-    [http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups](http://techcrunch.com/2012/08/18/payment-data-is-more-valuable-than-payment-fees/).
 
 [^37]: Bill Maurer, Taylor C. Nelms, and Stephen C. Rea, ‘Bridges to
     Cash: Channeling Agency in Mobile Money’, *Journal of the Royal
@@ -865,11 +849,9 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^40]: ‘Facebook seeks Irish Approval for New Money Service’, *Irish
     Times*, 14 April 2014,
-    [http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908](http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-%09developing-countries-deportations-migrant-workers-wb).
 
 [^41]: Jon Delano, ‘Swiping iPhone 6 May Soon Replace Credit Cards’,
     *CBSLocal*, 10 September 2014,
-    [http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/](http://www.strategy-business.com/article/17163?gko=4cda6).
 
 [^42]: As telecommunications economist Jan Dawson explains, traditional
     telecommunications providers can no longer afford to provision
@@ -888,7 +870,6 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^44]: Alex Rampell, ‘Payment Data is More Valuable than Payment Fees’,
     *Tech Crunch,* 10 August 2012.
-    [http://techcrunch.com/2012/08/18/payment-data-is-more-valuable-than-payment-fees/](http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22).
 
 [^45]: Rampell, ‘Payment Data’.
 

@@ -890,7 +890,7 @@ Princeton University Press, 2005.
 
 [^19]: Dean Beeby, ‘Feminist Disappears from Public History under Harper
     Government’, *The Toronto Star*, 27 July 2014,
-    [http://www.thestar.com/news/canada/2014/07/27/feminist\_disappears\_from\_public\_history\_under\_harper\_government.html](numbering.xml).
+    [http://www.thestar.com/news/canada/2014/07/27/feminist\_disappears\_from\_public\_history\_under\_harper\_government.html](http://www.thestar.com/news/canada/2014/07/27/feminist\_disappears\_from\_public\_history\_under\_harper\_government.html).
 
 [^20]: Benedict Anderson, *Imagined Communities*, London and New York:
     Verso, 2006.
@@ -916,7 +916,7 @@ Princeton University Press, 2005.
 
 [^27]: See http://www.geheimagentur.net/.
 
-[^28]: See [http://www.schwarzbank.org/](stylesWithEffects.xml).
+[^28]: See [http://www.schwarzbank.org/](http://www.schwarzbank.org/).
 
 [^29]: See [moneyandart.tumblr.com](settings.xml).
 
@@ -930,13 +930,12 @@ Princeton University Press, 2005.
 [^32]: Joseph Beuys et al. *What Is Money? A Discussion*, West Hoathly,
     UK: Clairview, 2010.
 
-[^33]: See [http://blog.artasmoney.com/blog/](webSettings.xml).
+[^33]: See [http://blog.artasmoney.com/blog/](http://blog.artasmoney.com/blog/).
 
-[^34]: See [http://www.nonfunctionalthoughts.net/](footnotes.xml).
+[^34]: See [http://www.nonfunctionalthoughts.net/](http://www.nonfunctionalthoughts.net/).
 
-[^35]: See [http://www.cassiethornton.com/.](endnotes.xml)
+[^35]: See [http://www.cassiethornton.com/.](http://www.cassiethornton.com/.)
 
-[^36]: See [http://www.melchin.org/](http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html).
 
 [^37]: See Max Haiven and Alex Khasnabish, *The Radical Imagination:
     Social Movement Research in the Age of Austerity*, London and New
@@ -948,12 +947,9 @@ Princeton University Press, 2005.
 [^39]: Karl Marx and V. I. Lenin, *The Civil War in France and the Paris
     Commune*, New York: International, 1993.
 
-[^40]: See [https://www.marxists.org/archive/marx/works/1871/civil-war-france/ch05.htm](https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm).
 
 [^41]: C.L.R. James, ‘They Showed the Way to Labor Emancipation: On Karl
-    Marx and the 75th Anniversary of the Paris Commune’ (1946), [https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm](http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm).
 
-[^42]: See [http://www.marxists.org/archive/marx/works/1871/civil-war-france/postscript.htm](capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf).
 
 [^43]: See Kristen Ross, *The Emergence of Social Space: Rimbaud and the
     Paris Commune*, Minneapolis: University of Minnesota Press, 1988.

@@ -421,16 +421,16 @@ University Press, 1994.
 [^3]: @sammaule, ‘My tweet back in Oct: In a gold rush you can mine for
     gold or sell shovels. Nice shovel @obedier @GetPoynt \#CGDigital.’
     Twitter post, 4 November 2014, 6:28 AM,
-    [https://twitter.com/sammaule/status/529641370638897152](../customXml/item1.xml).
+    [https://twitter.com/sammaule/status/529641370638897152](https://twitter.com/sammaule/status/529641370638897152).
 
 [^4]: @dgwbirch, ‘“@sammaule: My tweet back in Oct: In a gold rush you
     can mine for gold or sell shovels" or set up a bank.’ Twitter post,
     4 November 2014, 7:09
-    AM, [https://twitter.com/dgwbirch/status/529651610461282304](numbering.xml).
+    AM, [https://twitter.com/dgwbirch/status/529651610461282304](https://twitter.com/dgwbirch/status/529651610461282304).
 
 [^5]: @Greg\_Coogan, ‘@dgwbirch @sammaule You could sell treasure maps
     too. Today we call that consulting.’ Twitter post, 4 November 2014,
-    7:10 AM, [https://twitter.com/Greg\_Coogan/status/529651859942678529](styles.xml).
+    7:10 AM, [https://twitter.com/Greg\_Coogan/status/529651859942678529](https://twitter.com/Greg\_Coogan/status/529651859942678529).
 
 [^6]: See Michael Hudson, ‘The Development of Money-of-Account in
     Sumer’s Temples’, in Michael Hudson and Cornelia Wunsch (eds)

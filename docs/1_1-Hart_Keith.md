@@ -749,8 +749,8 @@ Books, 1994.
 
 [^13]: See Keith Hart, Jean-Louis Laville, and Antonio Cattani (eds)
     *The Human Economy: A Citizen’s Guide*. Cambridge: Polity, 2010,
-    [http://www.up.ac.za/human-economy-program/](../customXml/item1.xml),
-    [http://thehumaneconomy.blogspot.com/](numbering.xml).
+    [http://www.up.ac.za/human-economy-program/](http://www.up.ac.za/human-economy-program/),
+    [http://thehumaneconomy.blogspot.com/](http://thehumaneconomy.blogspot.com/).
 
 [^14]: Karl Polanyi, *The Great Transformation: The Political and
     Economic Origins of Our Times*, Boston: Beacon, 2001 (1944).
@@ -778,4 +778,4 @@ Books, 1994.
     York: Verso, 2013.
 
 [^22]: Keith Hart, *The Memory Bank: Money in an Unequal World*, 2000:
-    [http://thememorybank.co.uk/book/](styles.xml).
+    [http://thememorybank.co.uk/book/](http://thememorybank.co.uk/book/).

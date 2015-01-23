@@ -661,7 +661,7 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
     Implementation of Investment for Sharia Mutual Funds’.
 
 [^21]: The fatwas issued by DSN-MUI to date can be accessed at
-    [http://www.dsnmui.or.id/index.php?page=fatwa](../customXml/item1.xml).
+    [http://www.dsnmui.or.id/index.php?page=fatwa](http://www.dsnmui.or.id/index.php?page=fatwa).
     At the time of writing, Indonesia had fourteen fatwas issued by
     DSN-MUI specifically related to the Islamic capital market.
 
@@ -669,7 +669,7 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
     Stock Exchange to create the Indonesia Stock Exchange (IDX).
 
 [^23]: See IDX press release, 2 November 2013,
-    [http://www.idx.co.id/Beranda/BeritadanPengumuman/SiaranPers/ReadPressRelease/tabid/191/ItemID/d72739a7-a3cb-482f-8b2d-040c7ab0d4e8/language/id-ID/Default.aspx](numbering.xml).
+    [http://www.idx.co.id/Beranda/BeritadanPengumuman/SiaranPers/ReadPressRelease/tabid/191/ItemID/d72739a7-a3cb-482f-8b2d-040c7ab0d4e8/language/id-ID/Default.aspx](http://www.idx.co.id/Beranda/BeritadanPengumuman/SiaranPers/ReadPressRelease/tabid/191/ItemID/d72739a7-a3cb-482f-8b2d-040c7ab0d4e8/language/id-ID/Default.aspx).
 
 [^24]: See Fatwa No. 80/DSN-MUI/III/2011 concerning ‘The Implementation
     of Sharia Principles in the Equity Trading Mechanism at the Stock

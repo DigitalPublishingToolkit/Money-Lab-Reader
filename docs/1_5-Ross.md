@@ -500,7 +500,7 @@ Books, 2014.
     Inequality in the United States, 1913-1998’, *Quarterly Journal of
     Economics*, 118.1 (2003): 1-39. The most recent update can be found
     at
-    [http://elsa.berkeley.edu/\~saez/saez-UStopincomes-2012.pdf](../customXml/item1.xml)
+    [http://elsa.berkeley.edu/\~saez/saez-UStopincomes-2012.pdf](http://elsa.berkeley.edu/\~saez/saez-UStopincomes-2012.pdf)
     showing that the top 1 percent earners captured 95 percent of the
     income gains since the recession officially ended. Also see Josh
     Bivens and Lawrence Mishel, ‘The Pay of Corporate Executives and
@@ -508,18 +508,18 @@ Books, 2014.
     Incomes’, *Journal of Economic Perspectives* (Summer 2013), and
     Edward N. Wolff, ‘The Asset Price Meltdown and the Wealth of the
     Middle Class’, New York University, 2012 accessible at
-    [https://appam.confex.com/appam/2012/webprogram/Paper2134.html](numbering.xml).
+    [https://appam.confex.com/appam/2012/webprogram/Paper2134.html](https://appam.confex.com/appam/2012/webprogram/Paper2134.html).
 
 [^2]: Many of the arguments, and a good deal of the content, for this
     article are drawn from Andrew Ross, *Creditocracy and the Case for
     Debt Refusal*, OR Books, 2014. Available at:
-    [http://www.orbooks.com/catalog/creditocracy/](styles.xml).
+    [http://www.orbooks.com/catalog/creditocracy/](http://www.orbooks.com/catalog/creditocracy/).
 
 [^3]: ^3^ Jeff Madrick, ‘A Bit of Good News’, *Harper’s*, April 2013:
     6-7.
 
 [^4]: See,
-    [http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/](stylesWithEffects.xml)
+    [http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/](http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/)
 
 [^5]: ^4^ See Nomi Prins, *All the Presidents’ Bankers: The Hidden
     Alliances that Drive American Power,* New York: Avalon, 2013.
@@ -538,7 +538,7 @@ Books, 2014.
     debt collection. In other words, one in seven Americans was being,
     or had been, hounded by debt collectors. *Quarterly Report on
     Household Debt and Credit* (August 2013) accessible at
-    [http://www.newyorkfed.org/research/national\_economy/householdcredit/DistrictReport\_Q22013.pdf](settings.xml).
+    [http://www.newyorkfed.org/research/national\_economy/householdcredit/DistrictReport\_Q22013.pdf](http://www.newyorkfed.org/research/national\_economy/householdcredit/DistrictReport\_Q22013.pdf).
 
 [^9]: ^7^ Matt Taibbi, ‘Greed and Debt: The True Story of Mitt Romney
     and Bain Capital’, *Rolling Stone*, 29 August 2012.

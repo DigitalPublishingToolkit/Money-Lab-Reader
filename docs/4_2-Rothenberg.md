@@ -363,49 +363,44 @@ Billion*, 10 February 2014,
 
 Wadhwa, Tarun. ‘NASA’s Next Frontier: Growing Plants on the Moon’,
 *Forbes*, 20 November 2013,
-[http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon](http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-%09frontier-growing-plants-on-the-moon).
 
 Yunas, Muhammed. Nobel Lecture, Oslo, 10 December 2006,
 <http://www.nobelprize.org/nobel_prizes/peace/laureates/2006/yunus-lecture-en.html>.
 
-[^1]: Kiva, [http://www.kiva.org](numbering.xml).
+[^1]: Kiva, [http://www.kiva.org](http://www.kiva.org).
 
 [^2]: Domen Bajde, ‘Marketized Philanthropy: Kiva's Utopian Ideology of
     Entrepreneurial Philanthropy’, *Marketing Theory*, 13.1 (March
     2013): 3-18.
 
-[^3]: Kiva Statistics, [http://www.kiva.org/about/stats](styles.xml),
+[^3]: Kiva Statistics, [http://www.kiva.org/about/stats](http://www.kiva.org/about/stats),
     accessed 7 October 2014.
 
 [^4]: Hugh Sinclair, ‘The Kiva Fairytale: It's a Microlending Superstar
     – But Who is it Really Serving?’, *Next Billion*, 10 February 2014,
-    [http://nextbillion.net/blogpost.aspx?blogid=3726](stylesWithEffects.xml).
+    [http://nextbillion.net/blogpost.aspx?blogid=3726](http://nextbillion.net/blogpost.aspx?blogid=3726).
 
-[^5]: Kiva Cloud, [http://www.frazao.org/kivacloud](settings.xml).
+[^5]: Kiva Cloud, [http://www.frazao.org/kivacloud](http://www.frazao.org/kivacloud).
 
 [^6]: Intercontinental Ballistic Microfinance,
-    [http://vimeo.com/28413747](webSettings.xml).
+    [http://vimeo.com/28413747](http://vimeo.com/28413747).
 
 [^7]: Muhammed Yunus, Nobel Lecture, Oslo, 10 December 2006,
-    [http://www.nobelprize.org/nobel\_prizes/peace/laureates/2006/yunus-lecture-en.html](footnotes.xml).
+    [http://www.nobelprize.org/nobel\_prizes/peace/laureates/2006/yunus-lecture-en.html](http://www.nobelprize.org/nobel\_prizes/peace/laureates/2006/yunus-lecture-en.html).
 
 [^8]: Ken Goldberg, ‘The Telegarden’,
-    [http://www.ieor.berkeley.edu/\~goldberg/garden/Ars](endnotes.xml).
+    [http://www.ieor.berkeley.edu/\~goldberg/garden/Ars](http://www.ieor.berkeley.edu/\~goldberg/garden/Ars).
 
 [^9]: Tarun Wadhwa, ‘NASA’s Next Frontier: Growing Plants on the Moon’,
     *Forbes*, 20 November 2013,
-    [http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon](https://www.youtube.com/watch?v=XsxVy7vyyk0).
 
 [^10]: Wadhwa, ‘NASA’s Next Frontier’.
 
 [^11]: Stephanie Rothenberg, ‘Garden of Virtual Kinship’,
-    [http://www.pan-o-matic.com/projects/reversal-of-fortune-the-garden-of-virtual-kinship](http://www.ieor.berkeley.edu/~goldberg/garden/Ars).
 
 [^12]: Kiva live feed,
-    [http://www.kiva.org/live](http://vimeo.com/28413747).
 
 [^13]: Kiva lender’s page,
-    [http://www.kiva.org/lend/778631](http://www.kiva.org).
 
 [^14]: Ananya Roy, *Poverty Capital: Microfinance and the Making of
     Development*, New York: Routledge Press, 2010, p. 2.
@@ -417,12 +412,9 @@ Yunas, Muhammed. Nobel Lecture, Oslo, 10 December 2006,
 [^17]: Roy, *Poverty Capital*, p. 33.
 
 [^18]: Stephanie Rothenberg, ‘Desiring Subjects, Desiring Plants’,
-    [http://www.pan-o-matic.com/projects/reversal-of-fortune-desiring-subjects-desiring-plants](http://www.frazao.org/kivacloud).
 
 [^19]: Christian Children’s Fund ‘Feed the Children’, campaign video,
-    [https://www.youtube.com/watch?v=XsxVy7vyyk0](http://www.stephanierothenberg.com).
 
 [^20]: Jessica Jackley, ‘Poverty, money –and love’, TED, July 2010,
-    [http://www.ted.com/talks/jessica\_jackley\_poverty\_money\_and\_love?language=en](http://nextbillion.net/blogpost.aspx?blogid=3726).
 
 [^21]: Roy, *Poverty Capital*, p. 144.

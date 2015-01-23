@@ -645,11 +645,11 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     Richard Swart, and Bryan Zhang, The Rise of Future Finance, London:
     Nesta, Berkeley and University of Cambridge, 2013.
 
-[^2]: Nesta, [http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013](../customXml/item1.xml).
+[^2]: Nesta, [http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013](http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013).
 
 [^3]: Alex Fitzpatrick, ‘Obama Signs “Game-Changing” Crowd-Funding Jobs
     Act’, *Mashable*, 5 April 2012,
-    [http://mashable.com/2012/04/05/jobs-act-signed/](numbering.xml).
+    [http://mashable.com/2012/04/05/jobs-act-signed/](http://mashable.com/2012/04/05/jobs-act-signed/).
 
 [^4]: Some of the implications of crowdfunding for IP are discussed by,
     for example, Nicholas Wells, ‘The Risks of Crowdfunding: Most Have
@@ -662,7 +662,7 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
 
 [^5]: Ben Child, ‘Tom Hanks Film Seeks Crowdfunding via “Kickstarter for
     the Rich” Site’, *The Guardian,* 27 March 2014,
-    [http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction](styles.xml).
+    [http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction](http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction).
 
 [^6]: Cf. Brabham’s, Mollick’s, Morozov’s and Sørensen’s research.
 
@@ -710,26 +710,26 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
 
 [^13]: David Hickman, ‘Documentary Funding Gap Stalls Great Films Like
     the Act of Killing’, *The Conversation,* 6 Marts 2014,
-    [http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737](stylesWithEffects.xml).
+    [http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737](http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737).
 
 [^14]: Nick Fraser is cited in David Cox, ‘Is This the End of the Line
     for the Impartial Documentary’*, The Guardian.co.uk*, 9 November
     2009,
-    [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](settings.xml).
+    [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films).
 
 [^15]: Franny Armstrong relates her perceived benefits of crowdfunding
     in an interview with Inge Sørensen. Full transcript in the appendix
     of Sørensen’s PhD diss., *Documentary in a Multiplatform Context*
     from the Department for Media, Cognition and Communication,
     Copenhagen University, Denmark, 2013,
-    [http://curis.ku.dk/ws/files/44584781/Ph.d.\_2013\_S\_rensen.pdf](webSettings.xml).
+    [http://curis.ku.dk/ws/files/44584781/Ph.d.\_2013\_S\_rensen.pdf](http://curis.ku.dk/ws/files/44584781/Ph.d.\_2013\_S\_rensen.pdf).
 
 [^16]: Four documentary makers have related this figure in personal
     communications with the author.
 
 [^17]: David Cox, ‘Is This the End of the Line for the Impartial
     Documentary’*, The Guardian*, 9 November 2009,
-    [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](footnotes.xml).
+    [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films).
 
 [^18]: As described by Inge Sørensen, ‘Crowdsourcing and Outsourcing’
     and Darren C. Brabham, ‘[The Myth of Amateur Crowds: A Critical
@@ -740,7 +740,6 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     Entertainment Industry’s Shackles: A New Study Says Crowdfunding
     Benefits Only Certain Kinds of Movies’, *Slate Magazine*, 25
     September 2012,
-    [http://www.slate.com/articles/technology/future\_tense/2012/09/kickstarter\_s\_crowdfunding\_won\_t\_save\_indie\_filmmaking\_.html](http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html).
 
 [^20]: Ruth Towse, *Advanced Introduction To Cultural Economics*,
     Cheltenham: Edward Elgar Publishing, 2014.

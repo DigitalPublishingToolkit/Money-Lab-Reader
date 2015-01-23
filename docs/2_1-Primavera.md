@@ -841,7 +841,7 @@ the Web*, 1999.
 Yager, Ronald R. and Kacprzyk, Janusz, *The Ordered Weighted Averaging
 Operators: Theory and Applications*, Kluwer: Norwell, MA, 1997.
 
-[^1]: Sabir website: [http://sabir.cc](numbering.xml) - For additional
+[^1]: Sabir website: [http://sabir.cc](http://sabir.cc) - For additional
     details on the implementation, see the FAQ on the website.
 
 [^2]: Yochai Benkler, *The Wealth of Networks*: *How Social Production
@@ -872,7 +872,7 @@ Operators: Theory and Applications*, Kluwer: Norwell, MA, 1997.
     communities. Here we use CBE for the sake of simplicity.
 
 [^8]: Flattr is a microdonation web service:
-    [http://flattr.com](styles.xml).
+    [http://flattr.com](http://flattr.com).
 
 [^9]: Lawrence Page et al, ‘The PageRank Citation Ranking: Bringing
     Order to the Web’, 1999.

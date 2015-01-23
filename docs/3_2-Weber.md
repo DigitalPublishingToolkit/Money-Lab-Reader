@@ -951,18 +951,18 @@ Ingham,* Houndsmill/New York: Palgrave, 2013, pp. 101-123.
     overissue them.
 
 [^7]: Bruce Champ, *Private Money in Our Past, Present, and Future*,
-    [http://www.clevelandfed.org/research/commentary/2007/010107.cfm](numbering.xml).
+    [http://www.clevelandfed.org/research/commentary/2007/010107.cfm](http://www.clevelandfed.org/research/commentary/2007/010107.cfm).
 
 [^8]: Beat Weber, ‘Can Bitcoin Compete With Money?’, *Journal of Peer
     Production* 4 (2014),
-    [http://peerproduction.net/issues/issue-4-value-and-currency/invited-comments/can-bitcoin-compete-with-money/](styles.xml).
+    [http://peerproduction.net/issues/issue-4-value-and-currency/invited-comments/can-bitcoin-compete-with-money/](http://peerproduction.net/issues/issue-4-value-and-currency/invited-comments/can-bitcoin-compete-with-money/).
 
 [^9]: Bruce Champ, *Private Money in Our Past, Present, and Future*,
     2007,
-    [http://www.clevelandfed.org/research/commentary/2007/010107.cfm](stylesWithEffects.xml).
+    [http://www.clevelandfed.org/research/commentary/2007/010107.cfm](http://www.clevelandfed.org/research/commentary/2007/010107.cfm).
 
 [^10]: Bruce Champ, *Stamp Scrip: Money People Paid to Use*, 2008,
-    [http://www.clevelandfed.org/research/commentary/2008/0408.pdf](settings.xml).
+    [http://www.clevelandfed.org/research/commentary/2008/0408.pdf](http://www.clevelandfed.org/research/commentary/2008/0408.pdf).
 
 [^11]: David Woodruff, ‘Monetary Surrogates and Money’s Dual Nature’, in
     Jocelyn Pixley and G.C.Harcourt (eds) *Financial Crises and the
@@ -970,7 +970,7 @@ Ingham,* Houndsmill/New York: Palgrave, 2013, pp. 101-123.
     Geoffrey Ingham,* Houndsmill and New York: Palgrave, 2013, pp.
     101-123.
 
-[^12]: See [http://www.sco.ca.gov/eo\_news\_registeredwarrants.html](webSettings.xml).
+[^12]: See [http://www.sco.ca.gov/eo\_news\_registeredwarrants.html](http://www.sco.ca.gov/eo\_news\_registeredwarrants.html).
 
 [^13]: Thomas Greco, *The End of Money and the Future of Civilization*,
     White River Junction: Chelsea Green Publishing (Kindle Edition),
@@ -982,21 +982,19 @@ Ingham,* Houndsmill/New York: Palgrave, 2013, pp. 101-123.
 [^15]: Ingham, *The Nature of Money*, p. 185.
 
 [^16]: Wikipedia, ‘Complementary Currency’,
-    [http://en.wikipedia.org/wiki/Complementary\_currency](footnotes.xml),
+    [http://en.wikipedia.org/wiki/Complementary\_currency](http://en.wikipedia.org/wiki/Complementary\_currency),
     accessed 17 August 2014.
 
 [^17]: Jérôme Blanc, ‘Classifying “CCs”: Community, Complementary and
     Local Currencies’ Types and Generations’, *International Journal of
     Community Currency Research* 15 (2011) D 4-10,
-    [https://ijccr.files.wordpress.com/2012/05/ijccr-2011-special-issue-02-blanc.pdf](endnotes.xml);
+    [https://ijccr.files.wordpress.com/2012/05/ijccr-2011-special-issue-02-blanc.pdf](https://ijccr.files.wordpress.com/2012/05/ijccr-2011-special-issue-02-blanc.pdf);
     Greco, *The End of Money and the Future of Civilization*, p. 2659.
 
 [^18]: Wikipedia, ‘Local Exchange Trading System’,
-    [http://en.wikipedia.org/wiki/Local\_exchange\_trading\_system](https://ijccr.files.wordpress.com/2012/05/ijccr-2011-special-issue-02-blanc.pdf),
     accessed 23 November 2014.
 
 [^19]: Wikipedia, ‘Local Exchange Trading System’,
-    [http://en.wikipedia.org/wiki/Local\_exchange\_trading\_system](http://www.clevelandfed.org/research/commentary/2007/010107.cfm),
     accessed 23 November 2014.
 
 [^20]: Greco, *The End of Money and the Future of Civilization Money and

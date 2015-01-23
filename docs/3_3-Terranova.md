@@ -337,37 +337,36 @@ Elements for a Marxist Reading of the Thesis of Cognitive Capitalism’,
 
 [^1]: For further reference see: Tiziana, Terranova, ‘Red Stack Attack!
     Algorithms, Capital and the Automation of the Common’, *Euronomade*,
-    [http://www.euronomade.info/?p=2268](numbering.xml); Stefano
+    [http://www.euronomade.info/?p=2268](http://www.euronomade.info/?p=2268); Stefano
     Lucarelli, ‘Il principio della liquidità e la sua corruzione. Un
     contributo alla discussione su algoritmi e capitale’, *Quaderni di
     San Precario*, 4 February 2014,
-    [http://quaderni.sanprecario.info/2014/02/il-principio-della-liquidita-e-la-sua-corruzione-un-contributo-alla-discussione-su-algoritmi-e-capitale-di-stefano-lucarelli/](styles.xml);
+    [http://quaderni.sanprecario.info/2014/02/il-principio-della-liquidita-e-la-sua-corruzione-un-contributo-alla-discussione-su-algoritmi-e-capitale-di-stefano-lucarelli/](http://quaderni.sanprecario.info/2014/02/il-principio-della-liquidita-e-la-sua-corruzione-un-contributo-alla-discussione-su-algoritmi-e-capitale-di-stefano-lucarelli/);
     Andrea, Fumagalli, ‘Digital (Crypto) Money and Alternative Financial
     Circuits: Lead the Attack to the Heart of the State, Sorry, of
     Financial Market’, *Quaderni di San Precario*, 2 February 2014,
-    [http://quaderni.sanprecario.info/2014/02/digital-crypto-money-and-alternative-financial-circuits-lead-the-attack-to-the-heart-of-the-state-sorry-of-financial-market-by-andrea-fumagalli/](stylesWithEffects.xml);
+    [http://quaderni.sanprecario.info/2014/02/digital-crypto-money-and-alternative-financial-circuits-lead-the-attack-to-the-heart-of-the-state-sorry-of-financial-market-by-andrea-fumagalli/](http://quaderni.sanprecario.info/2014/02/digital-crypto-money-and-alternative-financial-circuits-lead-the-attack-to-the-heart-of-the-state-sorry-of-financial-market-by-andrea-fumagalli/);
     Giorgio, Griziotti, ‘Biorank: Algorithms and Transformation in the
     Bios of Cognitive Capitalism’, *Quaderni di San Precario*, 6
     February 2014,
-    [http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/](settings.xml).
+    [http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/](http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/).
 
 [^2]: See http://dcentproject.eu
 
 [^3]: Jerome Roos, ‘In Each Other We Trust: Coining Alternatives to
     Capitalism’, *Roarmag.org*, 31 March 2014,
-    [http://roarmag.org/2014/03/moneylab-conference-alternative-currencies/](webSettings.xml).
+    [http://roarmag.org/2014/03/moneylab-conference-alternative-currencies/](http://roarmag.org/2014/03/moneylab-conference-alternative-currencies/).
 
 [^4]: Pekka Piironen and Akseli Virtanen, ‘Democratization of Finance:
     An Interview’, *Robin Hood Minor Asset Management*,
-    [http://www.robinhoodcoop.org/pages/democratization-of-finance-an-interview](footnotes.xml).
+    [http://www.robinhoodcoop.org/pages/democratization-of-finance-an-interview](http://www.robinhoodcoop.org/pages/democratization-of-finance-an-interview).
 
 [^5]: Tiziana Terranova, ‘Social Unionism and Digital Labor in the
     Transnational Space of European Austerity’, *Euronomade*,
-    [http://www.euronomade.info/?p=3416](endnotes.xml),
+    [http://www.euronomade.info/?p=3416](http://www.euronomade.info/?p=3416),
 
 [^6]: For further reading see: Christian Marazzi, ‘Summer School: La
     moneta del comune’, *Uninomade 2.0,* 13 September 2012,
-    [http://www.uninomade.org/moneta-del-comune/](http://quaderni.sanprecario.info/2014/02/digital-crypto-money-and-alternative-financial-circuits-lead-the-attack-to-the-heart-of-the-state-sorry-of-financial-market-by-andrea-fumagalli/).;
     Cristina Morini and Andrea Fumagalli, ‘Life Put to Work: Towards a
     Theory of Life-Value’, *Ephemera* 10.3/4 (2010): 234-252; Cristina
     Morini, *Per amore o per forza. Femminilizzazione del lavoro e

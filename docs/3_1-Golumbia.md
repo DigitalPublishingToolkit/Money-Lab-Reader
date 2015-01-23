@@ -733,11 +733,11 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
 
 [^2]: The original paper is Satoshi Nakamoto, ‘Bitcoin: A Peer-to-Peer
     Electronic Cash System’, 2008,
-    [http://bitcoin.org/bitcoin.pdf](../customXml/item1.xml). On the
+    [http://bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf). On the
     adoption of Bitcoin in the wake of the so-called ‘blockade’ against
     WikiLeaks, see Jon Matonis, ‘WikiLeaks Bypasses Financial Blockade
     with Bitcoin’, *Forbes*, 20 August 2012,
-    [http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/](styles.xml).
+    [http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/](http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/).
     On the double-spending problem see Jaap-Henk Hoepman, ‘Distributed
     Double Spending Prevention’, arXiv (2008),
     [arXiv:0802.0832](stylesWithEffects.xml).
@@ -749,7 +749,7 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
 
 [^4]: See e.g., Bob Cesca, ‘Keep Your Goddamn Government Hands Off My
     Medicare’, *Huffington Post,* 5 September 2009,
-    [http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme\_b\_252326.html](settings.xml).
+    [http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme\_b\_252326.html](http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme\_b\_252326.html).
 
 [^5]: See Frances Hutchinson, Mary Mellor, and Wendy Olsen, *The
     Politics of Money: Towards Sustainability and Economic Democracy*,
@@ -764,7 +764,7 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     been developed principally by Bernard Lietaer, see Bernard Lietaer,
     ‘Commercial Credit Circuit: A Financial Innovation to Structurally
     Address Unemployment’, *Lietaer.com*, 30 January 2010,
-    [http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/](webSettings.xml),
+    [http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/](http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/),
     and Bernard Lietaer and Jacqui Dunne, *Rethinking Money: How New
     Currencies Turn Scarcity into Prosperity*, San Francisco, CA:
     Berrett-Koehler Publishers, 2013.
@@ -777,55 +777,45 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     analyses with an eye toward developments since these classic works
     were written; see David Golumbia, ‘Cyberlibertarians’ Digital
     Deletion of the Left’, *Jacobin*, 4 December 2013,
-    [https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/](footnotes.xml);
+    [https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/](https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/);
     and David Golumbia, ‘Cyberlibertarianism: The Extremist Foundations
     of “Digital Freedom”’, talk delivered at Clemson University, 5
     September 2013, text posted at uncomputing.org,
-    [http://www.uncomputing.org/?p=276](endnotes.xml).
+    [http://www.uncomputing.org/?p=276](http://www.uncomputing.org/?p=276).
 
 [^7]: See Paul Krugman, ‘Bitcoin Is Evil’, *The New York Times*, 28
     December 2013,
-    [http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/](http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits),
     and the comments on the article, as well as responses to this piece
     such as Mark Gongloff, ‘Paul Krugman Trolls Bitcoin Fans. Guess What
     Happens Next’, *Huffington Post*, 30 December 2013,
-    [http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin\_n\_4518979.html](http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html);
     Keith Weiner, ‘Paul Krugman Is Wrong: Bitcoin Isn’t Evil, But
     Monetary “Stimulus” Is’, *Forbes*, 30 December 2013,
-    [http://www.forbes.com/sites/realspin/2013/12/30/paul-krugman-is-wrong-bitcoin-isnt-evil-but-monetary-stimulus-is](http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1);
     and Jay Yarow, ‘Tech People Are Passing Around this Paul Krugman
     Quote on the Internet After He Called Bitcoin “Evil”’, *Business
     Insider*, 30 December 2013,
-    [http://www.businessinsider.com/paul-krugman-bitcoin-2013-12](https://en.bitcoin.it/wiki/Myths).
     Notably for understanding the political context of Bitcoin
     enthusiasm, a similar story appeared on the far-right *Infowars*
     site run by the extremist demagogue Alex Jones: see Nick Sorrentino,
     ‘Paul Krugman Is Scared. He Says “Bitcoin Is Evil”. Undermines
     Central Banks’, *Infowars.com*, 29 December 2013,
-    [http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/](http://www.businessinsider.com/bitcoin-price-2013-11).
 
 [^8]: See Marc Andreessen, co-founder of the Andreessen Horowitz venture
     capital firm which is one of Silicon Valley’s main backers of
     Bitcoin-related enterprises, in his ‘Why Bitcoin Matters’, *The New
     York* Times, 21 January 2014,
-    [http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?\_php=true&\_type=blogs&\_php=true&\_type=blogs&\_r=1](http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html).
 
 [^9]: On Bitcoin’s lack of fit with standard economic definitions of
     money and currency, see David Yermack, ‘Is Bitcoin a Real Currency?
     An Economic Appraisal’, *SSRN*, 1 April 2014,
-    [http://papers.ssrn.com/sol3/Papers.cfm?abstract\_id=2361599](http://rwer.wordpress.com/2013/11/27/14335/);
     Paul Davidson, ‘Is Bitcoin “Money”? The Post-Keynesian View’,
     *Real-World Economics Review Blog*, 27 November 2013,
-    [http://rwer.wordpress.com/2013/11/27/14335/](http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12);
     Joshua Gans, ‘Time for a Little Bitcoin Discussion’, *Economist’s
     View*, 25 December 2013,
-    [http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html](http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/).
 
 [^10]: Yermack, ‘Is Bitcoin a Real Currency?’, concludes that Bitcoin is
     neither money nor a currency. For Bitcoin advocates dismissing many
     widely-shared economic principles without offering substantive
     arguments against them, see, e.g., Bitcoin wiki, ‘Myths’,
-    [https://en.bitcoin.it/wiki/Myths](http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html).
 
 [^11]: Davidson, ‘Is Bitcoin “Money”? The Post-Keynesian View’.
 
@@ -834,11 +824,9 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
 
 [^13]: Evan Soltas, ‘Bitcoin Really Is an Existential Threat to the
     Modern Liberal State’, *Bloomberg View*, 5 April 2013,
-    [http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state](http://cultureandcommunication.org/galloway/the-reticular-fallacy).
 
 [^14]: Jon Matonis, ‘Bitcoin Prevents Monetary Tyranny’, *Forbes*, 4
     October 2012,
-    [http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/](http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html).
 
 [^15]: On Bitcoin’s similarity to the wide spectrum of non-monetary
     media of exchange, such as ‘Chocolate Hanukkah Coins, Casino Chips,
@@ -848,14 +836,11 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
 [^16]: For the view that gold-backed money is superior and that Bitcoin
     is valuable because it is ‘like gold’, see, e.g., Alec Liu, ‘Why
     Bitcoins Are Just Like Gold’, *VICE Motherboard*, 21 March 2013,
-    [http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold](https://www.bullionvault.com/guide/gold/Gold-fix).
     On the historical fixing of gold prices, see ‘Gold Fix: The London
     Gold Fix’, *BullionVault*,
-    [https://www.bullionvault.com/guide/gold/Gold-fix](http://www.uncomputing.org/?p=1390).
     On the potential implication of gold and silver price fixing in the
     LIBOR scandal, see Simon Goodley, ‘Could Gold Be the Next LIBOR
     Scandal?’, *The Guardian*, 13 March 2013,
-    [http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market/](http://www.uncomputing.org/?p=276)
 
 [^17]: Weiner, ‘Paul Krugman Is Wrong: Bitcoin Isn’t Evil, But Monetary
     “Stimulus” Is’.
@@ -866,45 +851,35 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     On the many connections between the Pauls and racist conspiracy
     theories, see, e.g., ‘Ron Paul Sites Are Obsessed with Jews,
     Zionists, and Israel’, *RonPaulSupporters.com*, 27 December 2011,
-    [http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/](https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/).
 
 [^19]: On manipulation of gold and Bitcoin, see David Andolfatto, ‘Why
     Gold and Bitcoin Make Lousy Money’, *Economist’s View*, 24 April
     2013,
-    [http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html](http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html);
     on the recent volatility of gold, see Katie Allen, ‘Gold Price
     Volatility Hits Pawnbroker’s Profits’, *The Guardian*, 29 September
     2013,
-    [http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits](http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market).
 
 [^20]: See ‘Interview with Brooksley Born’, *Frontline*, October 2009,
-    [http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html](http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/).
 
 [^21]: Rob Wile, ‘927 People Own Half of All Bitcoins’, *Business
     Insider*, 10 December 2013,
-    [http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12](http://arxiv.org/abs/0802.0832).
 
 [^22]: On the Sheep Marketplace, see Jim Edwards, ‘Two Guys on Reddit
     Are Chasing a Thief Who Has \$220 Million in Bitcoins’, *Business
     Insider*, 4 December 2013,
-    [http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12](http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html).
     On Mt. Gox, see Pete Rizzo, ‘Tokyo Police Launch Investigation into
     Missing Mt. Gox Bitcoin’, *CoinDesk*, 30 July 2014,
-    [http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/](https://mises.org/daily/6401/).
 
 [^23]: David Golumbia, ‘Bitcoinsanity 1: The (Ir)relevance of Finance,
     or, It’s (Not) Different This Time’, *Uncomputing*, 6 January 2014,
-    [http://www.uncomputing.org/?p=307](http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/).
 
 [^24]: See e.g., Rick Falkvinge, ‘The Target Value for Bitcoin Is Not
     Some \$50 or \$100. It is \$100,000 to \$1,000,000’,
     *Falkvinge.net*, March 2013,
-    [http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/](http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/).
 
 [^25]: From a comment by ‘volokh\_disqus2’ to Orin Kerr, ‘A Few Thoughts
     on the DOJ Brief in the Lavabit Case’, *The Volokh Conspiracy*, 14
     November 2013,
-    [http://www.volokh.com/2013/11/14/thoughts-doj-brief-lavabits-case/\#comment-1124546635](#comment-1124546635).
 
 [^26]: Discussed at some length in Golumbia, *The Cultural Logic of
     Computation*, Cambridge, MA: Harvard University Press, 2009.
@@ -914,14 +889,11 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     central banking, see, e.g., the writings of Mises Institute
     economists, including Frank Shostak, ‘The Bitcoin Money Myth’,
     Ludwig von Mises Institute, 17 April 2013,
-    [https://mises.org/daily/6411/](http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold),
     and Patrik Korda, ‘Bitcoin: Money of the Future or Old-Fashioned
     Bubble?’, Ludwig von Mises Institute, 9 April 2013,
-    [https://mises.org/daily/6401/](http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/).
     Also see well-known internet investment analyst Henry Blodget making
     much the same fiscal argument I am advancing here, in ‘Bitcoin Could
     Go To \$1 Million’, *Business Insider*, 8 November 2013,
-    [http://www.businessinsider.com/bitcoin-price-2013-11](http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/).
 
 [^28]: In addition to their ubiquity on Bitcoin advocacy sites like
     Falkvinge.net and Coindesk.com, they are the rule in the comments
@@ -930,19 +902,15 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     power; see for example the comments to Timothy Lee, ‘Everything You
     Need to Know About the Bitcoin “Bubble”’, *The Washington Post*, 8
     November 2013,
-    [http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/](http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-),
     to Stephen Mihm, ‘Are Bitcoins the Criminal’s Best Friend?’,
     *Bloomberg View*, 18 November 2013,
-    [http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-](http://bitcoin.org/bitcoin.pdf),
     and to Rumpelstatskin, ‘Everything I Was Afraid to Ask About Bitcoin
     but Did’, *Naked Capitalism*, 21 November 2013,
-    [http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html](http://www.house.gov/paul/congrec/congrec2003/cr090503.htm).
     Also see the comments collected by the Twitter account ‘Shit
     /r/Bitcoin says’ (@shit\_rbtc\_says,
     https://twitter.com/shit\_rbtc\_says), some of which are discussed
     in David Golumbia, ‘Bitcoinsanity 2: Revolutions in Rhetoric’,
     *Uncomputing*, 26 June 2014,
-    [http://www.uncomputing.org/?p=1390](http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/).
     Vasilis Kostakis and Chris Giotitsas, ‘The (A)Political Economy of
     Bitcoin’, *TripleC: Communication, Capitalism, & Critique* 12:2
     (2014): 431-440, attempt to integrate thinking about Bitcoin with
@@ -950,17 +918,14 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     currency.
 
 [^29]: Wikipedia contibutors, ‘Fiat Money’,
-    [http://en.wikipedia.org/wiki/Fiat\_money](http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/),
     accessed 15 September 2014.
 
 [^30]: See e.g., Barbara Shoff, ‘Ron Paul Sound Currency Message Is
     Resonating with Worldwide Leaders, Including China’, *PolicyMic*, 18
     October 2012,
-    [http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china](http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html).
 
 [^31]: Ron Paul, ‘Paper Money and Tyranny’, Speech to U.S. House of
     Representatives (September 2003),
-    [http://www.house.gov/paul/congrec/congrec2003/cr090503.htm](http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/).
 
 [^32]: Soltas, ‘Bitcoin Really Is an Existential Threat to the Modern
     Liberal State’.
@@ -969,21 +934,17 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
 
 [^34]: Andy Greenberg, ‘Meet the “Assassination Market” Creator Who's
     Crowdfunding Murder With Bitcoins’, *Forbes*, 18 November 2013,
-    [http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/](http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china).
 
 [^35]: Andreessen, ‘What Is Bitcoin’.
 
 [^36]: See Alexander R. Galloway, ‘Reticular Fallacy’, 6 October 2014,
-    [http://cultureandcommunication.org/galloway/the-reticular-fallacy](https://mises.org/daily/6411/)
     on presumptions about the politics of networks.
 
 [^37]: Alan Feuer, ‘The Bitcoin Ideology’, *The New York Times*, 15
     December 2013,
-    [http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html](http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology).
     For background on Cody Wilson and his support for 3D-printed guns,
     see Jacob Silverman, ‘A Gun, a Printer, an Ideology’, *The New
     Yorker*, 7 May 2013,
-    [http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology](http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state).
 
 [^38]: Exceptions to this rule – political analysis that recognizes how
     closely tied is Bitcoin discourse to far-right political beliefs –
@@ -991,4 +952,3 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     Bitcoin’, and Brett Scott, ‘Visions of a Techno-Leviathan: The
     Politics of the Bitcoin Blockchain’, *E-International Relations*, 1
     June 2014,
-    [http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/](http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/).

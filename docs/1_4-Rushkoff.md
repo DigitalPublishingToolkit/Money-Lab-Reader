@@ -339,7 +339,6 @@ Raymond, Eric S. *Cathedral and Bazaar,* Cambridge, MA: O’Reilly, 2001.
 
 Rosoff, Matt. ‘Google’s 15 Biggest Acquisitions And What Happened To
 Them Read More’, *Business Insider*, 14 March 2011,
-[http://www.businessinsider.com/googles-15-biggest-acquisitions-and-what-418happened-to-them-2011-3\#\#ixzz1WO6AhkU3](http://www.businessinsider.com/googles-15-biggest-acquisitions-and-what-418happened-to-them-2011-3).
 
 Rushkoff, Douglas. *Get Back in the Box,* New York: Collins, 2005.
 
@@ -385,7 +384,7 @@ Revolution,* Sebastopol: O’Reilly, 1999.
 
 [^7]: Carse, *Finite & Infinite Games*, 1986.
 
-[^8]: See [http://www.itex.com](numbering.xml).
+[^8]: See [http://www.itex.com](http://www.itex.com).
 
 [^9]: Bernard Lietaer, *The Mystery of Money: Beyond Greed and
     Scarcity,* Munich: Riemann Verlag, 2000, p. 183.
@@ -418,21 +417,21 @@ Revolution,* Sebastopol: O’Reilly, 1999.
 
 [^19]: Doc Searls and David Weinberger, ‘World of Ends What the Internet
     Is and How to Stop Mistaking It for Something Else’, 10 March 2003,
-    [http://worldofends.com](styles.xml).
+    [http://worldofends.com](http://worldofends.com).
 
 [^20]: Thomas Goetz, ‘Open Source Everywhere*’, Wired*, November 2003,
-    [http://www.wired.com/wired/archive/11.11/opensource.html](stylesWithEffects.xml).
+    [http://www.wired.com/wired/archive/11.11/opensource.html](http://www.wired.com/wired/archive/11.11/opensource.html).
 
 [^21]: D. Wolk, ‘Future of Open Source: Collaborative Culture’*, Wired*
     (June 2009):
-    [http://www.wired.com/dualperspectives/article/news/2009/06/dp\_opensource\_wired0616](settings.xml).
+    [http://www.wired.com/dualperspectives/article/news/2009/06/dp\_opensource\_wired0616](http://www.wired.com/dualperspectives/article/news/2009/06/dp\_opensource\_wired0616).
 
 [^22]: Eric S. Raymond, *Cathedral and Bazaar,* Cambridge, MA: O’
     Reilly, 2001.
 
 [^23]: Tim O’Reilly and John Battelle, ‘Web Squared: Web 2.0 Five Years
     On’, *Web 2.0 Summit,* 10 October 2009,
-    [http://www.web2summit.com/web2009/public/schedule/detail/10194](webSettings.xml)
+    [http://www.web2summit.com/web2009/public/schedule/detail/10194](http://www.web2summit.com/web2009/public/schedule/detail/10194)
 
 [^24]: Matt Rosoff, ‘Google’s 15 Biggest Acquisitions and What Happened
     to Them’, *Business Insider,* 14 March 2011,

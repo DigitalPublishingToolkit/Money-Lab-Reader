@@ -529,7 +529,6 @@ or if we are simply witnessing the creative extension of neoliberalism.
 At stake, however, is the full spectrum of technologies of economic
 (re)distribution.
 
-[http://www.networkcultures.org/publications](http://www.networkcultures.org/publications)
 
 **Contributors:**
 

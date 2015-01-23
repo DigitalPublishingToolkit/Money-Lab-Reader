@@ -294,5 +294,5 @@ looming threat to Wall Street*, New York: Random House, 2012.
 [^7]: Costas Lapavitsas, Profiling Without Producing, How Finance
     Exploits Us All, Verso, London/New York, 2013, p. 138.
 
-[^8]: See [http://www.zerohedge.com/](styles.xml) and
+[^8]: See [http://www.zerohedge.com/](http://www.zerohedge.com/) and
     http://rt.com/shows/keiser-report/.

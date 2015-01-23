@@ -766,7 +766,7 @@ International Mechanical Engineering Congress & Exposition,* November
     Universe,* New York: Vintage, 2012.
 
 [^8]: Geeta Dayal, ‘Max Mathews (1926-2011)’, *Frieze,* May 2011,
-    [http://blog.frieze.com/max-mathews/](styles.xml).
+    [http://blog.frieze.com/max-mathews/](http://blog.frieze.com/max-mathews/).
 
 [^9]: Willis H. Ware et al., *RAND and the Information Evolution: A
     History in Essays and Vignettes,* Santa Monica: RAND, 2008.
@@ -782,7 +782,7 @@ International Mechanical Engineering Congress & Exposition,* November
 
 [^13]: danah boyd, ‘blotchy burns on my legs from my Macbook’,
     *Zephoria*, 9 September 2007,
-    [http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy\_burns\_o.html](stylesWithEffects.xml).
+    [http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy\_burns\_o.html](http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy\_burns\_o.html).
 
 [^14]: Nicole Starosielski, ‘Digital Media: Hot or Cool?’, *Flow* 15.5
     (January, 2012).
@@ -798,7 +798,7 @@ International Mechanical Engineering Congress & Exposition,* November
 
 [^17]: Xiaogang Cao, ‘Visit of ASICMINER's Immersion Cooling Mining
     Facility’, *Bitcoin Forum,* 25 November 2013,
-    [https://bitcointalk.org/index.php?topic=346134.0](settings.xml).
+    [https://bitcointalk.org/index.php?topic=346134.0](https://bitcointalk.org/index.php?topic=346134.0).
 
 [^18]: David Wolman, *The End of Money: Counterfeiters, Preachers,
     Techies, Dreamers – And the Coming Cashless Society,* New York: Da
@@ -830,7 +830,7 @@ International Mechanical Engineering Congress & Exposition,* November
     Applications,* 2010.
 
 [^26]: Steven J. Murdoch, ‘Software Detection of Currency’,
-    [http://www.cl.cam.ac.uk/\~sjm217/projects/currency/](webSettings.xml).
+    [http://www.cl.cam.ac.uk/\~sjm217/projects/currency/](http://www.cl.cam.ac.uk/\~sjm217/projects/currency/).
 
 [^27]: Bernd Widdig, *Culture and Inflation in Weimar Germany,* Oakland:
     University of California Press, 2001.
@@ -838,7 +838,7 @@ International Mechanical Engineering Congress & Exposition,* November
 [^28]: [Dubz mining], ‘had 4 machines’, 4chan.org, 2011-07-01 06:08.
 
 [^29]: Adam Back, ‘Hashcash – A Denial of Service Counter-Measure’,
-    2002, [http://www.hashcash.org/papers/hashcash.pdf](footnotes.xml).
+    2002, [http://www.hashcash.org/papers/hashcash.pdf](http://www.hashcash.org/papers/hashcash.pdf).
 
 [^30]: Joshua A. Kroll, Ian C. Davey, and Edward W. Felten, ‘The
     Economics of Bitcoin Mining, or Bitcoin in the Presence of
@@ -848,17 +848,14 @@ International Mechanical Engineering Congress & Exposition,* November
 [^31]: Ittay Eyal and Emin Gün Sirer, ‘Majority is not Enough: Bitcoin
     Mining is Vulnerable’, arXiv:1311.0243v5 [cs.CR], November 2013.
 
-[^32]: Cloudhashing, [https://cloudhashing.com/](endnotes.xml);
+[^32]: Cloudhashing, [https://cloudhashing.com/](https://cloudhashing.com/);
     MegaBigPower,
-    [https://megabigpower.com/](http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity).
 
 [^33]: ‘Sunny King’ (pseudonym), ‘Primecoin: Cryptocurrency with Prime
     Number Proof-of-Work’, 7 July 2013,
-    [http://primecoin.io/bin/primecoin-paper.pdf](http://www.hashcash.org/papers/hashcash.pdf).
 
 [^34]: Guy Lane, ‘Bitcoin's Carbon Footprint is out of Control’, 19
     December 2013,
-    [http://bitcarbon.org/bitcarbon/](http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy_burns_o.html).
 
 [^35]: Michael Carney, ‘Bitcoin Has a Dark Side: Its Carbon Footprint’,
     *PandoDaily,* 16 December 2013.
@@ -869,7 +866,6 @@ International Mechanical Engineering Congress & Exposition,* November
 [^37]: Tom Simonite, ‘The Man Who Really Built Bitcoin’, *MIT Technology
     Review,* 15 August 2014; Anti-statist: Oleg Andreev, ‘Crypto-anarchy
     does not require anonymity’,
-    [http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity](https://bitcointalk.org/index.php?topic=346134.0)
     .
 
 [^38]: See, for instance, the wonderful paper: Clare Horsman et al.,

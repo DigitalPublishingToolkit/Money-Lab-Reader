@@ -515,7 +515,6 @@ the NMT and GSM Mobile Telephone Standards Histories’,
 *Telecommunications Policy* 26 (2002): 101-7.
 
 [‘How DigiCash Blew Everything’], January 1999,
-[http://cryptome.org/jya/digicrash.htm\#15](#15).
 
 Landrock, Peter. ‘Mondex’,. in *Encyclopedia of Cryptography and
 Security*, Henk C. A. van Tilborg (ed.) New York: Springer, 2005, p.
@@ -533,12 +532,10 @@ Heidelberg: Springer, 2006, p.16-31,
 <http://link.springer.com/chapter/10.1007/11813040_2>.
 
 [^1]: ‘How DigiCash Blew Everything’], January 1999,
-    [http://cryptome.org/jya/digicrash.htm\#15](#15).
 
 [^2]: David Chaum, ‘Blind Signatures for Untraceable Payments’, in David Chaum,
     Ronald L. Rivest, and Alan T. Sherman (eds) *Advances in
     Cryptology*, New York: Springer, 1983, pp. 199-203,
-    [http://link.springer.com/chapter/10.1007/978-1-4757-0602-4\_18](styles.xml).
 
 [^3]: Andy Greenberg, *This Machine Kills Secrets: How WikiLeakers,
     Hacktivists, and Cypherpunks Are Freeing the World’s
@@ -547,7 +544,6 @@ Heidelberg: Springer, 2006, p.16-31,
 [^4]: Knud Böhle, Michael Rader, and Ulrich Riehm, ‘Electronic Payment Systems
     in European Countries: Country Synthesis Report’, Forschungszentrum
     Karlsruhe*,* September 1999,
-    [http://www.itas.kit.edu/pub/v/1999/boua99b.pdf](stylesWithEffects.xml).
 
 [^5]: E.K. Clemons, D.C. Croson, and B.W. Weber, ‘Reengineering Money:
     The Mondex Stored Value Card and Beyond’, in *Proceedings of the
@@ -559,13 +555,11 @@ Heidelberg: Springer, 2006, p.16-31,
 [^7]: Peter L-, ‘Mondex’, in *Encyclopedia of Cryptography and Security* (ed.)
     Henk C.A. van Tilborg, Berlin and Heidelberg: Springer, 2005, p.
     394,
-    [http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7\_262](settings.xml).
 
 [^8]: Gerhard Schellhorn et al., ‘The Mondex Challenge: Machine Checked Proofs for
     an Electronic Purse’, in Jayadev Misra, Tobias Nipkow, and Emil
     Sekerinski (ed.) *FM 2006: Formal Methods*, Lecture Notes in
     Computer Science 4085, Berlin and Heidelberg: Springer 2006, pp.
-    16-31, [http://link.springer.com/chapter/10.1007/11813040\_2](webSettings.xml).
 
 [^9]: Thomas Haug, ‘A Commentary on Standardization Practices: Lessons from the
     NMT and GSM Mobile Telephone Standards Histories’,

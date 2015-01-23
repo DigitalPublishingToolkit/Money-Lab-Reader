@@ -622,7 +622,7 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 
 [^3]: For example, BRAC developed their ‘graduation model’ to ‘graduate
     the poorest from ultra-poverty’,
-    [http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest.](stylesWithEffects.xml)
+    [http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest.](http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest.)
     Fonkoze in Haiti bases their Chemen Lavi Miyò program on this model,
     [*http://www.fonkoze.org/what-we-do/step-1-clm/*](settings.xml).
 
@@ -681,7 +681,7 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 
 [^18]: Tate Watkins, ‘Overselling Mobile Money in Haiti’, *Haiti
     Rewired*, 11 June 2012,
-    [http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&commentId=4920407%3AComment%3A78008&xg\_source=activity](theme/theme1.xml).
+    [http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&commentId=4920407%3AComment%3A78008&xg\_source=activity](http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&commentId=4920407%3AComment%3A78008&xg\_source=activity).
 
 [^19]: See
     [*http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm*](http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm).
@@ -741,7 +741,6 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 
 [^31]: Privacy is also a growing issue, especially in cases where people
     must supply biometric information to register for financial products
-    such as bankcards. See [http://www.usaid.gov/results-data/success-stories/biometric-technology-improves-financial-services](http://www.usaid.gov/results-data/success-stories/biometric-technology-improves-financial-services).
 
 [^32]: Anke Schwittay, ‘The Marketization of Poverty’, *Current
     Anthropology* 52.3 (2011): 71-82.
