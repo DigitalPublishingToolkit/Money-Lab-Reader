@@ -17,11 +17,10 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Foreword to the MoneyLab Reader
+# When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to the MoneyLab Reader
 
 ### Saskia Sassen {.author}
 
-When Money Becomes an Extraction Tool Rather Than Exchange Medium.
 
 MoneyLab is an exciting and strategic project. The diversity of
 contributions to this volume is exceptional and promising. It is
@@ -136,12 +135,6 @@ countries: the large scale direct and indirect appropriation of the
 income of households and of modest firms to finance the profit-seeking
 aims of corporations.
 
------------------------------------------
-
-BYLINE:
-
 Saskia Sassen, Columbia University. Many of the points raised in this
 preface are fully developed in her new book *Expulsions: Brutality and
-Complexity in the Global Economy*.
-
---------------------------------------------------------
+Complexity in the Global Economy*, Harvard University Press, 2014.
