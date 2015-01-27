@@ -78,7 +78,7 @@ they were (family and friends? acquaintances? strangers?); how they were
 reached (via social media, face to face, email, or formal meetings), as
 well as the average financial contribution received.
 
-![Fig. 1: Time invested in the crowdfunding campaign.](media/Images_Irina/GabrieleColombo_fig1.jpg)
+![Fig. 1: Time invested in the crowdfunding campaign.](media/Images_Irina/image1.jpg)
 
 The upper figures represent number of hours invested. The lower figures
 represent the number of responses. The amount of time people invested in
@@ -86,7 +86,7 @@ a campaign was on average between ten and fifteen hours a week, but a
 tenth of all respondents worked on their campaign over 30 hours a week.
 
 ![Fig. 2: The main activities of the crowdfunding process and the time
-invested in them.](media/Images_Irina/GabrieleColombo_fig2.jpg)
+invested in them.](media/Images_Irina/image2.jpg)
 
 The figures in the circles represent the number of responses. Here it
 becomes obvious that most of the time of a campaign (almost half) is
@@ -95,21 +95,21 @@ dedicated expertise in this field and instead needed to perform the task
 themselves.
 
 ![Fig. 3: Who funded the campaigns? The segmentation of funders according
-to their relation with the campaigner.](media/Images_Irina/GabrieleColombo_fig3.jpg)
+to their relation with the campaigner.](media/Images_Irina/image3.jpg)
 
 An interesting outcome was that we could see who the funders were. The
 majority of funders were close relatives. Thus the idea of an anonymous
 crowd helping with one’s campaign seems to be questionable.
 
 ![Fig. 4: Types of external help received or needed during the
-crowdfunding campaign.](media/Images_Irina/GabrieleColombo_fig5.jpg)
+crowdfunding campaign.](media/Images_Irina/image5.jpg)
 
 Figures represent number of responses. The figures show 1/3 needed
 external help in their campaign, mainly on research on how to develop
 different aspects of the campaign.
 
 ![Fig. 5: 35 out of 60 respondents would crowdfund again. Figures
-represent numbers of responses.](media/Images_Irina/GabrieleColombo_fig6.jpg)
+represent numbers of responses.](media/Images_Irina/image6.jpg)
 
 ## Visualizing Crowdfunding Platforms
 
@@ -147,12 +147,12 @@ according to the following data:
 -   The average number of funders for a successful campaign.
 
 ![Fig. 7: The interactive visualization – the legend that explains the
-visual encodings.](media/Images_Irina/GabrieleColombo_fig7.jpg)
+visual encodings.](media/Images_Irina/image7.jpg)
 
-![Fig. 8: The Toolkit’s filtering and sorting options.](media/Images_Irina/GabrieleColombo_fig8.jpg)
+![Fig. 8: The Toolkit’s filtering and sorting options.](media/Images_Irina/image8.jpg)
 
 ![Fig. 9: The results displayed after opting for the filter and sorting
-options in Fig. 8.](media/Images_Irina/GabrieleColombo_fig9.jpg)
+options in Fig. 8.](media/Images_Irina/image9.jpg)
 
 ## In Closing: Critical Comments on the Future of Crowdfunding Platforms
 
