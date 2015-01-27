@@ -172,7 +172,7 @@ also support uniforms, bullet-proof vests, camouflage gear and other
 badly needed supplies for the Ukrainian militia, helping them be better
 prepared in literally, a war zone.
 
-[image Ukrain Drone]
+![](media/Images_Ridgway/image1.jpg)
 
 ## Civic Crowdfunding 
 
@@ -333,7 +333,7 @@ economy through social media. The trust that is acquired in digital
 reputation through crowdfunding enables other people to support others’
 projects and builds up the collective return.
 
-[image: License]
+![](media/Images_Ridgway/image2.jpg)
 
 ## Non-Monetary Contributions
 
@@ -358,7 +358,7 @@ of the word but also producers and contributors.
 
 ## The Social Coin
 
-[image Social Coin]
+![](media/Images_Ridgway/image3.jpg)
 
 Utilizing an outlook on expanding the development of alternative
 currencies, Goteo also hopes to put into practice a personal wallet for
@@ -395,7 +395,7 @@ ethical endeavor and why are citizens once again paying for the
 protection of their savings? The state could have supported free
 litigation already financed from taxpayers’ money.
 
-[image: Saber]
+![](media/Images_Ridgway/image4.jpg)
 
 ## Monetization of Social Relations
 
