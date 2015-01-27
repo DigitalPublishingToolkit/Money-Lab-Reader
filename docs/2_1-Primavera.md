@@ -16,13 +16,6 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-<!-- Issues:
-
-Formula not formating well:
-Total number of sabirs (Maya) = 125 \* $\frac{SV(WP)}{12,500}$ + 200 \*    $\frac{SV(CC)}{5,000}$ = 15 + 40 = 55 sabirs
-
--->
-
 # Measuring Value in the Commons-Based Ecosystem: Bridging the Gap Between the Commons and the Market 
 
 ### Primavera De Filippi and Samer Hassan  {.author}

@@ -546,6 +546,5 @@ Velasco, Akseli Virtanen, Beat Weber.
 ISBN: 978-90-822345-5-8 (print)
 ISBN: 978-90-822345-6-5 (EPUB)
 
-<!--Logo’s: -->
 
 INC | HvA | Warwick University | Amsterdam Creative Industries Network |

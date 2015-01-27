@@ -16,12 +16,6 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-<!--
-No images:
-[image ... ]
-
--->
-
 # Crowdfunding the Commons?
 
 ### Renée Ridgway {.author}
