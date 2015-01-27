@@ -1,0 +1,2293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic Link" Name="Italic Link" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Strikeout" Name="Strikeout" StrikeThru="true">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Free Money Movement</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Jim Costanzo</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Aaron Burr Society (ABS) launched the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Free Money Movement</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> on Wall Street on April Fools Day 2009. ABS was inspired by the bailout of Wall Street banks after the 2008 international financial meltdown. A small group of videographers and performers joined ABS on the mall between the New York Stock Exchange and the Federal Building where George Washington was sworn in as the first president. From there the group marched a few blocks north to the Federal Reserve Bank, then to the Museum of American Finance, and returned to where we began.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The goal of the performance was to distribute 100 one dollar bills stamped with </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Free Money</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> on one side and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Slave of Wall Street</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> on the other. ABS’s website</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>www.aaronburrsociety.org</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> was also stamped on the paper currency, actual Federal Reserve Notes. The goal was to raise awareness of the predatory nature of capitalism and the Wall Street agenda of deregulation, fraud, and bailouts.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_1_A.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Later in the year, ABS printed </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Revolutionary Script</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> using a letterpress to print on hemp paper. The </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Script</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, outlining philosophical and policy statements, intended to question and suggest alternatives to capitalist monetary control. The document was printed on both sides; the front promotes nationalizing the Federal Reserve Bank (the Fed) by eliminating private bankers who run the national bank. Other aspects included giving no-interest loans to the people instead of to Wall Street and calling for a commonwealth based on the 21st century concept of the commons.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>While this is an abstract concept with no set definition, most would agree that it is about establishing local autonomy and economic independence based on universal human rights. Worker, food, and farming coops, local green energy production, open source software and direct democracy are often cited as part of the commons.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> It advocates for ‘Democracy Not Hamiltonian Plutocracy’, a reference to Alexander Hamilton, America’s first Treasury Secretary. Hamilton, founder of the First National Bank, introduced the United States to an early form of British capitalism. ABS’s namesake, Vice-President Aaron Burr, killed Hamilton in a duel, and although Burr’s political career eventually ended badly, after killing Hamilton he returned to Washington DC, and finished his term as Vice-President.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_2_A.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_2_B.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>ABS continues to distribute </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Free Money</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> using a viral strategy that circulates stamped bills through monetary exchanges in bars and shopping in assorted venues. During Occupy Wall Street (OWS), ABS added an </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>OccupyWallSt.org</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> stamp. Thousands of dollars have been spent across the U.S. and in 2012 ABS was invited to the 7th Berlin Biennale as part of Occupy Museums and distributed stamped Euros.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_3_A.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_3_A.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In 2014 ABS added a </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Common Good/Commonwealth</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> stamp which alternates with </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Slave of Wall Street</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, while the opposite side is always </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Free Money</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. The latest addition provides a comparison between giving money to Wall Street and the 1 percent, or using our commonwealth to invest in the common good.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_4_A.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_4_B.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Though founded before the corporate sponsored Tea Party, ABS’ goal was to counter long-standing conservative strategies that distort history by conflating liberty and nationalism with capitalism. From the beginning, the plan was to present an alternative American history from a radical, populist perspective, informed by Marx and emerging theories on the commons. Though ABS started as an absurdist, conceptual public artwork, it has always taken great care to be factually accurate. We have exercised poetic license with terms like </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Free Money</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, but the issues addressed are serious.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Genesis</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Those who control the present, control the past and those who control the past control the future.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>George Orwell, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>1984</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Signet Classic, 1977 (1949).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>– George Orwell, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+      <Content>1984</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>ABS originated in the spring and summer of 2008, just before the crash of the international financial markets, but it was a sign placed in front of the New York Stock Exchange in 1992 that forms the basis of ABS’s philosophy. REPOhistory’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Lower Manhattan Sign Project</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> included an artwork that I created titled </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Advantages of an Unregulated Free Market Economy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. The text on the back of the sign read:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_5_.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Myth:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Traders and brokers jumped from Wall Street skyscrapers after losing their fortunes in the 1929 stock market crash.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Reality:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> No suicides occurred in the Wall Street area immediately after the 1929 crash. Brokers and traders make a profit for each transaction regardless if the market goes up or down. Investors lost money. The real losers were workers who lost their jobs in the Depression.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Facts:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In the late 19th century, the 1920s, and 1980s, conservative government policy manipulated the market economy which led to artificial economic booms that transferred the wealth of the nation to the top 1% of the population. In each era these policies caused crashes and depressions.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>During the 1980s while corporations and the rich became substantially richer, the standard of living for working and middle class Americans fell.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Leveraged buyouts, hostile takeovers, insider trading, junk bond scandals and Savings and Loan frauds were all aided by administrations that opposed government regulation of financial markets. Other government policies encouraged industrial deregulation, an increase in personal and national debt, high interest rates, and lower taxes for the rich and corporations.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>These policies have undermined America’s industrial and financial institutions. The middle and working classes will spend the 90s paying for the excesses of the 80s.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Armed with the knowledge gained from my research, the looming economic crash of 2008 was obvious. In June of that year, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Harper’s Magazine</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> published my letter to the editor in response to an article about how environmental sustainability would be financed by the next bubble.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Toil and Trouble</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘“The Next Bubble” [Report, February] provides an excellent summary of business cycles and the forces that drive them, but Eric Janszen fails to make one crucial point: the economic bubbles we have experienced were not victimless crimes committed by nameless perpetrators but deliberate strategies to drive wealth to the top of the economic pyramid. In each and every case, these bubbles have been abetted by government deregulation and even fraud, and have ultimately served to widen the income gap between the rich and poor.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The real estate bubble targeted African Americans and other minorities and is an especially egregious example of this phenomenon. Alan Greenspan, who was warned about predatory lending tactics, did nothing to curb such practices even as he dropped interest rates to unprecedented lows. But Greenspan isn’t alone in his culpability: at the height of the bubble, Congress passed laws on credit and bankruptcy that undermined borrowers’ ability to cope with debt. A close reader of this legislation might be excused for assuming these laws were created with the intent to maximize ill effects if and when the bubble burst.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lastly, as our economy descends into chaos, no one should forget the personal contribution of President George W. Bush to our financial disaster. Given the current state of affairs, his promise to replace traditional government welfare programs with a new social order, the “Ownership Society”, has proven absurd at best, and at worst criminal.’</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Harper’s Magazine, June 2008</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Little has changed but the names since I wrote the letter, while the neo-liberal economic programs continue. After trillions of dollars spent on bailouts, quantum easing is still giving banks $85 billion a month, keeping the current bubble inflated. The gap in income between the 1 percent and the 99 percent is at an historic high and increases daily.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Following the letter to </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Harper’s Magazine</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, I began performing on Wall Street. Wearing a two-sided sandwich board sign, I began panhandling. The sign, which formed the basis of ABS, proclaimed that I was trying to raise $100,000 to attend a political fundraising event so that I could buy a politician. The ABS is called after Vice-President Aaron Burr who killed fromer Treasury Secratery Alexander Hamilton in a duel. Hamilton was America’s first capitalist and he created the first National Bank. But I also remembered Gore Vidal’s historical novel </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Burr</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> where Burr is described as a sympathetic though complicated character, not as the villain of the early Repbulic. I later learned that Burr was a radical who supported the French Revolution and a more democratic government at home. For these and other reasons, Burr turned out to be a unique prism through which to reexamine American history.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+    <Content>Dedicated to Exposing the Myths of Free Markets and Free Trade While Challenging the Integrity of Wall Street and their Corporate Cronies</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Aaron Burr Society motto</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_6_.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Historically the policies of Wall Street and King George, though different, are similar in that the king used corporations like the East Indian Company to extract wealth from the colonies. But because of distance and length of time involved in communications, the colonies had a certain degree of autonomy. The American Colonies could issue paper currency to facilitate local trade and commerce. In 1729 Benjamin Franklin published a pamphlet about the importance of paper currency,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Benjamin Franklin, ‘Enquiry into the Nature and Necessity o/ a Paper Currency</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 1729.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> not only for trade and commerce, but also for the workers, craftsmen, and small shop owners. Paper money, or fiat currency, was one of the reasons that the colonies were prosperous. After the French and Indian War of 1754-1763, the British government passed the Currency Act of 1764, limiting the Colonies’ right to issue currency as legal tender by making that the exclusive right of the Bank of England. This, more than the Stamp Act or taxes on tea and other goods, transformed the Colonies from prospersous settlements to communities in debt and struggling to survive.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>After the Revolution, under the Articles of Confederation, individual states returned to issuing paper money to help farmers and workers pay their debt. At this time states were under pressure to help their citizens because financial speculation on Revolutionary War Bonds was an important reason for raising taxes. Shays’ Rebellion (1786-87) was the first instance of armed rebellion based on debt.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The crisis of the 1780s was most intense in the rural and relatively newly settled areas of central and western Massachusetts. Many farmers in this area suffered from high debt as they tried to start new farms. Unlike many other state legislatures in the 1780s, the Massachusetts government didn’t respond to the economic crisis by passing pro-debtor laws (like forgiving debt and printing more paper money). As a result local sheriffs seized many farms and some farmers who couldn’t pay their debts were put in prison.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>U.S. History: Pre-Columbian to the New Millennium, ‘15a Shay’s Rebellion’, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.ushistory.org/us/15a.asp</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>One of the most important reasons that the Constitution replaced the Articles of Confederation was to end the pro-debtor laws passed by individual states. James Madison, the primary author of the Constitution, was often quoted saying the Constitution would insure that the ‘right people’ would retain power. Or as Madison wrote in Federalist Paper #10, ‘A rage for paper money, for an abolition of debts, for the equal division of property, or for any other improper or wicked project, will be less apt to pervade the whole body of the Union...’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Federalist No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Publius [James Madison], 22 November 1787, Constitution Society, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.constitution.org/fed/federa10.htm</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The Constitution guaranteed that </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>wicked projects</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> like economic and social justice were not to be tolerated.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Weeks before Washington took office as the first president, John Scull, the printer, editor, and publisher of the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Pittsburgh Gazette,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> wrote this editorial:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Framers of the Constitution bestowed the most watchful attention to prevent you from enjoying, under it, at any future time, an opportunity of expressing your sentiments of it by an equal representation. They provided no other mode of reformation than the inadequate and unequal one of a council of censors. Amendments to the Constitution requires a two-thirds majority.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See John Scull, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Pittsburgh Gazette</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 16 May 1789.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This editorial laid the foundation of the Whiskey Rebellion of 1791 that was sparked by Constitution and later fanned by Hamilton’s capitalist policies.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Money is a form of social exchange. That is why we must look to the Constitution since it defines and regulates economic, social, and political exchange. The Constitution set the legal bases for the Supreme Court’s Citizens United ruling that gave corporations the rights of citizens and a 2014 decision that Argentina must first pay hedge fund speculators before paying for education, health care, and infrastructure.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Ellen Brown, ‘Cry for Argentina: Fiscal Mismanagement, Odious Debt or Pillage? The Web of Debt Blog</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 12 August 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Another example is a Detroit judge ruling that debtors who did not pay their bills have no right to water.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Rebecca Savastio, ‘Detroit Judge Rules There Is No Basic Human Right to Water’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Guardian Liberty Voice</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 1 October 2014,</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> These rulings illustrate that the Constitution values property rights over human rights. To write a Constitutional Amendment that bans corporate citizenship will not change the relationship between creditors (the minority) and debtors (the majority).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Our collective wealth, our commonwealth, is not </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Free Money</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> but what is rightfully ours. The purpose of the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Free Money</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Movement is pedagogical, designed to enlighten people. The Constitution protects the rights of creditors who break the law to entrap debtors. That is why the Declaration of Independence, though flawed, must supersede the Constitution. This collectively written manuscript calls for universal human rights beyond the boards of the original thirteen American colonies. It declares all </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Strikeout">
+    <Content>men</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> people are created equal and has the right to life, liberty and the pursuit of happiness. This call was taken up and modified by the French and the Haitian Revolutionaries. These Enlightened ideals are linked to The Universal Declaration of Human Rights, a declaration adopted by the United Nations General Assembly in 1948.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Whiskey Rebellion of 1791-1794</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_7_.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Before Marx there was opposition to the emerging economic system that would later become know as capitalism. After the American Revolution, there were five armed rebellions against the newly formed republic. Shays’ Rebellion is the best known, but the Whiskey Rebellion was the most significant. The Whiskey Rebels were centered in the Western Frontier of Pennsylvania. They rebelled against financial speculation and a two-tiered economic and tax system that privileged the wealthy and a Constitution that valued property rights over human rights; slave-holding and limited voting rights to property-owning white males being just two examples.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_8_A.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_8_B.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The primary cause of all of the rebellions was speculation on war bonds that led to high taxes, which often resulted in foreclosures. The Federal government’s assumption of the individual state’s debt was actually a bailout of speculators who bought war bonds for pennies on the dollar. Hamilton insisted that speculators, not the soldiers or framers who earned the bonds, would receive face value for bonds they spent pennies acquiring. This was a huge, unearned profit that set a precedent for 2008 Wall Street bailout.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Other examples of Hamilton’s economic and tax system involved the tax on whiskey. Whiskey was taxed according to the volume of the still, not on the actual production. So if a small farmer had a 10-gallon still, she would pay the same taxes as a slave or factory owner. The farmers in Western Pennsylvania were limited in the amount of time dedicated to producing whiskey by the amount of other work needed to run a family farm. Slave and factory owners could run their stills seven days a week and could afford the tax that was impossible for the small farmers to pay. The secondary purpose of the tax was to stop local production and promote large manufacturers, an essential aspect of capitalism.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Western Pennsylvanian farmers couldn’t afford the cost of shipping grain east over the mountains but shipping whiskey was profitable. By using their own labor to transform grain to whiskey, farmers usurped capital’s power. And whiskey was also used as a form of local currency similar to paper money.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Secretary of Treasury Hamilton’s two-tied economic policies replicated British capitalist programs imposed on the colonies. This included the establishment of the First National Bank, a precursor to the current Fed. Working in conjunction with the Constitution’s Article 1 Section 10 that took away individual state’s rights to create money, the National Bank controlled the monetary system just as the Bank of England before the Revolution.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>After the rebels surrendered, John Skull’s name was taken off the masthead of the Pittsburgh Gazette during the American Army’s occupation. Months later his name returned and he wrote this editorial:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>True liberty, like true religion, is known by its fruits. Liberty, the daughter of Heaven, and the best gift of God to a favored people, a generous principle, whose object is the peace and prosperity of the human race; must produce fruits worthy of the divine origin; meekness, justice and love of one another. Licentiousness, the offspring of hell, and the scourge of an offending nation, selfish in its nature, and seeking the degradation of all but itself, bears fruits of an opposite nature; sedition, fury, hatred, malice and mischief. By its fruits judge, whether our insurrection proceeded from a spirit of liberty, or of licentiousness; whether it was the work of God or the Devil.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Pittsburgh Gazette</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Pittsburgh, Pennsylvania, 17 December 1794.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Skull, like many of the founders, was a Deist so the reference to god was metaphorical. But the Devil was Hamilton and capitalism.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_9_A.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_9_B.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Secretary of State Thomas Jefferson would resign because of Hamilton’s economic policies. Later Jefferson asked former U.S. Senator Aaron Burr to be his running mate as Vice-President in the 1800 election. Burr left the Senate and returned to New York City to organize against fellow New Yorker Hamilton and the Federalists. By 1799 Burr had created the Manhattan Company to bring clean water to New York City during a yellow fever epidemic. But instead of taking profits, Burr used the surplus capital to give loans to the working classes, shop keeps and others denied credit by Hamilton’s New York State banking monopoly. Burr also passed a law allowing inexpensive land coops that permitted the working classes to own property and vote.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>These actions catapulted Burr to a tie with Jefferson. Jefferson immediately turned against Burr because he was a threat to Jefferson’s next term. Burr was also against slavery and Jefferson wanted fellow slave-owners James Madison and James Monroe to follow him in office. Burr’s radical politics had made enemies of Hamilton’s bankers and Jefferson’s slave-owners. Together they destroyed Burr’s political career and personal reputation.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Though largely forgotten, the lessons from the Whiskey Rebellion, the Manhattan Company and the politics of land coops are important. Local communities need political power to access capital as a means of social exchange. This can empower local communities to produce their own food, energy and other daily necessities based on mutual aid and direct democracy, conditions that were common to early frontier communities and are important for contemporary communities. These types of communities can resist capitalism’s demand for endless growth and the destructive extraction of resources on a finite planet. Capitalism only values profits, not people, communities or the environment. Capitalists are responsible to stockholders, not citizens or governments. People and the environment are liabilities or expenses that must be repressed or destroyed for profits. That is why we must move beyond capitalism to empower people and communities based on mutual aid and autonomous production.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Multiple Paths to the Commons</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>ABS is still active with OWS working groups Strike Debt,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://strikedebt.org</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Making Worlds, a Commons Collation and occasionally Occupy Museums. Strike Debt published the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Debt Registers’ Operation Manual</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Strike Debt, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Debt Resisters’ Operation Manual</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Brooklyn, NY and Oakland: Common Notions/PM Press/Autonomedia, 2014.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and launched the Rolling Jubilee.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Rolling Jubilee,</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Manual</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> informs debtors about their rights and forms of resistance both for individual and government debt. There is also a chapter on ‘Climate Debt</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, the debt industrial nations owe to the developing world for creating the pollution that causes climate change. The Rolling Jubilee purchases personal debt that is in default and sold to vulture capitalists for pennies on the dollar. The vulture capitalist then try to collect the full amount of the debt by harassing the debtors, a practice that goes back to Revolutionary War bonds. Rolling Jubilee has raised over $700,000 to purchase and abolish $18.5 million of defaulted debt without any obligations from the liberated debtors. Though $18.5 million of debt is a large sum, it is nothing compared to the trillions of dollars of debt owed by individuals and the state. The purpose of Strike Debt and Rolling Jubilee is to raise awareness of the predatory nature of debt and to build a debt resisters movement. Making Worlds has produced two international forums on the commons. The range of topics is broad and based on building alternative structures within capitalism that are transformative. They include land trusts; worker, energy, and food coops; creating collations that protect the environment; open source software and collective use of technology.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_10_A.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_10_B.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>An article twice this length would be needed to describe the activities of these working groups, so I will stay focused on monetary policy. Please be aware that I do not speak for OWS or any working group. However, I have represented different working groups at public venues including Strike Debt at the 2013 Public Banking Institute conference Funding the New Economy.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>OWS exposed the half public, half private nature of Zuccotti Park, which is actually the central contradiction of capitalism. Adam Smith’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Wealth of Nations</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> proposed that the state should create infrastructure, promote commerce, and then allow entrepreneurs to use Free Markets and Free Trades for personal profits.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>America’s first Treasury Secretary, Alexander Hamilton, didn’t believe in Free Markets or Free Trade.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Susan Dunn (ed.) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Something That Will Surprise the World: the Essential Writings of the Founding Fathers</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Basic Books, 2006.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Hamilton bailed out speculators and placed tariffs on imported manufactured items in order to protect emerging American industries. He did use tax dollars to build infrastructure but he chose who would profit. Capitalism has never actually relied on the invisible hand of the market but is based on usurping tax dollars and exploiting government programs to build private fortunes. Neither IBM, AT&amp;T, nor any consortium of companies, had the resources to develop the computer which was bankrolled by government contracts and research financed by taxes. Cell phone technology was developed by government research grants to universities. And corporations profit from technological advances from the military and space programs. Private corporations are allowed free access to technology that is paid for by the people’s commonwealth without paying fees or their fair share of taxes. Since the end of World War II, approximately half of the U.S.’s budget has been spent on the Military Industrial Complex that funnels vast sums of money to private contractors. If half of the budget is controlled by government programs are there really Free Markets? And can anyone actually argue that there is Free Trade in light of the number of declared and undeclared oil wars in the Middle East?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>After WWII the U.S. assumed leadership of the ‘Free World’ because of its military power and the British Empire’s default on its war debt. The 1944 Bretton Woods Agreement established the U.S. dollar as the reserve currency and created the International Monetary Fund (IMF) and World Bank to protect the dollar. The reserve currency requires other nations to hold a significant quantity of U.S. dollars as part of their foreign exchange reserve and that the U.S. dollar is used in international transactions.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>The BRIC nations are challenging the supremacy of the U.S. dollar but they are also capitalist nations and will not change power relationships.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Money is power and the dollar works with overwhelming militarily superiority to enforce the rule of the American Empire.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>At home the U.S. companies have their taxes reduced by shipping jobs oversees. The state uses tax payers’ money to subsidies corporations for building shopping malls dominated by transnational corporation that are also subsidized. These corporations and monopolies couldn’t survive without government support. Abroad the American Empire and its industrial allies use the IMF and the World Bank to place developing countries in debt, a tactic with a history. Haiti is still paying reparations, or debt, to France from their slave rebellion in 1791.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Kim Ives, ‘Haiti: Independence Debt, Reparations for Slavery and Colonialism, and International Aid’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Global Research, Haïti Liberté</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 10 May 2013.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This type of odious debt is the legacy of colonialism, imperialism, and current neo-liberal policies. This is different but parallel to the odious debt imposed on the citizens of the industrial world from the 2008 international financial meltdown that resulted in tens of trillions of dollars in bailouts paid for by taxes on working people and cuts to social programs. Odious debt</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>International Monetary Fund, ‘Odious Debt’,</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, also known as illegitimate debt, is an international law theory that holds that national debt, sustained by a regime for purposes that do not serve the best interests of the nation, should not be enforceable.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In 2012 between $20 and $30 trillion went to offshore accounts that paid no taxes and did not create jobs.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Democracy Now, ‘Exhaustive Study Finds Global Elite Hiding Up to $32 Trillion in Offshore Accounts’, 31 July 2012.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In addition the stock markets and corporate profits are at record highs while governments demand austerity. ‘Large-scale tax evasion skews key economic statistics, it hampers officials’ ability to manage the economy or make policy.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Jacques Leslie, ‘The True Cost of Hidden Money A Piketty Protégé’s Theory on Tax Havens’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The New York Times</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 15 June 2014,</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Tax evasion and odious debt has enriched transnational corporations and the 1 percent while crippling the global economy. This is why austerity is a lie; this is why debt resistance is necessary to break the political and economic oppression created by deregulation and fraud.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cities across France have started debt audits to uncover odious debt </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Strike Debt, ‘“Don’t Owe, Won’t Pay!” A Conversation with a French Debt Resistor’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 24 June 2013,</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>and Argentina has just passed a law establishing a debt audit commission.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Jubilee Debt Campaign, ‘Argentina Passes Law To Establish Debt Audit Commission’, 1 October 2014,</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> However, debt resistance is just the first step, there are thousands of roads necessary to end capitalism but, as previously stated, ABS is focused on monetary policy. This is not to imply that this is more import than other strategies but to end capitalism we must control capital.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The transnational Participatory Budgeting movement is a different way to manage public money, and to engage people in the political process. It is a democratic process in which community members directly decide how to spend part of the public budget.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Participatory Budgeting Project,</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ABS supports Participatory Budgeting, but ABS believes that we must look at the entire budget and combine debt audits with participatory budgeting. We must examine national, state/regional, and local government budgets and go beyond auditing odious debt to learn what portion of taxes is used in supporting corporations and monopoly practices. This would allow an accurate comparison between transnational corporate production and the cost of local production by worker coops and small businesses. However, the fact that corporate capitalism has created great inequities and is destroying the environment must be measured. And it should also be noted that emerging trends in technology favor small, customized production, with 3D printing as just one example.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Another parallel strategy would be the establishment of government or socialist banks. The Public Banking Institute is campaigning to create state banks similar to the Bank of North Dakota. The institute also support the reinstatement of U.S. Post Office banks that were terminated in the 1960s</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Records of the Post Office Department,</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Though ABS supports the Public Banking Institute, there must be additional forms of redistributing the commonwealth. Former congressman Dennis Kucinich proposed a bill to nationalize the Fed titled the NEED Act, HR 2990.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>National Emergency Employment Defense Act of 2011 [NEED Act, HR 2990],</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This bill would have placed the Fed, which is owned and run by private bankers, inside the Treasury Department and replaced private bankers with civil servants. The goal was to take Wall Street’s profits an turn them into a people’s equity that would pay for health care, education and building local infrastructure.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_11_A.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_11_B.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_11_C.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Again, ABS agrees with the NEED Act but advocates expanding its mission. The nationalized Fed should directly finance community-based infrastructure built by members of those communities. All transactions and policy decisions must be transparent and posted online. The goals should go beyond building and maintaining roads and schools to refitting existing structures for environmental sustainability. All buildings and homes should produce energy and be connected to a public national smart grid. Larger state owned green power generation could supplement local power generation. Of course the state and corporations say this would be too expensive but is that true? There are trillions of dollars in private, offshore accounts, and unknown amounts of money given as subsidies to transnational corporations. Add this to the cost of unending oil wars and the increasing damage from climate driven super storms. We are not limited by economics but by a failed political economy that protects existing class and economic structures.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Fig. 12: Aaron Burr Society poster for performance series at Pine Box Rock Shop in Bushwick Brooklyn, 2014.</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Every school child should be taught the relationship between governments and the different forms of monetary exchange and production, not only in theory but also as practiced in their communities. In addition to understanding budgets, this would empower people to make informed decision that are currently impossible. Psychologically this has the potential to reconnect those who have been disenfranchised and politically disengaged.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In his concluding lines of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Capital in the Twenty-First Century</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Thomas Piketty writes:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Yet it seems to me that all social scientists, all journalists and commentators, all activists in the unions and in politics of whatever stripes, and especially all citizens should take a serious interest in money, its measurement, the facts surrounding it, and its history. Those who have a lot of it never fail to defend their interests. Refusing to deal with numbers rarely serves the interest of the least well-off. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Thomas Piketty, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Capitalism In The Twenty-First Century</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, trans. Arthur Goldhammer, Cambridge, MA and London: The Belknap Press of Harvard University Press, 2014.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>After the 2008 financial meltdown, the world is drowning in debt. Most of the debt in the industrial world was created by government deregulation and Wall Street fraud working in conjunction with corporate capitalism. In the Global South it is the legacy of colonialism and current neo-liberal policies. As oceans rise with global warming, drowning in debt is no longer a metaphor. If we want environmental sustainability our solutions must be global and based on economic justice with universal human rights. Though I assume Piketty would disagree, refusing to pay odious debt is the first step that will undermine oppressive political hierarchies, but we must also create new systems of global infrastructure from the ground up, outside of the control of the 1 percent and their corporations. Nationalizing the international banking system, while at the same time establishing regional and local public banks, could be one of many important steps toward building an equitable transnational green economy under a system of direct democracy.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>References</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Beard, Charles A. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>An Economic Interpretation of the Constitution of the United States</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: The Macmillan Company, 1921.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Black, William K. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Best Way to Rob a Bank is to Own One: How Corporate Executives and Politicians Looted the S&amp;L Industry</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Austin, TX: University of Texas Press, 2005.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Brown, Ellen J.D. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Public Bank Solution: From Austerity to Prosperity</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Baton Rouge, Louisiana: Third Millennium Press, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bowers, Simon. ‘Iceland Rises From the Ashes of Banking Collapse: Populist Programme of New Government Includes a Squeeze on Foreign Creditors as Country Emerges From Years of Instability’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>, The Guardian</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 6 October 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Caffentzis, George. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>In Letters of Blood and Fire: Work, Machines, and the Crisis of Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> , Brooklyn, NY and Oakland: Common Notions/PM Press/Autonomedia, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Columbia Law School New York. ‘Law, Money and Public Service Series, Money Democracy And The Constitution’, Series 5</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>. Revolutionary Experience In The United States</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Speakers: Gillian Metzger, Christine Desan, Farley Grubb, Woody Holton, 25 January 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.modernmoneynetwork.org/seminar-5-constitutional-.html</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Columbia Law School New York. ‘Law, Money and Public Service, Money Democracy And The Constitution’, Series </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>7. Rent-Seeking, Instability And Fraud: Challenges For Financial Reform</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Speakers: Harvey J. Goldschmid, William K. Black, Michael Norman, Lynn E. Turner, 26 February 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://www.youtube.com/watch?v=BFk6epIveY8</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Costanzo, Jim. ‘Letter to the Editor’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Harper’s Magzine</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, June 2008.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Costanzo, Jim. ‘2nd Whiskey Rebellion’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>, Journal of Aesthetics &amp; Protest</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 2010, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.joaap.org/webonly/costanzo.htm</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Democracy Now. ‘Exhaustive Study Finds Global Elite Hiding Up to $32 Trillion in Offshore Accounts’, 31 July 2012, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Dunn, Susan (ed.). </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Something That Will Surprise the World: the Essential Writings of the Founding Fathers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Basic Books, 2006.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Federici, Silvia and George Caffentzis. ‘Commons Against and Beyond Capitalism’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Upping the Anti: A Journal of Theory and Action</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 15 (September 2013): 83-97.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Franklin, Benjamin. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Nature and Necessity of a Paper Currency,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 1729, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://etext.lib.virginia.edu/users/brock/webdoc6.html</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Graeber, David. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Debt: The First 5,000 Years,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Brooklyn, New York: Melville House, 2011.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Holmes, David L. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Faith of the Founding Fathers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Oxford University Press, 2006.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Holton, Woody. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Unruly Americans And The Origins Of The Constitution</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Hill and Wang, 2007.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Holton, Woody. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Forced Founders: Indians, Debtors, Slaves, and the Making of the American Revolution in Virginia</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Chapel Hill, London: University of North Carolina Press, 1999.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Isenberg, Nancy, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Fallen Founder: the Life of Aaron Burr</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Viking, 2007.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Kant, Immanuel, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>What Is Enlightenment?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> James Schmidt (ed.) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Philosophical Traditions 7</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Berkeley: University of California Press, 1996 (1784),</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Klein, Naomi. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Shock Doctrine: The Rise of Disaster Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Henry Holt and Company, 2007.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Leslie, Jacques. ‘The True Cost of Hidden Money A Piketty Protégé’s Theory on Tax Havens’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The New York Times</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 15 June 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mann, Geoff. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Dissembly Required: A Field Guide To Actually Existing Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Edinburgh, Oakland, Baltimore: AK Press, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>McCaleb, Walter Flavius. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Aaron Burr Conspiracy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, introduction: Charles A. Beard, New York: Wilson-Ericson Inc., 1936 (1903).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Morgan, Edmund S. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Benjamin Franklin</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. New Haven &amp; London: Yale University Press, 2002.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Orwell, George. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>1984</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Signet Classic, 1977 (1949).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Piketty, Thomas. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Capitalism In The Twenty-First Century</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, trans. Arthur Goldhammer, Cambridge, Massachusetts, London, England: The Belknap Press of Harvard University Press, 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ross, Andrew. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Creditocracy: And The Case For Debt Refusal</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York, London: OR Books, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Sitrin, Marina and Dario, Azzellini. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>They Can’t Represent Us! Reinventing Democracy from Greece to Occupy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London and New York: Verso, 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Skull, John. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Pittsburgh Gazette</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Carnegie Library, Pittsburgh, Pennsylvania, 16 May 1789.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>_____ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Pittsburgh Gazette</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Carnegie Library, Pittsburgh, Pennsylvania, 27 December 1794.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Strike Debt. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Debt Resisters’ Operation Manual</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Brooklyn, NY and Oakland: Common Notions/PM Press/Autonomedia, 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>_____ ‘“Don’t Owe, Won’t Pay!”: A Conversation with a French Debt Resistor’, 24 June 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://strikedebt.org/publicdebtaudits/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>_____ Rolling Jubilee, 30 August 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://rollingjubilee.org</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Taibbi, Matt. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Griftopia: A Story of Bankers, Politicians, and the Most Audacious Power Grab in American History</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Spiegel &amp; Grau, 2010.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>U.S. History: Pre-Columbian to the New Millennium. ‘15a Shay’s Rebellion’, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.ushistory.org/us/15a.asp</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wheelan, Joseph. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Jefferson’s Vendetta: The Pursuit of Aaron Burr and the Judiciary</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Carroll &amp; Graf Publishers, 2005.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ushistory.org/us/15a.asp" Name="link" DestinationURL="http://www.ushistory.org/us/15a.asp" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-17" Name="http://www.ushistory.org/us/15a.asp" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.ushistory.org/us/15a.asp</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rollingjubilee.org" Name="link" DestinationURL="http://rollingjubilee.org" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-16" Name="http://rollingjubilee.org" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://rollingjubilee.org</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://strikedebt.org/publicdebtaudits/" Name="link" DestinationURL="http://strikedebt.org/publicdebtaudits/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-15" Name="http://strikedebt.org/publicdebtaudits/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://strikedebt.org/publicdebtaudits/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0" Name="link" DestinationURL="http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-14" Name="http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://etext.lib.virginia.edu/users/brock/webdoc6.html" Name="link" DestinationURL="http://etext.lib.virginia.edu/users/brock/webdoc6.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-13" Name="http://etext.lib.virginia.edu/users/brock/webdoc6.html" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://etext.lib.virginia.edu/users/brock/webdoc6.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" Name="link" DestinationURL="http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.joaap.org/webonly/costanzo.htm" Name="link" DestinationURL="http://www.joaap.org/webonly/costanzo.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="http://www.joaap.org/webonly/costanzo.htm" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.joaap.org/webonly/costanzo.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.youtube.com/watch?v=BFk6epIveY8" Name="link" DestinationURL="https://www.youtube.com/watch?v=BFk6epIveY8" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="https://www.youtube.com/watch?v=BFk6epIveY8" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://www.youtube.com/watch?v=BFk6epIveY8</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.modernmoneynetwork.org/seminar-5-constitutional-.html" Name="link" DestinationURL="http://www.modernmoneynetwork.org/seminar-5-constitutional-.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://www.modernmoneynetwork.org/seminar-5-constitutional-.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.modernmoneynetwork.org/seminar-5-constitutional-.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse" Name="link" DestinationURL="http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/media/Images_Costanzo/Fig_12_A.jpg" Name="link" DestinationURL="media/Images_Costanzo/Fig_12_A.jpg" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="media/Images_Costanzo/Fig_12_A.jpg" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/media/Images_Costanzo/Fig_12_A.jpg</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://strikedebt.org" Name="link" DestinationURL="http://strikedebt.org" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://strikedebt.org" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://strikedebt.org</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/" Name="link" DestinationURL="http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.constitution.org/fed/federa10.htm" Name="link" DestinationURL="http://www.constitution.org/fed/federa10.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://www.constitution.org/fed/federa10.htm" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.constitution.org/fed/federa10.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ushistory.org/us/15a.asp" Name="link" DestinationURL="http://www.ushistory.org/us/15a.asp" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.ushistory.org/us/15a.asp" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.ushistory.org/us/15a.asp</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.goodreads.com/work/quotes/153313" Name="link" DestinationURL="http://www.goodreads.com/work/quotes/153313" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.goodreads.com/work/quotes/153313" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.goodreads.com/work/quotes/153313</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/styles.xml" Name="link" DestinationURL="styles.xml" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="styles.xml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/styles.xml</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

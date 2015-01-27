@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Go Crowdfund Yourself! Some Unintended Consequences of Crowdfunding for Documentary Film and Industry in the U.K.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Inge Ejbye Sørensen</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Since Kickstarter pioneered online crowdfunding in 2009, this form of financing has entered the mainstream as a way to co-fund projects, ventures, and startups. Today there are more than 95 crowdfunding sites in the U.K., up from 87 in 2013. Increasingly sites specialize in different industries, types of projects, and funding forms. For example, Kickstarter and Indiegogo are the largest pledge and reward-based platforms for creative projects; Seedrs caters for start up businesses; Sponsume innovators and social enterprises; and Gambitious connects game developers with investors. In 2013, £360 million was raised through a variety of crowdfunding models: donations, reward-based pledging, peer-lending, patronage, royalty and equity in the U.K. alone,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>This figure is the sum of equity, donations, reward-based, and revenue-sharing profit crowdfunding in this report by Liam Collins, Richard Swart, and Bryan Zhang, The Rise of Future Finance, London: Nesta, Berkeley and University of Cambridge, 2013.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and a study for Nesta estimates that this could rise to £15 billion per year within five years.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Nesta, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Consequently, this form of funding has won the attention of politicians, legislators, academics, and the business community. Barack Obama described crowdfunding as ‘game-changing’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Alex Fitzpatrick, ‘Obama Signs “Game-Changing” Crowd-Funding Jobs Act’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Mashable</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 5 April 2012, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://mashable.com/2012/04/05/jobs-act-signed/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and the U.S. and U.K. legislated for equity funding in 2012. This year, the EU is creating a pan-European workgroup to explore the potential and pitfalls of crowdfunding. These developments and the progressively more complex crowdfunding types and models, warrant a critical review that interrogates the intended and unintended outcomes of crowdfunding, here for documentary films and the documentary film industry.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The crowdfunding of creative productions has been analyzed by a growing number of scholars across disciplines. Florian Danmayr compares different funding platforms and the regulation and legislations surrounding them. Yet new issues around Intellectual Propert (IP) and co-ownership of crowdfunded projects continue to emerge, as for example the debates around who really owns the initially crowdfunded Oculus Rift (and consequently should benefit from Facebook’s $2 billion acquisition of) have illustrated.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Some of the implications of crowdfunding for IP are discussed by, for example, Nicholas Wells, ‘The Risks of Crowdfunding: Most Have the Best Intentions When It Comes to Crowdfunding an Ambitious Project, but Intellectual Property Issues, Ownership Rights and Perk Obligations Present Potential Hurdles to Making a Dream Become Reality’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Risk Management</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 60.2 (2013): 102, and John Reidl, ‘Crowdfunding Technology Innovation’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Computer</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 46.3 (2013): 100-103.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Similarly, Ordanini, Miceli, Pizzetti, and Parasuraman explore the motivations of crowdfunders on pledge and donation platforms, however, since legislation on equity funding has only recently come into force there is still much more work to be done in this area. The impact of crowdfunding practices, peer effects and crowd behavior on the success of projects has been explored by amongst others, Belleflamme, Lambert and Schwienbacher; Ward and Ramachandran; and Sørensen. However, few have considered the wider industrial and socio-economic implications of this funding form for existing and established industries and economies.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Similarly, crowdfunding in relation to specific art forms and audiovisual genres has received little academic attention. This despite the fact that different art forms clearly play out and perform differently, on distinct crowdfunding platforms, due to their inherent characteristics, production models, and the structure of their respective industries. For example, games outperform other genres across most pledge and donation-based platforms. This is possibly because the gaming community is closely affiliated with the online community, and because key stages of the development of a computer game can be showcased before its release. This allows games creators to spread out the crowdfunding campaign(s) to finance different stages of the production and also to increase donations by incorporating stretch goals in their campaigns. Film production also attract substantial crowdfunding across platforms, and the practice of offering investors in feature films ‘executive producer’ credits, has rolled out beyond Hollywood and translated into the crowdfunding platform Junction (jct.com) that specializes in equity financing of film for funders with a net worth of over $1 million U.S. dollars. Junction’s creator Dominic Patten sums up the rationale of the platform in this manner: ‘The real selling point here is the access and that the new Hollywood newbie investors get the same terms as the original investors.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Ben Child, ‘Tom Hanks Film Seeks Crowdfunding via “Kickstarter for the Rich” Site’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Guardian,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 27 March 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Furthermore, and in marked contrast to the popular conception of crowdfunding as creating an equal playing field for film makers and democratizing the film production process, the crowd seems to favor a less diverse group filmmakers and often prefer to support established talent with track records and name recognition.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Cf. Brabham’s, Mollick’s, Morozov’s and Sørensen’s research.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Documentary film budgets are often significantly lower than those of fiction films and Morozov and Sørensen have explored whether crowdfunding, as the hype will sometimes have it, could offer a lifeline to independent documentary film production in a time of declining budgets. However, as a funding model for documentary film, crowdfunding has the inadvertent consequence that only certain types of documentaries are funded. Typically the crowdfunder is more likely to favor high profile, issue-led films and polemical documentaries at the expense of, for example, investigative journalism, poetic-reflexive documentaries and drama-docs.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This body of research has been invaluable in explaining the dynamics and mechanics of crowdfunders and the crowdfunding process: the ‘front end’ of production. However, the story of audiovisual projects rarely ends with the finished product and each stage – development, financing, production, distribution, and exhibition – must be seen as an interconnected part of the dynamics of the documentary industry, economy and ecology. I will therefore shift the focus from individual films and filmmakers to explore the wider implications of crowdfunding for the documentary film distributors, film festivals, broadcasters as well as the documentary film industry at large. The scope of this paper is the documentary industry in the U.K. but there are similarities across countries in Europe and the U.S. I take a ‘follow the money approach’ and will make the case that in the final analysis it is not the crowd-funded documentary makers who benefit most from crowdfunding. This method of funding documentary content benefits and feeds into established funding and distribution models. It is the film festivals, distributors and broadcasters that gain and profit the most from such a system. Rather than providing an alternative to existing production and distribution structures, crowdfunding more often than not feeds into, supports and enforces traditional production and distribution paradigms and hierarchies.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In Defense of Crowdfunding</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For a nuanced perspective on the discourse around this funding form we need to take issue with more romantic popular perceptions and descriptions of online crowdfunding as democratizing documentary making, and allowing creative expression beyond the traditional gatekeepers – this is not to reject the idea of crowdfunding </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>per se.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Crowdfunding is not a new way to raise funds for films, but rather an online version of the patronage model that has funded all art forms throughout history. For instance Emile de Antonio’s 1968 Oscar winner </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>In the Year of the Pig</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> was funded through sponsor parties.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Jane Chapman and Kate Allison, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Issues in Contemporary Documentary</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge: Polity, 2009, p. 104.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Indeed online crowdfunders often describe themselves in philanthropic terms when they explain their reasons for donations.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>As noted by Ethan R. Mollick, ‘The Dynamics of Crowdfunding: An Exploratory Study’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of Business Venturing</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 29. 1 (2014), as well as Paul Belleflamme, Thomas Lambert, and Armin Schwienbacher, ‘Crowdfunding: Tapping the Right Crowd’, paper presented at the International Conference of the French Finance Association (AFFI), 11 May 2011.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In principle, using crowdfunding to support any creative endeavors that would otherwise struggle to come to fruition can only enrich cultural expressions across the world. Brilliant and compelling documentaries of global significance have been funded in this manner. Franny Armstrong’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Age of Stupid</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> is widely credited as one of the first documentaries to be crowdfunded and distributed online (in fact this film was funded through Spanner Film’s self-organized profit-sharing and peer-lending scheme and not through an online crowdfunding platform). Anthony Baxter’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>You’ve been Trumped</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, a documentary about the controversy surrounding Donald Trump’s development of a golf course in the Scottish Highlands, would not have been realized without several crowdfunding campaigns on Indiegogo. Initially, this film was rejected for funding from BBC and Channel 4, the U.K.’s two public service broadcasters (and the commissioners of the vast majority of documentaries in the U.K.), as well as from public film funding through the national arts funders Scottish Screen (now Creative Scotland) and the BFI (British Film Institute). Only after its completion, was the film acquired and shown on BBC’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Storyville</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> strand in the U.K.. It then won numerous prestigious international awards and was distributed across the world. In the U.S., where the public finding of documentary films is almost non-existent, the crowdfunded documentary </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Inocente</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> won an Oscar in 2013. Crowdfunding has also become a vital funding avenue in repressive or totalitarian regimes and countries where public funding is not awarded to dissenting or non-conformist film makers, or to documentaries with what is seen as subversive topics. In China Ai Weiwei funds his films through crowdfunding and in Turkey the LGBT community have crowdfunded a number of films to raise awareness and focus attention on the concerns of these groups. The world would indeed be a poorer place without these films.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It’s the Distribution, Stupid</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The reason we know about the documentaries previously mentioned is that while initially crowdfunded they were eventually broadcast, shown in festivals or distributed through traditional and established distribution channels. They featured in the press because they were reviewed, promoted by the distributors, broadcasters or festivals that screened them; because they won accolades at festivals; or were nominated for awards like the Oscars or BAFTAs.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>These crowdfunded documentaries benefitted from being picked up by traditional distributors and screened at established outlets in several ways. They increased their reach and audience numbers through being shown at festivals and aired by broadcasters. In addition to delivering bums on seats and eyeballs for the documentaries these organizations also have press departments, officers and PR machines that promote their programs and schedules, and, by extension, these films. The accolades and reviews that the PR departments of these institutions can ensure in turn serve to distinguish these documentaries from all the other films that are also made. This is further enforced by the cultural and symbolic capital attached to these traditional distributors and outlets: put simply it is still more prestigious to have one’s documentary on BBC than on YouTube, and a premiere at Sundance still has more traction than a pop-up screening. Moreover, filmmakers have to be screened at festivals to obtain formal industry and peer esteem, because films either need to have a cinematic release or be screened at feeder festivals in order to enter into competition for a BAFTA or an Academy Award. As a consequence, documentary makers naturally want their films to be shown at big-name festivals, in cinemas and on TV networks channels.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Documentary Economy and Ecology in the U.K.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On the surface this should be a win-win situation for documentary films and their makers: crowdfunding allows more documentary makers to make more documentaries, and some of these secure significant exposure through traditional outlets. However, there are several problems with this.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Declining Documentary Budgets</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the U.K. the majority of documentaries, 79 percent,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>PACT, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Pact Policy Survey and Financial Census 2009</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Oliver &amp; Ohlbaum Associates ltd., 2009, p. 14.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> are funded by the four terrestrial broadcasters who commission and upfront and outright fund 100 percent of the entire production. The broadcasters then have the right to show the documentary twice, after which the rights to the documentary return to the documentary maker. With this follows the rights to resell the documentaries to other broadcasters, international distributors or outlets like Netflix and Lovefilm. The British model of funding documentary films is different from most other European countries, for example Denmark where co-production and co-funding is the main form for funding films, and the US where deficit funding is the norm.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Gillian Doyle, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Understanding Media Economics</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 2nd edition, London: SAGE, 2013, pp. 111-114.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> However as the world’s second largest producer and exporter of documentaries, what is happening within the British documentary industry is of global importance.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In recent years, the overall budgets for factual programming, including documentary film, have fallen in the U.K.. There has been a 22 percent fall in documentary budgets over five years, from a total spend of £585 in 2007 to £455 in 2012, as Figure 1 illustrates. In this same time period the number of hours of factual programs and documentary films has gone up. The net effect is that the budget per film is declining.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>These figures are from Ofcom’s </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Public Service Broadcasting Annual Report 2013</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Ofcom, 2013, pp. 9 and 16. However, Ofcom’s statistics as well as the BBC’s and Channel 4’s annual reports conflate factual programming and documentary in a ‘factual’ category and it is therefore impossible to discern the exact proportion of documentary films in relation to factual programming (e.g. cookery, DIY, travel programs, etc.) without conducting a full content analysis of the respective broadcasters’ schedule. Added to this, varying definitions of what a documentary film is would complicate such a breakdown of programming. Are Michael Palin’s programs travel, food or documentary content, for example? However, given that the number of documentaries in the traditional documentary strands, e.g. </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Panorama, Storyville, Unreported World, Cutting Edge, Horizon,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> on average have remained stable over the past decade according to BFI’s databases, though budgets have declined, it seems reasonable to assume that overall budgets per hour for documentary films have diminished. This trend is also mirrored by the fact that the over all spending on other categories where documentary films would also be included like ‘Current Affairs’ and ‘Arts &amp; Music’ have also declined, as Figure 1 demonstrates.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Moreover there has been a polarization of budgets, so that high profile projects have more finance behind them than other productions.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Inge Sørensen, ‘Crowdsourcing and Outsourcing. The Impact of Online Funding and Distribution on the Documentary Film Industry in the UK’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Media, Culture &amp; Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 34.6 (2012): p. 734.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This is eroding the budgets for more independent types of documentaries further.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="media/Images_Sorensen/Fig_1.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In addition to the broadcasters’ declining investment in documentary films, feature-length documentary films received little support from the public film funders like the BFI and the regional and national screen offices. This has caused concern for industry professionals and academics alike. In March 2014 David Hickman, documentary-maker and senior lecturer in Film &amp; Television Production wrote:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>…there is little significant contribution to British documentary from the Big Three U.K. film funders, the BFI, BBC Films and Film4. Despite the widely acknowledged fact that feature documentary has been in something of a “golden age” in recent years, the idea that these key institutions of British film should support feature documentary seems to have largely passed them by. As things stand, feature documentary makers seeking support from the BBC have one destination: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Storyville</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, a cash-starved ghetto within BBC television. It’s a similar story with Channel 4 – the funds available for feature documentaries are vanishingly small.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>David Hickman, ‘Documentary Funding Gap Stalls Great Films Like the Act of Killing’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Conversation,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 6 Marts 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Nick Fraser, Series editor of BBC </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Storyville</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> noted the same trend as early as 2009:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Documentary-makers were very worried about being overcome by Big Brother and “Big Mac” docs, but I think that phase has passed and the worry is now much more basic. These people are working for nothing. We’re talking such small amounts of money, it’s getting alarming.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Nick Fraser is cited in David Cox, ‘Is This the End of the Line for the Impartial Documentary’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>, The Guardian.co.uk</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 9 November 2009, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is in this economic climate that documentary makers are turning to crowdfunding to produce their films. However, paradoxically, crowdfunding may in fact further erode documentary budgets.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Crowdfunding offers filmmakers and films many additional benefits beyond the purely monetary. For example, the process of crowdfunding allows filmmakers to create and nurture an audience for the film or audiovisual project before it is made, and can be used as a proof of concept of the project’s viability. Also, the fan and funder base offer the filmmaker emotional and practical peer support, as well as create free viral promotion and advertising for the project.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Franny Armstrong relates her perceived benefits of crowdfunding in an interview with Inge Sørensen. Full transcript in the appendix of Sørensen’s PhD diss., </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Documentary in a Multiplatform Context</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> from the Department for Media, Cognition and Communication, Copenhagen University, Denmark, 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> These benefits pertain to crowdfunded projects across genres and industries as research by Ordanini et al. and Belleflamme et al. has shown. Also, crowdfunding allows filmmakers to produce films outside of the established funding structures and traditional gatekeepers. This means greater creative freedom for the filmmakers who do not need to adhere to institutional guidelines and requirements, or to take into account editorial and creative contributions from funders and commissioners. However these benefits come at a less visible price.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Although commissioners and film funders do not have the editorial input and control over these films in their pre-production or production stages, having a pool of crowdfunded and already made documentaries at their disposal has other advantages. Rather than commission ideas and proposals from scratch, broadcasters can simply chose between a bigger slate of readymade films to air on their schedules. This makes economic sense. Documentary budgets in the U.K. vary but, on average, a primetime documentary on BBC or Channel 4 will be commissioned for around £150,000-200,000. However, if the film is already produced, the resell value is significantly less. Again, prices vary and exact terms of trade are contractually confidential. However, according to six industry insiders, feature documentaries are regularly bought for BBC’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Storyville</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and the Danish DR’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Dokumania</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> strand for as little as £1500.00.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Four documentary makers have related this figure in personal communications with the author.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In short, instead of an upfront commission for a documentary that previously may have cost £150,000, the broadcasters can now acquire a similar finished product for a fraction of the price.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Moreover, as well as being able to choose from a wider selection of documentary films than they would have been able to commission themselves the acquisition of these films is totally risk free. Rather than taking a chance and investing on the basis of an idea or a proposal, then having to deal with the uncertainties and allow for the risks involved in any creative process and production, broadcasters can now view the finished product before buying it. Commissioning editors thus have less direct editorial influence and creative input into the individual film in the funding, development and production stages, but they can choose from a bigger pool of pre-produced products at reduced price and with no creative risk. In this way, broadcasters now have more influence over the composition of their overall schedule or stand than ever before.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is a similar scenario for documentary film festivals. The success and esteem of a festival depend on constructing the best possible programs from as varied and as large a pool of completed documentaries as possible. There is a disproportional relationship between the ratio of the numbers of films submitted, the number of films selected and the profile of the festival: the more films submitted and the fewer selected, the more exclusive the festival. Moreover, the business models of most festivals are partly predicated on the submission fees that documentary filmmakers pay to submit their films to be considered for the festival. Thus increases in the numbers of films submitted results in more profit for the festival.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Documentary makers of course know this. However, for all the reasons listed above, documentary festivals and broadcasters are still the place where documentary filmmakers and producers want – and need – to show their films. It is a buyer’s market, because it is the TV stations, festivals and distributors who can find audiences, promote and turn a profit for the films. Although more documentaries are produced and funded through crowdfunding, it is the traditional gatekeepers who still decide on what gets shown and where. They have the oligopolistic power and clout to say ‘yes’ or ‘no’ – and now this comes risk free and for a much lower price.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Regulations, Legislation, and Professional Standards</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There are also wider societal issues and practical industrial problems with production and funding outside of the traditional funding and commission structures. Full funding from public funders and commissioners goes some way to help ensure – at least in principle – the integrity of the documentary films they fund, the editorial and journalistic standard to which these are made, and the working conditions of the crews working on documentary productions.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Terms of trade and compliance procedures are part of the contractual agreements between public service TV networks or public funders, and the production companies that they commission or fund to make films and content. These contractual agreements ensure that productions adhere to professional standards, health and safety policies, and working standards for cast and crew. However, there are no rules, guidelines or legislation governing projects that are funded and produced online and outside of the legacy funders and commissioners. Therefore there are no safeguards that guarantee that producers adhere to industry standards, working practices, conditions or rates set out by unions or alliances like PACT (representing production companies in the U.K.), NUJ (the National Union of Journalists), BECTU (the union for crew) or Equity (the union for cast). Crowdfunded productions are not regulated, and therefore there are no assurances that media workers working on these projects are adequately insured, sufficiently trained or working to professional standards. This has the potential to undercut industry rates and undermine working conditions for media workers.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Similarly, the editorial standards and attributes traditionally associated with documentary are potentially challenged in crowdfunded projects. Notions of ‘balance’, ‘impartiality’, and ‘objectivity’ have been safeguarded by the TV networks’ producer guidelines and codes of conduct that producers must adhere to when producing for the BBC and Channel 4. IP is protected by compliance procedures. Online there are no such guidelines or procedures. Moreover, a funding process that is open to all investors can potentially compromise the integrity of a project, especially if it is a documentary film. Money corrupts, and in crowdfunding it can be hard to tell where the money is coming from. As Nick Fraser, the BBC’s series editor of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Storyville</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, puts it: ‘If Dr Goebbels appeared with a huge sack of money, there would be documentary film-makers queuing around the block to take it.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>David Cox, ‘Is This the End of the Line for the Impartial Documentary’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>, The Guardian</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 9 November 2009, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Fraser’s point is valid: notions of impartiality and balance are hard to uphold, if a documentary is part funded by political parties, an NGO, pressure group, lobbyist, charity or business.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is also worth noting that the main funders of documentary films in the U.K. – BBC, Channel 4, BFI and the regional and national public funders – all have public service remits. These are in place to ensure plurality, that a diversity of factual programming and documentary films are commissioned, expressing the full spectrum of viewpoints across society and catering for niche tastes and underrepresented audiences and well as those with popular and mass appeal. Crowdfunding platform have no such obligations. Although some crowdfunding platforms are charities, others are businesses. Their remit is profit or turnover, not plurality or making sure that a variety of films that represent a spectrum of voices are made. It is increasingly evident that the crowd favors films of mass appeal or those made by filmmakers with name recognition,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>As described by Inge Sørensen, ‘Crowdsourcing and Outsourcing’ and Darren C. Brabham, ‘</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>The Myth of Amateur Crowds: A Critical Discourse Analysis of Crowdsourcing Coverage</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Information, Communication &amp; Society,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 15.3 (2012): 394-410.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and another casualty of crowdfunding could be diversity and plurality of productions and voices.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In these ways, an unintended outcome of crowdfunding is the potential for the accidental erosion of industry and professional standards as well as working conditions for journalists, filmmakers and crew within the documentary film industry. And with this crowdfunding could undermine the integrity and credibility of documentary film as well as the plurality and diversity of film and filmmakers. Ironically, although crowdfunding is hyped as democratizing the means and access to production, it could well have the reverse effect.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Go Crowdfund Yourself</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Recently, the public funders, organizations and institutions have also begun to engage in and use crowdfunding to part-fund projects that they, until recently, would have fully funded. For example, in order to be eligible for funding through the publically funded, micro-budget film schemes </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>lo-fi</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Mircowav</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>e, it is a prerequisite for the filmmakers to crowdfund a certain part of their budget. Similarly, museums have started using crowdfunding to realize special projects and part-fund exhibitions. For example, Glasgow Women’s Library raised £6,839 to publish a book inspired by its collections; Bowes museum raised £8,680 to commission an artwork by Graham Turk that was installed on the front of the museum as part of the exhibition of his work; and the William Heath Robinson trust crowdfunded £33,492 for a permanent gallery.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Donations and memberships have of course always been part of business model of museums, but taking these trends to their logical conclusion, why have public arts funding at all? The discourse around democratizing production and funding through ‘crowds’ and ‘communities’ is alluring, but it also chimes well with the Conservative British Prime Minister, David Cameron’s Big Society, as Evgeny Morozov points out.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Evgeny Morozov, ‘Kickstarter Will Not Save Artists from the Entertainment Industry’s Shackles: A New Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Slate Magazine</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 25 September 2012,</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> One might, if of a neoliberal predisposition, wonder why the state should subsidize the eight percent who watch ballet and contemporary dance, when dance fans could just crowdfund it themselves. Or ask why people should not just pay as they go and fund what they want in museums? Crowdfunded documentary films always highlight the fact that they are crowdfunded in their promotional material and use this endorsement of the crowd as part of their legitimacy and relevance. However, behind the rhetoric and romance of democratizing both the ability to fund documentaries as well as to make them, lures the question of why films should be funded out of the public purse, when crowdfunding evidently shows that it is feasible to substitute public film funding with crowdsourced support. In short, one major but serious, unintended outcome of crowdfunding is the potential to undermine public arts funding.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In cultural economics it has long been acknowledged that artists subsidize the arts with their time, free work and self-funding of the development of projects.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Ruth Towse, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Advanced Introduction To Cultural Economics</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cheltenham: Edward Elgar Publishing, 2014.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Artists also subsidize each other by helping out colleagues, collaborators and prospective employers as part of their practice. ‘Freebies’ is an established term within creative work, and although not always recognized as such in economic terms, artists subsidize each other. However, with crowdfunding, so do the artist’s families, friends and fans. Before simply extolling the wonders of crowdfunding as public arts funding, we need to ask ourselves how this funding form impacts not only on existing industries and funding structures but also on the arts and artists. To what extend is crowdfunding supplementing or distorting existing cultural and creative industries? Is crowdfunding a genuine addition and benefit to the arts and public funding, or is it simply artists and their networks swapping money, whilst public funding for cultural industries declines and arts funding falls?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Conclusion – The ‘Needle in a Haystack’ Problem</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Documentary films perform a crucial role in exchanging and mediating knowledge and opinions in society. Carl Plantinga argues that the integrity and quality of non-fiction films is a precondition for the ‘healthy intersubjectivty’ that he sees as fundamental to the functioning of Western democracies.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Carl R. Plantinga, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Rhetoric and Representation in Nonfiction Film</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge: Cambridge University Press, 1997, p. 219.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The conditions under which documentary films and content are produced are therefore of paramount importance. As crowdfunding increasingly becomes a way to fund these films it is necessary to highlight these unintended consequences for the documentary films industry.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Although crowdfunding provides some solution to funding and producing particular documentaries outside of the traditional and legacy systems, the wider documentary industry is still dependent on the traditional gatekeepers and media institutions for the promotion, distribution and success of its films. Documentary film production and distribution are parts of a network that is still dominated and controlled by established media institutions. As it stands, crowdfunded films still need the traditional distributors – festivals, cinemas and broadcasters – to reach their audiences. Similarly, in order to crowdfund online, artists, filmmakers and journalists rely on crowdfunding platforms and the surrounding industry of crowdfunding consultant and facilitators that have sprung. It is these organizations – not the creators, filmmakers and artists – that benefit most from crowdfunding.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>New ways of organizing distribution and exhibition are emerging. Distrify provides peer-to-peer file and profit sharing software that allows people to share films on social networks and receive a cut of the download price. TUGG or Gathr bring together audiences for self-organized and on-demand screenings of documentary and feature films; and VOD services (iTunes, Netflix and Amazon Prime) and advertising supported streaming (YouTube) provide alternative outlets for documentary makers. However, these systems have still to accumulate critical mass and popular support, and have yet to demonstrate the reliability, financial returns and promotional infrastructure that the traditional distribution and exhibition networks command.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For crowdfunding to be a viable business model for filmmakers and the documentary film industry, new sustainable peer-to-peer distribution routes and exhibition networks that are not predicated and dependent on legacy media outlets need to emerge. These need to have the reach and promotion to be able to bring audiences to films, to curate documentaries to ensure their consistency and quality, as well as to generate the reviews, awards and accolades that will bring quality crowdfunded projects to the surface without distorting and undermining the existing funding systems. Also, mechanisms of safeguarding working conditions, professional and editorial standards need to be put in place for productions funded on crowdfunding platforms. Only then will crowdfunding be able to live up to the current hype about democratizing the production of documentary films, and offer a truly viable alternative to existing funding models.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>References</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Baxter, Anthony. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>You’ve Been Trumped</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 2012, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Belleflamme, Paul, Thomas Labert and Armin Schwienbacher. ‘Crowdfunding: Tapping the Right Crowd’, Paper presented at the International Conference of the French Finance Association (AFFI), 11 May 2011.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>_____. ‘Individual Crowdfunding Practices’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Venture Capital: An Internatiuonal Journal of Entrepreneurial Finance</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 15.4 (2013).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Branham, Darren C. ‘</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>The Myth of Amateur Crowds: A Critical Discourse Analysis of Crowdsourcing Coverage</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Information, Communication &amp; Society,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 15.3 (2012): 394-410.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Chapman, Jane, and Kate Allison. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Issues in Contemporary Documentary</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Polity, 2009.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Child, Ben. ‘Tom Hanks Film Seeks Crowdfunding Via “Kickstarter for the Rich” Site’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Guardian,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 27 March 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Collins, Liam, Peter Baeck and Stian Westlake. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Crowding In</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Nesta, 2012.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Collins, Liam, Richard Swart and Bryan Zhang. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Rise of Future Finance</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Nesta, Berkeley and University of Cambridge, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cox, David. ‘Is This the End of the Line for the Impartial Documentary’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>, The Guardian</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 9 November 2009, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Danmayr, Florian. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Archetypes of Crowdfunding Platforms : A Multidimensional Comparison,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Wiesbaden Springer Gable, 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Doyle, Gillian. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Understanding Media Economics</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. 2nd ed. London: SAGE, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Fitzpatrick, Alex. ’Obama Signs “Game-Changing” Crowd-Funding Jobs Act’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Mashable</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 5 April 2012, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://mashable.com/2012/04/05/jobs-act-signed/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Hickman, David. ‘Documentary Funding Gap Stalls Great Films Like the Act of Killing’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Conversation,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 6 March 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Kendall, Geraldine. ‘Trendswatch: Can You Kick Start It?’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Museums Journal</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 114.3 (2014): 39.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Kickstarter. http://www.</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>kickstarter.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Kocer, Suncem. ‘Social Business in Online Financing: Crowdfunding Narratives of Independent Documentary Producers in Turkey’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>New Media and Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (Forthcoming 2014).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lovefilms. </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.lovefilm.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Luzar, Charles. ‘Ai Weiwei Secretly Shot a Sci-Fi Film and It’s Funding on Kickstarter’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Crowdfunder insider</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mollick, Ethan R. ‘The Dynamics of Crowdfunding: An Exploratory Study’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Business Venturing</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 29. 1 (2014): 1-16.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Morozov, Evgeny. ‘Kickstarter Will Not Save Artists from the Entertainment Industry’s Shackles: A New Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Slate Magazine</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 25 September 2012.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Nesta. </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ofcom. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Public Service Broadcasting Annual Report 2013</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Ofcom, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ordanini, A., L. Miceli, M. Pizzetti, and A. Parasuraman. ‘Crowd-Funding: Transforming Customers into Investors through Innovative Service Platforms’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Service Management</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 22.4 (2011): 443-470.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>PACT. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Pact Policy Survey and Financial Census 2009</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Oliver &amp; Ohlbaum Associates ltd., 2009.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Plantinga, Carl R. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Rhetoric and Representation in Nonfiction Film</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Cambridge University Press, 1997.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Reidl, John. ‘Crowdfunding Technology Innovation’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Computer</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 46. 3 (2013): 100-103.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Sørensen, Inge. ‘Crowdsourcing and Outsourcing. The Impact of Online Funding and Distribution on the Documentary Film Industry in the UK’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Media , Culture &amp; Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 34.6 (2012): 726-743.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>_____. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Documentary in a Multiplatform Context,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> PhD Diss., Department for Media, Cognition and Communication, Copenhagen University, Copenhagen, Denmark, 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Steemers, Jeanette, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Selling Television: British Television in the Global Marketplace</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: BFI, 2004.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Towse, Ruth. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Advanced Introduction To Cultural Economics</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cheltenham: Edward Elgar Publishing, 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ward, Chris, and Vandana Ramachandran. ‘Crowdfunding the Next Hit: Microfunding Online Experience Goods’, workshop at NIPS2010, Whistler, Canada, 10 December 2010, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wells, Nicholas. ‘The Risks of Crowdfunding: Most Have the Best Intentions When It Comes to Crowdfunding an Ambitious Project, but Intellectual Property Issues, Ownership Rights and Perk Obligations Present Potential Hurdles to Making a Dream Become Reality’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Risk Management</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 60. 2 (2013): 26-9.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf" Name="link" DestinationURL="http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-20" Name="http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" Name="link" DestinationURL="http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-19" Name="http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" Name="link" DestinationURL="http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-18" Name="http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/" Name="link" DestinationURL="http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-17" Name="http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.lovefilm.com" Name="link" DestinationURL="http://www.lovefilm.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-16" Name="http://www.lovefilm.com" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.lovefilm.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kickstarter.com" Name="link" DestinationURL="http://www.kickstarter.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-15" Name="http://www.kickstarter.com" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.kickstarter.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" Name="link" DestinationURL="http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-14" Name="http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mashable.com/2012/04/05/jobs-act-signed/" Name="link" DestinationURL="http://mashable.com/2012/04/05/jobs-act-signed/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-13" Name="http://mashable.com/2012/04/05/jobs-act-signed/" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://mashable.com/2012/04/05/jobs-act-signed/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Name="link" DestinationURL="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" Name="link" DestinationURL="http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991" Name="link" DestinationURL="http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html" Name="link" DestinationURL="http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/endnotes.xml" Name="link" DestinationURL="endnotes.xml" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="endnotes.xml" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/endnotes.xml</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Name="link" DestinationURL="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" Name="link" DestinationURL="http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Name="link" DestinationURL="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" Name="link" DestinationURL="http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" Name="link" DestinationURL="http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mashable.com/2012/04/05/jobs-act-signed/" Name="link" DestinationURL="http://mashable.com/2012/04/05/jobs-act-signed/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://mashable.com/2012/04/05/jobs-act-signed/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://mashable.com/2012/04/05/jobs-act-signed/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" Name="link" DestinationURL="http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>
