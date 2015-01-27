@@ -9,6 +9,12 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Code" Name="Code">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+          <AppliedFont type="string">Courier New</AppliedFont>
+        </Properties>
+      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -200,9 +206,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Irina/GabrieleColombo_fig1.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Irina/image1.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 1: Time invested in the crowdfunding campaign.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -232,9 +243,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Irina/GabrieleColombo_fig2.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Irina/image2.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 2: The main activities of the crowdfunding process and the time invested in them.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -264,9 +280,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Irina/GabrieleColombo_fig3.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Irina/image3.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 3: Who funded the campaigns? The segmentation of funders according to their relation with the campaigner.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -296,9 +317,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Irina/GabrieleColombo_fig5.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Irina/image5.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 4: Types of external help received or needed during the crowdfunding campaign.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -328,9 +354,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Irina/GabrieleColombo_fig6.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Irina/image6.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 5: 35 out of 60 respondents would crowdfund again. Figures represent numbers of responses.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -430,9 +461,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Irina/GabrieleColombo_fig7.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Irina/image7.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 7: The interactive visualization – the legend that explains the visual encodings.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -457,9 +493,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Irina/GabrieleColombo_fig8.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Irina/image8.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 8: The Toolkit’s filtering and sorting options.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -484,9 +525,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Irina/GabrieleColombo_fig9.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Irina/image9.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 9: The results displayed after opting for the filter and sorting options in Fig. 8.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">

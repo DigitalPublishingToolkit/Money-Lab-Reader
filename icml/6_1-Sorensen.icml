@@ -9,6 +9,12 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Code" Name="Code">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+          <AppliedFont type="string">Courier New</AppliedFont>
+        </Properties>
+      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -556,6 +562,11 @@
         <Link Self="ueb" LinkResourceURI="media/Images_Sorensen/Fig_1.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 1: Source: Ofcom’s Public Service Broadcasting Annual Report 2013</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">

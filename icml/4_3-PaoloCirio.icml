@@ -146,7 +146,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/PaoloCirio_Images/Fig_1_.png" />
+        <Link Self="ueb" LinkResourceURI="media/Images_PaoloCirio/image1.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
@@ -181,7 +181,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/PaoloCirio_Images/Fig_2.png" />
+        <Link Self="ueb" LinkResourceURI="media/Images_PaoloCirio/image2.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />

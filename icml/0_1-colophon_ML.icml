@@ -53,11 +53,6 @@
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Rawblock" Name="Rawblock" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
       </ParagraphStyle> 
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
@@ -1327,11 +1322,6 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>ISBN: 978-90-822345-5-8 (print) ISBN: 978-90-822345-6-5 (EPUB)</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Rawblock">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;!--Logo’s: --&gt;</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">

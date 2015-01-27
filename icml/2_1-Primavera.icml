@@ -9,6 +9,12 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Code" Name="Code">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+          <AppliedFont type="string">Courier New</AppliedFont>
+        </Properties>
+      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -119,11 +125,6 @@
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Rawblock" Name="Rawblock" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
       </ParagraphStyle> 
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
@@ -140,16 +141,6 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Rawblock">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;!-- Issues:
-
-Formula not formating well:
-Total number of sabirs (Maya) = 125 \* $\frac{SV(WP)}{12,500}$ + 200 \*    $\frac{SV(CC)}{5,000}$ = 15 + 40 = 55 sabirs
-
---&gt;</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Measuring Value in the Commons-Based Ecosystem: Bridging the Gap Between the Commons and the Market</Content>
@@ -649,9 +640,14 @@ the importance of her (unpaid) contribution to the commons.</Content>
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Primavera_Images/Fig1_Sabir-figure1-1.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Primavera/image0.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 1: Example of several CBEs vouching each other with different weights, resulting in a social value number for each.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -712,9 +708,14 @@ the importance of her (unpaid) contribution to the commons.</Content>
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Primavera_Images/Eq1.png" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Primavera/image1.png" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Eq. 1</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -749,9 +750,14 @@ the importance of her (unpaid) contribution to the commons.</Content>
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Primavera_Images/image2.png" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Primavera/image2.png" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Eq. 2</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -1000,9 +1006,14 @@ which she collects in her portfolio.</Content>
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Primavera_Images/image3.png" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Primavera/image3.png" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Eq. 3</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1038,9 +1049,14 @@ which she collects in her portfolio.</Content>
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Primavera_Images/image4.png" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Primavera/image4.png" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Eq. 4</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1070,9 +1086,14 @@ which she collects in her portfolio.</Content>
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Primavera_Images/image5.png" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Primavera/image5.png" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Eq. 5</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/CodeBlock">
@@ -1114,9 +1135,14 @@ also easily express it to her friends.</Content>
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Primavera_Images/Fig2_Sabir-figure2-2.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Primavera/image6.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 2: One CBE (Wikipedia), with its own social value, generates and distributes its own tokens (WP-tokens) to different contributors based on their task.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1275,9 +1301,14 @@ also easily express it to her friends.</Content>
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Primavera_Images/image6.png" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Primavera/image7.png" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Eq. 6</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1338,9 +1369,14 @@ also easily express it to her friends.</Content>
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Primavera_Images/Fig3_Sabir-figure3-3.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Primavera/image8.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 3: Example illustrating the current state of affairs for contributors to the Commons and how Sabir may help changing it.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">

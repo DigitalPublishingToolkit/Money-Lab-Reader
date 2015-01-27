@@ -19,6 +19,12 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Code" Name="Code">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+          <AppliedFont type="string">Courier New</AppliedFont>
+        </Properties>
+      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -187,9 +193,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_1_A.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image1.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 1: Stamped U.S. dollars – Federal Reserve Notes, 2009-2014.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -251,9 +262,12 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_2_A.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image2.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
@@ -276,9 +290,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_2_B.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image3.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 2: Revolutionary Script.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -320,9 +339,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_3_A.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image4.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 3.1: Free Money Portland, 2013.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -347,12 +371,19 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_3_A.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image5.jpg" />
       </Image>
     </Rectangle>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig 3.2 Free Money in Humboldt County, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> In 2014 ABS added a </Content>
+    <Content>In 2014 ABS added a </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Common Good/Commonwealth</Content>
@@ -395,9 +426,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_4_A.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image6.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 4.1: Back of *Free Money* distributed by 2012 Berlin Biennale bookstore, 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -422,9 +458,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_4_B.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image7.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 4.2: Dramatic recreation of discussion about Free Money with anonymous M15 member who lives without money, Berlin Biennale, 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -520,9 +561,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_5_.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image8.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 5: REPOhistory 1992, photo Tom Klem.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -654,9 +700,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_6_.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image9.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 6: Aaron Burr Society card, motto printed on back.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -926,9 +977,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_7_.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image10.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 7: Alexander Hamilton’s portrait on stamped \$10 bill.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -958,7 +1014,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_8_A.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image11.jpg" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
@@ -985,9 +1041,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_8_B.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image12.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 8: The Society’s distillation on Oxbow Creek up-state New York, 2010.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1067,7 +1128,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_9_A.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image13.jpg" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
@@ -1094,9 +1155,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_9_B.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image14.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 9: Aaron Burr Society whiskey still at Carnegie Mellon University 2010.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1235,9 +1301,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_10_A.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image15.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 10.1: Making Worlds meeting at Momenta Art in Bushwick Brooklyn, part of an Occupy Museum’s month long action, October 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1262,9 +1333,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_10_B.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image16.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 10.2: Author at Public Banking Institute Conference, 2013.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1584,13 +1660,17 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_11_A.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image17.jpg" />
       </Image>
     </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 11.1: Author in front of Federal Reserve Bank, FedUp action, Washington DC, March 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
       <Properties>
@@ -1612,13 +1692,17 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_11_B.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image18.jpg" />
       </Image>
     </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 11.2: Author performing at New Museum for Pawel Althamer’s *The Neighbors*, a collaboration started at BB7, March 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
       <Properties>
@@ -1640,9 +1724,14 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/Fig_11_C.jpg" />
+        <Link Self="ueb" LinkResourceURI="media/Images_Costanzo/image19.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 11.2: Author and Harrison Tesoura Schultz in front of the New York Federal Reserve Bank, FedUp action July, 2014.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1656,6 +1745,11 @@
       <Content>Fig. 12: Aaron Burr Society poster for performance series at Pine Box Rock Shop in Bushwick Brooklyn, 2014.</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Fig. 12: Aaron Burr Society poster for performance series at Pine Box Rock Shop in Bushwick Brooklyn, 2014.</Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
