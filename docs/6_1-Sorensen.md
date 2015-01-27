@@ -234,6 +234,8 @@ further.
 
 ![Fig. 1: Source: Ofcom’s Public Service Broadcasting Annual Report 2013](media/Images_Sorensen/Fig_1.jpg)
 
+`Fig. 1: Source: Ofcom’s Public Service Broadcasting Annual Report 2013`{.caption}
+
 In addition to the broadcasters’ declining investment in documentary
 films, feature-length documentary films received little support from the
 public film funders like the BFI and the regional and national screen

@@ -194,6 +194,8 @@ it’s only receiving a 0.1 of weight, it comes from the large Wikipedia.
 
 ![Fig. 1: Example of several CBEs vouching each other with different weights, resulting in a social value number for each.](media/Images_Primavera/image0.jpg)
 
+`Fig. 1: Example of several CBEs vouching each other with different weights, resulting in a social value number for each.`{.caption}
+
 As an algorithm, in its simplest form,[^10] we can implement it as
 follows:
 
@@ -202,15 +204,18 @@ the function SV(X, t). SV(W,t) indicates the total amount of *weight*
 (w) received by X from other entities in the system (A, B, C),
 ponderated by the SV of these entities:
 
-![*(Eq. 1)*](media/Images_Primavera/image1.png)
+![Eq. 1](media/Images_Primavera/image1.png)
+
+`Eq. 1`{.caption}
 
 Taking into account that every CBE can assign weight to others, with a
 sum must equal to 1.
 
 More generally, the complete formula can be expressed as:
 
-![*(Eq. 2)*](media/Images_Primavera/image2.png)
+![Eq. 2](media/Images_Primavera/image2.png)
 
+`Eq. 2`{.caption}
 
 > *where *
 >
@@ -353,18 +358,22 @@ In order for people to compare the value of their contributions between
 different CBEs, the value of each token must be translated into a common
 denominator of value, Sabir, calculated with the following formula:
 
-![*(Eq. 3)*](media/Images_Primavera/image3.png)
+![Eq. 3](media/Images_Primavera/image3.png)
+
+`Eq. 3`{.caption}
 
 and thus, the number of sabirs for one person *P* would be expressed by
 the following:
 
-![*(Eq. 4)*](media/Images_Primavera/image4.png)
+![Eq. 4](media/Images_Primavera/image4.png)
 
+`Eq. 4`{.caption}
 
 Thus, in the case of CC:
 
-![*(Eq. 5)*](media/Images_Primavera/image5.png)
+![Eq. 5](media/Images_Primavera/image5.png)
 
+`Eq. 5`{.caption}
 
     Hence, Maya’s 200 CC-Tokens are equal to 40 sabirs, and Maya’s overall
     contribution to the commons is equal to:
@@ -380,6 +389,10 @@ Thus, in the case of CC:
 ![Fig. 2: One CBE (Wikipedia), with its own social value, generates and
 distributes its own tokens (WP-tokens) to different contributors based
 on their task.](media/Images_Primavera/image6.jpg)
+
+`Fig. 2: One CBE (Wikipedia), with its own social value, generates and
+distributes its own tokens (WP-tokens) to different contributors based
+on their task.`{.caption}
 
 The system of gratification can be explained through the example shown
 in Fig. 2. Wikipedia, with a Social Value of 1500 as we saw in Fig. 1,
@@ -498,8 +511,9 @@ food’ matrix, giving more weight to local farmers and producers. Thus,
 the previous Equation \#4 could be customized by a third-party M as
 follows:
 
-![*(Eq. 6)*](media/Images_Primavera/image7.png)
+![Eq. 6](media/Images_Primavera/image7.png)
 
+`Eq. 6`{.caption}
 
 That is, the third party may apply its customized *value matrix* to the
 already given social value of the CBEs. Still, not every third-party
@@ -545,6 +559,9 @@ ultimately also helping the commons.
 
 ![Fig. 3: Example illustrating the current state of affairs for
 contributors to the Commons and how Sabir may help changing it.](media/Images_Primavera/image8.jpg)
+
+`Fig. 3: Example illustrating the current state of affairs for
+contributors to the Commons and how Sabir may help changing it.`{.caption}
 
 In Fig. 3, we illustrate the benefits of the Sabir system, as an interface between the market and the commons-based ecosystem. Nowadays, Maya is contributing to various CBEs but, since she’s not earning any money from this effort, she cannot benefit from the products provided by the market system (burgers and ice cream from McDonald’s in this case) unless she actually decides to play the market game by getting a remunerated job. Tomorrow, thanks to Sabir, Maya will be able to express the value that she has been contributing to the commons through a common denominator (the amount of sabir she has accumulated in her wallet), which can be easily understood by market actors. In this example, WcDonald’s recognizes the value of the commons and has implemented a specific policy to reward CBE contributors with free burgers and free or discounted ice creams, depending on the amount of value contributed to the commons. Hence, Alice is happy since she can keep contributing to the commons, knowing that the time she spends doing so will counts towards obtaining free burgers and ice cream from WcDonald’s. Bob also contributed to the commons, but to a lesser extent, and he’s therefore only entitled to a discount on the ice cream.
 
