@@ -419,12 +419,12 @@ inculcate greater awareness of Sharia principles.
 
 ![Fig. 1: Screenshot of Prohibited Margin Trading. This transaction
 violates specific provision 3h of Fatwa No. 80: Actions included in riba
-category.](media/Images_Rethel/Rethel_image1.jpg)
+category.](media/Images_Rethel/image1.jpg)
 
 
 ![Fig. 2: Screenshot of Prohibited Short Selling. This transaction
 violates specific provision 3h of Fatwa No. 80: Actions included in bai’
-as-ma’dum category.](media/Images_Rethel/Rethel_image2.jpg)
+as-ma’dum category.](media/Images_Rethel/image2.jpg)
 
 The inculcation of ethical behaviour in market transactions through
 Fatwa No. 80 and SOTS is the result of a process of *double
