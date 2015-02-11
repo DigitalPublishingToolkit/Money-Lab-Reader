@@ -125,7 +125,7 @@ most of the food, furniture and such.
 Decentralized currencies should enable bringing significant components
 of our modern economies back into our communities. And if these
 currencies are digitized, local initiatives and innovations can get
-replicated across a region or a country’s or a continent’s localities.
+replicated across a region, country’s or a continent’s localities.
 This is one way of constructing larger multi-nodal operational spaces
 that can cut across diverse types of boundaries without losing their
 local insertion.

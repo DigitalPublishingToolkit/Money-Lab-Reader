@@ -8,7 +8,7 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Geert Lovink, Nathaniel Tkacz 
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -62,7 +62,7 @@ digital realism. The 99% have all become survival artists in our
 austerity networks, subjected to rolling crises amidst never-ending
 economic decline. The search for new modes of value extraction
 intensifies. The latest ubiquitous technology is financialization
-itself. In this not so brave new world, conflict risks being superseded
+itself. In this not-so-brave new world, conflict risks being superseded
 by competing economic visions articulated through software. Destroy the
 system! Bitcoin or Ripple?
 
@@ -241,12 +241,12 @@ serious crisis go to waste.’ Are we ready? Are efforts to collectively
 imagine alternative, internet-based revenue models, for instance for the
 arts, ready to operate after the Great Collapse?
 
-The MoneyLab reader brings developments in crowdfunding, digital and
+The MoneyLab Reader brings developments in crowdfunding, digital and
 crypto currency, mobile money services, technologies of payment and
 other economic experiments into dialogue. It is naïve to see them as
 unrelated or to dismiss them offhand. Now more than ever we need
 constructive engagement with the hackers, entrepreneurs and other
-creators of economic alternatives. Audaciousness in times austerity.
+creators of economic alternatives. Audaciousness in times of austerity.
 First, though, we need a map of the present: What works and what
 doesn’t? What is worth pursuing and what must be left aside? What tips
 the dominant ideology? Which histories are bearing on the present? And
@@ -254,24 +254,26 @@ what are the limits of our own economic imagination?
 
 ## References
 
-Harrison, Kate. “Crowdfunding Potato Salad: Funny or Insulting?”,
-*Forbes*, 08/08/2014,
+Harrison, Kate. 'Crowdfunding Potato Salad: Funny or Insulting?'
+*Forbes*, 8 August 2014,
 <http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/>.
 
-Lewis, Michael. *Flash Boys, A Wall Street Revolt*, New York: W.W.Norton
+Lapavitsas, Costas. *Profiling Without Producing, How Finance
+    Exploits Us All*, London/New York: Verso, 2013, p. 138.
+    
+Lewis, Michael. *Flash Boys: A Wall Street Revolt*, New York: W.W. Norton
 & Co., 2014.
 
-Lovink, Geert and Nathaniel Tkacz. ‘Data Browser, Autonomedia,’ 2013, p.
-175-191. See also:
-http://networkcultures.org/moneylab/about/background/.
+Lovink, Geert and Nathaniel Tkacz. *Data Browser*, New York: Autonomedia, 2013, pp.
+    175-191.
 
 Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, London: Verso
 Books, 2013.
 
-Patterson, Scott. *Dark Pools, The Rise of A.I. trading machines and the
-looming threat to Wall Street*, New York: Random House, 2012.
+Patterson, Scott. *Dark Pools, The Rise of A.I. Trading Machines and the
+Looming Threat to Wall Street*, New York: Random House, 2012.
 
-[^1]: Geert Lovink and Nate Tkacz, Data Browser, Autonomedia, 2013, p.
+[^1]: Geert Lovink and Nate Tkacz, *Data Browser*, New York: Autonomedia, 2013, pp.
     175-191. See also:
     http://networkcultures.org/moneylab/about/background/.
 
@@ -283,16 +285,16 @@ looming threat to Wall Street*, New York: Random House, 2012.
     and the looming threat to Wall Street*, Random House, New York,
     2012.
 
-[^4]: Michael Lewis, *Flash Boys, A Wall Street Revolt*, W.W.Norton &
-    Co., New York, 2014.
+[^4]: Michael Lewis, *Flash Boys: A Wall Street Revolt*, New York: W.W. Norton &
+    Co., 2014.
 
 [^5]: Scott Patterson, *The Quants*, p. 318.
 
 [^6]: Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, 2013,
     p. 356.
 
-[^7]: Costas Lapavitsas, Profiling Without Producing, How Finance
-    Exploits Us All, Verso, London/New York, 2013, p. 138.
+[^7]: Costas Lapavitsas, *Profiling Without Producing, How Finance
+    Exploits Us All*, London/New York: Verso, 2013, p. 138.
 
 [^8]: See [http://www.zerohedge.com/](http://www.zerohedge.com/) and
     http://rt.com/shows/keiser-report/.
