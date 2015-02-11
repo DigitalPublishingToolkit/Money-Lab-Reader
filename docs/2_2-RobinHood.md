@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Democratizing the Power of Finance: A Discussion About Robin Hood Asset Management Cooperative with founder Akseli Virtanen
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Pekka Piironen, Akseli Virtanen
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Democratizing the Power of Finance: A Discussion about Robin Hood Asset Management Cooperative with founder Akseli Virtanen
+# Democratizing the Power of Finance: A Discussion About Robin Hood Asset Management Cooperative with founder Akseli Virtanen
 
 ### Pekka Piironen and Akseli Virtanen {.author}
 
@@ -26,7 +26,7 @@ Rights: CC BY-NC 4.0
 **Akseli Virtanen:** Robin Hood is an asset management cooperative
 established in June 2012. It is a counter-investment bank of the
 precariat, which rethinks the means of finance and financial services.
-We bend the financialization of economy to our benefit. Robin Hood is
+We bend the financialization of economy to our benefit. Robin Hood has
 the power and imagination to do this.
 
 **Pekka**: How does it work?
@@ -66,7 +66,7 @@ something new possible in a situation when nothing new seems possible.
 It is a becoming. This is our invention. At the same time it is also
 management of the assets of minorities, in Kafka’s sense, who will and
 can never become major, but will always remain like spit in the salad.
-And it is management of minor assets, small assets, this is our other
+And it is this management of minor assets, small assets, that is our other
 particularity. A lot of small assets working together. We don’t mind the
 connotation of being underage – not legally responsible, a minor, in a
 process of still becoming – neither as an attribute to our way of
@@ -80,7 +80,7 @@ middle of establishing the American Robin Hood in Silicon Valley.
 We certainly embody a philosophy – especially in so far as we can think
 that the task of philosophy is to create new concepts or new little
 machines which correspond to real problems – but politics might be
-better understandable in terms of our context, starting points, and
+more understandable in terms of our context, starting points, and
 aims. Is Robin Hood business, art, or politics? This is an interesting
 starting point for any discussion.
 
@@ -104,7 +104,7 @@ the king’s deer in Sherwood.
 **Pekka:** In a sense not that different from the situation today?
 
 **Akseli:** Now, six hundred years later, we see new ‘Forest Laws’ to be
-enforced everywhere, and the common is again under threat. Again we need
+enforced everywhere, and the common is again under threat. We need
 the financial services of Robin Hood, our methods are just a little
 different due to the changed circumstances: now we follow all
 transactions at the U.S. stock exchanges, make databanks of market
@@ -122,7 +122,7 @@ limits to us.
 economy, providing access to money that is not tied to the necessity to
 work.
 
-**Akseli:** First of all, parasite is a concept by Michel Serres. What
+**Akseli:** First of all, parasite is a concept of Michel Serres. What
 is important here is what it tells of the relationship we have with the
 financial market and its players. We let them do all the work and just
 imitate them. Why? Because, as Serres writes, the one who plays the
@@ -150,13 +150,13 @@ nature, and society.
 
 Robin Hood challenges this debt mechanism of control and of limiting our
 future. We also offer this other group of people a possibility of
-income, which is not tied to the necessity to work. An access to money
+income, which is not tied to the necessity of work. An access to money
 as capital. It is a very concrete opening of the field of possibility.
 It is an element of independence. That is why we can talk about
-democratization of finance. Or of profanation of finance: of taking
+democratization of finance or of profanation of finance. By taking
 something sacred, which we are not allowed to touch or which only the
 priests can touch and understand – just think about the economy, the
-financial market and its priests today – and returning it to common use
+financial market and its priests today – we are returning it to common use
 and play.
 
 **Pekka:** Robin Hood has been described as a ‘freak in the world of
@@ -178,9 +178,9 @@ the operation.
 precariat’.
 
 **Akseli:** Our aim is to bend the financialization of economy to the
-benefit of those who have this far been paying its costs: workers at the
-mercy of the precarization, suffering from the insecurization of labor
-markets and social rights, growing indebtness, of decreasing price of
+benefit of those who have thus far been paying its costs: workers at the
+mercy of the precarization, suffering from the insecurity of labor
+markets and social rights, growing indebtedness, decreasing price of
 labor, and of the downsizing of the welfare state. That states quite
 clearly the relationship of our starting points. Disinflation is the
 monetary relationship of the financialization of capital and
@@ -189,7 +189,7 @@ possible for these deficits to exist without any inflation? Because the
 logic has changed, the logic of derivatives has provided a means to
 manufacture liquidity, which does not devalue the base currency. At the
 moment our collective capacity to assume debt and pay taxes and be the
-direct bearer of austerity measures – for governments downsize and spend
+direct bearer of austerity measures – for governments to downsize and spend
 less for one simple reason, to be able to borrow more – creates direct
 vehicles for financial asset accumulation (which is not investment in
 expanding production). The increasing supply of government bonds (safe
@@ -254,11 +254,11 @@ Stefano are absolutely right when they say that the governance of the
 conventions is the proxy of the expropriation of the common. We tax
 this expropriation.
 
-The hypothesis of the efficient market is by the way one of the most
+The hypothesis of the efficient market is, by the way, one of the most
 important truths of the current economic policies. Our operation is
 based on a completely different understanding of how the market works
-and what are the mechanisms of creating economic value today, for
-example the role of flock behavior, origin of imitation, and means of
+and what the mechanisms of creating economic value today are, for
+example: the role of flock behavior, origin of imitation, and means of
 controlling a swarm in this.
 
 **Pekka:** Some people would say you are just following a computer
@@ -266,10 +266,10 @@ program.
 
 **Akseli:** It is funny when the Parasite and Robin Hood are interpreted
 like this. We are dealing here with a little bit more than ‘a computer
-program’. For example the whole Polemos book series we did in early 2000
+program’. For example, the whole Polemos book series we did in early 2000
 in Finland was created for building this understanding and organization.
 These are wonderful books, 14 altogether, published in this series, from
-the best economic and political thinkers at the moment. For example
+the best economic and political thinkers at the moment. For example,
 Christian Marazzi’s *Language and Capital*, Maurizio Lazzarato’s
 *Revolutions of Capitalism*, Paolo Virno’s *Grammar of Multitude*,
 Franco Berardi’s *Info-Labour and Precarious States of Mind*, Bracha
@@ -289,7 +289,7 @@ this. And there is the massive empirical testing of the Parasite carried
 out over six years 2003-2009 at the U.S. stock markets, and even more
 importantly, Sakari’s research work on the algorithmic production and
 product development with the Parasite has been actually going on for
-more than 20 years. Robin Hood has not just dropped from the heaven.
+more than 20 years. Robin Hood has not just dropped from the heavens.
 
 **Pekka:** Robin Hood has been in operation for two years. The co-op
 opened an office in June 2014 in Stuttgart, and then one in Berlin and
@@ -297,11 +297,11 @@ Dublin.
 
 **Akseli:** The ‘office’ is a work form that suits us. We can set it up
 in any space, in a café, a museum, a park, a university. We call it an
-office, a temporary office, where we, well, work like one does in the
+office, a temporary office, where we work like one does in the
 office… or how we imagine one works in the office…usually on particular
 themes like aesthetics of algorithmic production, rethinking financial
 services, crypto currency and equity, processes of the production of the
-common, some legal issues depending on what is on our immediate agenda.
+common and some legal issues depending on what is on our immediate agenda.
 But the office is open and anybody is welcome to listen or join us in
 the work.
 
@@ -313,25 +313,25 @@ that the organizers put their ass on the line too, open their networks,
 help us meet key people who could be interested in Robin Hood, of
 cultural institutions (funds, museums, galleries), and from networks of
 real finance money, funds, wealthy individuals and artists, angel
-investors interested in production of commonfare, disruptive financial
+investors interested in production of common fare, disruptive financial
 services, impact investments, venture philanthropy. We don’t organize to
-do Robin Hood, we do Robin Hood to organize.
+run Robin Hood, we run Robin Hood to organize.
 
-**Pekka:** And you draw an international audience: artists, activists,
+**Pekka:** You draw an international audience: artists, activists,
 philosophers, and professors. I saw the images of the Stuttgart office
 and it was full of diagrams and words like ‘aesthetics of algorithmic
 production’, ‘subjective growth’, ‘dividual’, ‘exhaustion of possible’,
-‘machinic surplus value’, ‘commonfare’, ‘relations’. Some radical
+‘machinic surplus value’, ‘common-fare’, ‘relations’. Some radical
 philosophers like Foucault, Deleuze and Guattari were dropped in the
 stream of the discussion as easily as I used to smoke Marlboroughs.
 
 **Akseli:** We are researchers of economy and organization. Already
-during the mid 1990s we found out that it will not be a picnic when we
-start using thinkers like Michel Foucault, Jacques Derrida, Gilles
+during the mid 1990s we found out that it would not be a picnic when we
+started using thinkers like Michel Foucault, Jacques Derrida, Gilles
 Deleuze, Félix Guattari, and then the Italian post-operaist writers to
 study and understand economy instead of the mainstream economic and
-business theory. Yet, without caring too much about the consequences, we
-continued with the work because we knew that we are right – that this
+business theorists. Yet, without caring too much about the consequences, we
+continued with the work because we knew that we were right – that this
 was the right way if we wanted to really understand how economy and its
 organization works today. So with these thinkers we were able to
 understand, for example, how signs and meanings are part of real
@@ -346,23 +346,22 @@ paradoxes of immaterial production – for example, that relations have
 weight and the immaterial matters – cause problems to old approaches and
 distinctions, and that we need new concepts and methods if we want to
 understand what is going on. Some of the key issues of the production
-value in economy today – like how to create a public, get its attention
-and keep and modulate it – have already been thought quite precisely in
+value in economy today, like how to create a public, get its attention, keep and modulate it, have already been thought through quite precisely in
 classical philosophy, rhetoric, and dramaturgy, in semiotics and
 linguistic theory.
 
 **Pekka:** As Robin Hood is connected to the ideas of basic income, is
 Robin Hood trying to overturn capitalism through the stock exchange?
 
-**Akseli:** Yes, the arguments for basic income are in fact quite
-similar. Our methods are just brought a little bit further. But
+**Akseli:** Yes, the arguments for basic income are, in fact, quite
+similar. Our methods are just taken a little further. But
 ‘overturning’ belongs to the political means of the last century and not
 those of Robin Hood. What is important for understanding Robin Hood is
 to understand why the old political means of building independent life
 do not work anymore and why we need to invent something new.
 
 The algorithmic and machinic functioning of economy today operates with
-component parts of subjectivity, with its sensations, cognition, memory,
+component parts of subjectivity; with its sensations, cognition, memory,
 physical force, intelligence, affects, not-yet-individuated
 potentialities. Their synthesis does not lie in the person but in the
 machinic assemblage. What the person ‘wants’ or ‘wills’ is absolutely
@@ -397,7 +396,7 @@ to create unforeseen and unthinkable (economic, political, social,
 emotional, organizational…) processes. It is also interesting to ask,
 like Florin Flueras and Alina Popa have said many times, what does Robin
 Hood do to art? It is non-representative, non-visual, non-performative,
-non-conceptual and it does not operative within the safe environment and
+non-conceptual and it does not operate within the safe environment and
 castrated power space of ‘Art’. Rather it uses art as an essential part
 of social organization, economy, politics and life – like art was used
 before it became something separate with its own axiological reference
@@ -406,7 +405,7 @@ sound, plastic forms, signs on the body, ground and objects were
 essential part of the political organization, rituals, religious
 processes. From our perspective this is just pragmatics: we don’t give a
 shit if Robin Hood is art or politics or business, we are interested in
-what we can do with it, what are its effects, does it make our
+what we can do with it; what are its effects, does it make our
 existential territory more habitable or not?
 
 **Pekka:** Robin Hood was originally a project in the Future Art Base
@@ -419,9 +418,8 @@ potentially dangerous to the reputation of the university’.
 
 **Akseli:** It was a surprise that they did what they did – quite simply
 we were just fired – without even trying to find out what this project
-was about. Or I don’t know, was it surprising at all? More probably we
-were just so naïve to think that something like this could be done there
-that it still makes me blush. It is an extremely conservative
+was about. Or I don’t know, was it surprising at all? More likely we
+were just naïve to think that something like this could be done there, it still makes me blush. It is an extremely conservative
 environment where no risks are taken. For them it was a hygienic
 preemptive action. I want to say this because we had prepared Robin Hood
 very carefully together with lawyers; we knew that there was nothing
@@ -435,15 +433,15 @@ this subjectivity?
 are experiencing. We have elsewhere described ourselves as a group of
 losers, sad figures, dark souls, cynical opportunists, and depressed
 princesses. We are not tough or macho, we are soft and wet, impotent and
-feeble. We don’t march or demonstrate. We have difficulties in getting
-up from the bed. We need each other just for trying to stand up. We are
-‘molle’ people[^1], the future of cooperation. This skepticism is not
-cognitive but ethical. The impasse is ethical and political at once, it
-affects our position, our exploration of the world. It is this dead end
-of politics as we used to know it, which is the breeding ground of Robin
+feeble. We don’t march or demonstrate. We have difficulty in getting
+out of the bed. We need each other just for trying to stand up. We are
+‘molle’ people,[^1] the future of cooperation. This skepticism is not
+cognitive but ethical. The impasse is ethical and political at once; it
+affects our position, our exploration of the world. It is the dead end
+of politics as we have known it, which is the breeding ground of Robin
 Hood. Robin Hood is belief in this world, and not in some other.
 
-**Pekka:** The art audience at Documenta did not easily stomach the
+**Pekka:** The art audience at Documenta found it difficult to stomach the
 performance by such merry men and women of Robin Hood.
 
 **Akseli:** It was a fairly elaborate installation or performance, whose
@@ -453,7 +451,7 @@ cooperation in a condition where it seems that distrust, suspicion, and
 exploitation of others has become the most important means of our
 survival. We have talked about these as the precarious states of mind.
 What does a cooperation of opportunists look like? How does a community
-of depressed function? Or cooperation in a situation where we are
+of depressed people function? Or cooperation in a situation where we are
 exhausted by the fact that we need to put all our thoughts, feelings,
 tastes and relationships to work all the time in every short-term
 project we get. These states of mind are organic parts of the way in
@@ -474,7 +472,7 @@ why we only think about money while the entire Documenta 13, for
 example, was made with love! Well, with love and €29 million we might
 add…but she said that money does not exist, only love. She meant that,
 essentially, it was not money that made Documenta happen, but love from
-which in turn artworks emerged. And the entire big art audience nodded
+which in turn, artworks emerged. And the entire big art audience nodded
 and hummed as a sign of consensus. We answered that we know the
 situation very well, because we work and produce everything all the time
 only with love too – and it is exactly this, which exhausts us. Robin
@@ -499,7 +497,7 @@ been able to create a start-up that financed itself already during its
 first year by income funding, that is pretty rare. And during the second
 year, we multiplied our assets under management tenfold. This is just a
 beginning; you haven’t yet seen anything of what we can really do. We
-are preparing for some serious kick ass operations to start taking
+are preparing for some serious kick-ass operations to start taking
 place.
 
 **Pekka:** Many newspaper reporters have asked about a proof of
@@ -515,10 +513,10 @@ our portfolio report by Interactive Brokers which is one of the most
 respected brokerage houses in the world. I don’t know what else we could
 do. I don’t know if they are as thorough when they go to a normal bank,
 what kind of evidence they ask to believe that this or that fund offered
-by the bank really exists? I wonder what those banks would answer if
+by the bank really exists? I wonder how those banks would answer if
 asked ‘do you really exist, does this fund really exist?’
 
-How to be certain that a portfolio of any investment bank really exists?
+How can we be certain that a portfolio of any investment bank really exists?
 That it has value? Of what is this value made? You must trust. Think
 about the Bernie Madoff affair for example, the largest financial fraud
 in U.S. history, how long he was able to carry on his investment scam,
@@ -527,8 +525,8 @@ billions to appear trustworthy and seduce people to trust them. On
 average banks have 20 to 30 sales people per one analyst. That is their
 real business. And do you think we should trust them? I mean, after all
 we know, that they cheat, con, exploit clients for their own profit,
-manipulate European level interests rates, the incredible bonus systems.
-How is trust created, this is the question at core of Robin Hood. Unlike
+manipulate European level interest rates, the incredible bonus systems.
+How is trust created? This is the question at core of Robin Hood. Unlike
 the normal banks and investment houses, we are fully transparent and not
 afraid of this question. How is value actually made? And this is also
 why the clergy tries to refuse our entrance to the temple, so that the
@@ -551,7 +549,7 @@ companies that traditionally might be considered to be evil.
 
 **Pekka:** What is the ethics of this?
 
-**Akseli:** We place our tax to all instruments in which we see the
+**Akseli:** We place our tax on all instruments in which we see the
 financial oligarchy move. It is a shameless ethic, a scandalous ethic,
 which binds itself directly into politics. It is an ethical order that
 perhaps goes beyond the Greek and Christian traditions of ethics, a
@@ -565,22 +563,22 @@ Production of ethics – of the conditions and environments of our action
 and thought, of the habits and rules that we follow as our ‘second
 nature’ as Aristotle put it – has become an important method to exhaust
 the potentiality of our action. We are trying to break out of this form
-of control. Our ethics is about reopening the field of the possible.
+of control. Our ethics are about reopening the field of the possible.
 
-So Robin Hood ethics is about being able to take action upon oneself and
+So Robin Hood ethics are about being able to take action upon oneself and
 others. An ethical subject is a subject that is capable of taking risks,
 posing a challenge, introducing conflict and division into community,
 and of governing oneself and others in a situation of conflict. Our
-ethics has to do much more with combat and politics, than with being
+ethics have to do much more with combat and politics, than with being
 nice and responsible, doing what is accepted, staying in a place
 assigned to you. The ethics of Robin Hood do not include such aspects.
-It is an ethics closer to a poetic, as our philosopher friend Juha Varto
+It is an ethics closer to a poetic notion, as our philosopher friend Juha Varto
 has beautifully said.
 
 A poetic stance takes place in active doing, being in operation, not
 stopping to reflect. It is a warrior’s stance that has no individual or
 personal or collective message to fight for but a profession of a simple
-existential pragmatic that gives the meaning to all there is to do.
+existential pragmatic that gives meaning to all there is to do.
 Poetic stance is an ethic-free, moral-free territory where
 experimentation is the only guiding principle. Anything may be expected
 from us. There is no criterion for good or bad since there is no solid
@@ -596,7 +594,7 @@ anyone ends up in communication and the power of meaningful language
 ridiculed by the sophist. Poetic means being in the middle, it leads
 towards a change, a region, which is not controlled by, determined space
 and time. This is where ethics begins. Ethics is a question about the
-possibility of future.
+possibility of the future.
 
 **Pekka:** Does it mean that Robin Hood is trying to beat the enemy by
 joining them?
@@ -606,7 +604,7 @@ financialization of economy. There is no way for some kind of return;
 our money is already there. Every time you use your credit card you take
 part in the creation of finance. As soon as your money hits your
 account, the banks start to use it for expanding credit. Your retirement
-money is working days and nights at the market. And money does not obey
+money is working day and night at the market. And money does not obey
 boundaries like ‘good’ and ‘bad’, you cannot tell it to stay in one
 place, like in the stock of a ‘nice company’ and not to go somewhere
 else. Money does not function like that. There are no financial virgins.
