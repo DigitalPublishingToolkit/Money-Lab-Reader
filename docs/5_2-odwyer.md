@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Money Talks: The Enclosure of Mobile Payments
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Rachel O’Dwyer
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -67,7 +67,7 @@ use of airtime as a form of international remittance is also
 significant, with companies such as Ezetop and Transferto conducting
 airtime transfers for more than 350 operators in over 100 countries via
 the web. The value of these international remittances via mobile phones
-surpassed \$10 billion in 2013.[^7]
+surpassed \$10 billion U.S. Dollars in 2013.[^7]
 
 Practices like airtime trading are significant because they imagine new
 kinds of money outside of state-backed currencies as well as new ways of
@@ -142,7 +142,7 @@ affordances from the protocols and standards of the communications
 particular relations of production and property. How will the political
 economy of mobile network infrastructure – from handsets through to core
 and radio access infrastructure – shape the geography of access in the
-mobile payments space and, in turn, the future of money? [^14]
+mobile payments space and, in turn, the future of money?[^14]
 
 ## Enclosure in Digital Networks
 
@@ -660,7 +660,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Communication Review* 10.4 (2007): 300.
 
 [^2]: Jeremy Allaire, ‘Instant, Free and Secure: New Standards for
-    Global Consumer Finance’, Bitfin Conference, Dublin 3-4 July, 2014.
+    Global Consumer Finance’, Bitfin Conference, Dublin, 3-4 July 2014.
 
 [^3]: Bill Maurer, ‘Mobile Money: Communication, Consumption and Change
     in the Payments Space’, *Journal of Development Studies* 48.5
@@ -748,7 +748,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^22]: Bill Maurer, ‘Closed Loops and Private Gateways: Money,
     Technology and the Private Interest in Payment’, MoneyLab
-    Conference, Amsterdam, March 21-22 2014,
+    Conference, Amsterdam, 21-22 March 2014,
 
 [^23]: Historically there are lots of different telematic
     infrastructures involved in circulating money and price information
@@ -796,7 +796,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Cash: Channeling Agency in Mobile Money’, *Journal of the Royal
     Anthropological Institute* 19.1 (2013).
 
-    or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
+[^28] or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
     on your Reputation’, *Wired Magazine*, 18 July 2014,
 
 [^29]: Wouter Rosingh, Adam Seal, and David Osborn, ‘Why Banks and
