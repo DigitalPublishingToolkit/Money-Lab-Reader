@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Eduard de Jong, Nathaniel Tkacz, Pablo Velasco
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 
-### Eduard de Jong, Nathaniel Tkacz and Pablo Velasco {.author}
+### Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco {.author}
 
 
 Currency experiments are enjoying something of a renaissance. Some have
@@ -212,7 +212,7 @@ same basic security protocol to transfer value, with the issuers
 expected to deploy racks filled with smart cards. According to de Jong,
 the fully off-line security provided a potential fatal security
 weakness. Mondex was put to a consumer test in July 1995 in Swindon,
-U.K.. McDonald's, BP, Sainsbury's, and other major retailers were
+U.K., McDonald's, BP, Sainsbury's, and other major retailers were
 involved in the test.[^5] NatWest and Midland Bank (now part of HSBC)
 were shareholders of Mondex. The Bank of Scotland was also a
 sub-franchise holder, and both the Royal Bank of Canada and the Canadian
@@ -334,7 +334,7 @@ digital cash transactions.
 Getting ‘PIN&Chip’ (as the use of smart card in point-of-sale payments
 became known) introduced took a full decade. As a migration from
 magstripe cards, smart cards did not fundamentally alter the centralized
-model of banking. This banking model is a known as a ledger system,
+model of banking. This banking model is known as a ledger system,
 where the actual transfer of value does not take place at the point of
 interaction between payer and payee but rather through the
 administrative action of an intermediary. The word ‘ledger’ comes from
@@ -382,10 +382,9 @@ renamed as Global System for Mobile Communications). By 1989, its first
 phase of specifications were approved based on the ISO standards for
 card size and communication. Once the European (and later global)
 standard was developed, phone-embedded GSM smart cards enjoyed a
-ready-made (phone) market and were very easy to massproduce.[^9]
+ready-made (phone) market and were very easy to mass produce.[^9]
 
-**‘What really takes off with smart cards is GSM. There was a made in
-heaven combination of technologies and that led to the take off of the
+**‘What really takes off with smart cards is GSM. There was a made-in-heaven combination of technologies and that led to the take off of the
 smart card production. At one point banking would do about 100 million
 smart cards a year, and there were 3 billion smart cards in phones, per
 year.’**
@@ -457,8 +456,7 @@ Phones had slowly become money-machines, technologies of payment, which
 is not the same as exchange. Payment *colors* exchange, it augments but
 also colonizes it in various ways. We are dealing with payment when all
 of the mirco-mediations of exchange are understood as forming a value
-chain, as comprising a unique political economy. This becoming payment
-machine of phones partly explains what happened in Kenya with M-Pesa.
+chain, as comprising a unique political economy. This process of phones becoming payment machines partly explains what happened in Kenya with M-Pesa.
 
 **‘Apart from cash (notes and coins) all the money systems are ledger
 based. Everything is balances, records of aggregated amounts received
@@ -512,12 +510,12 @@ York: Random House, 2012.
 
 Haug, Thomas. ‘A Commentary on Standardization Practices: Lessons from
 the NMT and GSM Mobile Telephone Standards Histories’,
-*Telecommunications Policy* 26 (2002): 101-7.
+*Telecommunications Policy* 26 (2002): 101-107.
 
-[‘How DigiCash Blew Everything’], January 1999,
+‘How DigiCash Blew Everything’, January 1999, <http://cryptome.org/jya/digicrash.htm>.
 
-Landrock, Peter. ‘Mondex’,. in *Encyclopedia of Cryptography and
-Security*, Henk C. A. van Tilborg (ed.) New York: Springer, 2005, p.
+Landrock, Peter. ‘Mondex’, in Henk C. A. van Tilborg (ed.) *Encyclopedia of Cryptography and
+Security*, New York: Springer, 2005, p.
 394,
 <http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262>.
 
@@ -528,10 +526,10 @@ Schellhorn, Gerhard, Holger Grandy, Dominik Haneberg, and Wolfgang Reif.
 ‘The Mondex Challenge: Machine Checked Proofs for an Electronic Purse’,
 in Jayadev Misra, Tobias Nipkow, and Emil Sekerinski (eds) *FM 2006:
 Formal Methods*, Lecture Notes in Computer Science 4085, Berling and
-Heidelberg: Springer, 2006, p.16-31,
+Heidelberg: Springer, 2006, pp. 16-31,
 <http://link.springer.com/chapter/10.1007/11813040_2>.
 
-[^1]: ‘How DigiCash Blew Everything’], January 1999,
+[^1]: ‘How DigiCash Blew Everything’, January 1999, <http://cryptome.org/jya/digicrash.htm>.
 
 [^2]: David Chaum, ‘Blind Signatures for Untraceable Payments’, in David Chaum,
     Ronald L. Rivest, and Alan T. Sherman (eds) *Advances in
@@ -543,7 +541,7 @@ Heidelberg: Springer, 2006, p.16-31,
 
 [^4]: Knud Böhle, Michael Rader, and Ulrich Riehm, ‘Electronic Payment Systems
     in European Countries: Country Synthesis Report’, Forschungszentrum
-    Karlsruhe*,* September 1999,
+    Karlsruhe*,* September 1999, <http://www.itas.kit.edu/pub/v/1999/boua99b.pdf>.
 
 [^5]: E.K. Clemons, D.C. Croson, and B.W. Weber, ‘Reengineering Money:
     The Mondex Stored Value Card and Beyond’, in *Proceedings of the
@@ -552,18 +550,18 @@ Heidelberg: Springer, 2006, p.16-31,
 
 [^6]: Clemons, Croson, and Weber, ‘Reengineering Money’.
 
-[^7]: Peter L-, ‘Mondex’, in *Encyclopedia of Cryptography and Security* (ed.)
-    Henk C.A. van Tilborg, Berlin and Heidelberg: Springer, 2005, p.
+[^7]: Peter Landrock, ‘Mondex’, in Henk C.A. van Tilborg (ed.) *Encyclopedia of Cryptography and Security*, Berlin and Heidelberg: Springer, 2005, p.
     394,
+<http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262>.
 
 [^8]: Gerhard Schellhorn et al., ‘The Mondex Challenge: Machine Checked Proofs for
     an Electronic Purse’, in Jayadev Misra, Tobias Nipkow, and Emil
     Sekerinski (ed.) *FM 2006: Formal Methods*, Lecture Notes in
-    Computer Science 4085, Berlin and Heidelberg: Springer 2006, pp.
+    Computer Science 4085, Berlin and Heidelberg: Springer, 2006, pp. 16-31.
 
 [^9]: Thomas Haug, ‘A Commentary on Standardization Practices: Lessons from the
     NMT and GSM Mobile Telephone Standards Histories’,
-    *Telecommunications Polic* 26 (2002): 101-7.
+    *Telecommunications Polic* 26 (2002): 101-107.
 
 [^10]: ‘How DigiCash Blew Everything’.
 
