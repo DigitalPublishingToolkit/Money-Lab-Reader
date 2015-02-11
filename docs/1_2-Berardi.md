@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Is There Life Beyond Money?
 
-### Franco 'Bifo' Berardi {.author}
+### Franco ‘Bifo’ Berardi {.author}
 
 > What is the price of Experience? Do men buy it for a song?  
 > Or wisdom for a dance in the street? No, it is bought with the price  
@@ -215,7 +215,7 @@ an individual pathology, has become the enforced, ethically approved
 standard: the workday has again become the central feature of human
 existence.[^4]
 
-In the last decades – since Margaret Thatcher's rise to power in the United Kingdom – the workers of the
+In the last decades – since Margaret Thatcher’s rise to power in the United Kingdom – the workers of the
 world have been subjected to the most ferocious aggression imaginable. The
 factory workers in the early 20th century had
 negotiated the reduction of work time, and in the 1960s and 70s the alliance between factory workers and knowledge workers opened the way to general automation of production and
@@ -326,7 +326,7 @@ energy that transcends referentiality and measurability.
 Since French and Russian Symbolists declared that the intention of the
 poet is not to describe but to evoke, the late modern poetry revolution
 is based on the emancipation of the sign from the referent.
-Mallarmé's words are no longer intended to designate the real, but are
+Mallarmé’s words are no longer intended to designate the real, but are
 intended to evoke the real, to make the real emerge from nothingness.
 Virtual technology has made real the old Symbolist dream of evocation,
 in many ways. The monetary sphere in the second part of the 20th century
@@ -426,7 +426,7 @@ late modernity, the prevailing tendency in literature and art as well as
 in science and in politics.
 
 In the second part of the century, the monetary sign reclaims its
-autonomy, and since Nixon's decision, following the process of
+autonomy, and since Nixon’s decision, following the process of
 monetary deregulation, the arbitrary self-definition of monetary
 dynamics is established: money shifts from referential to
 self-referential signification. This is the condition for the automation

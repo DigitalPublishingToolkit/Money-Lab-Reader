@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Crowdfunding the Commons?
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Renée Ridgway
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -196,7 +196,7 @@ or in-kind contributions, such as equipment, storage space, materials,
 employee expertise, the most desired involvement is that people
 volunteer, which means contributing for free.[^24] Like Kickstarter, the
 preceding platforms are ‘for-profit’ entities[^25], whereas Ioby is a
-‘citizen-led neighbor funded’ not for profit organization that
+‘citizen-led neighbor funded’ not-for-profit organization that
 strengthens neighborhoods through community resourcing.[^26]
 
 ## Sharing Economy cum Platform Capitalism
@@ -301,7 +301,7 @@ declare the description of the project and its objectives.[^33] There
 needs to be transparency about the monetary resources that are requested
 with each campaign and ‘to specify in advance the type of free or open
 license whereby such collective returns will be made accessible.’
-Instead, training people how to be open is, along with recognizing the
+Training people how to be open is alongside recognizing the
 social value within the project. The foundation first signs a contract
 with the promoter, who has to generate a delivery within a period of one
 year, which serves as a guarantee for the backers. Once the campaign is
@@ -328,7 +328,7 @@ spotlighting specific campaigns on the front page of the website. When
 the collective returns are delivered, they publish on open data
 journalism sites, or through partners.[^37] Comments from users are
 encouraged and are available. However, like other online economies, the
-most successful projects go hand in hand with a strong reputational
+most successful projects go hand-in-hand with a strong reputational
 economy through social media. The trust that is acquired in digital
 reputation through crowdfunding enables other people to support others’
 projects and builds up the collective return.
@@ -684,7 +684,7 @@ Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
     <http://www.shareable.net/>.
 
 [^38]: Felix Stadler, ‘Crowdfunding the Commons: Goteo.org Interview’,
-    Shareable, 13 June 2012, <http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview>.
+    *Shareable*, 13 June 2012, <http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview>.
 
 [^39]: Ridgway, ‘Monetizing the Crowd’.
 

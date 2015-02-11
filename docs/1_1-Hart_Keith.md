@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Money in the Making of World Society
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Keith Hart
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -46,7 +46,7 @@ of us desperately need to find new principles of association. The task
 of building a global civil society for the 21st century is urgent. But
 we must lose a lot more before the need to rebuild world society is
 likely to be taken seriously. Certainly we have regressed a long way
-from the hopes for freedom and equality released by the Second World War
+from the hopes for freedom and equality released by World War II
 and the anticolonial revolution that followed it. On the other hand,
 growing awareness of the risks for the future of life on this planet
 might encourage people to take humanity’s current predicament more
@@ -62,14 +62,14 @@ The 1860s saw a transport and communications revolution (steamships,
 continental railroads, and the telegraph) that decisively opened up the
 world economy. At the same time a series of political revolutions gave
 the leading powers of the coming century the institutional means of
-organizing industrial capitalism. These were the American civil war, the
+organizing industrial capitalism. These were the American Civil War, the
 culmination of Italy’s *Risorgimento*, the abolition of serfdom in
 Russia, the formation of the Anglo-Indian super-state, Britain’s
 democratic reforms at home, and Japan’s Meiji Restoration. German
 unification at the end of the decade spilled over into the 1870s through
-the Franco-Prussian war, the Paris commune, and the formation of the
+the Franco-Prussian war, the Paris Commune, and the formation of the
 French Third Republic. The First International was formed in 1864 and
-Karl Marx published *Capital* in 1867. The concentration of so many
+Karl Marx published the first volume of *Capital* in 1867. The concentration of so many
 epochal events in such a short period would suggest that world society
 was quite well integrated even then. But in the 1870s, international
 trade accounted for no more than one percent of Gross National Product
@@ -100,7 +100,7 @@ Philosophy of Right* that states, run by university-trained bureaucrats,
 should regulate capitalist markets with a view to containing their
 extreme consequences, while encouraging their material benefits to
 accrue to citizens across the board. The national system became general
-after the First World War and was the dominant social form of 20th
+after World War I and was the dominant social form of 20th
 century civilization. Its apogee or ‘golden age’ was in the period
 1945-1979.[^2] This was a time of developmental states, economic growth,
 and redistribution when, for the first and only time in history, the
@@ -109,7 +109,7 @@ them were the principal goals of economic policy everywhere – in the
 Soviet bloc and postcolonial states, as well as in the Western
 industrial societies. ‘Development’ replaced colonial empire as the norm
 of relations between rich and poor countries. When, shortly before his
-downfall, Richard Nixon announced that ‘We are all Keynesians now’, he
+downfall, Richard Nixon announced that ‘we are all Keynesians now’, he
 was reflecting a universal belief that governments had a responsibility
 to manage national capitalism in the interests of all citizens.
 
@@ -133,7 +133,7 @@ internationally paid for goods and services purchased abroad. Forty
 years later, these payments account for only a small fraction of global
 money transfers, the vast bulk being devoted to exchanging money for
 money in some other form (foreign exchange transactions alone reached
-daily turnover rates of \$5.3 trillion in 2013). This rising tide of
+daily turnover rates of U.S. \$5.3 trillion in 2013). This rising tide of
 money, sometimes known as ‘the markets’, represents the apotheosis of
 financial capitalism, with political management of currencies and trade
 having been virtually abandoned in favor of freeing up the global
@@ -217,7 +217,7 @@ politics is still mainly national, but the money circuit is global and
 lawless. The crisis should rather be seen as an irreversible moment in
 the history of money, occasioned by the collapse of the money system
 that the world lived by in the 20th century. This has been unraveling
-since the U.S. dollar went off gold in 1971, a new regime of floating
+since the U.S. Dollar went off gold in 1971, a new regime of floating
 currencies emerged, and money derivatives were invented. As the need for
 international cooperation intensifies, the disconnection between world
 economy and national political institutions makes finding effective
@@ -226,7 +226,7 @@ solutions very difficult.
 There is still a tendency to see the potential disaster we are living
 through in economic rather than political terms. In this respect,
 neoliberalism’s detractors often reproduce the free market ideology they
-claim to oppose. The euro is by no means the only symptom of this
+claim to oppose. The Euro is by no means the only symptom of this
 crisis, but it may still come to be seen as the decisive nail in the
 coffin of the world economy today. We need to ask not what is beginning,
 but what is ending. This is not straightforward. What is ending is
@@ -288,15 +288,14 @@ singular, as a federated network rather than as a centralized hierarchy,
 the nation-state. The era of national monopoly currencies is very recent
 (from the 1850s); it took the United States, for example, half a century
 to secure an uncontested monopoly for its ‘greenbacks’; and ‘all-purpose
-money’ has been breaking up for four decades now, since the dollar left
+money’ has been breaking up for four decades now, since the Dollar left
 gold.
 
 Since the end of the Bretton Woods system of fixed parity exchange
 rates, world economy has reverted to the plural pattern of competing
 currencies that was normal before central banks learned how to control
 national economies in the late 19th century. One aspect of the present
-crisis is that the international rule system imposed after the Second
-World War was subverted by the creation of an offshore banking system
+crisis is that the international rule system imposed after World War II was subverted by the creation of an offshore banking system
 which brought the informal economy to the heart of global finance.[^7]
 The separation of functions between different types of monetary
 instruments was also crucial to money’s great escape from the rules of
@@ -337,7 +336,7 @@ striking. A global hegemon in decline, the United States (then Britain)
 confronts a rising challenger, China (Germany), while some regional
 powers are failing – Europe, Japan (Austria-Hungary, the Ottomans) – and
 others flex their muscles, India, Russia, Brazil (U.S., France, Japan).
-Money is at the heart of this struggle: the U.S. dollar, currency wars,
+Money is at the heart of this struggle: the U.S. Dollar, currency wars,
 BRICS vs. the Bretton Woods institutions; but conventional economics
 does not help ordinary people to grasp what is going on. By studying
 monetary relations on different geographical scales, from intimate
@@ -372,7 +371,7 @@ world society is still perceived by most people as at best a utopian
 fantasy or at worst a threat. We need to build an infrastructure of
 money adequate to humanity’s common needs, although this agenda seems
 impossibly remote right now. One move in this direction goes by the name
-of ‘alter-globalization‘ and the idea of a human economy offers a bridge
+of ‘alter-globalization’ and the idea of a human economy offers a bridge
 to that movement.[^12]
 
 ## Money in a Human Economy
@@ -384,7 +383,7 @@ cultural anthropology in the 20th century. A class of academics chose to
 break out of the ivory tower and join the people where they live in
 order to discover what they do, think, and want. Second, the economy is
 always plural and people’s experience of it across time and space has
-more in common that the use of contrastive terms like ‘capitalism‘ or
+more in common that the use of contrastive terms like ‘capitalism’ or
 ‘socialism’ would suggest. This approach addresses the variety of
 particular institutions through which most people experience economic
 life. Third, our aim is to promote economic democracy by helping people
@@ -445,7 +444,7 @@ confusion has been cleared up.
 
 ## Heads or Tails Revisited
 
-In my article ‘Heads or tails? Two sides of the coin’, I argued
+In my article ‘Heads or Tails? Two Sides of the Coin’, I argued
 following Polanyi[^14] that money is both a *token* of state authority
 and a *commodity* made by markets, at the same time an aspect of
 relations between persons and a thing detached from persons.[^15] States
@@ -513,10 +512,10 @@ intensification of economic inequality. Finance capital led the
 internationalization of economic relations, and people migrated in large
 numbers all over the world. Money seemed to be the dominant social force
 in human affairs; and this could be attributed to its greater freedom of
-movement as the boundaries of society were extended outward—then by new
+movement as the boundaries of society were extended outward — then by new
 means of transport and communication and colonial empire, now by the
 digital revolution and transnational corporations. The main difference
-is that the late-19th century was driven by a bureaucratic revolution
+is that the late 19th century was driven by a bureaucratic revolution
 which led to the centralization of politics and production; whereas a
 century later these same bureaucracies are being dismantled by a
 neoliberalism powered by the digital revolution in communications.
@@ -535,7 +534,7 @@ external dimensions of economy are often in conflict. National
 capitalism turned away from the world in an era of war and disruption of
 trade into an aspiration to self-sufficiency whose symbol was national
 currency. On a much smaller scale community currencies of the LETS type
-reject money's capacity to link us to universal society in favor of
+reject money’s capacity to link us to universal society in favor of
 local restrictions on exchange.[^20] Even Simmel believed that the
 dematerialization of money would reveal to us our dependence on society
 in the Durkheimian form of a singular state. All we know now is that the
@@ -635,12 +634,11 @@ Graeber, David. *Debt: The First 5,000 Years*, New York: Melville House,
 Hann, Chris and Keith Hart. *Economic Anthropology: History,
 Ethnography, Critique*, Cambridge: Polity, 2011.
 
-<span id="tbbib34" class="anchor"></span>Hart, Keith. ‘Heads or tails?
+Hart, Keith. ‘Heads or Tails?
 Two Sides of the Coin’, *Man* 3.21 (1986): 637-56.
 
-<span id="tbbib35" class="anchor"></span>Hart, Keith. *The Memory Bank:
-Money in an Unequal World*, London: Profile<span id="tbbib38"
-class="anchor"><span id="tbbib40" class="anchor"></span></span>, 2000.
+Hart, Keith. *The Memory Bank:
+Money in an Unequal World*, London: Profile, 2000.
 
 Hart, Keith. ‘Money is Always Personal and Impersonal’, *Anthropology
 Today* 23.5 (2007): 16-20.
@@ -653,8 +651,7 @@ Hart, Keith. ‘Marcel Mauss’s Economic Vision, 1920-1925: Anthropology,
 Politics, Journalism’, *Journal of Classical Sociology* 14.1 (2014):
 34-44.
 
-<span id="tbbib41" class="anchor"><span id="tbbib44"
-class="anchor"></span></span>Hart, Keith, Jean-Louis Laville, and
+Hart, Keith, Jean-Louis Laville, and
 Antonio Cattani (eds) *The Human Economy: A Citizen’s Guide*, Cambridge:
 Polity, 2010.
 
@@ -662,8 +659,7 @@ Hart Keith and Horacio Ortiz. ‘The Anthropology of Money and Finance:
 between Ethnography and World History’, *Annual Review of Anthropology*
 43 (2014): 465-482.
 
-<span id="tbbib45" class="anchor"><span id="tbbib47"
-class="anchor"></span></span>Hegel, Gottfried Wilhelm Friederich. *The
+Hegel, Gottfried Wilhelm Friederich. *The
 Philosophy of Right*, Oxford: Oxford University Press, 1967 (1821).
 
 Hobsbawm, Eric. *The Age of Extremes: The Short Twentieth Century
@@ -684,15 +680,13 @@ Verso, 2013.
 Parry, Maurice and Jonathan Bloch (eds). *Money and the Morality of
 Exchange*, Cambridge: Cambridge University Press, 1989.
 
-<span id="tbbib91" class="anchor"><span id="tbbib92"
-class="anchor"></span></span>Pleyers, Geoffrey. *Alter-Globalization:
+Pleyers, Geoffrey. *Alter-Globalization:
 Becoming Actors in A Global World*, Cambridge: Polity, 2010.
 
 Polanyi, Karl. *The Great Transformation: The Political and Economic
 Origins of Our Times*, Boston: Beacon, 2001 (1944).
 
-<span id="tbbib94" class="anchor"><span id="tbbib95"
-class="anchor"></span></span>Polanyi, Karl. ‘Money Objects and Money
+Polanyi, Karl. ‘Money Objects and Money
 Uses’, in *The Livelihood of Man. Studies in Social Discontinuity*, Karl
 Polanyi (ed.) New York: Academic, 1977 (1964), pp. 97-121.
 
@@ -748,7 +742,7 @@ Books, 1994.
     Global World*, Cambridge: Polity, 2010.
 
 [^13]: See Keith Hart, Jean-Louis Laville, and Antonio Cattani (eds)
-    *The Human Economy: A Citizen’s Guide*. Cambridge: Polity, 2010,
+    *The Human Economy: A Citizen’s Guide*, Cambridge: Polity, 2010,
     [http://www.up.ac.za/human-economy-program/](http://www.up.ac.za/human-economy-program/),
     [http://thehumaneconomy.blogspot.com/](http://thehumaneconomy.blogspot.com/).
 
@@ -777,5 +771,4 @@ Books, 1994.
 [^21]: Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, New
     York: Verso, 2013.
 
-[^22]: Keith Hart, *The Memory Bank: Money in an Unequal World*, 2000:
-    [http://thememorybank.co.uk/book/](http://thememorybank.co.uk/book/).
+[^22]: Keith Hart, *The Memory Bank*.
