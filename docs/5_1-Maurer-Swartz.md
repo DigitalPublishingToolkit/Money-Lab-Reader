@@ -7,9 +7,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Wild, Wild West: A View From Two California Schoolmarms
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Bill Maurer, Lana Swartz
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 ### Bill Maurer and Lana Swartz {.author}
 
 People who work in payments innovation are really into the Wild West.
-Since 2008, when the industry started to heat up, we've heard them say,
+Since 2008, when the industry started to heat up, we’ve heard them say,
 over and over again and across contexts, that ‘it’s a Wild West out
 there’, or ‘we are in the Wild West’. Sometimes they use it in marketing
 material, where it evokes the exciting, the new. Other times, they use
@@ -235,7 +235,7 @@ high-powered computing mobile. Why did the global financial crisis
 matter for payments? For one thing, it further eroded public confidence
 in banks: banking itself, as an overarching ‘brand’, suffered. For
 another, it actively pushed more and more people out of conventional
-banking and into alternative financial services –from pawnshops to check
+banking and into alternative financial services – from pawnshops to check
 cashing services and payday lenders, as well as prepaid payment cards.
 Entrepreneurial folk looking at payments started to see opportunity in
 non-bank provision of money services. Among payments innovators, there
@@ -302,7 +302,7 @@ databases.
 Michael Warner argued in *Letters of the Republic* that broadsides in
 early colonial America at first provided a representation of a God-given
 hierarchical natural order, king firmly ensconced at that top of that
-order.[^13] The Revolutionaries’ were different: they were, after all,
+order.[^13] The Revolutionaries were different: they were, after all,
 trying to constitute a new kind of person through these letters: fellow
 citizens, whom they would hail as such. By hailing the person into a
 distributed horizontal community they would then constitute the
@@ -456,7 +456,7 @@ University Press, 1994.
 [^10]: See David Stearns, *Electronic Value Exchange: Origins of the
     VISA Electronic Payment System*, New York: Springer, 2011.
 
-[^11]: Stearns, *Electronic Value Exchange* 2011.
+[^11]: Stearns, *Electronic Value Exchange*, 2011.
 
 [^12]: Georg Simmel, *The Sociology of Georg Simme*l, trans. Kurt H.
     Wolff, Glencoe, IL: The Free Press, 1950; Jane Guyer, *Marginal
@@ -468,4 +468,4 @@ University Press, 1994.
     Public Sphere in Eighteenth-Century America,* Cambridge, MA: Harvard
     University Press, 1992.
 
-[^14]: Hart, *Memory Bank* 2000.
+[^14]: Hart, *Memory Bank*, 2000.

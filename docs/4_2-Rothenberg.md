@@ -242,11 +242,11 @@ democratized capital, and through social media the microcapital of the
 poor is converted into new financial global flows.[^16] Roy explains:
 
 > On Kiva.org […] users can integrate such conscientious practices with
-> the techno-social rhythms of their daily lives. Kiva "lets you browse
-> loans on Facebook, and show off your loans in your Facebook page."
-> There is Kiva for the iPhone, which "lets you get your Kiva fix from
-> anywhere you bring your phone," and Kiva Tweets, which "automatically
-> posts new loans to your Twitter account daily or weekly."[^17]
+> the techno-social rhythms of their daily lives. Kiva “lets you browse
+> loans on Facebook, and show off your loans in your Facebook page.”
+> There is Kiva for the iPhone, which “lets you get your Kiva fix from
+> anywhere you bring your phone,” and Kiva Tweets, which “automatically
+> posts new loans to your Twitter account daily or weekly.”[^17]
 
 Through Kiva and similar platforms, the ethical economy meets the
 reputation economy. With every ‘like’, the privileged are empowered to

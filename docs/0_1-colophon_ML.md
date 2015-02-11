@@ -214,7 +214,7 @@ TECHNOLOGIES OF PAYMENT
 
 **Bill Maurer and Lana Swartz**
 
-Wild, Wild West: A View From Two California Schoolmarms
+Wild, Wild West: A View from Two California Schoolmarms
 
 **Rachel O’Dwyer**
 
