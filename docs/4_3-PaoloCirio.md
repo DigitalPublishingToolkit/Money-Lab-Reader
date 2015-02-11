@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: (W)orld Currency
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Paolo Cirio
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -48,7 +48,7 @@ mathematical equation and a diagram of an algorithm. These two elements
 indicate how the value of the currency is calculated and how its
 liquidity is created and maintained. 
  
-## How it works
+## How it Works
 World Currency is a global reserve currency backed by popular
 currencies. It's based on a value-weighted index, in which each currency
 in a basket influences the index in proportion to its exchange rate and
