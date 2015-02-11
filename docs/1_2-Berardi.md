@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Is There Life Beyond Money?
 
-### Franco Berardi {.author}
+### Franco 'Bifo' Berardi {.author}
 
 > What is the price of Experience? Do men buy it for a song?  
 > Or wisdom for a dance in the street? No, it is bought with the price  
@@ -30,7 +30,7 @@ Rights: CC BY-NC 4.0
 
 I’m far from being an expert in the field of finance. So I should
 explain why I’m writing on the subject of money. The problem is that
-money invaded the space of everyday life, swamping far beyond the mere
+money invaded the space of everyday life, spreading far beyond the mere
 space of the economy, and turning into a sort of all pervading fluid.
 
 The expanding pervasiveness of the economic sphere in social life is a
@@ -50,7 +50,7 @@ between things, and the precarization of every relation between persons.
 
 One after the other every space of daily life – learning, affection, sex
 – is invaded by the brutality of the arbitrary power of money, and the
-undifferentiated abstraction swallows every dimension of the experience,
+undifferentiated abstraction swallows every dimension of experience,
 depriving it of its special flavor and concreteness.
 
 This is why the discourse on money can no longer be reserved to the
@@ -71,17 +71,17 @@ incomprehensible words of the financial agents in order to try and
 resist the aggression that the financial abstraction was waging against
 our concrete lives.
 
-At the beginning of the new century the so called dotcomcrash dissolved
+At the beginning of the new century the so called dotcom crash dissolved
 the illusion of an alliance between cognitive workers and venture
-capital, the alliance that in the ’90s has made possible the creation
+capital, the alliance that in the 90s has made possible the creation
 and spread of the net. After the first crisis of the virtual economy in
 the year 2000, disempowered cognitive workers entered the cycle of
 precarization. Then the society at large was attacked by the menace of a
 metaphysical debt.
 
-At the end of the ’90s Jean Baudrillard wrote the following words:
+At the end of the 90s Jean Baudrillard wrote:
 
-The debt will never be paid. No debt will ever be paid. The final counts
+>The debt will never be paid. No debt will ever be paid. The final counts
 will never take place. If time is counted, the missing money is beyond
 counting. The United States is already virtually unable to pay, but this
 will have no consequence whatsoever. There will be no judgment day for
@@ -95,8 +95,8 @@ debt has failed. The debt, which was in orbit around the globe has
 fallen down, and is haunting the economy of the West. Facing the
 de-orbitalization of the debt, the financial class multiplied the
 attempts to create value from nothing. But in order to do that, the
-financial class is turning into nothing the products and the
-institutions of social activity. A sort of black hole began to swallow
+financial class is turning the products and
+institutions of social activity into nothing. A sort of black hole began to swallow
 the richness produced in the last two hundred years, particularly in
 Europe. The credit derivatives market is the place where destruction
 replaces production. Since the ’80s, when ‘futures’ became commonplace
@@ -114,20 +114,20 @@ labor and of the very structures of modern civilization. As an attractor
 and destroyer of the future, financial capitalism is capturing energies
 and resources and transforming them into monetary abstraction: nothing.
 In 2008, financial emergency was declared after the collapse of the
-American derivative market and the collapse of Lehmann Brothers: as a
-consequence the society at large was summoned to pay the reckless
-dissipation brought about by the financial dynamics.
+American derivative market and of Lehmann Brothers: as a
+consequence society at large was forced to pay for the reckless
+dissipation brought about by these financial dynamics.
 
-In the wake of the 2008 breakdown a wave of movement spread in many
+In the wake of the 2008 breakdown a wave of movements spread in many
 cities of the world, creating new expectations. While the financial
 abstraction was swallowing the life and future of the new generation, a
-movement of unprecedented extension exploded reaching a peak in the year
+movement of unprecedented extent exploded reaching a peak in the year
 2011. The London riots of November 2010, the Spanish *acampada* of May
-and June 2011, and the Greek strenuous resistance of students,
+and June 2011, and the Greek resistance of students,
 precarious workers, artists, and intellectuals tried to overthrow the
 financial dictatorship. In vain.
 
-In the Spring of 2011 the Arab cities saw a wide uprising of young
+In the Spring of 2011 the Arab cities saw a large uprising of young
 people against local dictators and global financial capitalism, but the
 movement of precarious cognitive workers, the avant-garde of the
 Egyptian and Syrian rebellions, proved unable to lead a long lasting
@@ -140,7 +140,7 @@ by a fresh wave of occupations aimed at the reactivation of the social
 body of cognitive precarious labor. The global uprising has obviously
 involved different social forces according to the diversity of the areas
 where it erupted, but precarious cognitarians mobilized everywhere
-giving the global process a common character and meaning. The search of
+giving the global process a common character and meaning. The search for
 autonomy of knowledge and technology to escape from the grip of
 financial capitalism is the common content of the cognitarian forces,
 which are the innovative core of the uprising.
@@ -151,12 +151,12 @@ mobilization, precariousness has been their main concern everywhere, and
 autonomy of knowledge and technology has been their main issue. The
 attempt to resist and subvert the corporate capture of knowledge and
 skills has thus been the defining novelty of this movement.
-Media-activism, the development of P2P technologies, and also the
-experimentation of alternative currencies can be viewed as examples of
+Media-activism, the development of P2P technologies, and the
+experimentation with alternative currencies can be viewed as examples of
 the attempt to re-appropriate the product of knowledge, while the
 occupation of spaces – the overall process named Occupy – has been the
 example of a process of recomposition of the erotic body of society
-trying to conjoin with the cognitive potency of the general intellect.
+trying to connect with the cognitive potency of the general intellect.
 
 In the days of Spring 2011, with a group of students and professors of
 the Academy of Brera, I went to the Milano Stock Exchange building, and
@@ -166,7 +166,7 @@ Cattelan is raising the middle finger towards the sky just in front of
 the temple of finance.
 
 In the air there was the expectation of an uprising, of a wave of
-solidarity and insolvency so to stop the capitalist aggression. Provided
+solidarity and resolve to stop capitalist aggression. Provided
 that in the future there will be people who can remember, the year 2011
 will be recorded as the year of an enigmatic insurrection, an
 insurrection full of rage and indignation but devoid of solidarity and
@@ -182,13 +182,13 @@ monetarism has provoked on work and society.
 
 ## Money and Work
 
-‘The workday is not an extension of the human nature; long working hours
+‘The workday is not an extension of human nature; long working hours
 are not rooted in need and are not something that workers have
 willingly, freely or joyfully agreed to…’[^2]
 
 My point of view will be the recent history of work, particularly the
-imposition of an extension of work time. In a column of the *New York
-Times* Frank Bruni wrote the following words, referring to the recent
+imposed extension of work time. In *The New York
+Times* columnist Frank Bruni wrote the following, referring to the recent
 surge in American employment rate, after the crisis that followed the
 2008 financial collapse: ‘The new jobs don’t feel as sturdy as the old
 ones. It takes more hours to make the same money or support the same
@@ -196,13 +196,13 @@ lifestyle. Students amass debt. Upward mobility increasingly seems a
 mirage, a myth.’[^3]
 
 It takes more hours to make the same money. This is the crucial
-transformation that has been produced by the neoliberal policy, and has
+transformation that is a result of the neoliberal policy, and has
 been pushed by the financial class. Western workers are working more and
 more and earning less and less.
 
 In 1998 Aronowitz and Cutler already wrote in *Post-Work*:
 
-We can understand the political history of the last thirty years in
+>We can understand the political history of the last thirty years in
 terms of the largely successful effort of the Right to impose social
 amnesia on the American people, to snuff out the memory of a time we
 began to seriously consider a post work future. Organized labor has
@@ -215,37 +215,34 @@ an individual pathology, has become the enforced, ethically approved
 standard: the workday has again become the central feature of human
 existence.[^4]
 
-In the last decades – since the ascension of Margaret Thatcher to the
-summit of political power in the United Kingdom – the workers of the
-world have been subjected to the most ferocious aggression ever. The
-struggles of factory workers in the first part of the century had
-brokered the reduction of work time, and in the 1960s and ’70s of the
-past century the alliance between factory workers and knowledge workers
-had opened the way to the general automation of production and the
+In the last decades – since Margaret Thatcher's rise to power in the United Kingdom – the workers of the
+world have been subjected to the most ferocious aggression imaginable. The
+factory workers in the early 20th century had
+negotiated the reduction of work time, and in the 1960s and 70s the alliance between factory workers and knowledge workers opened the way to general automation of production and
 emancipation of human life from the chains of work. The neoliberal
-reversal of the scene, since late ’70s, has marked the beginning of a
+reversal of the scene, since the late 70s, has marked the beginning of a
 never-ending class war waged by capitalists against society and against
 workers. 
 
-Democracy, friendship, pleasure of life has been trashed along this
+Democracy, friendship, and the pleasures of life have been trashed during this
 war. 
 
 In the aftermath of the First World War, in the days of Roosevelt’s New
 Deal, the emancipation of social time from the unnecessary (less and
-less necessary) daily obligation of salaried work started to be
-envisioned as a possibility. In the decades that prepared the worldwide
-movement of ’68, many believed the eight-hour day was just a beginning
-in the struggle to reduce working hours further. Time for education,
+less necessary) daily obligation of salaried work began to be
+envisioned as a possibility. In the decades prior to the worldwide
+movement of ’68, many believed the eight-hour day was just the beginning
+of the struggle to reduce working hours further. Time for education,
 time for self-care, time for friendship, affection and pleasure: this
 was the agenda of the age of democracy and progress. This was not a
 utopia, but the pragmatic expectation of conscious workers and
-progressive intellectuals in the age of development of the new
+progressive intellectuals in an era with large developments in new
 technologies for automation. 
 
 But the accumulation of value is based on the exploitation of human
-time, and power is based on the hierarchical division of social time, so
+time, and power is based on the hierarchical division of social time, therefore
 capitalists and their ideological agents never lost sight of their goal:
-re-establish ten or twelve hours hour days as cultural standard, enforce
+namely to re-establish ten or twelve hours hour work days as the cultural standard. They enforce
 discipline by any means: the blackmail of misery, the violence of war,
 and the pervasive potency of advertising, ideology and consumerism. As
 Aronowitz and Cutler write: ‘consumption was created as a new motive: a
@@ -256,14 +253,14 @@ The cultural reduction of individual needs and habits to uniformity, the
 mass production of material expectations and the massive commodification
 of desire is the totalitarian pre-condition of the process of subjection
 of social time to the dictatorship of work. The privatization of daily
-life – individual house, nuclear family, private transportation
-–promoted as a condition of freedom has resulted in cultural manacles,
-the condition of a form of slavery which, blending with puritanical
+life – individual houses, nuclear families, private transportation
+– promoted as a condition of freedom has resulted in cultural manacles,
+the condition of a form of slavery which, blended with puritanical
 ideology, finally intoxicates life and culture and politics.
 
 Elisabeth Kolbert argues:
 
-According to Keynes the size of the global economy would increase
+>According to Keynes the size of the global economy would increase
 sevenfold in the following century, and this, in concert with
 ever-greater “technical improvements”, would usher in the fifteen-hour
 week. Keynes assumed that people work in order to earn enough to buy
@@ -301,7 +298,7 @@ fulfilled? Can we imagine, as some theorists have recently proposed, a
 sort of ‘money of the commons’?  The crucial function of such ‘money of
 the commons’ should be to reduce the workers dependence on the economic
 constraints that force them to accept any blackmail, and particularly
-force them to sell their labor time for unfair salary in unfairly
+force them to sell their labor time for an unfair salary in
 precarious conditions.
 
 ## A Digression About Language and Money
@@ -323,17 +320,17 @@ formidable limit to our imagination.
 According to Marx money is the general equivalent, the translator of any
 thing into every other thing. In some parts of his work (namely in the
 *Grundrisse*) Marx suggests that money is not only a signifier, whose
-signified is infinitely various, but is also an engine, a source of
+signified is infinitely varied, but is also an engine, a source of
 energy that transcends referentiality and measurability.
 
 Since French and Russian Symbolists declared that the intention of the
 poet is not to describe but to evoke, the late modern poetry revolution
-is based on the emancipation of the sign from the referent. Since
-Mallarmé words are no longer intended to designate the real, but are
-intended to evoke the real, to make real emerge from nothingness.
+is based on the emancipation of the sign from the referent.
+Mallarmé's words are no longer intended to designate the real, but are
+intended to evoke the real, to make the real emerge from nothingness.
 Virtual technology has made real the old Symbolist dream of evocation,
 in many ways. The monetary sphere in the second part of the 20th century
-becomes force of evocation, magical circulation of something that does
+becomes a force of evocation, a magical circulation of something that does
 not exist.
 
 The current financialization of the economy demands self-referentiality
@@ -346,18 +343,18 @@ sur-codification, which is subjecting the sphere of reality (production
 and exchange) to a mathematical rationale that is not inherent to the
 rationale of production itself.
 
-The 1971 Nixon’s decision to emancipate the American dollar from the
-universal regime of fixed exchange, asserted the concept that the
+Nixon’s decision in 1971 to emancipate the American dollar from the
+universal regime of fixed exchange, presumed that the
 financial variable is independent from any referent, and is only based
-on the arbitrary power of self-regulation and self-asseveration. The
+on the arbitrary power of self-regulation and self-affirmation. The
 creation of the digital web paved the way to the automation of the
 relation between financial code and economic dynamics, and therefore
-social life was subjected to the financial semiotization.
+social life was subjected to financial semiotization.
 
 Chomsky’s structural theory is based on the idea that linguistic signs
 can be exchanged in a bank of shared structures: a common cognitive
 competence makes the exchange possible. Language is therefore, like
-money, a general equivalent, universal translator of different goods. We
+money, a general equivalent and universal translator of different goods. We
 can exchange everything with money, as we can exchange everything with
 words.[^9]
 
@@ -369,18 +366,17 @@ submission. Look at the reality of debt, look at the awful effects of
 impoverishment and exploitation that debt is provoking in the body of
 society. Debt is a transformation of money into blackmail. Money, which
 was supposed to be the measure of value, has been turned into a tool for
-psychic and social subjugation. The metaphysical debt is linking money,
+psychic and social subjugation. This metaphysical debt is linking money,
 language, and guilt. Debt is guilt, and as guilt it is entering the
-domain of unconscious, so to shape language according to structures of
+domain of the unconscious, and shaping language according to structures of
 power and submission.
 
-Language and money have something in common: they are nothing from a
-physical point of view, but they move everything in human history. Words
-move people to believe, words forge expectations and the impulse to act
+Language and money have something in common: from a
+physical point of view they are nothing, yet they move everything in human history. Words
+move people to believe, words create expectations and the impulse to act
 in the pursuit of their goals. Words are tools for persuasion and the
 mobilization of psychic energies. Money acts similarly, based on trust,
-on the belief that that piece of paper means everything that can be sold
-and bought in the world.
+on the belief that a piece of paper means everything that can be bought and sold in the world.
 
 In* *‘Money The Poor Man’s Credit Card’,* *chapter fourteen
 of *Understanding Media*, Marshall McLuhan writes:
@@ -414,9 +410,9 @@ Abstraction is the main trend of the last century in the field of art,
 language, and the economy. Abstraction can be defined as the mental
 extraction of a concept from a series of real experiences, but it can be
 also defined as the separation of the conceptual dynamics from the
-bodily process. Since when Marx spoke of ‘abstract labor’ in order to
-refer to the working activity as separated from the useful production of
-concrete things we know that abstraction is a powerful engine. Thanks to
+bodily process. Since Marx spoke of ‘abstract labor’ in order to
+refer to the working activity as separate from the useful production of
+concrete things, we know that abstraction is a powerful engine. Thanks to
 abstraction, capitalism has detached the process of valorization from
 the material process of production. As productive labor turns into a
 process of info-production, abstraction becomes the main source of
@@ -424,13 +420,13 @@ accumulation, and the condition of automation. Automation is the
 insertion of abstraction into the machinery of social life, and
 consequently it is the replacement of an action (physical and cognitive)
 with a technical engine. From the point of view of cultural history the
-first part of the 20th century is marked by the emancipation of sign
+first part of the 20th century is marked by the emancipation of the sign
 from its referential function: this may be seen as the general trend of
 late modernity, the prevailing tendency in literature and art as well as
 in science and in politics.
 
-In the second part of the century the monetary sign reclaims its
-autonomy, and since the Nixon decision, following the process of
+In the second part of the century, the monetary sign reclaims its
+autonomy, and since Nixon's decision, following the process of
 monetary deregulation, the arbitrary self-definition of monetary
 dynamics is established: money shifts from referential to
 self-referential signification. This is the condition for the automation
@@ -438,7 +434,7 @@ of the monetary sphere, and for the submission of social life to this
 sphere of abstraction. Automation, which is electronic, does not
 represent physical work so much as programmed knowledge. As work is
 replaced by the sheer movement of information, money as a store of work
-merges with the informational forms of credit and credit card.[^11]
+merges with the informational forms of credit and credit cards.[^11]
 
 Retracing the history of money, from exchange commodity to
 representative money to standard value to electronic abstraction,
@@ -460,7 +456,7 @@ McLuhan writes:
 > time in quite small quantities amongst a group of Central Banks.[^12]
 
 Only when it is abstracted (separated from the referent, and
-dis-embodied) the monetary dynamics can be automated, submitted to the
+dis-embodied) can the monetary dynamics be automated and submitted to the
 rules of a non-referential sphere of signification and attribution of
 value. Information takes the place of things, and finance – which once
 upon a time used to be the sphere where productive projects could meet
@@ -469,30 +465,28 @@ itself from the constraints of physical production: the process of
 capital valorization (increase of money invested) no longer passes
 through the creation of use value. As the referent is cancelled and
 financial accumulation is enabled by the mere circulation of money, the
-production of goods become superfluous by the point of view of financial
-expansion. The accumulation of abstract value depends on the subjection
+production of goods become superfluous. The accumulation of abstract value depends on the subjection
 of the population to debt, and on the predation of existing resources.
 This emancipation of capital accumulation from the production of useful
-things results in a process of annihilation of social welfare.
+things results in the dismantling of social welfare.
 
-In the sphere of financial economy, the acceleration of financial
+In the sphere of the financial economy, the acceleration of financial
 circulation and valorization implies the elimination of the concrete
 usefulness of products because the faster information circulates, the
 faster value is accumulated, and purely financial information is the
 fastest of things, while the production and distribution of goods is
-slow. The process of realization of capital, namely the exchange of
-goods with money, slows the pace of monetary accumulation. The same
-happens in the field of communication: the less meaningful the message,
+slow. The process of realizing capital, namely the exchange of
+goods with money, slows the pace of monetary accumulation. The same phenomenon happens in the field of communication: the less meaningful the message,
 the faster, given that meaning production and interpretation takes time,
 while the circulation of pure information with no meaning is
 instantaneous.
 
 In the last twenty years computers, electronic exchanges, dark pools,
 flash orders, multiple exchanges, alternative trading venues, direct
-access brokers, OTC derivatives, high-frequency traders have totally
+access brokers, OTC derivatives, and high-frequency traders have totally
 changed the financial landscape and particularly the relation between
 human operators and self-directing algorithmic automatons. The more you
-remove reference to physical things, physical resources, and the body,
+remove references to physical things, physical resources, and the body,
 the more you can accelerate the circulation of financial flows. This is
 why at the end of this process of abstraction-acceleration value does
 not emerge from a physical relationship between work and things, but
@@ -516,12 +510,10 @@ life and production from financial capitalism, which is using the
 monetary dynamics as a tool for subsuming knowledge and work? Or should
 we rather come to the conclusion that money can only act as an
 automator, the essential automator of social life? In that case we
-should conclude that only by subtracting spaces of life from the
-monetary exchange and codification we can overcome the limit that money
-is, as a linguistic codification of time, activity and life.
+should conclude that only by subtracting spaces of life from
+monetary exchange and codification can we overcome the limit of money, as a linguistic codification of time, activity and life.
 
-The Occupy movement that exploded in many cities of the world in the
-year 2011 was essentially an attempt in deconstructing the financial
+The Occupy movement that exploded in many cities of the world in 2011 was essentially an attempt in deconstructing the financial
 automation of social life, an attempt in suspending the grip of the
 financial machine over the process of production and distribution of
 wealth. Despite its widespread effect at the symbolic level, despite its
@@ -530,27 +522,26 @@ Occupy movement has been unable to fulfill its goal. The financial
 automation of social life, and the implied dismantlement of the welfare
 state and impoverishment of workers, seems unstoppable. So people have
 to find the means for defending their life, their education, their
-health. In the countries (like Greece, Spain, Italy) that have suffered
-most from the financial aggression, people have experimented forms of
-social self-help, mutual services, time banks, and also alternative
+health. In the countries (like Greece, Spain, and Italy) that have suffered
+most from the financial aggression, people have experimented with forms of
+social self-help, mutual services, time banks, and alternative
 currencies.
 
 Insolvency – the active refusal to pay debt and undeserved taxation, the
 refusal to pay for basic services, the permanent occupation of spaces
 and buildings, and the sabotage of austerity – is the most effective way
-to repel the financial blackmail. But the organization of insolvency is
+to repel financial blackmail. But the organization of insolvency is
 only possible when social solidarity is strong, and in the present
 condition the links of solidarity are weak because of the precarization
-of work. Although they have been massively protesting in the streets,
+of work. Despite mass protests in the streets,
 people have not been able to keep solidarity alive in the long run. This
 is why insolvency has not really grown roots in the social scene during
-the last years. Rudimentary forms of alternative currencies for local
-exchange have appeared in many places in Europe over the past years
-adding to experiences like sharing of time and of basic services and
+the last few years. Rudimentary forms of alternative currencies for local
+exchange have begun appearing in many places in Europe, adding to experiences like sharing time and basic services and
 goods. But community currencies can only become a significant form of
 exchange when social solidarity is strong enough to nurture trust and
 mutual help. More sophisticated forms of alternative currencies have
-recently been promoted by high skilled programmers: Bitcoin is the best
+recently been promoted by high skilled programmers: Bitcoin being the best
 known example. Generating money is a technical problem, but replacing
 financial money with alternative money is a problem of trust. 
 
@@ -575,24 +566,24 @@ its algorithms and its implementation’:[^13] 
 
 Alternative currencies can act as a game changer, this is quite
 possible, and it is already happening up to a certain point, but it is
-not clear how they surrogate a lack of social solidarity. Algorithmic
+not clear how they can act as a surrogate for a lack of social solidarity. Algorithmic
 money may act as the ultimate tool for automation: automation of
-behavior, of language, of relation, automation of evaluation and
+behavior, language, relation, automation of evaluation and
 exchange.
 
-Regardless of the intentions of the Bitcoin miners, their monetary
+Regardless of the intentions of Bitcoin miners, their monetary
 action is going to heighten the level of automation in the sphere of
 social exchange. Coding personal relationships into a programming
-language is the tendency: cryptomoney and cryptocontracts are turning
-more and more the relations between people into the execution of a
+language is the tendency: cryptomoney and cryptocontracts are
+more and more turning the relations between people into the execution of a
 programing language, into a sequence of acts that one must accomplish in
 order to access the following step. The normative function of law is
 replaced by the automatic implication of human agents reduced to
 operational functions. The overcoming of the industrial system has been
 enabled by the translation of physical acts into information. The
 automation of linguistic interaction and the replacement of cognitive
-and affective acts with algorithm sequences and protocols is the main
-trend of the current mutation.
+and affective acts with algorithmic sequences and protocols is the main
+trend of the current tranformation.
 
 Although we can expect a process of disruption of the monetary cycle
 from the inside, although alternative currencies and cryptomoney can
@@ -632,11 +623,11 @@ Publications, 1998 (1921).
 [^1]: Jean Baudrillard, ‘Global Debt and Parallel Universe’, trans.
     Franciois Debrix, *Liberation Paris*, 15 January 1996.
 
-[^2]: 2 Stanley Aronowitz and Jonathan Cutler, *Post-Work*, New York:
+[^2]: Stanley Aronowitz and Jonathan Cutler, *Post-Work*, New York:
     Routledge, 1998, p. 59.
 
 [^3]: Frank Bruni, ‘Lost in America’, *The International New York
-    Times*, August 27, 2014.
+    Times*, 27 August 2014.
 
 [^4]: Aronowitz and Cutler, *Post-Work*, p. 68.
 
@@ -662,6 +653,6 @@ Publications, 1998 (1921).
 
 [^13]: Griziotti Vercellone, *‘*Biorank vs Commoncoin: Algorithms and
     Crypto-Currencies in the Bios of Cognitive Capitalism’, in *Quaderni
-    di San Precario*, Vol 8, (June 2014).
+    di San Precario*, Vol. 8 (June 2014).
 
 [^14]: Vercellone, ‘Biorank’.
