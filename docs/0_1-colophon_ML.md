@@ -15,11 +15,15 @@ Rights: CC BY-NC 4.0
 
 **MoneyLab Reader: An Intervention in Digital Economy**
 
-Editors: Geert Lovink, Nathaniel Tkacz, Patricia de Vries
+Editors: Geert Lovink, Nathaniel Tkacz, and Patricia de Vries
 
-Copy editing: Annie Goodner, Morgan Currie
+Copy editing: Annie Goodner and Morgan Currie
 
 Design: Katja van Stiphout
+
+EPUB development: André Castro
+
+Production: Miriam Rasch
 
 Cover design: Content Context
 
@@ -27,7 +31,7 @@ Printer:
 
 Publisher: Institute of Network Cultures, Amsterdam, 2015
 
-ISBN: 978-90-822345-5-8 (print)
+ISBN: 978-90-822345-5-8 (print)  
 ISBN: 978-90-822345-6-5 (EPUB)
 
 
@@ -44,12 +48,12 @@ web: www.networkcultures.org
 Order a copy or download this publication freely at:
 www.networkcultures.org/publications/
 
-Join the re-search mailing list about online search at:
+Join the MoneyLab mailing list at:
 
-http://listcultures.org/mailman/listinfo/re-search\_listcultures.org
+http://listcultures.org/mailman/listinfo/moneylab_listcultures.org
 
-Supported by: Create-IT, Amsterdam University of Applied Sciences
-(Hogeschool van Amsterdam), and Amsterdam Creative Industries Publishing
+Supported by: Amsterdam University of Applied Sciences
+(Hogeschool van Amsterdam), Amsterdam Creative Industries Publishing and the University of Warwick
 
 Thanks to everyone at INC, to all of the authors for their
 contributions, Annie Goodner and Morgan Currie for their copy editing,
@@ -67,7 +71,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/.
 
 **MoneyLab Reader: An Intervention in Digital Economy**
 
-Edited by Geert Lovink, Nathaniel Tkacz, Patricia de Vries
+Edited by Geert Lovink, Nathaniel Tkacz, and Patricia de Vries
 
 INC Reader \#10
 
@@ -75,7 +79,7 @@ INC Reader \#10
 
 The INC Reader series is derived from conference contributions and
 produced by the Institute of Network Cultures. They are available in
-print and PDF form. The *Unlike Us Reader* is the eighth publication in
+print, EPUB, and PDF form. The *MoneyLab Reader* is the tenth publication in
 the series.
 
 INC Reader\#9: René König and Miriam Rasch (eds),
@@ -117,18 +121,19 @@ INC Reader \#1: Geert Lovink and Soenke Zehle (eds),
 *Incommunicado Reader*, 2005.
 
 All INC Readers, and other publications like the Network Notebooks
-Series and Theory on Demand, can be downloaded and read for free. See
+Series and Theory on Demand, can be downloaded and read for free.  
+See
 www.networkcultures.org/publications.
 
 ##CONTENTS
 
 **Saskia Sassen**
 
-Foreword to the MoneyLab Reader
+When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to the MoneyLab Reader
 
 **Geert Lovink and Nathaniel Tkacz**
 
-Introduction
+Introduction to the MoneyLab Reader
 
 THE LONG GAME
 
@@ -219,7 +224,7 @@ Money Talks: The Enclosure of Mobile Payments
 
 Mobile Money: Financial Globalization, Alternative, or Both?
 
-**Eduard de Jong, Nathaniel Tkacz and Pablo Velasco **
+**Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco**
 
 ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 
@@ -235,9 +240,9 @@ Crowdfunding the Commons?
 
 **Irina Enache and Robert van Boeschoten**
 
-The MonelyLab Crowdfunding Toolkit for Creatives
+The MoneyLab Crowdfunding Toolkit for Creatives
 
-APPENDICES
+## APPENDICES
 
 **MoneyLab Conference**
 
@@ -247,7 +252,7 @@ APPENDICES
 
 **MONEYLAB: COINING ALTERNATIVES**
 
-**March 21-22, 2014, Lab111 Amsterdam**
+**March 21-22, 2014, Lab111, Amsterdam**
 
 **FRIDAY, March 21, 2014**
 
@@ -255,7 +260,7 @@ APPENDICES
 
 Moderators: Geert Lovink, Nathaniel Tkacz
 
-Speakers: Saskia Sassen, Stefan and Ralph Heidenreich, Bill Maurer,
+Speakers: Saskia Sassen, Stefan and Ralph Heidenreich, Bill Maurer
 
 **Session 2: Dismantling Global Finance**
 
@@ -273,7 +278,7 @@ Speakers: Ron Peperkamp, Dadara, Dette Glashouwer
 
 Moderator: Bill Maurer
 
-Speakers: Erin Taylor, Taylor Nelms, and Gawain Lynch
+Speakers: Erin Taylor, Taylor Nelms, Gawain Lynch
 
 **SATURDAY, March 22, 2014**
 
@@ -298,7 +303,7 @@ Enache and Robert van Boeschoten
 
 **Session 8: Designing Alternatives**
 
-Moderator: Rob Van Hilten
+Moderator: Rob van Hilten
 
 Speakers: Max Haiven, Matthew Slater and Eli Gothill, Lana Swartz
 
@@ -311,12 +316,17 @@ and at the Tazkia University College of Islamic Economics. He is the
 founder of [icmspecialist.com](http://www.icmspecialist.com).
 
 **Franco ‘Bifo’ Berardi** is a writer, media theorist, and media
-activist. He recently published *The Uprising* (2012). As a coordinator
+activist. In 2012 he published *The Uprising*. As a coordinator
 of the European School for Social Imagination (SCEPSI), he has taught at
 Ashkal Alwan in Beirut, PEI-Macba in Barcelona, Accademia di Brera in
 Milano, and has lectured in social centers and universities worldwide.
 
-**Finn Brunton** is an assistant professor in the Department of Media,
+**Robert van Boeschoten** is a philosopher interested in the cultural
+impact of media on society at large, and organizations in particular.
+His work is divided over the University of Applied Sciences Amsterdam (HvA) at the
+Communication and Multimedia Department and The University for Humanistics (UvH) in Utrecht.
+
+**Finn Brunton** is Assistant Professor in the Department of Media,
 Culture, and Communication at NYU's Steinhardt School. He is the author
 of *Spam: A Shadow History of the Internet* (MIT, 2013), and the
 forthcoming *Obfuscation: A User's Guide* (MIT, 2015) with Helen
@@ -350,14 +360,14 @@ a passion for electronic money.
 **Irina Enache** is a communication and new media enthusiast. She has
 collaborated with the Institute of Network Cultures as a researcher for
 the MoneyLab project in 2013-2014. She gained her BA in Communication
-and Public Relations in Bucharest, Romania (2011) and the MA in New
-Media and Digital Culture in Amsterdam, Netherlands (2013).
+and Public Relations in Bucharest, Romania (2011) and MA in New
+Media and Digital Culture in Amsterdam, the Netherlands (2013).
 
 **Andrea Fumagalli** is Associate Professor of Economics in the
 Department of Economics and Management at University of Pavia. His
 research activity deals with the hypothesis of cognitive bio-capitalism,
 basic income, and precarity issues. He is co-editor of *The Global
-Economic Crisis*, (Semiotext(e), 2011).
+Economic Crisis* (Semiotext(e), 2011).
 
 **David Golumbia** teaches at Virginia Commonwealth University. He is
 the author of *The Cultural Logic of Computation* (Harvard, 2009), and of many articles on digital culture, language, linguistics, and literary
@@ -372,9 +382,9 @@ Canada. He is author of *Crises of Imagination, Crises of Power* (2014),
 Financialization* (2014).
 
 **Keith Hart** is Centennial Professor of Economic Anthropology at the
-London School of Economics and International Director, the Human Economy
+London School of Economics and International Director at the Human Economy
 Program, University of Pretoria. His writings on money include ‘Heads or
-tails? Two Sides of the Coin’ (1986), and *The Memory Bank: Money in an
+Tails? Two Sides of the Coin’ (1986), and *The Memory Bank: Money in an
 Unequal World* (2000), available at [http://thememoryba
 nk.co.uk/book/](http://thememorybank.co.uk/book/).
 
@@ -383,7 +393,7 @@ Universidad Complutense de Madrid. With an interdisciplinary background,
 he's been researching on social networks, distributed systems, and
 social simulation from positions in Spain, UK, and Lebanon. Engaged in
 free/open source software, he co-founded Comunes.org and Move Commons.
-Presently he's Principal Investigator in the FP7 P2Pvalue.eu project.
+Presently he is Principal Investigator in the FP7 P2Pvalue.eu project.
 
 **Ralph Heidenreich** lives in Biberach/Riss and works as a programmer
 (<http://www.ralph-heidenreich.de>).
@@ -391,7 +401,7 @@ Presently he's Principal Investigator in the FP7 P2Pvalue.eu project.
 **Stefan Heidenreich** lives in Berlin and holds a research position at
 the Center for Digital Culture, Lüneburg University
 (<http://www.stefanheidenreich.de>). Together with Ralph Heidenreich he
-wrote the books *Mehr Geld* (1998), and *Der Preis der Welt* (2014).
+wrote the books *Mehr Geld* (1998) and *Der Preis der Welt* (2014).
 
 **Geert Lovink** is a media theorist, internet critic and author of
 *Zero Comments* (2007) and *Networks Without a Cause* (2012). From
@@ -406,7 +416,7 @@ anthropologist, he conducts research on money and finance, focusing on
 the technological infrastructures and social relations of exchange and
 payment.
 
-**Pekka Piironen** a Finnish economic and strategy theorist, well known
+**Pekka Piironen** a Finnish economic and strategy theorist, known
 for his theory of the collective pledge and biopolitics of firms. He is
 a founding member of Robin Hood Asset Management Cooperative and the
 author of *Economy of Insecurity*.
@@ -426,8 +436,8 @@ research merges artistic and curatorial practice within the digital
 economies.
 
 **Andrew Ross** is a social activist and Professor of Social and
-Cultural Analysis at NYU. A contributor to the Guardian, the New York
-Times, the Nation, and Al Jazeera, he is the author of many books,
+Cultural Analysis at NYU. A contributor to *The Guardian*, *The New York
+Times*, *The Nation*, and Al Jazeera, he is the author of many books,
 including *Creditocracy and the Case for Debt Refusal*, *Nice Work if
 You Can Get It*, *Fast Boat to China*, *No-Collar*, and *The Celebration
 Chronicles*.
@@ -435,7 +445,7 @@ Chronicles*.
 **Stephanie Rothenberg**’s artworks mix physical and virtual spaces to
 investigate new models of crowdsourced labor and the power dynamics
 between contemporary visions of utopian urbanization and real world
-economic, political and environmental factors. She is Associate
+economic, political, and environmental factors. She is Associate
 Professor at SUNY Buffalo.
 
 **Douglas Rushkoff** is the author of *Present Shock: When Everything
@@ -446,10 +456,10 @@ media, society, and economics around the world.
 **Saskia Sassen** is a Robert S. Lynd Professor of Sociology and
 Co-Chair at Committee on Global Thought at Columbia University. Her
 research and writing is focused on globalization (including its social,
-economic and political dimensions), immigration, new-networked
+economic, and political dimensions), immigration, new-networked
 technologies, and changes within the liberal state that result from
 current transnational conditions
-([*www.saskiasassen.com*](http://www.saskiasassen.com/)).
+([www.saskiasassen.com](http://www.saskiasassen.com/)).
 
 **Inge Ejbye Sørensen** is Lord Kelvin Adam Smith Research Fellow in
 Digital Economy and Culture at Centre for Cultural Policy Research,
@@ -467,23 +477,14 @@ current project investigates global research in consumer finance.
 **Tiziana Terranova** is Associate Professor of Cultural Theory and New
 Media in the Department of Human and Social Sciences at the University
 of Naples 'L'Orientale'. Terranova is the author of *Network Culture:
-Politics for the Information Age* and is currently writing a new book on
+Politics for the Information Age* and is currently writing a book on
 digital social networks to be published by University of Minnesota
 Press.
 
-**Nathaniel Tkacz** is an Assistant Professor in the Centre for
+**Nathaniel Tkacz** is Assistant Professor in the Centre for
 Interdisciplinary Methodologies at The University of Warwick. He writes
 and researches at the intersection of digital media and politics. His
-most recent book is *Wikipedia and The Politics of Openness* (The
-University of Chicago Press, 2014). Further information is available at:
-<http://www2.warwick.ac.uk/fac/cross_fac/cim/people/academic/nathaniel-tkacz>.
-
-**Robert van Boeschoten** is a philosopher interested in the cultural
-impact of media on society at large, and organizations in particular.
-His work is divided over The Polytechnic of Amsterdam (HvA) at the
-Communication and Multimedia Department where he teaches future
-scenarios and The University for Humanistics (UvH) in Utrecht where he
-is a lecturer in organization studies.
+most recent book is *Wikipedia and The Politics of Openness* (University of Chicago Press, 2014). 
 
 **Pablo Velasco** is a PhD student at the University of Warwick Centre
 for Interdisciplinary Methodologies. He holds an MA in Philosophy from
@@ -500,20 +501,20 @@ Cooperative.
 **Beat Weber** studied economics at the Vienna University of Economics
 and Business. He is an expert at the Division for European Affairs and
 International Financial Organizations of Oesterreichische Nationalbank,
-the central bank of Austria.
+the Central Bank of Austria.
 
 ##Back cover
 
 MoneyLab Reader: An Intervention In Digital Economy
 
-Edited by Geert Lovink, Nathaniel Tkacz, Patricia de Vries
+Edited by Geert Lovink, Nathaniel Tkacz, and Patricia de Vries
 
 INC Reader \#10
 
 MoneyLab is part of a global movement that demands the democratization
 of the design of our financial futures. Audacity is essential in times
 of crisis. And so we must engage constructively with hackers,
-entrepreneurs and other creators who take up the call for economic
+entrepreneurs, and other creators who take up the call for economic
 alternatives. One first step is a map of the present: What works, what
 doesn’t, what is worth pursuing and what must be left aside? Which
 histories are bearing on the present? And what are the limits of our
@@ -526,25 +527,25 @@ current architecture of global finance, its impact on ever-growing
 income disparity, and question money and finance as such. It is not
 always clear, for instance, whether genuine alternatives are unfolding
 or if we are simply witnessing the creative extension of neoliberalism.
-At stake, however, is the full spectrum of technologies of economic
+At stake is the full spectrum of technologies of economic
 (re)distribution.
 
 
 **Contributors:**
 
-Irwan Abdalloh, Franco Berardi, Finn Brunton, Paolo Cirio, Jim Costanzo,
+Irwan Abdalloh, Franco ‘Bifo’ Berardi, Robert van Boeschoten, Finn Brunton, Paolo Cirio, Jim Costanzo,
 Primavera De Filippi , Eduard de Jong, Irina Enache, Andrea Fumagalli,
 David Golumbia, Max Haiven, Keith Hart, Samer Hassan, Ralph Heidenreich,
 Stefan Heidenreich, Geert Lovink, Bill Maurer, Rachel O’Dwyer, Pekka
 Piironen, Lena Rethel, Renée Ridgway, Andrew Ross, Stephanie Rothenberg,
-Douglas Rushkoff , Saskia Sassen, Inge Ejbye Sørensen, Erin B. Taylor,
-Tiziana Terranova, Nathaniel Tkacz, Robert van Boeschoten, Pablo
-Velasco, Akseli Virtanen, Beat Weber.
+Douglas Rushkoff, Saskia Sassen, Inge Ejbye Sørensen, Erin B. Taylor,
+Tiziana Terranova, Nathaniel Tkacz, Pablo
+Velasco, Akseli Virtanen, and Beat Weber.
 
 **Institute of Network Cultures, Amsterdam 2015**
 
-ISBN: 978-90-822345-5-8 (print)
+ISBN: 978-90-822345-5-8 (print)  
 ISBN: 978-90-822345-6-5 (EPUB)
 
 
-INC | HvA | Warwick University | Amsterdam Creative Industries Network |
+INC | HvA | University of Warwick | Amsterdam Creative Industries Network |
