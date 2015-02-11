@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: The Economic Viability of Complementary Currencies: Bound to Fail?
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Beat Weber
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -106,8 +106,8 @@ payments among people in everyday life consist of bank deposit transfers
 deposits at the central bank). In addition, transactions among
 enterprises are sometimes based on mutual credit.
 
-Banks as the most important issuers of media of payment in the modern
-economy are subject to regulation and supervision by the state and the
+Banks, as the most important issuers of media of payment in the modern
+economy, are subject to regulation and supervision by the state and the
 central bank. The means of payment issued by banks and central banks can
 be considered part of the same currency: they share the same unit of
 account, banks strive to uphold their promise to exchange bank deposits
@@ -128,7 +128,7 @@ determinants of succesful currencies in general.
 
 ## What Does Complementarity Mean?
 
-Today, cash consisting of notes and coins is issued exclusively by the
+Today cash, consisting of notes and coins, is issued exclusively by the
 state and its central bank in most currency areas. Banks issue checkable
 deposits that serve as means of payment in everyday economic
 transactions and are subject to state regulation and supervision.
@@ -303,12 +303,12 @@ of comparable prices, and it is the most liquid store of value.
 Liquidity offers a hedge against uncertainty intrinsic to a capitalist
 market economy. Many reformers want to do away with this function
 because if uncertainty increases and people make increased use of money
-as store of value instead of investing it, money is hoarded and its
+as a store of value instead of investing it, money is hoarded and its
 circulation slows. The consequence can be a fall in consumption and
 investment and rising unemployment. Thus individually rational behavior
 yields dysfunctional collective results.
 
-In order to succesfully reduce uncertainty economic prospects must be
+In order to succesfully reduce uncertainty, economic prospects must be
 improved by economic policy. Depriving people of a store of value and
 trying to force them to spend is not a means to protect against
 uncertainty. Making money dysfunctional as store of value does not
@@ -473,7 +473,7 @@ alternatives available to some extent. The extent of their use depends
 on the availability and advantages various currencies offer in
 comparison to available alternatives. Whenever there is more than one
 currency available, currencies must offer advantages to users in order
-to gain und uphold their acceptance.
+to gain and uphold their acceptance.
 
 Among the four types of complementarity reviewed above, I identified
 examples for successes and failures for all types except those based on
@@ -520,7 +520,7 @@ use all or many of them in parallel unless they can be considered
 perfect equivalents (sharing the same unit of account and credibly
 keeping par relationship among each other). If different currency
 issuers offer different units of account, currency competition will
-ensue. If faced with a choice among competing currencies, a currency
+ensue. If faced with a choice between competing currencies, a currency
 user has to form expectations about the behavior of two (groups of)
 actors, the issuer and other users. Currencies can be conceived as
 networks comparable to telephone networks–the benefits of using a
@@ -550,7 +550,7 @@ have used different mechanisms to signal a commitment towards future
 stability. The choice depends on the available options and various
 political economy considerations. Historically, in uncertain times
 characterized by war, shifting political authorities and general
-mistrust, precious metal has been used as monetary base. In the 20th
+mistrust, precious metal has been used as the monetary base. In the 20th
 century, after the consolidation of national states and currencies, and
 the democratization of states, it has been possible to decouple the
 issuance of money from metal backing. Checks and balances against
@@ -589,7 +589,7 @@ value, many complementary currency issuers try to restrict the formation
 of a private market where units of complementary currencies could be
 sold at a discount against official currency. The disadvantage of such a
 restriction is that the lack of ability to get out of the currency can
-deter potential users to get in in the first place. The concept of
+deter potential users to get in, in the first place. The concept of
 Bitcoin is different. Based on a unit of account without any stable
 reference towards another currency or some sort of backing, its supply
 is subject to an arbitrary upper limit to be reached over time. When the
@@ -644,10 +644,9 @@ be prepared to accept that currency herself.
 Among users, some are more important than others. Users offering
 contracts in high demand by other users make a more significant
 contribution to the attractiveness of the network than others when
-switching to the network’s unit of account. If one groceries shopkeeper
+switching to the network’s unit of account. If one grocery shopkeeper
 accepts a certain currency in payment, that is a higher contribution to
-the attractiveness of the currency in question than the willingness to
-accept of ten of my neighbors who have no specific supplies to offer. In
+the attractiveness of the currency in question than acceptance of ten of my neighbors who have no specific supplies to offer. In
 other words, a network’s attractiveness consists in the kind and range
 of goods, services and debt contracts it allows access to, and the
 conditions under which a currency offers this access (i.e. evolution of
@@ -729,7 +728,7 @@ credit claims promise full payment of the nominal amount in official
 currency, and try to establish a reputation by repeatedly making good on
 that promise.
 
-Deep political and economic crises often entail monetary crisis. In such
+Deep political and economic crises often entail monetary crises. In such
 a case, the arrangements in place for keeping the promise of value
 stability are shattered. If instability surpasses a certain threshold
 (e.g. in episodes of hyperinflation), users can be induced to look for
@@ -742,8 +741,8 @@ Private CCs are inevitably positioned at the bottom of the hierarchy of
 credit claims. In a situation of eroding trust in the national currency
 at the top of the domestic credit hierarchy, users usually try to
 exchange national currency for a currency further up the international
-hierarchy, not a private one of lower hierarchical status. It is bigger
-existing networks and a more credible stability track record that
+hierarchy, not a private one of lower hierarchical status. Bigger
+existing networks and a more credible stability track record are what
 typically attract users. Therefore, we can observe ‘Dollarization’,
 ‘Euroization’, etc. in small countries suffering from lack of public
 trust in their official currency, instead of a spread of private
@@ -792,7 +791,7 @@ substitute individual economic motives by collective values enforced by
 peer pressure or non-economic benefits.
 
 Of course, community members can choose to adopt complementary
-currencies despite they would fail to prevail in competition against
+currencies despite their failure to prevail in competition against
 competing currency networks according to purely economic criteria.
 Whether such non-economic motives can prevail over economic advantages
 of joining official currency networks is an empirical question that
@@ -899,7 +898,7 @@ Paper,* 2012.
 
 Task Force of the Monetary Policy Committee of the European System of
 Central Banks. Corporate Finance and Economic Activity in The Euro Area.
-Structural Issues Report, *ECB Occasional Paper Series* 151, (2013).
+Structural Issues Report, *ECB Occasional Paper Series* 151 (2013).
 
 Weber, Beat. ‘Can Bitcoin Compete With Money?’, *Journal of Peer
 Production* 4 (2014),
