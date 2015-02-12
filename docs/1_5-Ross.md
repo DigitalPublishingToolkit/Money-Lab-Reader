@@ -194,7 +194,7 @@ was called upon to save the U.S. Treasury from default (and again in
 1907), and yet the shoe was on the other foot by 2008, when the Treasury
 was forced to bail out JPMorgan Chase, and few doubt that it would be
 obliged to do so again today. The shift is also displayed in how
-corporations make profits. Jumbo firms, like GE and GM, that commanded
+corporations make profits. Jumbo firms, like General Electrics and General Motors, that commanded
 the economy on the strength of their industrial production have become
 much more dependent, for their revenue, on their firms’ respective
 finance arms. Companies are no longer regarded primarily as worthy
@@ -399,7 +399,7 @@ implemented from the battered periphery of the Eurozone to the
 beleaguered cohort of ex-industrial cities like Detroit and Baltimore.
 The process of questioning which of these debts is legitimate – and
 deserving of repayment – and which are unfair impositions to be
-rightfully rejected – is already underway.[^14] Now is the time to
+rightfully rejected, is already underway.[^14] Now is the time to
 extend this initiative to household debts, especially those taken on
 simply to gain access to basic social goods.
 
@@ -451,7 +451,7 @@ Admati, Anat and Martin Hellwig. *The Bankers’ New Clothes: What’s Wrong
 with Banking and What to Do About It*, Princeton: Princeton University
 Press, 2013, p. 2.
 
-Chesnais*,* François. *Les dettes illégitimes: Quand les banques font
+Chesnais, François. *Les dettes illégitimes: Quand les banques font
 main basse sur les politiques publiques*, Paris: Liber, 2012.
 
 Eavis, Peter and Ben Protess. ‘Considering the Fairness of JPMorgan’s
@@ -459,9 +459,9 @@ Deal’, *The New York Times*, 22 October 2013.
 
 Hudson, Michael. ‘Democracy and Debt: Has the Link been Broken?*’
 Frankfurter Algemeine Zeitung*, 5 December 2011, accessible in English
-at .
+at <http://michael-hudson.com/2011/12/democracy-and-debt/>.
 
-MacDonald, James*. A Free Nation Deep in Debt: The Financial Roots of
+MacDonald, James. *A Free Nation Deep in Debt: The Financial Roots of
 Democracy*, New York: Farrar, Strauss & Giroux, 2003.
 
 Madrick, Jeff. ‘A Bit of Good News’, *Harper’s*, April 2013.
@@ -515,24 +515,23 @@ Books, 2014.
     Debt Refusal*, OR Books, 2014. Available at:
     [http://www.orbooks.com/catalog/creditocracy/](http://www.orbooks.com/catalog/creditocracy/).
 
-[^3]: ^3^ Jeff Madrick, ‘A Bit of Good News’, *Harper’s*, April 2013:
+[^3]: Jeff Madrick, ‘A Bit of Good News’, *Harper’s*, April 2013:
     6-7.
 
-[^4]: See,
-    [http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/](http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/)
+[^4]: See [http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/](http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/)
 
-[^5]: ^4^ See Nomi Prins, *All the Presidents’ Bankers: The Hidden
+[^5]: See Nomi Prins, *All the Presidents’ Bankers: The Hidden
     Alliances that Drive American Power,* New York: Avalon, 2013.
 
-[^6]: ^5^ Letter to Col. Edward Mandell House (21 November 1933), in
+[^6]: Letter to Col. Edward Mandell House (21 November 1933), in
     Elliott Roosevelt (ed.) *F.D.R.: His Personal Letters, 1928-1945*,
     New York: Duell, Sloan and Pearce, 1950, p. 373.
 
-[^7]: ^6^ As quoted in Robert Manning, *Credit Card Nation: The
+[^7]: As quoted in Robert Manning, *Credit Card Nation: The
     Consequences of America’s Addiction to Credit Cards,* New York:
     Basic Books, 2000, p. 27.
 
-[^8]: ^6^ According to an August 2013 report from the Federal Reserve
+[^8]: According to an August 2013 report from the Federal Reserve
     Bank of New York, almost 15 percent of all credit reports – covering
     an estimated 30 million consumers – displayed collection items from
     debt collection. In other words, one in seven Americans was being,
@@ -540,24 +539,24 @@ Books, 2014.
     Household Debt and Credit* (August 2013) accessible at
     [http://www.newyorkfed.org/research/national\_economy/householdcredit/DistrictReport\_Q22013.pdf](http://www.newyorkfed.org/research/national\_economy/householdcredit/DistrictReport\_Q22013.pdf).
 
-[^9]: ^7^ Matt Taibbi, ‘Greed and Debt: The True Story of Mitt Romney
+[^9]: Matt Taibbi, ‘Greed and Debt: The True Story of Mitt Romney
     and Bain Capital’, *Rolling Stone*, 29 August 2012.
 
-[^10]: ^8^ James MacDonald, *A Free Nation Deep in Debt: The Financial
+[^10]: James MacDonald, *A Free Nation Deep in Debt: The Financial
     Roots of Democracy*, New York: Farrar, Strauss & Giroux, 2003.
 
-[^11]: ^9^ Peter Eavis and Ben Protess, ‘Considering the Fairness of
+[^11]: Peter Eavis and Ben Protess, ‘Considering the Fairness of
     JPMorgan’s Deal’, *The New York Times,* 22 October 2013.
 
-[^12]: ^10^ Anat Admati and Martin Hellwig, *The Bankers’ New Clothes:
+[^12]: Anat Admati and Martin Hellwig, *The Bankers’ New Clothes:
     What’s Wrong with Banking and What to Do About It,* Princeton:
     Princeton University Press, 2013, p. 2.
 
-[^13]: ^11^ Damien Millet and Eric Toussaint, *Who Owes Who? 50
+[^13]: Damien Millet and Eric Toussaint, *Who Owes Who? 50
     Questions about World Debt,* London: Zed Books, 2004; *Debt, the
     IMF, and the World Bank: Sixty Questions, Sixty Answers* New York:
     Monthly Review Press, 2010.
 
-[^14]: ^12^ François Chesnais*, Les Dettes Illégitimes: Quand les
-    Banques Font Main Basse sur les Politiques Publiques,* Paris: Liber,
+[^14]: François Chesnais, *Les Dettes Illégitimes: Quand les
+    Banques Font Main Basse sur les Politiques Publiques*, Paris: Liber,
     2012.
