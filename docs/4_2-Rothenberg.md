@@ -175,6 +175,8 @@ brilliant things.’[^10]
 ## Recent Artwork: Garden of Virtual Kinship
 ![Fig. 1: Reversal of Fortune: Garden of Virtual Kinship. Photo credit: Shasti O’Leary Soudant.](media/Images_Rothenberg/image1.jpg)
 
+`Fig. 1: Reversal of Fortune: Garden of Virtual Kinship. Photo credit: Shasti O’Leary Soudant.`{.caption}
+
 With particular focus on the world of microfinance, my recent series of
 artworks draw upon this legacy of expressing the interplay of affect,
 technology, and economic forces realized through a telematic garden. The
@@ -252,6 +254,8 @@ empower the global entrepreneur in a seamless circuit of warm and fuzzy
 affective production.
 
 ![Fig. 2: Reversal of Fortune: Desiring Subjects, Desiring Plants.](media/Images_Rothenberg/image2.jpg)
+
+`Fig. 2: Reversal of Fortune: Desiring Subjects, Desiring Plants.`{.caption}
 
 These techno-social rhythms that Roy describes are animated in another
 garden in the series entitled *Desiring Subjects, Desiring Plants*.[^18]
@@ -381,16 +385,16 @@ Yunas, Muhammed. Nobel Lecture, Oslo, 10 December 2006,
 [^8]: Ken Goldberg, ‘The Telegarden’,
     [http://www.ieor.berkeley.edu/\~goldberg/garden/Ars](http://www.ieor.berkeley.edu/\~goldberg/garden/Ars).
 
-[^9]: Tarun Wadhwa, ‘NASA’s Next Frontier: Growing Plants on the Moon’,
+[^9]: Tarun Wadhwa, ‘NASA’s Next Frontier: Growing Plants on the Moon’, [http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon](http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon).
     *Forbes*, 20 November 2013,
 
 [^10]: Wadhwa, ‘NASA’s Next Frontier’.
 
-[^11]: Stephanie Rothenberg, ‘Garden of Virtual Kinship’,
+[^11]: Stephanie Rothenberg, ‘Garden of Virtual Kinship’, [http://www.pan-o-matic.com/projects/reversal-of-fortune-the-garden-of-virtual-kinship] (http://www.pan-o-matic.com/projects/reversal-of-fortune-the-garden-of-virtual-kinship).
 
-[^12]: Kiva live feed,
+[^12]: Kiva live feed, [http://www.kiva.org/live](http://www.kiva.org/live).
 
-[^13]: Kiva lender’s page,
+[^13]: Kiva lender’s page, [http://www.kiva.org/lend/778631] (http://www.kiva.org/lend/778631).
 
 [^14]: Ananya Roy, *Poverty Capital: Microfinance and the Making of
     Development*, New York: Routledge Press, 2010, p. 2.
@@ -401,10 +405,10 @@ Yunas, Muhammed. Nobel Lecture, Oslo, 10 December 2006,
 
 [^17]: Roy, *Poverty Capital*, p. 33.
 
-[^18]: Stephanie Rothenberg, ‘Desiring Subjects, Desiring Plants’,
+[^18]: Stephanie Rothenberg, ‘Desiring Subjects, Desiring Plants’, [http://www.pan-o-matic.com/projects/reversal-of-fortune-desiring-subjects-desiring-plants] (http://www.pan-o-matic.com/projects/reversal-of-fortune-desiring-subjects-desiring-plants).
 
-[^19]: Christian Children’s Fund ‘Feed the Children’, campaign video,
+[^19]: Christian Children’s Fund ‘Feed the Children’, campaign video, [https://www.youtube.com/watch?v=XsxVy7vyyk0] (https://www.youtube.com/watch?v=XsxVy7vyyk00. 
 
-[^20]: Jessica Jackley, ‘Poverty, money –and love’, TED, July 2010,
+[^20]: Jessica Jackley, ‘Poverty, money –and love’, TED, July 2010, [http://www.ted.com/talks/jessica_jackley_poverty_money_and_love?language=en] (http://www.ted.com/talks/jessica_jackley_poverty_money_and_love?language=en).
 
 [^21]: Roy, *Poverty Capital*, p. 144.
