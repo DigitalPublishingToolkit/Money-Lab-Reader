@@ -480,7 +480,7 @@ abounded of early Bitcoin devotees rerouting their home flues to keep
 the warm, hash-generating air circulating through their houses in
 winter. The serious mining projects now, like Cloud Hashing in
 Reykjanesbaer, Iceland, and MegaBigPower in Washington (the state with
-the cheapest electrical rates in the US due to an abundance of
+the cheapest electrical rates in the U.S. due to an abundance of
 hydroelectric dams), are built on similar lines to the server farms
 described before: structured around efficient heat transfer through hot
 and cold corridors, with machinery neatly labeled in locked cages of
