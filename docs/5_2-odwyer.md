@@ -552,7 +552,7 @@ Hughes, Nick, and Susie Lonie. ‘M-Pesa: Mobile Money for the “Unbanked”
 Turning Cellphones into 24-hour Tellers in Kenya’, *Innovations* 2.1-2
 (2007): 63-81.
 
-International Finance Corporation (IFC). ‘Mobile Money Study 2011’,
+International Finance Corporation (IFC). ‘Mobile Money Study 2011’, [http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES](http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES).
 
 International Telecommunications Union (ITU). *Exploring the Value and
 Economic Valuation of Spectrum*. ITU (2012),
@@ -632,7 +632,7 @@ valuable-than-payment-fees/](http://techcrunch.com/2012/08/18/payment-data-is-mo
 
 Remittances to Developing Countries to Stay Robust this Year, Despite
 Increased Deportations of Migrant Workers, says WB, *World Bank* 11
-April 2014,
+April 2014, <http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb>
 
 Rosingh, Wouter, Adam Seal, and David Osborn. ‘Why Banks and Telecoms
 Must Merge to Surge’, *Strategy + Business* 23 (2001),
@@ -803,23 +803,23 @@ Review*, 30 November 2011, (http://www.technologyreview.com/view/426235/is-perso
 [^29]: Wouter Rosingh, Adam Seal, and David Osborn, ‘Why Banks and
 Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001), [http://www.strategy-business.com/article/17163?gko=4cda6](http://www.strategy-business.com/article/17163?gko=4cda6)
 
-[^30]: See http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked](). 
+[^30]: See [http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked](http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked). 
 
-[^31]: MMU Deployment Tracker,
+[^31]: MMU Deployment Tracker, [http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-the-unbanked/insights/tracker](http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-the-unbanked/insights/tracker).
 
 [^32]: Muthoki Mumo, ‘Equity Bank Seeks Share of Telco Business’,
-    *Mobile Nation*, 25 February 2014,
+    *Mobile Nation*, 25 February 2014, [http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html](http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html).
 
 [^33]: See Kevin Donovan, ‘Mobile Money, More Freedom? The Impact of
     M-PESA’s Network Power on Development as Freedom’, *International
     Journal of Communication* 6 (2012); Erin Taylor, ‘Mobile Money and
     the ‘Social Good’ of Global Financialization’, MoneyLab Conference,
-    Amsterdam, March 21-22 2014,
+    Amsterdam, March 21-22 2014, [http://vimeo.com/90208804](http://vimeo.com/90208804).
 
 [^34]: International remittances currently amount to 581 billion a year.
     According to the WB, remittances to developing countries are to stay
     robust this year, despite increased deportations of migrant workers,
-    *World Bank*, 11 April 2014,
+    *World Bank*, 11 April 2014, [http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb](http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb).
 
 [^35]: Kevin Donovan, ‘Mobile Money for Financial Inclusion’,
     *Information and Communications for Development* 61 (2012); Bill
@@ -831,7 +831,7 @@ Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001), [http://www.st
     (2011): 49-65.
 
 [^36]: Arunjay Katakam, ‘Annual Reports Show Mobile Money Remains a
-    Strategic Priority for MNO Groups’, *GSMA,* 19 June 2014,
+    Strategic Priority for MNO Groups’, *GSMA,* 19 June 2014, [http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups](http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups)
 
 [^37]: Bill Maurer, Taylor C. Nelms, and Stephen C. Rea, ‘Bridges to
     Cash: Channeling Agency in Mobile Money’, *Journal of the Royal
