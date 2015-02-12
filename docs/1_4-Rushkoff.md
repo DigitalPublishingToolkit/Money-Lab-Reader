@@ -299,6 +299,9 @@ Hannover 2,* Hannover: Teil, 1996.
 Carse, James P. *Finite & Infinite Games: A Vision of Life in Play and
 Possibility,* New York: Free Press, 1986.
 
+DiBona Chris, Sam Ockman and Mark Stone (eds) *Open Sources: Voices from the Open Source
+Revolution*, Sebastopol: O’Reilly, 1999.
+
 Frank, Thomas. *The Conquest of Cool,* Chicago: University of Chicago
 Press, 1997.
 
@@ -311,18 +314,18 @@ Goetz, Thomas. ‘Open Source Everywhere’*, Wired*, November 2003,
 
 Howe, Jeff. ‘The Rise of Crowd Sourcing’, *Wired*, June 2006.
 
-Lietaer, Bernard A. and Stephen M. Belgin. *Of Human Wealth: Beyond
-Greed & Scarcity,* Boulder, CO: Human Wealth Books and Talks, 2004.
-
 Huizinga, Johan. *Homo Ludens: A Study of the Play-Element in Culture,*
 Boston: Beacon Press, 1971.
 
-De Mul, Jos. ‘The Game of Life: Narrative and Ludic Identity Formation
-in Computer Games,’ in Joost Raessnes and Jeffrey Goldstein (eds)
-*Handbook of Computer Game Studies*, Cambridge: MIT Press, 2005.
+Lietaer, Bernard A. and Stephen M. Belgin. *Of Human Wealth: Beyond
+Greed & Scarcity,* Boulder, CO: Human Wealth Books and Talks, 2004.
 
 Lietaer, Bernard. *The Mystery of Money: Beyond Greed and Scarcity,*
 Munich: Riemann Verlag, 2000.
+
+Mul, Jos de. ‘The Game of Life: Narrative and Ludic Identity Formation
+in Computer Games,’ in Joost Raessnes and Jeffrey Goldstein (eds)
+*Handbook of Computer Game Studies*, Cambridge: MIT Press, 2005.
 
 O’ Reilly, Tim. ‘The Open Source Paradigm Shift,’ in Chris DiBona,
 Danese Cooper and Mark Stone (eds) *Open Sources 2.0,* Sebastopol:
@@ -335,27 +338,26 @@ O’ Reilly, Tim and John Battelle. ‘Web Squared: Web 2.0 Five Years On.’
 Postman Neil and Charles Weingartner. *Teaching As a Subversive
 Activity,* New York: Delacorte Press, 1969.
 
-Raymond, Eric S. *Cathedral and Bazaar,* Cambridge, MA: O’Reilly, 2001.
+Raymond, Eric S. *Cathedral and Bazaar*, Cambridge, MA: O’Reilly, 2001.
 
 Rosoff, Matt. ‘Google’s 15 Biggest Acquisitions And What Happened To
 Them Read More’, *Business Insider*, 14 March 2011,
 
-Rushkoff, Douglas. *Get Back in the Box,* New York: Collins, 2005.
+Rushkoff, Douglas. *Get Back in the Box*, New York: Collins, 2005.
 
-Rushkoff, Douglas. *Media Virus.* New York: Ballantine Books, 1994.
+Rushkoff, Douglas. *Media Virus*. New York: Ballantine Books, 1994.
 
 Searls, Doc and David Weinberger. ‘World of Ends: What the Internet Is
 and How to Stop Mistaking It for Something Else, 10 March 2003,
 <http://worldofends.com>.
 
-Wolk, D. ‘Future of Open Source: Collaborative Culture’*, Wired*, June
+Wolk, D. ‘Future of Open Source: Collaborative Culture’, *Wired*, June
 2009,
 <http://www.wired.com/dualperspectives/article/news/2009/06/dp_opensource_wired0616>.
 
 Young, Robert. ‘Giving it Away: How Red Hat Software Stumbled Across a
-New Economic Model and Helped Improve an Industry’, in Chris DiBona, Sam
-Ockman, and Mark Stone (eds) *Open Sources: Voices from the Open Source
-Revolution,* Sebastopol: O’Reilly, 1999.
+New Economic Model and Helped Improve an Industry’, in 
+
 
 [^1]: Robert Young, ‘Giving it Away: How Red Hat Software Stumbled
     Across a New Economic Model and Helped Improve an Industry’, in
@@ -404,11 +406,11 @@ Revolution,* Sebastopol: O’Reilly, 1999.
 [^14]: Lietaer, *The Mystery of Money*, p. 145.
 
 [^15]: Tim O’ Reilly, ‘The Open Source Paradigm Shift’, in Chris DiBona,
-    Danese Cooper, and Mark Stone (eds) *Open Sources 2.0,* Sebastopol,
+    Danese Cooper, and Mark Stone (eds), *Open Sources 2.0,* Sebastopol,
     CA: O’ Reilly, 2006, p. 255.
 
 [^16]: For the history of Open Source, told by an assortment of its
-    early participants, see DiBona, Ockman and Stone, 1999.
+    early participants, see DiBona, Ockman and Stone (eds), *Open Sources: Voices from the Open Source Revolution*, 1999.
 
 [^17]: As well as a central, overseeing arbiter meant to stand in for
     the user and judge the contributions of the many.
