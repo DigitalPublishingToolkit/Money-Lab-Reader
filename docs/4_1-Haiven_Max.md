@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Money as a Medium of the Imagination: Art and the Currencies of Cooperation
 
-### Max Haiven {.author}
+### Max Havenot {.author}
 
 Economic philosophers and historians generally agree that there are
 three (sometimes four) main qualities of modern money, qualities that we
