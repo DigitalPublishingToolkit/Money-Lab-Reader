@@ -22,7 +22,7 @@ Rights: CC BY-NC 4.0
 
 ## Prelude
 
->Maya is a joyful girl that is well known for her community activities in her small town. She has two clear passions: writing Wikipedia articles and making Creative commons documentaries… but she struggles to survive, being forced to make stressful and unfulfilling advertising work in order to make some money.
+>Maya is a joyful girl who is well known for her community activities in her small town. She has two clear passions: writing Wikipedia articles and making Creative commons documentaries… but she struggles to survive, being forced to make stressful and unfulfilling advertising work in order to make some money.
 
 Maya is one among many who contribute daily to projects like Wikipedia,
 Creative Commons, Free/Open Source software, and others. But how much
