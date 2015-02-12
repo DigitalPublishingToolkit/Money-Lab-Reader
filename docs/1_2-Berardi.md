@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Is There Life Beyond Money?
 
-### Franco ‘Bifo’ Berardi {.author}
+### Franco "Bifo" Berardi {.author}
 
 > What is the price of Experience? Do men buy it for a song?  
 > Or wisdom for a dance in the street? No, it is bought with the price  
