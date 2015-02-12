@@ -714,7 +714,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Ethnography of Infrastructure’, *American Behavioral Scientist* 43.3
     (1999): 382.
 
-[^15]: Andrejevic, ‘Surveillance in the Digital Enclosure’, 2007, p.
+[^15]: Mark Andrejevic, ‘Surveillance in the Digital Enclosure’, 2007, p.
     304.
 
 [^16]: David Harvey, ‘Labor, Capital, and Class Struggle Around the
@@ -741,14 +741,14 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^20]: Paul Jaeger, Jimmy Lin, Justin M. Grimes, and Shannon N. Simmons,
     ‘Where is the Cloud? Geography, Economics, Environment, and
-    Jurisdiction in Cloud Computing’, *First Monday* 14.5 (2009),
+    Jurisdiction in Cloud Computing’, *First Monday* 14.5 (2009), [http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171](http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171)
 
 [^21]: Alexander R. Galloway, *Protocol: How Control Exists After
     Decentralization*, London: MIT Press, 2004, p. 11.
 
 [^22]: Bill Maurer, ‘Closed Loops and Private Gateways: Money,
     Technology and the Private Interest in Payment’, MoneyLab
-    Conference, Amsterdam, 21-22 March 2014,
+    Conference, Amsterdam, 21-22 March 2014, [http://vimeo.com/90207123](http://vimeo.com/90207123).
 
 [^23]: Historically there are lots of different telematic
     infrastructures involved in circulating money and price information
@@ -779,10 +779,11 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     intermediaries.
 
 [^24]: David Zax, ‘Is Personal Data the New Currency? *MIT Technology
-    Review*, 30 November 2011,
+Review*, 30 November 2011, (http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/)[http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/].
+
 
 [^25]: International Finance Corporation (IFC), ‘Mobile Money Study
-    2011’,
+    2011’, (http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES)[http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES].
 
 [^26]: Describing a pre-computational banking period from 1864-1945,
     Batis-Lazo and Wood demonstrated the necessity of trust
@@ -796,12 +797,13 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Cash: Channeling Agency in Mobile Money’, *Journal of the Royal
     Anthropological Institute* 19.1 (2013).
 
-[^28] or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
-    on your Reputation’, *Wired Magazine*, 18 July 2014,
+[^28]: See [https://ripple.com](See https://ripple.com) or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
+    on your Reputation’, *Wired Magazine*, 18 July 2014, [http://www.wired.com/2014/07/document-coin/](http://www.wired.com/2014/07/document-coin/).
 
 [^29]: Wouter Rosingh, Adam Seal, and David Osborn, ‘Why Banks and
-    Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001),
+Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001), [http://www.strategy-business.com/article/17163?gko=4cda6](http://www.strategy-business.com/article/17163?gko=4cda6)
 
+[^30]: See http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked](). 
 
 [^31]: MMU Deployment Tracker,
 
