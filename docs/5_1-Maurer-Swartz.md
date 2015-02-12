@@ -18,11 +18,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Wild, Wild West: A View From Two California Schoolmarms 
+# Wild, Wild West: A View From Two Californian Schoolmarms 
 
 ### Bill Maurer and Lana Swartz {.author}
 
-People who work in payments innovation are really into the Wild West.
+People who work in payment innovation are really into the Wild West.
 Since 2008, when the industry started to heat up, we’ve heard them say,
 over and over again and across contexts, that ‘it’s a Wild West out
 there’, or ‘we are in the Wild West’. Sometimes they use it in marketing
@@ -134,7 +134,7 @@ data. Personal and social data, to be used for the purposes of marketing
 and modeling, is described in the payments industry and beyond as
 ‘gold’, another Wild West throwback.
 
-So, when we hear tell of new moneys build on data collection or its
+So, when we hear tell of new moneys built on data collection or its
 circumvention – be it American Express points or bitcoins – we think of
 ‘wildcat bankers’ who issued notes to pioneers backed by dubious
 reserves. We also think of a Twitter exchange by some of our payment
@@ -184,7 +184,7 @@ and maybe scales and weights of their daily exchange.
 
 The state part of the story is important in this early history of coin,
 and it is what some payments innovators today are chafing against. For
-kings like modern states would exact taxes or tribute in their own
+kings, like modern states, would exact taxes or tribute in their own
 token, an expression of political sovereignty that also exercised
 economic control. We think back to those marked coins, however, this
 desire to write, to make records. Because there is a growing awareness
@@ -213,7 +213,7 @@ and settling transfers between bank accounts. The debit card networks
 developed from the automatic teller machine (ATM) networks built by the
 banks to make it easier and cheaper to get money to account holders.[^9]
 
-Payments innovators come from another place. Many of them come from the
+Payment innovators come from another place. Many of them come from the
 Wild West – at least as far as the American continent is concerned – the
 information technology, start-up culture, and venture capital associated
 with the northern part of the State of California: gold rush territory.
@@ -285,7 +285,7 @@ The state’s money reasserted political authority and the state’s central
 banks affirmed the position of the state in monetary policy and banking.
 It also facilitated free exchange, with an infrastructure for producing
 and distributing cash but no central record of how that cash was being
-used. In the Simmel story, this is anonymized and dehierarchized money.
+used. In the Simmel story, this is anonymized and de-hierarchized money.
 Viviana Zelizer, Jane Guyer, and others, however, have shown how people
 took that deracinated money and reinserted it into relations of
 rank.[^12]
@@ -301,7 +301,7 @@ databases.
 
 Michael Warner argued in *Letters of the Republic* that broadsides in
 early colonial America at first provided a representation of a God-given
-hierarchical natural order, king firmly ensconced at that top of that
+hierarchical natural order, with the King firmly ensconced at that top of that
 order.[^13] The Revolutionaries were different: they were, after all,
 trying to constitute a new kind of person through these letters: fellow
 citizens, whom they would hail as such. By hailing the person into a
@@ -313,7 +313,7 @@ database of all human interaction and transaction? Where is it? Who
 controls it?
 
 Money can serve as an externalized memory of social transactions and
-relations.[^14] What we are seeing now is a kind of and memory. One kind
+relations.[^14] What we are seeing now is a kind of memory. One kind
 of decentralization is corporate. There is decentralization from the
 mass payment markets of the ACH, the card networks, and checks – with
 designs on cash. There is then a corresponding recentralization into
@@ -456,7 +456,7 @@ University Press, 1994.
 [^10]: See David Stearns, *Electronic Value Exchange: Origins of the
     VISA Electronic Payment System*, New York: Springer, 2011.
 
-[^11]: Stearns, *Electronic Value Exchange*, 2011.
+[^11]: David. *Electronic Value Exchange: Origins of the VISA Electronic Payment System*, New York: Springer, 2011.
 
 [^12]: Georg Simmel, *The Sociology of Georg Simme*l, trans. Kurt H.
     Wolff, Glencoe, IL: The Free Press, 1950; Jane Guyer, *Marginal
@@ -468,4 +468,5 @@ University Press, 1994.
     Public Sphere in Eighteenth-Century America,* Cambridge, MA: Harvard
     University Press, 1992.
 
-[^14]: Hart, *Memory Bank*, 2000.
+[^14]: Hart, *Memory Bank: Money in an Unequal World*, London: Profile,
+2000.

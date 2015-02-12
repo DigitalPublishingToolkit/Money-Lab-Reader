@@ -527,7 +527,7 @@ current architecture of global finance, its impact on ever-growing
 income disparity, and question money and finance as such. It is not
 always clear, for instance, whether genuine alternatives are unfolding
 or if we are simply witnessing the creative extension of neoliberalism.
-At stake is the full spectrum of technologies of economic
+At stake is the full spectrum of technologies of economic 
 (re)distribution.
 
 
