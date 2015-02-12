@@ -141,7 +141,7 @@ THE LONG GAME
 
 Money in the Making of World Society
 
-**Franco Berardi **
+**Franco "Bifo" Berardi**
 
 Is There Life Beyond Money?
 
@@ -187,7 +187,7 @@ The Economic Viability of Complementary Currencies: Bound to Fail?
 
 Financial Capital and the Money of the Common: The Case of Commoncoin
 
-**Finn Brunton **
+**Finn Brunton**
 
 Heat Exchanges
 
@@ -315,7 +315,7 @@ Investment in the Postgraduate Program of the University of Indonesia
 and at the Tazkia University College of Islamic Economics. He is the
 founder of [icmspecialist.com](http://www.icmspecialist.com).
 
-**Franco ‘Bifo’ Berardi** is a writer, media theorist, and media
+**Franco "Bifo" Berardi** is a writer, media theorist, and media
 activist. In 2012 he published *The Uprising*. As a coordinator
 of the European School for Social Imagination (SCEPSI), he has taught at
 Ashkal Alwan in Beirut, PEI-Macba in Barcelona, Accademia di Brera in
@@ -515,9 +515,9 @@ MoneyLab is part of a global movement that demands the democratization
 of the design of our financial futures. Audacity is essential in times
 of crisis. And so we must engage constructively with hackers,
 entrepreneurs, and other creators who take up the call for economic
-alternatives. One first step is a map of the present: What works, what
-doesn’t, what is worth pursuing and what must be left aside? Which
-histories are bearing on the present? And what are the limits of our
+alternatives. One first step is a map of the present: What works and what
+doesn’t? What is worth pursuing and what must be left aside? Which
+histories bear on the present moment? And what are the limits of our
 economic imagination?
 
 The MoneyLab Reader brings developments in crowdfunding, currency
@@ -533,7 +533,7 @@ At stake is the full spectrum of technologies of economic
 
 **Contributors:**
 
-Irwan Abdalloh, Franco ‘Bifo’ Berardi, Robert van Boeschoten, Finn Brunton, Paolo Cirio, Jim Costanzo,
+Irwan Abdalloh, Franco "Bifo" Berardi, Robert van Boeschoten, Finn Brunton, Paolo Cirio, Jim Costanzo,
 Primavera De Filippi , Eduard de Jong, Irina Enache, Andrea Fumagalli,
 David Golumbia, Max Haiven, Keith Hart, Samer Hassan, Ralph Heidenreich,
 Stefan Heidenreich, Geert Lovink, Bill Maurer, Rachel O’Dwyer, Pekka

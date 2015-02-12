@@ -630,7 +630,7 @@ Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
 
 [^16]: Paul Langley lecture at Copenhagen Business School, ‘The Marketization of Crowdfunding: A New Digital Frontier for Finance’, 8 September 2014.
 
-<17]: Indiegogo, ‘AFDI Jihad Awareness Campaign’, https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign. Cited from: Rodrigo Davies, ‘The Ethics of Crowdfunding’, Center for Digital Ethics and Policy, Loyola University Chicago, 17 December 2013,
+[^17]: Indiegogo, ‘AFDI Jihad Awareness Campaign’, https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign. Cited from: Rodrigo Davies, ‘The Ethics of Crowdfunding’, Center for Digital Ethics and Policy, Loyola University Chicago, 17 December 2013,
     <http://digitalethics.org/essays/the-ethics-of-crowdfunding/>. 
 
 [^18]: Kickstarter, ‘We Were Wrong’, 21 June 2013,
