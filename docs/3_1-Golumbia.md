@@ -46,7 +46,7 @@ uses.’[^1] For some technologies and in some contexts, this kind of
 dynamic can be hard to see, and the apparently common-sense insistence
 that technologies develop autonomously, as it were, continually urges us
 to reject the idea that technologies might be in part or even largely
-social constructions, even when the technologies themselves, as we see
+social constructions. This is the case even when the technologies themselves, as we see
 in so much promotion of computational devices and methods today, are
 advertised as having socially beneficial effects. Technologies are
 neutral, this view seems to suggests, when human beings use them for
@@ -62,8 +62,7 @@ especially when the politics in question might be ones ‘we’ oppose.
 Bitcoin (along with the other distributed ledger cryptocurrencies of
 which it is the best-known and most widely-used exponent) provides us
 with an unusually pointed example of the relationship between the social
-and the technical; for unlike many technologies about which scholars
-write, Bitcoin is not a technology that fails, either altogether due to
+and the technical; for unlike many technologies critiqued by scholars, Bitcoin is not a technology that fails, either altogether due to
 errant premises (e.g. cold fusion) or, in part, due to social pressures
 (e.g. the Betamax videocassette format). Bitcoin is a technology that
 *works* – that is hard to doubt. Furthermore, it is widespread and being
@@ -247,7 +246,7 @@ manipulation, derivation and speculation than are any other currencies;
 gold itself provides clear evidence of this, in its recent price
 volatility.[^19]
 
-Such beliefs require one to ignore the direct evidence of one’s own
+Such beliefs require one to ignore the direct evidence before one’s own
 eyes. Precisely because it is outside of regulatory structures, Bitcoin
 is particularly prone to the kinds of hoarding, dumping, derivation, and
 manipulation that characterize all instruments that lack central bank
@@ -310,7 +309,7 @@ identify strongly with ‘the digital’. Engineers imagine that their
 domain-specific knowledge translates into universal knowledge (‘guys
 [who] are really good at what they do, and [who] think that makes them
 an expert at everything’[^25]); that all problems are engineering
-problems and that unsolved problems simply indicate that nobody so smart
+problems and that unsolved problems simply indicate that nobody as smart
 as they are has come along to solve those problems; that domain-specific
 knowledge is a kind of ‘elitism’ meant to keep out true experts like
 them.[^26] It’s also a story about the permeability of
@@ -357,7 +356,7 @@ silver, fiat money’s value is unrelated to the value of any physical
 quantity. Even a coin containing valuable metal may be considered fiat
 currency if its face value is higher than its market value as metal’.
 
-What’s supposed to be wrong with fiat money? This is an age-old canard
+What is supposed to be wrong with fiat money? This is an age-old story
 for ideologues to the right of economic libertarians; it’s one of the
 favored talking points of the Paul clan.[^30] The supposed problem with
 fiat currency is that it makes impossible one of the three functions of
@@ -392,7 +391,7 @@ guarantee that their profits will be worth the amount they were when
 they took the profit. The 6 Bitcoins I get for selling a lawnmower
 today, may (likely will) only buy me a box of cereal tomorrow. This
 forces people to constantly transfer their Bitcoins into the
-supposedly-outdated national currencies, which underpin Bitcoin, are
+supposedly-outdated national currencies underpinning Bitcoin, which are
 actually necessary for it, rather than being the old-fashioned
 predecessors to it.
 
@@ -420,8 +419,7 @@ Many economists recognize something that appears to have been beyond the
 inventors and advocates of Bitcoin. Without direct regulatory structures
 that prevent an instrument from being used as an investment (aka
 ‘hoarding’), any instrument (*even gold*) will be subject to derivation,
-securitization, and ultimately extreme boom-and-bust cycles that it are
-actually the purpose of central banks to prevent. The more Bitcoin
+securitization, and ultimately extreme boom-and-bust cycles that central banks are tasked to prevent. The more Bitcoin
 fluctuates in value, the less functional it can be as a currency. The
 less impact it can have on ‘world governments’, whatever that is
 supposed to mean. *The more Bitcoin ‘rises in value’* – *that is,
@@ -481,7 +479,7 @@ exclusively ideologies that are broadly libertarian in character and
 that serve the neoliberal agenda: they follow Friedrich Hayek and his
 disciple Jimmy Wales in believing that markets, not formal political
 structures, are the only valid means for knowledge to be gained and
-power to be wielded, and that ‘the good will out’ if we impose
+power to be wielded, and that ‘the good will win out’ if we impose
 competitive market structures over parts of society, like the issuance
 of money, that governments have claimed as part of their domain. Despite
 their frequent use of the word ‘democratization’, such efforts are
@@ -500,7 +498,7 @@ governance:
 > but we’ve only just begun. We admit that we are ideologues.’[^37]
 
 There was a time when it would have been relatively difficult to imagine
-a software platform that had more power as a politics than in its stated
+a software platform that had more power in a political sphere than in its stated
 uses; it also used to be hard to imagine right-wing extremists like Cody
 Wilson being quoted as authoritative about anything in our nation’s
 leading newspapers. It is an index of Bitcoin’s power as ideology that
@@ -797,25 +795,25 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     enthusiasm, a similar story appeared on the far-right *Infowars*
     site run by the extremist demagogue Alex Jones: see Nick Sorrentino,
     ‘Paul Krugman Is Scared. He Says “Bitcoin Is Evil”. Undermines
-    Central Banks’, *Infowars.com*, 29 December 2013,
+    Central Banks’, *Infowars.com*, 29 December 2013, <http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/>.
 
 [^8]: See Marc Andreessen, co-founder of the Andreessen Horowitz venture
     capital firm which is one of Silicon Valley’s main backers of
     Bitcoin-related enterprises, in his ‘Why Bitcoin Matters’, *The New
-    York* Times, 21 January 2014,
+    York* Times, 21 January 2014,<http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1>.
 
 [^9]: On Bitcoin’s lack of fit with standard economic definitions of
     money and currency, see David Yermack, ‘Is Bitcoin a Real Currency?
-    An Economic Appraisal’, *SSRN*, 1 April 2014,
+    An Economic Appraisal’, *SSRN*, 1 April 2014, <http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599>; Paul Davidson, ‘Is Bitcoin “Money”? The Post-Keynesian View’, Real-World Economics Review Blog, 27 November 2013, <http://rwer.wordpress.com/2013/11/27/14335/>.
     Paul Davidson, ‘Is Bitcoin “Money”? The Post-Keynesian View’,
     *Real-World Economics Review Blog*, 27 November 2013,
     Joshua Gans, ‘Time for a Little Bitcoin Discussion’, *Economist’s
-    View*, 25 December 2013,
+    View*, 25 December 2013, <http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html>.
 
 [^10]: Yermack, ‘Is Bitcoin a Real Currency?’, concludes that Bitcoin is
     neither money nor a currency. For Bitcoin advocates dismissing many
     widely-shared economic principles without offering substantive
-    arguments against them, see, e.g., Bitcoin wiki, ‘Myths’,
+    arguments against them, see, e.g., Bitcoin wiki, ‘Myths’, <https://en.bitcoin.it/wiki/Myths>.
 
 [^11]: Davidson, ‘Is Bitcoin “Money”? The Post-Keynesian View’.
 
@@ -823,10 +821,10 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     2004, p. 4-5.
 
 [^13]: Evan Soltas, ‘Bitcoin Really Is an Existential Threat to the
-    Modern Liberal State’, *Bloomberg View*, 5 April 2013,
+    Modern Liberal State’, *Bloomberg View*, 5 April 2013, <http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state>. 
 
 [^14]: Jon Matonis, ‘Bitcoin Prevents Monetary Tyranny’, *Forbes*, 4
-    October 2012,
+    October 2012, <http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/>.
 
 [^15]: On Bitcoin’s similarity to the wide spectrum of non-monetary
     media of exchange, such as ‘Chocolate Hanukkah Coins, Casino Chips,
@@ -835,12 +833,12 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
 
 [^16]: For the view that gold-backed money is superior and that Bitcoin
     is valuable because it is ‘like gold’, see, e.g., Alec Liu, ‘Why
-    Bitcoins Are Just Like Gold’, *VICE Motherboard*, 21 March 2013,
+    Bitcoins Are Just Like Gold’, *VICE Motherboard*, 21 March 2013, <http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold>.
     On the historical fixing of gold prices, see ‘Gold Fix: The London
-    Gold Fix’, *BullionVault*,
+    Gold Fix’, *BullionVault*, <https://www.bullionvault.com/guide/gold/Gold-fix>. 
     On the potential implication of gold and silver price fixing in the
     LIBOR scandal, see Simon Goodley, ‘Could Gold Be the Next LIBOR
-    Scandal?’, *The Guardian*, 13 March 2013,
+    Scandal?’, *The Guardian*, 13 March 2013, <http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market/>. 
 
 [^17]: Weiner, ‘Paul Krugman Is Wrong: Bitcoin Isn’t Evil, But Monetary
     “Stimulus” Is’.
@@ -848,52 +846,52 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
 [^18]: On the anti-Semitic content of anti-Federal Reserve and pro-gold
     discourse, see, e.g., Gerald Krefetz, *Jews and Money: The Myths and
     the Reality*, Boston, MA: Ticknor and Fields/Houghton Mifflin, 1982.
-    On the many connections between the Pauls and racist conspiracy
+    On the many connections between the Paul’s and racist conspiracy
     theories, see, e.g., ‘Ron Paul Sites Are Obsessed with Jews,
-    Zionists, and Israel’, *RonPaulSupporters.com*, 27 December 2011,
+    Zionists, and Israel’, *RonPaulSupporters.com*, 27 December 2011, <http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/>.
 
 [^19]: On manipulation of gold and Bitcoin, see David Andolfatto, ‘Why
     Gold and Bitcoin Make Lousy Money’, *Economist’s View*, 24 April
-    2013,
-    on the recent volatility of gold, see Katie Allen, ‘Gold Price
+    2013, <http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html>.
+    On the recent volatility of gold, see Katie Allen, ‘Gold Price
     Volatility Hits Pawnbroker’s Profits’, *The Guardian*, 29 September
-    2013,
+    2013, <http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits>.
 
-[^20]: See ‘Interview with Brooksley Born’, *Frontline*, October 2009,
+[^20]: See ‘Interview with Brooksley Born’, *Frontline*, October 2009,<http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html>.
 
 [^21]: Rob Wile, ‘927 People Own Half of All Bitcoins’, *Business
-    Insider*, 10 December 2013,
+    Insider*, 10 December 2013, <http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12>.
 
 [^22]: On the Sheep Marketplace, see Jim Edwards, ‘Two Guys on Reddit
     Are Chasing a Thief Who Has \$220 Million in Bitcoins’, *Business
-    Insider*, 4 December 2013,
+    Insider*, 4 December 2013, <http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12>.
     On Mt. Gox, see Pete Rizzo, ‘Tokyo Police Launch Investigation into
-    Missing Mt. Gox Bitcoin’, *CoinDesk*, 30 July 2014,
+    Missing Mt. Gox Bitcoin’, *CoinDesk*, 30 July 2014, <http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/>.
 
 [^23]: David Golumbia, ‘Bitcoinsanity 1: The (Ir)relevance of Finance,
-    or, It’s (Not) Different This Time’, *Uncomputing*, 6 January 2014,
+    or, It’s (Not) Different This Time’, *Uncomputing*, 6 January 2014, <http://www.uncomputing.org/?p=307>.
 
 [^24]: See e.g., Rick Falkvinge, ‘The Target Value for Bitcoin Is Not
     Some \$50 or \$100. It is \$100,000 to \$1,000,000’,
-    *Falkvinge.net*, March 2013,
+    *Falkvinge.net*, March 2013, <http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/>.
 
 [^25]: From a comment by ‘volokh\_disqus2’ to Orin Kerr, ‘A Few Thoughts
     on the DOJ Brief in the Lavabit Case’, *The Volokh Conspiracy*, 14
-    November 2013,
+    November 2013, <http://www.volokh.com/2013/11/14/thoughts-doj-brief-lavabits-case/#comment-1124546635>.
 
 [^26]: Discussed at some length in Golumbia, *The Cultural Logic of
     Computation*, Cambridge, MA: Harvard University Press, 2009.
 
 [^27]: For libertarian economic criticisms of Bitcoin that distinguish
     themselves from Paulite/Tea Party conspiratorial theories about
-    central banking, see, e.g., the writings of Mises Institute
+    central banking, see, e.g., the writings of the Mises Institute
     economists, including Frank Shostak, ‘The Bitcoin Money Myth’,
-    Ludwig von Mises Institute, 17 April 2013,
+    Ludwig von Mises Institute, 17 April 2013, <https://mises.org/daily/6411/>,
     and Patrik Korda, ‘Bitcoin: Money of the Future or Old-Fashioned
-    Bubble?’, Ludwig von Mises Institute, 9 April 2013,
+    Bubble?’, Ludwig von Mises Institute, 9 April 2013, <https://mises.org/daily/6401/>.
     Also see well-known internet investment analyst Henry Blodget making
     much the same fiscal argument I am advancing here, in ‘Bitcoin Could
-    Go To \$1 Million’, *Business Insider*, 8 November 2013,
+    Go To \$1 Million’, *Business Insider*, 8 November 2013, <http://www.businessinsider.com/bitcoin-price-2013-11>.
 
 [^28]: In addition to their ubiquity on Bitcoin advocacy sites like
     Falkvinge.net and Coindesk.com, they are the rule in the comments
@@ -901,31 +899,31 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     entertain any skepticism at all about Bitcoin’s transformative
     power; see for example the comments to Timothy Lee, ‘Everything You
     Need to Know About the Bitcoin “Bubble”’, *The Washington Post*, 8
-    November 2013,
+    November 2013, <http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/>,
     to Stephen Mihm, ‘Are Bitcoins the Criminal’s Best Friend?’,
-    *Bloomberg View*, 18 November 2013,
+    *Bloomberg View*, 18 November 2013, <http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend->,
     and to Rumpelstatskin, ‘Everything I Was Afraid to Ask About Bitcoin
-    but Did’, *Naked Capitalism*, 21 November 2013,
+    but Did’, *Naked Capitalism*, 21 November 2013,<http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html>. 
     Also see the comments collected by the Twitter account ‘Shit
     /r/Bitcoin says’ (@shit\_rbtc\_says,
     https://twitter.com/shit\_rbtc\_says), some of which are discussed
     in David Golumbia, ‘Bitcoinsanity 2: Revolutions in Rhetoric’,
-    *Uncomputing*, 26 June 2014,
+    *Uncomputing*, 26 June 2014, <http://www.uncomputing.org/?p=1390>.
     Vasilis Kostakis and Chris Giotitsas, ‘The (A)Political Economy of
     Bitcoin’, *TripleC: Communication, Capitalism, & Critique* 12:2
     (2014): 431-440, attempt to integrate thinking about Bitcoin with
     more community- and labor-oriented analyses of issues in money and
     currency.
 
-[^29]: Wikipedia contibutors, ‘Fiat Money’,
+[^29]: Wikipedia contibutors, ‘Fiat Money’, <http://en.wikipedia.org/wiki/Fiat_money>,
     accessed 15 September 2014.
 
 [^30]: See e.g., Barbara Shoff, ‘Ron Paul Sound Currency Message Is
     Resonating with Worldwide Leaders, Including China’, *PolicyMic*, 18
-    October 2012,
+    October 2012, <http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china>.
 
 [^31]: Ron Paul, ‘Paper Money and Tyranny’, Speech to U.S. House of
-    Representatives (September 2003),
+    Representatives (September 2003), <http://www.house.gov/paul/congrec/congrec2003/cr090503.htm>.
 
 [^32]: Soltas, ‘Bitcoin Really Is an Existential Threat to the Modern
     Liberal State’.
@@ -933,22 +931,22 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
 [^33]: Yermack, ‘Is Bitcoin a Real Currency?’: 1.
 
 [^34]: Andy Greenberg, ‘Meet the “Assassination Market” Creator Who's
-    Crowdfunding Murder With Bitcoins’, *Forbes*, 18 November 2013,
+    Crowdfunding Murder With Bitcoins’, *Forbes*, 18 November 2013, <http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/>.
 
-[^35]: Andreessen, ‘What Is Bitcoin’.
+[^35]: Marc Andreessen,‘Why Bitcoin Matters’, The New York Times, 21 January 2014.
 
-[^36]: See Alexander R. Galloway, ‘Reticular Fallacy’, 6 October 2014,
+[^36]: See Alexander R. Galloway, ‘Reticular Fallacy’, 6 October 2014, <http://cultureandcommunication.org/galloway/the-reticular-fallacy>
     on presumptions about the politics of networks.
 
 [^37]: Alan Feuer, ‘The Bitcoin Ideology’, *The New York Times*, 15
-    December 2013,
+    December 2013, <http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html>.
     For background on Cody Wilson and his support for 3D-printed guns,
     see Jacob Silverman, ‘A Gun, a Printer, an Ideology’, *The New
-    Yorker*, 7 May 2013,
+    Yorker*, 7 May 2013, <http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology>.
 
 [^38]: Exceptions to this rule – political analysis that recognizes how
     closely tied is Bitcoin discourse to far-right political beliefs –
     include Maurer, Nelms, and Swartz, ‘Practical Materiality of
     Bitcoin’, and Brett Scott, ‘Visions of a Techno-Leviathan: The
     Politics of the Bitcoin Blockchain’, *E-International Relations*, 1
-    June 2014,
+    June 2014, <http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/>.
