@@ -573,7 +573,7 @@ Edinburgh University Press, 2000.
 Watson, M. ‘What Makes a Market Economy? Schumpeter, Smith and Walras on
 the Coordination Problem’, *New Political Economy* 10.2 (2005): 143-161.
 
-World Exchanges‘Indonesia Stock Exchange’, (no date) available at: .
+World Exchanges‘Indonesia Stock Exchange’, (no date) available at: <http://www.world-exchanges.org/member-exchanges/key-information-/indonesia-stock-exchange>.
 
 Zeti A.A. ‘Internationalisation of Islamic Finance: Bridging Economies’,
 welcoming address by the Governor of the Central Bank of Malaysia at the
