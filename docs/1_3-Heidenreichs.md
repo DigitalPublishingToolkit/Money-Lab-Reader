@@ -83,7 +83,7 @@ main purpose is to make needs and capabilities meet. Matching is not to
 be confused with today’s market mechanisms. It is not about setting a
 price. Prices are needed when information about the participants of the
 transaction, their needs and capabilities, is lacking. Under these
-constraints, the exchange at an abstract level replaces a matching on
+constraints, the exchange at an abstract level replaces a match on
 the basis of needs. Money based markets operate on a high level of
 abstraction, and they involve very many institutions of production and
 services, that adapted to, mirror and create this level of abstraction.
@@ -154,7 +154,7 @@ have shown, economic relations can be built with the absence of both
 concepts. In other words: these concepts only appear with the ascent of
 money, and may not survive its end.
 
-Early pre-monetary economies usually do not extend much over the clan,
+Early pre-monetary economies usually did not extend much over the clan,
 or the village, or a tribe. Their reach was severely hindered by the
 fact that the reach of transactions and memorized records was restricted
 to friends or friends of friends. Most objects did not circulate much
@@ -244,9 +244,7 @@ ideally assigned to the person who needs it most, or who makes most out
 of it. This would be a relational value. At the same time a message is
 sent to whomever is willing and able to provide more of the same good.
 The basic communication around a transaction would consist in the
-activation of this network-based relation.
-
-A communication environment of this type is far from trivial. As it
+activation of this network-based relation.A communication environment of this type is far from trivial. As it
 easily extends over a more than two connected positions, it tends to
 produce huge flows of data even for small transactions. How do we
 compare recursive factors like the degree of need or an expected
@@ -284,16 +282,14 @@ partakes in an economic transaction may be regarded as an economic
 object, with its needs and desires and its own interests. This does not
 only refer to human beings, but also to all kinds of objects, even to
 objects in the sense of programmable objects, like events or
-communications.
-
-For each object included in a transaction, there should be an
+communications.For each object included in a transaction, there should be an
 optimization function. A car wants to be driven. A house wants to be
 inhabited. A beer wants to be drunk. The bottle may even command a car
 to be taken to a place most suitable for that purpose getting emptied. A
 world of this type, in which objects communicate with each other, is not
 out of reach.
 
-Purpose-driven intelligent and communicating objects may resolve one of
+Purpose-driven, intelligent and communicating objects may resolve one of
 the big obstacles of a data driven economy. Once an object knows what it
 is made for, it is possible to operate an economy without relying on a
 data-rich memory system. In this model, each thing or agent would know
@@ -309,7 +305,7 @@ ticklish as subjects. Their behavior towards possible transactions may
 rather resemble dating than just being sold. They may want to enter into
 negotiations or complex arguments, may withdraw and reappear, may change
 sides and features. The system does not need to have preset rules for
-once and ever. Its life depends on how humans interact with things, and
+once and forever. Its life depends on how humans interact with things, and
 how objects mirror the world.
 
 
@@ -319,9 +315,7 @@ As much as objects, humans have an economic agency, which can be
 described by sets of needs or desires. A strong concept of subjectivity
 or identity is not needed to operate as an economic agent. One and the
 same person may take different roles to appear under different
-circumstances.
-
-In a data rich, transaction-oriented system, the agent would be declared
+circumstances. In a data rich, transaction-oriented system, the agent would be declared
 the site of a possible equilibrium. That means that each agent should
 strive to give as much as it gets. Within an object-oriented economy,
 the personalized equilibrium can be replaced by the optimization
@@ -329,14 +323,14 @@ function of the objects.
 
 One of the crucial distinctions between objects and human agents lies in
 the term ‘dignity’. According to Kant, dignity is what exempts the human
-from the realm the submission under the economic sphere. ‘In the realm
+from the realm of submission under the economic sphere. ‘In the realm
 of ends everything has either a price or a dignity’.[^8] Unlike objects,
 dignity allows humans to withdraw form economic pressure, without
 risking their existence.
 
 Whilst objects may exist entirely within the economic sphere, humans
 have to be able and enabled to choose which part of their life and their
-activities to submit to the rules of the economic domain. That means
+activities they submit to the rules of the economic domain. That means
 that the descriptor of a human agent has to be up to her or his choice.
 There may be capabilities or needs that one does not want to be public
 or to be offered to the matching function. Without this clause, economic
@@ -354,9 +348,7 @@ making has to be granted not only as the freedom to choose amongst given
 alternatives, but on a far deeper level as the freedom to choose amongst
 a variety of games, or even to step out of the economic circuit as such,
 which would bring us back to the antique idea of freedom as being freed
-from the need to work at all.
-
-After all, algorithms and laws would have to be implemented according to
+from the need to work at all. After all, algorithms and laws would have to be implemented according to
 four basic principles of human rights – dignity, public welfare,
 equality, and freedom. Given the poor performance of our current
 monetary regime, it should not be impossible to surpass the current
@@ -435,42 +427,38 @@ ecosphere of games against some form of retribution.
 We are educated to things being scarce. This runs along common myths of
 current capitalism that things are in short supply and therefore have a
 market value. There is an intrinsic tie between money and scarcity, as
-money itself is the scarce good to which all other scarce goods have to
+money itself is a scarce good to which all other scarce goods have to
 be mapped. ‘The innovation consists in the duplication of scarcity. The
 scarcity of money is placed next to the very different scarcity of
 goods. That means, that *scarcity itself is codified.*’[^12] This
 relation implies that scarcity may be overcome in the moment that money
 as its codification is driven out of the system.
 
-By now most of our products are no longer scarce. Usually, we have
+Today, most of our products are no longer scarce. Usually, we have
 things in such an ample supply, that scarcity has to be artificially
 introduced. Just to name some examples: there is no shortage in shoes.
 Most of the efforts of brand marketing go into codifying a shoe model
 with social distinctions and thereby add the distinctive quality
 associated with scarcity. Practices of this kind may even persist in a
 post-monetary world. They could be part of a particular game, in which
-people with according distinctive needs may strive to achieve the
+people with accordingly distinctive needs may strive to achieve the
 qualifications needed to obtain the precious items.
 
 A more critical case can be found in immaterial goods and intellectual
 property. Consisting in data, there is absolutely no need to limit the
-circulation of digital goods. Technically, each single individual can
+circulation of digital goods. Technically, each individual can
 contribute to the distribution of a text, a piece of music or a video by
 sharing it. The desperate attempt to create a legal environment that
 artificially curtails what is technically possible is an example of how
-an overcome economic value system seeks to prolong its existence and to
-retain its outdated set of rules.
-
-A game that calculates values along networked recursions would give
+an defunct economic value system seeks to prolong its existence and to
+retain its outdated set of rules. A game that calculates values along networked recursions would give
 higher value to what is most linked and liked. That does not imply that
 other participants would have to ‘pay’ more in order to obtain the
 content. As all products of intellectual labor, it would be available
 for free, but its producers would in some ways benefit from their
-success, be it by being entitled to receive more of other peoples labor,
+success, be it by being entitled to receive more of other people’s labor,
 or by other types of incentives depending on which game they participate
-in.
-
-That system turns the current regulation on intellectual property upside
+in. That system turns the current regulation on intellectual property upside
 down. Instead of trying to shape the distribution of intellectual goods
 according to the economy of material production, one should rather
 transform the market of material goods along the distribution models of
@@ -534,9 +522,7 @@ surveillance. Neither a spectacular breakdown, nor a big crisis or an
 increasing acceleration may lead to a change, but the slow and steady
 erosion of an increasingly dysfunctional monetary regime. In its niches
 the conditions for a different post-monetary economy are already set and
-growing under the shelter of and within the old structure.
-
-Retrospectively, our current world will appear as a strange, somewhat
+growing under the shelter of and within the old structure. Retrospectively, our current world will appear as a strange, somewhat
 backwards, and self-destructive place. The fury with which we exhaust
 our resources, produce overabundance without distributing it, and insist
 in making workers’ lives miserable, will be looked back at with
