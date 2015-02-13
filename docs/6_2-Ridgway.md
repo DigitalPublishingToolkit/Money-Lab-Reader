@@ -583,8 +583,8 @@ Platform for Art, Culture and the Public Domain*,
 
 
 Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
-*Shareable*, 13 June 2012,
-<http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview>.
+*Shareable*, 13 June 2012, <http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview>.
+
 
 [^1]: Daniel Broderick, ‘Crowdfunding’s Untapped Potential in Emerging Markets’, *Forbes*, 5 August 2014,
     <http://www.forbes.com/sites/hsbc/2014/08/05/crowdfundings-untapped-potential-in-emerging-markets/>.
@@ -711,11 +711,11 @@ Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
 
 [^48]: Brian Holmes, ‘Money Unlimited: The Consequences of Quantitative Easing’, talk at MoneyLab conference, 22 March 2014, <http://vimeo.com/90207678>.  
 
-[^49]: Renée Ridgway, ‘Monetizing the Crowds’, *Open! Platform for Art, Culture and the Public Domain*, 2 November 2013,
-    <http://www.onlineopen.org/columns/monetizing-the-crowds>.
+[^49]: Renée Ridgway, ‘Monetizing the Crowds’, *Open! Platform for Art, Culture and the Public Domain*, 2 November 2013, <http://www.onlineopen.org/columns/monetizing-the-crowds>.
 
 [^50]: Felix Stadler, ‘Crowdfunding the Commons: Goteo.org Interview’, *Shareable*, 13 June 2012,
 <http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview>.
 
 [^51]: ‘The crowdfunding donations are a prerequisite, testing open projects for the subsequent search of micro-investments that may be the way to further fuel the emergence of this new world of business models and non-profit oriented real social purpose, rather than the model of a maximization of profit and perpetual growth regardless of the needs of society’, ‘Sobre la regulación del crowdfunding y Ley de Fomento de la Financiación Empresarial’,
     <https://goteo.org/blog/4325>.
+     

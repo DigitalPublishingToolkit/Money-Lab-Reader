@@ -551,8 +551,7 @@ Heidelberg: Springer, 2006, pp. 16-31,
 [^6]: Clemons, Croson, and Weber, ‘Reengineering Money’.
 
 [^7]: Peter Landrock, ‘Mondex’, in Henk C.A. van Tilborg (ed.) *Encyclopedia of Cryptography and Security*, Berlin and Heidelberg: Springer, 2005, p.
-    394,
-<http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262>.
+    394, <http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262>.
 
 [^8]: Gerhard Schellhorn et al., ‘The Mondex Challenge: Machine Checked Proofs for
     an Electronic Purse’, in Jayadev Misra, Tobias Nipkow, and Emil

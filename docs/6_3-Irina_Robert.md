@@ -222,15 +222,16 @@ very different needs.
 
 ## References
 
-Amsterdams Fonds voor de Kunst, http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/
-Culture Crowd UK,
+Amsterdams Fonds voor de Kunst, <http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/>.
+
+Culture Crowd UK, <http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf>.
 
 Jeffers, Adrianne. ‘Indie No-go: Only One in Ten Projects Gets Fully
-Funded on Kickstarter's Biggest Rival’, The Verge, 7 August 2013,
+Funded on Kickstarter's Biggest Rival’, The Verge, 7 August 2013, <http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded>.
 
-Kickstarter,
+Kickstarter, <https://www.kickstarter.com/help/stats>.
 
-Mondriaan Fonds,
+Mondriaan Fonds, <http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/.>.
 
 MoneyLab Crowdfunding Toolkit,
 [www.networkcultures.org/moneylab-toolkit](http://www.networkcultures.org/moneylab-toolkit).

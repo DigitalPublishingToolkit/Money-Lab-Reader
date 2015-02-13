@@ -804,16 +804,16 @@ the Judiciary*, New York: Carroll & Graf Publishers, 2005.
     [http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/](http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/).
 
 [^9]: Rebecca Savastio, ‘Detroit Judge Rules There Is No Basic Human
-    Right to Water’, *Guardian Liberty Voice*, 1 October 2014,
+    Right to Water’, *Guardian Liberty Voice*, 1 October 2014, <http://guardianlv.com/2014/10/detroit-judge-rules-there-is-no-basic-human-right-to-water/#uO42XvhUWarre06y.99>.
 
 [^10]: *Pittsburgh Gazette*, Pittsburgh, Pennsylvania, 17 December 1794.
 
-[^11]: See [http://strikedebt.org](http://strikedebt.org).
+[^11]: See <http://strikedebt.org](http://strikedebt.org>.
 
 [^12]: Strike Debt, *The Debt Resisters’ Operation Manual*, Brooklyn, NY
     and Oakland: Common Notions/PM Press/Autonomedia, 2014.
 
-[^13]: Rolling Jubilee,
+[^13]: Rolling Jubilee, <http://rollingjubilee.org>.
 
 [^14]: Susan Dunn (ed.) *Something That Will Surprise the World: the
     Essential Writings of the Founding Fathers*, New York: Basic Books,
@@ -825,28 +825,28 @@ the Judiciary*, New York: Carroll & Graf Publishers, 2005.
 
 [^16]: Kim Ives, ‘Haiti: Independence Debt, Reparations for Slavery and
     Colonialism, and International Aid’, *Global Research, Haïti
-    Liberté*, 10 May 2013.
+    Liberté*, 10 May 2013, <http://www.globalresearch.ca/haiti-independence-debt-reparations-for-slavery-and-colonialism-and-international-aid/5334619>.
 
-[^17]: International Monetary Fund, ‘Odious Debt’,
+[^17]: International Monetary Fund, ‘Odious Debt’, <http://www.imf.org/external/pubs/ft/fandd/2002/06/kremer.htm>.
 
 [^18]: Democracy Now, ‘Exhaustive Study Finds Global Elite Hiding Up to
-    \$32 Trillion in Offshore Accounts’, 31 July 2012.
+    \$32 Trillion in Offshore Accounts’, 31 July 2012, <http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding>.
 
 [^19]: Jacques Leslie, ‘The True Cost of Hidden Money A Piketty
-    Protégé’s Theory on Tax Havens’, *The New York Times*, 15 June 2014,
+    Protégé’s Theory on Tax Havens’, *The New York Times*, 15 June 2014, <http://www.nytimes.com/2014/06/16/opinion/a-piketty-proteges-theory-on-tax-havens.html?ref=opinion&_r=0>.
 
 [^20]: Strike Debt, ‘“Don’t Owe, Won’t Pay!” A Conversation with a
-    French Debt Resistor’*,* 24 June 2013,
+    French Debt Resistor’*,* 24 June 2013, <http://strikedebt.org/publicdebtaudits/>.
 
 [^21]: Jubilee Debt Campaign, ‘Argentina Passes Law To Establish Debt
-    Audit Commission’, 1 October 2014,
+    Audit Commission’, 1 October 2014, <http://jubileedebt.org.uk/news/argentina-passes-law-establish-debt-audit-commission>.
 
-[^22]: Participatory Budgeting Project,
+[^22]: Participatory Budgeting Project, <http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/>.
 
-[^23]: Records of the Post Office Department,
+[^23]: Records of the Post Office Department, <http://www.archives.gov/research/guide-fed-records/groups/028.html>.
 
 [^24]: National Emergency Employment Defense Act of 2011 [NEED Act, HR
-    2990],
+    2990], <https://www.govtrack.us/congress/bills/112/hr2990/text>.
 
 [^25]: Thomas Piketty, *Capitalism In The Twenty-First Century*, trans.
     Arthur Goldhammer, Cambridge, MA and London: The Belknap Press of

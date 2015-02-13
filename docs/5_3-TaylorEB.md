@@ -602,7 +602,7 @@ Schwittay, Anke. ‘The Marketization of Poverty’, *Current Anthropology*
 
 Suri Tavneet and Billy Jack. ‘Reaching the Poor: Mobile Banking and
 Financial Inclusion’, *Slate*, 27 February 2012,
-[*http://www.slate.com/blogs/future\_tense/2012/02/27/m\_pesa\_ict4d\_and\_mobile\_banking\_for\_the\_poor\_.html*](http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor_.html).
+[http://www.slate.com/blogs/future\_tense/2012/02/27/m\_pesa\_ict4d\_and\_mobile\_banking\_for\_the\_poor\_.html](http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor_.html).
 
 Taylor, Erin B., Baptiste Espelencia, and Heather A. Horst. *Mobile
 Banking in Haiti: Possibilities and Challenges*. University of
@@ -618,24 +618,24 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 [^1]: David Roodman, *Due Diligence: An Impertinent Inquiry Into
     Microfinance*, Washington: CGD Books, 2012.
 
-[^2]: See [*https://www.youtube.com/watch?v=nEZ30K5dBWU*](styles.xml).
+[^2]: See [https://www.youtube.com/watch?v=nEZ30K5dBWU](styles.xml).
 
 [^3]: For example, BRAC developed their ‘graduation model’ to ‘graduate
     the poorest from ultra-poverty’,
     [http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest.](http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest.)
     Fonkoze in Haiti bases their Chemen Lavi Miyò program on this model,
-    [*http://www.fonkoze.org/what-we-do/step-1-clm/*](settings.xml).
+    [http://www.fonkoze.org/what-we-do/step-1-clm/*](settings.xml).
 
 [^4]: World Bank,
-    [*http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013*](webSettings.xml).
+    [http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013](webSettings.xml).
 
-[^5]: IFAD, [*http://www.ifad.org/remittances/maps/*](footnotes.xml).
+[^5]: IFAD, [http://www.ifad.org/remittances/maps/](footnotes.xml).
 
 [^6]: Kusimba, ‘Mobile Kin and Mobile Money: The Anthropology of
     International Remittances in Kenya’, IMTFI Working Paper, 2013.
 
 [^7]: Discussed by the GSMA,
-    [*http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity*](endnotes.xml)*.*
+    [http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity](endnotes.xml)*.*
 
 [^8]: Gunnar Camner, Caroline Pulner, and Emil Sjöblom, *What Makes a
     Successful Mobile Money Implementation? Learnings from M-Pesa in
@@ -643,11 +643,11 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 
 [^9]: InterMedia, ‘Mobile Money in Haiti: A Baseline Analysis of Access,
     Use and Barriers to Adoption’,
-    [*http://audiencescapes.org/country-profiles/haiti/mobile-money-haiti-baseline-analysis-Gates-adoption-financial-services-HMMI*](http://audiencescapes.org/country-profiles/haiti/mobile-money-haiti-baseline-analysis-Gates-adoption-financial-services-HMMI).
+    [http://audiencescapes.org/country-profiles/haiti/mobile-money-haiti-baseline-analysis-Gates-adoption-financial-services-HMMI](http://audiencescapes.org/country-profiles/haiti/mobile-money-haiti-baseline-analysis-Gates-adoption-financial-services-HMMI).
 
 [^10]: Tavneet Suri and Billy Jack, ‘Reaching the Poor: Mobile Banking
     and Financial Inclusion’, *Slate*, 27 February 2012,
-    [*http://www.slate.com/blogs/future\_tense/2012/02/27/m\_pesa\_ict4d\_and\_mobile\_banking\_for\_the\_poor.html*](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1681245).
+    [http://www.slate.com/blogs/future\_tense/2012/02/27/m\_pesa\_ict4d\_and\_mobile\_banking\_for\_the\_poor.html](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1681245).
 
 [^11]: This had two major advantages: it immediately added thousands of
     users to Vodafone’s mobile money network, and it solved a serious
@@ -657,14 +657,14 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     It turns out that their superiors had been skimming their salaries
     by as much as 20 percent. With mobile money, this was no longer
     possible. See
-    [*http://www.bloomberg.com/news/2011-04-13/afghan-police-now-paid-by-phone-to-cut-graft-in-anti-taliban-war.html*](http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor_.html).
+    [http://www.bloomberg.com/news/2011-04-13/afghan-police-now-paid-by-phone-to-cut-graft-in-anti-taliban-war.html](http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor_.html).
 
 [^12]: ‘10 Ways to Accelerate Mobile Money: USAID-Citi Mobile Money
     Accelerator Alliance, Citibank / USAID’ 2012, .
 
 [^13]: See, for example, CGAP’s various blogs about merchant payments,
     including branchless banking in Brazil,
-    [*http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants*](footer1.xml).
+    [http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants](footer1.xml).
 
 [^14]: Espelencia Baptiste, Heather A. Horst, and Erin B. Taylor,
     *Haitian Monetary Ecologies and Repertoires: A Qualitative Snapshot
@@ -672,7 +672,7 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     IMTFI, 2010.
 
 [^15]: This estimate is given by Fonkoze on their website,
-    [*http://www.fonkoze.org/why-it-matters/key-statistics/*](fontTable.xml).
+    [http://www.fonkoze.org/why-it-matters/key-statistics/](fontTable.xml).
 
 [^16]: See Baptiste, Horst and Taylor 2010; Taylor and Horst 2014.
 
@@ -684,7 +684,7 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     [http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&commentId=4920407%3AComment%3A78008&xg\_source=activity](http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&commentId=4920407%3AComment%3A78008&xg\_source=activity).
 
 [^19]: See
-    [*http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm*](http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm).
+    [http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm](http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm).
 
 [^20]: Ignacio Mas and Dan Radcliffe, ‘Scaling Mobile Money’, Bill &
     Melinda Gates Foundation, 2010,
@@ -693,28 +693,28 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 [^21]: Haiti Mobile Money Initiative/HIFIVE, ‘Awards Grant to Mercy
     Corps to expand Mobile Money Services in Rural Areas’, Press
     release, 27 October 2010,
-    [*http://www.microlinks.org/ev\_en.php?ID=46502\_201&ID2=DO\_TOPIC*](http://www.microlinks.org/ev_en.php?ID=46502_201&ID2=DO_TOPIC).
+    [http://www.microlinks.org/ev\_en.php?ID=46502\_201&ID2=DO\_TOPIC](http://www.microlinks.org/ev_en.php?ID=46502_201&ID2=DO_TOPIC).
 
 [^22]: See
-    [*http://kdid.org/projects/field-support/hifive/hmmi*](http://kdid.org/projects/field-support/hifive/hmmi).
+    [http://kdid.org/projects/field-support/hifive/hmmi](http://kdid.org/projects/field-support/hifive/hmmi).
 
 [^23]: See
-    [*http://www.digicelhaiti.com/assets/uploads/Active\_Agent\_List.pdf*](http://www.digicelhaiti.com/assets/uploads/Active_Agent_List.pdf).
+    [http://www.digicelhaiti.com/assets/uploads/Active\_Agent\_List.pdf](http://www.digicelhaiti.com/assets/uploads/Active_Agent_List.pdf).
 
 [^24]: ‘Mobile wallets help Haitians rebuild’, *Mercy Corps*, 3 August
     2011,
-    [*http://www.mercycorps.org/articles/haiti/mobile-wallets-help-haitians-rebuild*](http://www.mercycorps.org/articles/haiti/mobile-wallets-help-haitians-rebuild);
+    [http://www.mercycorps.org/articles/haiti/mobile-wallets-help-haitians-rebuild](http://www.mercycorps.org/articles/haiti/mobile-wallets-help-haitians-rebuild);
     see USAID for World Vision’s involvement,
-    [*http://www.usaid.gov/news-information/fact-sheets/haiti-mobile-money-initiative*](http://www.usaid.gov/news-information/fact-sheets/haiti-mobile-money-initiative).
+    [http://www.usaid.gov/news-information/fact-sheets/haiti-mobile-money-initiative](http://www.usaid.gov/news-information/fact-sheets/haiti-mobile-money-initiative).
 
 [^25]: Bill & Melinda Gates Foundation/Dalberg,‘Haiti Mobile Money: A
     Point-In-Time Case Study’,
-    [*http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2012/05/Haiti-Mobile-Money.pdf*](http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2012/05/Haiti-Mobile-Money.pdf).
+    [http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2012/05/Haiti-Mobile-Money.pdf](http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2012/05/Haiti-Mobile-Money.pdf).
 
 [^26]: ‘Helping Ti Manman Cheri in Haiti: Offering Mobile Money-Based
     Government-to-Person Payments in Haiti’, *Bankable Frontier
     Associates for CGAP*, July 2013,
-    [*http://www.cgap.org/sites/default/files/eg2p\_Haiti.pdf*](http://www.cgap.org/sites/default/files/eg2p_Haiti.pdf).
+    [http://www.cgap.org/sites/default/files/eg2p\_Haiti.pdf](http://www.cgap.org/sites/default/files/eg2p_Haiti.pdf).
 
 [^27]: C.K. Prahalad, *The Fortune at the Bottom of the Pyramid:
     Eradicating Poverty Through Profits*, Revised and Updated 5th
@@ -740,7 +740,7 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     2006.
 
 [^31]: Privacy is also a growing issue, especially in cases where people
-    must supply biometric information to register for financial products
+    must supply biometric information to register for financial products.
 
 [^32]: Anke Schwittay, ‘The Marketization of Poverty’, *Current
     Anthropology* 52.3 (2011): 71-82.

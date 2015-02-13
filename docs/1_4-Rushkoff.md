@@ -356,12 +356,12 @@ Wolk, D. ‘Future of Open Source: Collaborative Culture’, *Wired*, June
 <http://www.wired.com/dualperspectives/article/news/2009/06/dp_opensource_wired0616>.
 
 Young, Robert. ‘Giving it Away: How Red Hat Software Stumbled Across a
-New Economic Model and Helped Improve an Industry’, in 
+New Economic Model and Helped Improve an Industry’, in Chris DiBona, Sam Ockman, and Mark Stone (eds), *Open Sources: Voices from the Open Source Revolution*, Sebastopol: O’Reilly, 1999.
 
 
 [^1]: Robert Young, ‘Giving it Away: How Red Hat Software Stumbled
     Across a New Economic Model and Helped Improve an Industry’, in
-    Chris DiBona, Sam Ockman, and Mark Stone (eds) *Open Sources: Voices
+    Chris DiBona, Sam Ockman, and Mark Stone (eds), *Open Sources: Voices
     from the Open Source Revolution,* Sebastopol, Ca.: O’ Reilly, 1999,
     p. 118.
 
@@ -425,7 +425,7 @@ New Economic Model and Helped Improve an Industry’, in
     [http://www.wired.com/wired/archive/11.11/opensource.html](http://www.wired.com/wired/archive/11.11/opensource.html).
 
 [^21]: D. Wolk, ‘Future of Open Source: Collaborative Culture’*, Wired*
-    (June 2009):
+    (June 2009),
     [http://www.wired.com/dualperspectives/article/news/2009/06/dp\_opensource\_wired0616](http://www.wired.com/dualperspectives/article/news/2009/06/dp\_opensource\_wired0616).
 
 [^22]: Eric S. Raymond, *Cathedral and Bazaar,* Cambridge, MA: O’

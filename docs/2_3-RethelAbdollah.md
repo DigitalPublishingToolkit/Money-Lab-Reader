@@ -553,7 +553,7 @@ prepared for J. Pollard and R. Martin (eds) *Handbook of the Geographies
 of Money and Finance*, Cheltenham: Edward Elgar, 2016.
 
 Rice, G. ‘Islamic ethics and the implications for business’, *Journal of
-Business Ethics* 18.4 (1999): 345-358
+Business Ethics* 18.4 (1999): 345-358.
 
 Sen, A.K. *Money and Value: On the Ethics and Economics of Finance*
 [Denaro e Valore: Etica ed Economia della Finanza], Rome: Bank of Italy,

@@ -782,7 +782,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 
 [^25]: International Finance Corporation (IFC), ‘Mobile Money Study
-    2011’, (http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES)[http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES].
+    2011’, <http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES>.
 
 [^26]: Describing a pre-computational banking period from 1864-1945,
     Batis-Lazo and Wood demonstrated the necessity of trust

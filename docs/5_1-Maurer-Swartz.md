@@ -407,8 +407,7 @@ Warner, Michael, *The Letters of the Republic: Publication and the
 Public Sphere in Eighteenth-Century America*, Cambridge, MA: Harvard
 Univ. Press, 1992.
 
-Zelizer, Viviana A. *The Social Meaning of Money*, Princeton: Princeton
-University Press, 1994.
+Zelizer, Viviana A. *The Social Meaning of Money*, Princeton: Princeton University Press, 1994.
 
 [^1]: Marcel Mauss, *The Gift: The Form and Reason for Exchange in
     Archaic Societies*, New York: W.W. Norton & Co., 1954.

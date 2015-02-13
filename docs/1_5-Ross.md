@@ -449,7 +449,7 @@ not be applied in a way that would produce some hard numbers:
 
 Admati, Anat and Martin Hellwig. *The Bankers’ New Clothes: What’s Wrong
 with Banking and What to Do About It*, Princeton: Princeton University
-Press, 2013, p. 2.
+Press, 2013.
 
 Chesnais, François. *Les dettes illégitimes: Quand les banques font
 main basse sur les politiques publiques*, Paris: Liber, 2012.
@@ -512,7 +512,7 @@ Books, 2014.
 
 [^2]: Many of the arguments, and a good deal of the content, for this
     article are drawn from Andrew Ross, *Creditocracy and the Case for
-    Debt Refusal*, OR Books, 2014. Available at:
+    Debt Refusal*, OR Books, 2014. Available at
     [http://www.orbooks.com/catalog/creditocracy/](http://www.orbooks.com/catalog/creditocracy/).
 
 [^3]: Jeff Madrick, ‘A Bit of Good News’, *Harper’s*, April 2013:
