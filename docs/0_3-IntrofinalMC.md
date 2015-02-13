@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Introduction to the MoneyLab Reader
+# MoneyLab: Sprouting New Digital-Economic Forms
 
 ### Geert Lovink and Nathaniel Tkacz {.author}
  

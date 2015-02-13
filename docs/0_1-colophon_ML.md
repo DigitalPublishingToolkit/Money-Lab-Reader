@@ -133,7 +133,7 @@ When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to t
 
 **Geert Lovink and Nathaniel Tkacz**
 
-Welcome to MoneyLab 
+MoneyLab: Sprouting New Digital-Economic Forms
 
 THE LONG GAME
 
@@ -416,6 +416,8 @@ anthropologist, he conducts research on money and finance, focusing on
 the technological infrastructures and social relations of exchange and
 payment.
 
+**Rachel O’Dwyer**  is a post-doctoral researcher and lecturer in the School of Computer Science in Trinity College Dublin. She is the leader of the Dublin Art and Technology Association (www.data.ie) and the initiator and lead curator of Openhere, a festival and conference on the digital commons. She writes about digital media, political economy of communications, and media art and culture.
+
 **Pekka Piironen** a Finnish economic and strategy theorist, known
 for his theory of the collective pledge and biopolitics of firms. He is
 a founding member of Robin Hood Asset Management Cooperative and the
@@ -467,6 +469,8 @@ University of Glasgow. She is an award-winning film producer and
 academic, who writes about crowdfunding, creative industries,
 documentary film production, and digital distribution and delivery of
 audiovisual content.
+
+**Lana Swartz** is a PhD candidate at the Annenberg School of Communication and Journalism, University of Southern California. Most of her research is about money and other regimes of value and its transfer.
 
 **Erin B. Taylor** is an economic anthropologist who researches money,
 poverty and material culture. She is the author of *Materializing
