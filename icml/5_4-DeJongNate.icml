@@ -86,7 +86,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Eduard de Jong, Nathaniel Tkacz and Pablo Velasco</Content>
+    <Content>Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -143,7 +143,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>‘How DigiCash Blew Everything’], January 1999,</Content>
+          <Content>‘How DigiCash Blew Everything’, January 1999, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://cryptome.org/jya/digicrash.htm</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -279,7 +287,15 @@
           <Content>,</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> September 1999,</Content>
+          <Content> September 1999, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.itas.kit.edu/pub/v/1999/boua99b.pdf</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -290,7 +306,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A year later, Mondex followed. Initiated by the cryptographer David Everett, who worked at NatWest bank at the time, Mondex, like e-Cash and Danmønt, used an exchange of messages to transfer a value. The Mondex team started building a system with technology that had already been patented in 1990 by Tim Jones and Graham Higgins, who refer in their patent application to Chaum’s ideas. In the Mondex scheme a secure computer acted as ‘originator’, one per country, to create units of electronic cash, which were then sold for traditional currency to ‘issuers’ (banks) that could sell them – again, in exchange for traditional currency – to final Mondex users. A transaction between two users was validated by secret keys and algorithms stored on the smart cards held by each user. Electronic money received by an end user could only be exchanged back to legal tender by transferring it back to an issuer. The Mondex originator, its issuers and end users all used the same basic security protocol to transfer value, with the issuers expected to deploy racks filled with smart cards. According to de Jong, the fully off-line security provided a potential fatal security weakness. Mondex was put to a consumer test in July 1995 in Swindon, U.K.. McDonald's, BP, Sainsbury's, and other major retailers were involved in the test.</Content>
+    <Content>A year later, Mondex followed. Initiated by the cryptographer David Everett, who worked at NatWest bank at the time, Mondex, like e-Cash and Danmønt, used an exchange of messages to transfer a value. The Mondex team started building a system with technology that had already been patented in 1990 by Tim Jones and Graham Higgins, who refer in their patent application to Chaum’s ideas. In the Mondex scheme a secure computer acted as ‘originator’, one per country, to create units of electronic cash, which were then sold for traditional currency to ‘issuers’ (banks) that could sell them – again, in exchange for traditional currency – to final Mondex users. A transaction between two users was validated by secret keys and algorithms stored on the smart cards held by each user. Electronic money received by an end user could only be exchanged back to legal tender by transferring it back to an issuer. The Mondex originator, its issuers and end users all used the same basic security protocol to transfer value, with the issuers expected to deploy racks filled with smart cards. According to de Jong, the fully off-line security provided a potential fatal security weakness. Mondex was put to a consumer test in July 1995 in Swindon, U.K., McDonald's, BP, Sainsbury's, and other major retailers were involved in the test.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -350,13 +366,21 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Peter L-, ‘Mondex’, in </Content>
+          <Content>Peter Landrock, ‘Mondex’, in Henk C.A. van Tilborg (ed.) </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Encyclopedia of Cryptography and Security</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> (ed.) Henk C.A. van Tilborg, Berlin and Heidelberg: Springer, 2005, p. 394,</Content>
+          <Content>, Berlin and Heidelberg: Springer, 2005, p. 394, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -382,7 +406,7 @@
           <Content>FM 2006: Formal Methods</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Lecture Notes in Computer Science 4085, Berlin and Heidelberg: Springer 2006, pp.</Content>
+          <Content>, Lecture Notes in Computer Science 4085, Berlin and Heidelberg: Springer, 2006, pp. 16-31.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -433,7 +457,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Getting ‘PIN&amp;Chip’ (as the use of smart card in point-of-sale payments became known) introduced took a full decade. As a migration from magstripe cards, smart cards did not fundamentally alter the centralized model of banking. This banking model is a known as a ledger system, where the actual transfer of value does not take place at the point of interaction between payer and payee but rather through the administrative action of an intermediary. The word ‘ledger’ comes from the large flat books that banks traditionally used to keep records of the financial transactions they performed for their customers.</Content>
+    <Content>Getting ‘PIN&amp;Chip’ (as the use of smart card in point-of-sale payments became known) introduced took a full decade. As a migration from magstripe cards, smart cards did not fundamentally alter the centralized model of banking. This banking model is known as a ledger system, where the actual transfer of value does not take place at the point of interaction between payer and payee but rather through the administrative action of an intermediary. The word ‘ledger’ comes from the large flat books that banks traditionally used to keep records of the financial transactions they performed for their customers.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -453,7 +477,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>While interest in smart cards for banking settled on deploying PIN&amp;Chip, another application of a ledger-based smart card system had been enjoying huge successes. The telecommunication industry had focused its attention on smart cards to use in the then emerging mobile telephony industry. To support mobile telephony the Telecommunications Commission of the CEPT (Conférence Européenne des Postes et Télécommunications) had created a standardization group, GSM (Groupe Spéciale Mobile, and later renamed as Global System for Mobile Communications). By 1989, its first phase of specifications were approved based on the ISO standards for card size and communication. Once the European (and later global) standard was developed, phone-embedded GSM smart cards enjoyed a ready-made (phone) market and were very easy to massproduce.</Content>
+    <Content>While interest in smart cards for banking settled on deploying PIN&amp;Chip, another application of a ledger-based smart card system had been enjoying huge successes. The telecommunication industry had focused its attention on smart cards to use in the then emerging mobile telephony industry. To support mobile telephony the Telecommunications Commission of the CEPT (Conférence Européenne des Postes et Télécommunications) had created a standardization group, GSM (Groupe Spéciale Mobile, and later renamed as Global System for Mobile Communications). By 1989, its first phase of specifications were approved based on the ISO standards for card size and communication. Once the European (and later global) standard was developed, phone-embedded GSM smart cards enjoyed a ready-made (phone) market and were very easy to mass produce.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -473,7 +497,7 @@
           <Content>Telecommunications Polic</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 26 (2002): 101-7.</Content>
+          <Content> 26 (2002): 101-107.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -481,7 +505,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>‘What really takes off with smart cards is GSM. There was a made in heaven combination of technologies and that led to the take off of the smart card production. At one point banking would do about 100 million smart cards a year, and there were 3 billion smart cards in phones, per year.’</Content>
+    <Content>‘What really takes off with smart cards is GSM. There was a made-in-heaven combination of technologies and that led to the take off of the smart card production. At one point banking would do about 100 million smart cards a year, and there were 3 billion smart cards in phones, per year.’</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -600,7 +624,7 @@
     <Content>colors</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> exchange, it augments but also colonizes it in various ways. We are dealing with payment when all of the mirco-mediations of exchange are understood as forming a value chain, as comprising a unique political economy. This becoming payment machine of phones partly explains what happened in Kenya with M-Pesa.</Content>
+    <Content> exchange, it augments but also colonizes it in various ways. We are dealing with payment when all of the mirco-mediations of exchange are understood as forming a value chain, as comprising a unique political economy. This process of phones becoming payment machines partly explains what happened in Kenya with M-Pesa.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -633,7 +657,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> September 1999, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.itas.kit.edu/pub/v/1999/boua99b.pdf</Content>
     </CharacterStyleRange>
@@ -652,7 +676,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, New York: Springer, 1983, pp.199-203, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18</Content>
     </CharacterStyleRange>
@@ -691,25 +715,33 @@
     <Content>Telecommunications Policy</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 26 (2002): 101-7.</Content>
+    <Content> 26 (2002): 101-107.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[‘How DigiCash Blew Everything’], January 1999,</Content>
+    <Content>‘How DigiCash Blew Everything’, January 1999, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://cryptome.org/jya/digicrash.htm</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Landrock, Peter. ‘Mondex’,. in </Content>
+    <Content>Landrock, Peter. ‘Mondex’, in Henk C. A. van Tilborg (ed.) </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Encyclopedia of Cryptography and Security</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, Henk C. A. van Tilborg (ed.) New York: Springer, 2005, p. 394, </Content>
+    <Content>, New York: Springer, 2005, p. 394, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262</Content>
     </CharacterStyleRange>
@@ -737,9 +769,9 @@
     <Content>FM 2006: Formal Methods</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, Lecture Notes in Computer Science 4085, Berling and Heidelberg: Springer, 2006, p.16-31, </Content>
+    <Content>, Lecture Notes in Computer Science 4085, Berling and Heidelberg: Springer, 2006, pp. 16-31, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://link.springer.com/chapter/10.1007/11813040_2</Content>
     </CharacterStyleRange>
@@ -751,10 +783,38 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://link.springer.com/chapter/10.1007/11813040_2" Name="link" DestinationURL="http://link.springer.com/chapter/10.1007/11813040_2" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="http://link.springer.com/chapter/10.1007/11813040_2" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-8" Name="http://link.springer.com/chapter/10.1007/11813040_2" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://link.springer.com/chapter/10.1007/11813040_2</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262" Name="link" DestinationURL="http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://cryptome.org/jya/digicrash.htm" Name="link" DestinationURL="http://cryptome.org/jya/digicrash.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://cryptome.org/jya/digicrash.htm" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://cryptome.org/jya/digicrash.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18" Name="link" DestinationURL="http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itas.kit.edu/pub/v/1999/boua99b.pdf" Name="link" DestinationURL="http://www.itas.kit.edu/pub/v/1999/boua99b.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://www.itas.kit.edu/pub/v/1999/boua99b.pdf" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.itas.kit.edu/pub/v/1999/boua99b.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262" Name="link" DestinationURL="http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262" DestinationUniqueKey="1" />
@@ -764,18 +824,18 @@
       <Destination type="object">HyperlinkURLDestination/http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18" Name="link" DestinationURL="http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18" Source="htss-2" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itas.kit.edu/pub/v/1999/boua99b.pdf" Name="link" DestinationURL="http://www.itas.kit.edu/pub/v/1999/boua99b.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="http://www.itas.kit.edu/pub/v/1999/boua99b.pdf" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-2" Name="http://www.itas.kit.edu/pub/v/1999/boua99b.pdf" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.itas.kit.edu/pub/v/1999/boua99b.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://cryptome.org/jya/digicrash.htm" Name="link" DestinationURL="http://cryptome.org/jya/digicrash.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://cryptome.org/jya/digicrash.htm" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://cryptome.org/jya/digicrash.htm</Destination>
     </Properties>
   </Hyperlink>
 </Document>

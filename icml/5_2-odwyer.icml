@@ -128,7 +128,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Jeremy Allaire, ‘Instant, Free and Secure: New Standards for Global Consumer Finance’, Bitfin Conference, Dublin 3-4 July, 2014.</Content>
+          <Content>Jeremy Allaire, ‘Instant, Free and Secure: New Standards for Global Consumer Finance’, Bitfin Conference, Dublin, 3-4 July 2014.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -258,7 +258,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> As the system has scaled up, agents on the ground have come to act as cash-in/cash-out points for the network, transforming paper money into airtime and back again. Alongside these practices, the use of airtime as a form of international remittance is also significant, with companies such as Ezetop and Transferto conducting airtime transfers for more than 350 operators in over 100 countries via the web. The value of these international remittances via mobile phones surpassed $10 billion in 2013.</Content>
+    <Content> As the system has scaled up, agents on the ground have come to act as cash-in/cash-out points for the network, transforming paper money into airtime and back again. Alongside these practices, the use of airtime as a form of international remittance is also significant, with companies such as Ezetop and Transferto conducting airtime transfers for more than 350 operators in over 100 countries via the web. The value of these international remittances via mobile phones surpassed $10 billion U.S. Dollars in 2013.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -502,7 +502,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> They encode geographies of access as well as particular relations of production and property. How will the political economy of mobile network infrastructure – from handsets through to core and radio access infrastructure – shape the geography of access in the mobile payments space and, in turn, the future of money? </Content>
+    <Content> They encode geographies of access as well as particular relations of production and property. How will the political economy of mobile network infrastructure – from handsets through to core and radio access infrastructure – shape the geography of access in the mobile payments space and, in turn, the future of money?</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -549,7 +549,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Andrejevic, ‘Surveillance in the Digital Enclosure’, 2007, p. 304.</Content>
+          <Content>Mark Andrejevic, ‘Surveillance in the Digital Enclosure’, 2007, p. 304.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -694,8 +694,13 @@
           <Content>First Monday</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 14.5 (2009),</Content>
-        </CharacterStyleRange><Br />
+          <Content> 14.5 (2009), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -764,7 +769,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Bill Maurer, ‘Closed Loops and Private Gateways: Money, Technology and the Private Interest in Payment’, MoneyLab Conference, Amsterdam, March 21-22 2014,</Content>
+          <Content>Bill Maurer, ‘Closed Loops and Private Gateways: Money, Technology and the Private Interest in Payment’, MoneyLab Conference, Amsterdam, 21-22 March 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://vimeo.com/90207123</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -820,7 +833,15 @@
           <Content>MIT Technology Review</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 30 November 2011,</Content>
+          <Content>, 30 November 2011, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -842,7 +863,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>International Finance Corporation (IFC), ‘Mobile Money Study 2011’,</Content>
+          <Content>International Finance Corporation (IFC), ‘Mobile Money Study 2011’, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -897,24 +926,52 @@
           <Content> 19.1 (2013).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> It is also obvious in new forms of cryptocurrency such as Ripple and Document Coin that transact on individual reputation and network affiliations.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>or Klint Finley, ‘Document Coin: A New Currency whose Value is Based on your Reputation’, </Content>
+          <Content>See </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://ripple.com</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> or Klint Finley, ‘Document Coin: A New Currency whose Value is Based on your Reputation’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Wired Magazine</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 18 July 2014,</Content>
+          <Content>, 18 July 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.wired.com/2014/07/document-coin/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> It is also obvious in new forms of cryptocurrency such as Ripple and Document Coin that transact on individual reputation and network affiliations.[^28] These rails are never purely instrumental; they are always sociotechnical.</Content>
+    <Content> These rails are never purely instrumental; they are always sociotechnical.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -924,7 +981,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Instead of information and communication technologies supplementing financial operations, telecommunications operators, and particularly those supporting wireless communications, are emerging as veritable financial actors in their own right.</Content>
+    <Content>Instead of information and communication technologies supplementing financial operations, telecommunications operators, and particularly those supporting wireless communications, they are emerging as veritable financial actors in their own right.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -944,8 +1001,13 @@
           <Content>Strategy + Business</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 23 (2001),</Content>
-        </CharacterStyleRange><Br />
+          <Content> 23 (2001), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.strategy-business.com/article/17163?gko=4cda6</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -955,7 +1017,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>While airtime-trading initially existed as a common good (albeit one implemented on proprietary network infrastructures), major industry consortia such as the Global System for Mobile Communications Association (GSMA), and the World Bank’s International Finance Corporation (IFC) are now looking to harness these practices as a means of financial access to the worlds ‘unbanked’ or ‘underbanked’ communities.[^30] According to the GSMA MMU Deployment Tracker, there are currently 246 ‘mobile money’ deployments, with a further 113 planned.</Content>
+    <Content>While airtime-trading initially existed as a common good (albeit one implemented on proprietary network infrastructures), major industry consortia such as the Global System for Mobile Communications Association (GSMA), and the World Bank’s International Finance Corporation (IFC) are now looking to harness these practices as a means of financial access to the worlds ‘unbanked’ or ‘underbanked’ communities.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -969,7 +1031,43 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>MMU Deployment Tracker,</Content>
+          <Content>See </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> According to the GSMA MMU Deployment Tracker, there are currently 246 ‘mobile money’ deployments, with a further 113 planned.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>MMU Deployment Tracker, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-the-unbanked/insights/tracker</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -995,7 +1093,15 @@
           <Content>Mobile Nation</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 25 February 2014,</Content>
+          <Content>, 25 February 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1023,7 +1129,15 @@
           <Content>International Journal of Communication</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 6 (2012); Erin Taylor, ‘Mobile Money and the ‘Social Good’ of Global Financialization’, MoneyLab Conference, Amsterdam, March 21-22 2014,</Content>
+          <Content> 6 (2012); Erin Taylor, ‘Mobile Money and the ‘Social Good’ of Global Financialization’, MoneyLab Conference, Amsterdam, March 21-22 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://vimeo.com/90208804</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1049,7 +1163,15 @@
           <Content>World Bank</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 11 April 2014,</Content>
+          <Content>, 11 April 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1113,8 +1235,13 @@
           <Content>GSMA,</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 19 June 2014,</Content>
-        </CharacterStyleRange><Br />
+          <Content> 19 June 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange><Br />
@@ -1244,13 +1371,21 @@
           <Content>Irish Times</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 14 April 2014,</Content>
+          <Content>, 14 April 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Device manufacturers also have a hand in, with payment solutions forming an integral part of the iPhone 6 and anticipated to replace the magnetic strip interface of the credit card in the near future.</Content>
+    <Content> Device manufacturers also have a hand in it, with payment solutions forming an integral part of the iPhone 6 and anticipated to replace the magnetic strip interface of the credit card in the near future.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1270,7 +1405,15 @@
           <Content>CBSLocal</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 10 September 2014,</Content>
+          <Content>, 10 September 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1452,7 +1595,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 19 January 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money</Content>
     </CharacterStyleRange>
@@ -1548,7 +1691,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 10 September 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/</Content>
     </CharacterStyleRange>
@@ -1600,7 +1743,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 14 April 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908</Content>
     </CharacterStyleRange>
@@ -1619,7 +1762,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 18 July 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.wired.com/2014/07/document-coin/</Content>
     </CharacterStyleRange>
@@ -1685,7 +1828,15 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>International Finance Corporation (IFC). ‘Mobile Money Study 2011’,</Content>
+    <Content>International Finance Corporation (IFC). ‘Mobile Money Study 2011’, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1698,7 +1849,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>. ITU (2012), </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports_SpectrumV alue.pdf</Content>
     </CharacterStyleRange>
@@ -1717,7 +1868,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 28 May 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-29" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://mondato.com/blog/airtime/</Content>
     </CharacterStyleRange>
@@ -1747,7 +1898,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 19 June 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile- money-remains-a-strategic-priority-for-mno-groups</Content>
     </CharacterStyleRange>
@@ -1843,7 +1994,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, Amsterdam, 21-22 March 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://vimeo.com/90207123</Content>
     </CharacterStyleRange>
@@ -1867,7 +2018,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>‘MMU Deployment Tracker’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for- the-unbanked/insights/tracker</Content>
     </CharacterStyleRange>
@@ -1897,7 +2048,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 27 May 2010, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/</Content>
     </CharacterStyleRange>
@@ -1938,7 +2089,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 10 August 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://techcrunch.com/2012/08/18/payment-data-is-more- valuable-than-payment-fees/</Content>
     </CharacterStyleRange>
@@ -1955,8 +2106,13 @@
     <Content>World Bank</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 11 April 2014,</Content>
-  </CharacterStyleRange><Br />
+    <Content> 11 April 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-35" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1968,7 +2124,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 23 (2001), </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-36" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.strategy-business.com/article/17163?gko=4cda6</Content>
     </CharacterStyleRange>
@@ -1987,7 +2143,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 22 June 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-37" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22</Content>
     </CharacterStyleRange>
@@ -2017,7 +2173,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, New York, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-38" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf</Content>
     </CharacterStyleRange>
@@ -2036,7 +2192,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, Amsterdam, 21-22 March 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-39" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://vimeo.com/90208804</Content>
     </CharacterStyleRange>
@@ -2050,9 +2206,9 @@
     <Content>MIT Technology Review</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 30 November 2011 </Content>
+    <Content> 30 November 2011, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-40" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/</Content>
     </CharacterStyleRange>
@@ -2064,115 +2220,234 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/" Name="link" DestinationURL="http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-23" Name="http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/" Source="htss-23" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-40" Name="http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/" Source="htss-40" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://vimeo.com/90208804" Name="link" DestinationURL="http://vimeo.com/90208804" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-22" Name="http://vimeo.com/90208804" Source="htss-22" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-39" Name="http://vimeo.com/90208804" Source="htss-39" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://vimeo.com/90208804</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf" Name="link" DestinationURL="http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-21" Name="http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf" Source="htss-21" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-38" Name="http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf" Source="htss-38" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22" Name="link" DestinationURL="http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-20" Name="http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-37" Name="http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22" Source="htss-37" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.strategy-business.com/article/17163?gko=4cda6" Name="link" DestinationURL="http://www.strategy-business.com/article/17163?gko=4cda6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-19" Name="http://www.strategy-business.com/article/17163?gko=4cda6" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-36" Name="http://www.strategy-business.com/article/17163?gko=4cda6" Source="htss-36" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.strategy-business.com/article/17163?gko=4cda6</Destination>
     </Properties>
   </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb" Name="link" DestinationURL="http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-35" Name="http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb" Source="htss-35" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://techcrunch.com/2012/08/18/payment-data-is-more-valuable-than-payment-fees/" Name="link" DestinationURL="http://techcrunch.com/2012/08/18/payment-data-is-more-valuable-than-payment-fees/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-18" Name="http://techcrunch.com/2012/08/18/payment-data-is-more-valuable-than-payment-fees/" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-34" Name="http://techcrunch.com/2012/08/18/payment-data-is-more-valuable-than-payment-fees/" Source="htss-34" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://techcrunch.com/2012/08/18/payment-data-is-more-valuable-than-payment-fees/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/" Name="link" DestinationURL="http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-17" Name="http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-33" Name="http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/" Source="htss-33" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.theindependent.co.zw/2010/05/27/econet-phone-tokens-used-as-change/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-%09the-unbanked/insights/tracker" Name="link" DestinationURL="http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-%09the-unbanked/insights/tracker" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-%09the-unbanked/insights/tracker" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-32" Name="http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-%09the-unbanked/insights/tracker" Source="htss-32" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-%09the-unbanked/insights/tracker</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://vimeo.com/90207123" Name="link" DestinationURL="http://vimeo.com/90207123" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="http://vimeo.com/90207123" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-31" Name="http://vimeo.com/90207123" Source="htss-31" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://vimeo.com/90207123</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-%09money-remains-a-strategic-priority-for-mno-groups" Name="link" DestinationURL="http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-%09money-remains-a-strategic-priority-for-mno-groups" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-%09money-remains-a-strategic-priority-for-mno-groups" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-30" Name="http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-%09money-remains-a-strategic-priority-for-mno-groups" Source="htss-30" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-%09money-remains-a-strategic-priority-for-mno-groups</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mondato.com/blog/airtime/" Name="link" DestinationURL="http://mondato.com/blog/airtime/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="http://mondato.com/blog/airtime/" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-29" Name="http://mondato.com/blog/airtime/" Source="htss-29" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://mondato.com/blog/airtime/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports_SpectrumV%20alue.pdf" Name="link" DestinationURL="http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports_SpectrumV%20alue.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports_SpectrumV%20alue.pdf" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-28" Name="http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports_SpectrumV%20alue.pdf" Source="htss-28" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports_SpectrumV%20alue.pdf</Destination>
     </Properties>
   </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES" Name="link" DestinationURL="http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-27" Name="http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES" Source="htss-27" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.wired.com/2014/07/document-coin/" Name="link" DestinationURL="http://www.wired.com/2014/07/document-coin/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="http://www.wired.com/2014/07/document-coin/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-26" Name="http://www.wired.com/2014/07/document-coin/" Source="htss-26" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.wired.com/2014/07/document-coin/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908" Name="link" DestinationURL="http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-25" Name="http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908" Source="htss-25" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/" Name="link" DestinationURL="http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-24" Name="http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/" Source="htss-24" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money" Name="link" DestinationURL="http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-23" Name="http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money" Source="htss-23" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/" Name="link" DestinationURL="http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-22" Name="http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/" Source="htss-22" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908" Name="link" DestinationURL="http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-21" Name="http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908" Source="htss-21" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups" Name="link" DestinationURL="http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-20" Name="http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb" Name="link" DestinationURL="http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-19" Name="http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.worldbank.org/en/news/press-release/2014/04/11/remittances-developing-countries-deportations-migrant-workers-wb</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://vimeo.com/90208804" Name="link" DestinationURL="http://vimeo.com/90208804" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-18" Name="http://vimeo.com/90208804" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://vimeo.com/90208804</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html" Name="link" DestinationURL="http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-17" Name="http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://mobile.nation.co.ke/lifestyle/Equity-Bank-seeks-share-of-telco-business-/-/1950774/2220608/-/format/xhtml/-/rbrem7z/-/index.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-the-unbanked/insights/tracker" Name="link" DestinationURL="http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-the-unbanked/insights/tracker" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-16" Name="http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-the-unbanked/insights/tracker" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-the-unbanked/insights/tracker</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked" Name="link" DestinationURL="http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-15" Name="http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.strategy-business.com/article/17163?gko=4cda6" Name="link" DestinationURL="http://www.strategy-business.com/article/17163?gko=4cda6" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-14" Name="http://www.strategy-business.com/article/17163?gko=4cda6" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.strategy-business.com/article/17163?gko=4cda6</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.wired.com/2014/07/document-coin/" Name="link" DestinationURL="http://www.wired.com/2014/07/document-coin/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-13" Name="http://www.wired.com/2014/07/document-coin/" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.wired.com/2014/07/document-coin/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/See%20https://ripple.com" Name="link" DestinationURL="See%20https://ripple.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="See%20https://ripple.com" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/See%20https://ripple.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES" Name="link" DestinationURL="http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/" Name="link" DestinationURL="http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://vimeo.com/90207123" Name="link" DestinationURL="http://vimeo.com/90207123" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://vimeo.com/90207123" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://vimeo.com/90207123</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171" Name="link" DestinationURL="http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf" Name="link" DestinationURL="http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf" DestinationUniqueKey="1" />

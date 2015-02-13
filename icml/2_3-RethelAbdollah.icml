@@ -1197,7 +1197,7 @@
     <Content>Journal of Business Ethics</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 18.4 (1999): 345-358</Content>
+    <Content> 18.4 (1999): 345-358.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1257,7 +1257,15 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>World Exchanges‘Indonesia Stock Exchange’, (no date) available at: .</Content>
+    <Content>World Exchanges‘Indonesia Stock Exchange’, (no date) available at: </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.world-exchanges.org/member-exchanges/key-information-/indonesia-stock-exchange</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1270,7 +1278,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, Kuala Lumpur, 19 September 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.bis.org/review/r120920d.pdf</Content>
     </CharacterStyleRange>
@@ -1282,10 +1290,17 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bis.org/review/r120920d.pdf" Name="link" DestinationURL="http://www.bis.org/review/r120920d.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="http://www.bis.org/review/r120920d.pdf" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-6" Name="http://www.bis.org/review/r120920d.pdf" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.bis.org/review/r120920d.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.world-exchanges.org/member-exchanges/key-information-/indonesia-stock-exchange" Name="link" DestinationURL="http://www.world-exchanges.org/member-exchanges/key-information-/indonesia-stock-exchange" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://www.world-exchanges.org/member-exchanges/key-information-/indonesia-stock-exchange" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.world-exchanges.org/member-exchanges/key-information-/indonesia-stock-exchange</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.mei.edu/content/socializing-islamic-capital-market-products-through-public-education-events-case-indonesia" Name="link" DestinationURL="http://www.mei.edu/content/socializing-islamic-capital-market-products-through-public-education-events-case-indonesia" DestinationUniqueKey="1" />

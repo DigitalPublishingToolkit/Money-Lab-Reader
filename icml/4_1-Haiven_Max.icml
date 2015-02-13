@@ -112,7 +112,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> First, for an object to serve as money, it must be universally and consistently accepted in a given geographic or economic area, like a nation. It wouldn’t do much good if the money one received from one’s employer was only accepted in some stores, or if it had wildly different values in different sorts of establishments. Second, such an object must serve as a unit of account; that is, it has to be something than can be stored, in the abstract, in bank accounts or be listed and manipulated in purely numerical terms. It seems obvious, but for this to work, money needs to be a unique, uniform, and multipliable thing, something whose value is measured in quantity rather than quality. So in prisons, cigarettes are often used as currencies because they’re fairly identical, and you can owe your cellmate a certain hypothetical number of them in the future. Finally, money needs to work as a store of value, to (by and large) hold its worth over time. So cheesecakes, while delicious, wouldn't work as currencies (even if everyone were to accept them) because they lose their value relatively quickly as they age.</Content>
+    <Content> First, for an object to serve as money, it must be universally and consistently accepted in a given geographic or economic area, like a nation. It wouldn’t do much good if the money one received from one’s employer was only accepted in some stores, or if it had wildly different values in different sorts of establishments. Second, such an object must serve as a unit of account; that is, it has to be something than can be stored, in the abstract, in bank accounts or be listed and manipulated in purely numerical terms. It seems obvious, but for this to work, money needs to be a unique, uniform, and multipliable thing, something whose value is measured in quantity rather than quality. So in prisons, cigarettes are often used as currencies because they’re fairly identical, and you can owe your cellmate a certain hypothetical number of them in the future. Finally, money needs to work as a store of value, to (by and large) hold its worth over time. So cheesecakes, while delicious, wouldn’t work as currencies (even if everyone were to accept them) because they lose their value relatively quickly as they age.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -133,7 +133,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As I will argue in this chapter, today a great volume of contemporary artistic production addresses precisely these contradictions and political-economic riddles by mobilizing money (bills, coins, credit cards, etc.) as a medium of creative expression, often in profound and potentially transformative ways. For instance, J.S.G. Boggs, perhaps the best known ‘money artist’, has sustained a three-decades long practice focused on drafting painstakingly precise, one of a kind pen and ink ‘copies’ of actual banknotes.</Content>
+    <Content>I will argue that today a great volume of contemporary artistic production addresses precisely these contradictions and political-economic riddles by mobilizing money (bills, coins, credit cards, etc.) as a medium of creative expression, often in profound and potentially transformative ways. For instance, J.S.G. Boggs, perhaps the best known ‘money artist’, has sustained a three-decades long practice focused on drafting painstakingly precise, one of a kind pen and ink ‘copies’ of actual banknotes.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -416,7 +416,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In a nutshell, Marx, like many economists of his day, was interested in money as chief among many commodities. Commodities are things bought and sold in a capitalist economy, from a banana to an iPod, to an hour of a massage therapist’s labor, to a piece of art. Importantly, all these commodities are, in reality, the solidifications of workers’ labor. The value of any commodity ultimately boils down to how much human time and energy was invested in creating it and bringing it to market. The exchange of commodities takes place through one super-commodity, money, which fulfills the three ‘qualities’ listed above: widespread acceptability and convenience, uniformity for abstract mathematical manipulation, and durability of value.</Content>
+    <Content>In a nutshell, Marx, like many economists of his day, was interested in money as chief among many commodities. Commodities are things bought and sold in a capitalist economy, from a banana to an iPod, to an hour of a massage therapist’s labor, to a piece of art. Importantly, all these commodities are, in reality, the solidifications of workers’ labor. The value of any commodity ultimately boils down to how much human time and energy was invested in creating it and bringing it to market. The exchange of commodities takes place through one super-commodity (money) which fulfills the three ‘qualities’ listed above: widespread acceptability and convenience, uniformity for abstract mathematical manipulation, and durability of value.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -475,7 +475,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> But Marx was keen to show that this bucolic fantasy was far from reality, a reality in which the European economy of his day was built on the unfree labor of enslaved people, colonized populations, and indentured servants, and in which even nominally ‘free’ laborers were not producing for their own benefit.</Content>
+    <Content> But Marx was keen to show that this bucolic fantasy was far from reality; a reality in which the European economy of his day was built on the unfree labor of enslaved people, colonized populations, and indentured servants, and in which even nominally ‘free’ laborers were not producing for their own benefit.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -560,7 +560,7 @@
     <Content>Disasters of War</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>). Plenty of other artists have been tempted by the symbolic potential of shredded money, a material available in the from Federal Reserve Bank locations in the United States, the byproduct of the destruction of decommissioned bills. The appeal of money collage perhaps stems from the acceleration of money’s circulation today and the terrifying alacrity and intensity with which it decomposes and recomposes the fragmented social world. In using shredded or disassembled currency to create a new, synthetic image, an artificially intelligible totality, these works, regardless of their content, hover between utopia and dystopia.</Content>
+    <Content>). Plenty of other artists have been tempted by the symbolic potential of shredded money, a material available from Federal Reserve Bank locations in the United States, the byproduct of the destruction of decommissioned bills. The appeal of money collage perhaps stems from the acceleration of money’s circulation today and the terrifying alacrity and intensity with which it decomposes and recomposes the fragmented social world. In using shredded or disassembled currency to create a new, synthetic image, an artificially intelligible totality, these works, regardless of their content, hover between utopia and dystopia.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -856,7 +856,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> In either case, by consecrating or desecrating money as either angelic or demonic, politics, policy, and the political imagination are constrained to developing more sophisticated and expert-driven ways of managing money. Such a political imaginary is certainly not limited to the armature of Keynesian or, later, Monetarist economics, which have been ascendant since the end of the Second World War, an approach which sees the control of the supply and flow of money and, hence, economic life, as the paternal responsibility of the modern state. Throughout modern history states and empires have sought to either protect society from money, or, conversely, protect money from society. This approach is so deeply stitched in to our political imagination that the vast majority of mainstream political ideologies really boil down to how governments ought to deal with the problem of money.</Content>
+    <Content> In either case, by consecrating or desecrating money as either angelic or demonic, politics, policy, and the political imagination are constrained to developing more sophisticated and expert-driven ways of managing money. Such a political imagination is certainly not limited to the armature of Keynesian or, later, Monetarist economics, which have been ascendant since the end of the Second World War, an approach which sees the control of the supply and flow of money and, hence, economic life, as the paternal responsibility of the modern state. Throughout modern history states and empires have sought to either protect society from money, or, conversely, protect money from society. This approach is so deeply stitched in to our political imagination that the vast majority of mainstream political ideologies really boil down to how governments ought to deal with the problem of money.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1394,7 +1394,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>C.L.R. James, ‘They Showed the Way to Labor Emancipation: On Karl</Content>
+          <Content>C.L.R. James, ‘They Showed the Way to Labor Emancipation: On Karl Marx and the 75th Anniversary of the Paris Commune’ (1946), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1407,7 +1415,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>But while Marx was no doubt pleased (he loathed Napoleon III and the bourgeoisie who fawned over him), he also bemoaned the fact that, in their penchant for symbolic, celebratory gestures and spectacles, the Commune failed to seize the Bank of France. Arguably, Marx was not only frustrated that this denied the Commune the funds it desperately needed (for it was also true that the sanctity of the Bank of France was needed if the Commune was to secure loans into the future), oversight was symptomatic of a flaw in the Commune as a whole. As Engels wrote in his preface to a new posthumous edition of Marx’s writings on the Commune, twenty years later:</Content>
+    <Content>But while Marx was no doubt pleased (he loathed Napoleon III and the bourgeoisie who fawned over him), he also bemoaned the fact that, in their penchant for symbolic, celebratory gestures and spectacles, the Commune failed to seize the Bank of France. Arguably, Marx was not only frustrated that this denied the Commune the funds it desperately needed (for it was also true that the sanctity of the Bank of France was needed if the Commune was to secure loans into the future), this oversight was symptomatic of a flaw in the Commune as a whole. As Engels wrote in his preface to a new posthumous edition of Marx’s writings on the Commune, twenty years later:</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -1445,7 +1453,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whether Marx was correct or incorrect about the short-lived but inspiring Commune, the contrast between the Vendôme Column and the Bank of France is still very much with us today in any discussion of the politics of money, imagination, art, and alternatives to capitalism. To my mind, all too often both artists and activists become captivated by the symbolic victory: a brilliant performance reveals money’s imaginary or, better, imaginative quality; a new alternative currency promises to create a system of fairer, more equitable exchange. The enthusiasm for Bitcoin is a case in point: its advocates are committed to their imagining of it as a means to ‘correct’ capitalism’s flaws, a way to circumvent and outmaneuver the oligarchy of corporations and the complicity of governments. It is this sense a symbolic blow against the old regime. Yet plans for actually making Bitcoin or other cryptocurrencies into a means to vitally and fundamentally transform the relations of production under capitalism are much more shaky. More comforting to assume that if the grammar of money itself can be changed, the whole language and imaginary of society will follow. Yet in the absence of either a strong regulatory state or powerful workers’ movements, there is little to prevent Bitcoin from becoming the lingua franca of a new capitalist order or corporate oligarchy.</Content>
+    <Content>Whether Marx was correct or incorrect about the short-lived but inspiring Commune, the contrast between the Vendôme Column and the Bank of France is still very much with us today in any discussion of the politics of money, imagination, art, and alternatives to capitalism. To my mind, all too often both artists and activists become captivated by the symbolic victory: a brilliant performance reveals money’s imaginary or, better, imaginative quality; a new alternative currency promises to create a system of fairer, more equitable exchange. The enthusiasm for Bitcoin is a case in point: its advocates are committed to their imagining of it as a means to ‘correct’ capitalism’s flaws, a way to circumvent and outmaneuver the oligarchy of corporations and the complicity of governments. It is this sense a symbolic blow against the old regime. Yet plans for actually making Bitcoin or other cryptocurrencies into a means to vitally and fundamentally transform the relations of production under capitalism are much more shaky. More comforting to assume that if the grammar of money itself can be changed, the whole language and imagination of society will follow. Yet in the absence of either a strong regulatory state or powerful workers’ movements, there is little to prevent Bitcoin from becoming the lingua franca of a new capitalist order or corporate oligarchy.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1471,6 +1479,17 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Angelis, Massimo De. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Beginning of History: Value Struggles and Global Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London and Ann Arbor, MI: Pluto, 2007.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Balibar, Etienne. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1490,7 +1509,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 27 July 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html</Content>
     </CharacterStyleRange>
@@ -1512,17 +1531,6 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bishop, Claire. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Artificial Hells: Participatory Art and the Politics of Spectatorship</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, London and New York: Verso, 2012.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Beuys, Joseph et al. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1530,6 +1538,17 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, West Hoathly, UK: Clairview, 2010.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bishop, Claire. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Artificial Hells: Participatory Art and the Politics of Spectatorship</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London and New York: Verso, 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1552,17 +1571,6 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, Cambridge, UK and Malden, MA: Polity, 2010.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>De Angelis, Massimo. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>The Beginning of History: Value Struggles and Global Capitalism</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, London and Ann Arbor, MI: Pluto, 2007.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1635,7 +1643,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>James, C.L.R. ‘They Showed the Way to Labor Emancipation: On Karl Marx and the 75th Anniversary of the Paris Commune’ (1946), </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm</Content>
     </CharacterStyleRange>
@@ -1676,7 +1684,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm</Content>
     </CharacterStyleRange>
@@ -1816,7 +1824,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 6.2 (2011), </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf</Content>
     </CharacterStyleRange>
@@ -1872,31 +1880,38 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" Name="link" DestinationURL="capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-12" Name="capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm" Name="link" DestinationURL="http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-11" Name="http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm" Name="link" DestinationURL="https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-10" Name="https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html" Name="link" DestinationURL="http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-9" Name="http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm" Name="link" DestinationURL="https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cassiethornton.com/." Name="link" DestinationURL="http://www.cassiethornton.com/." DestinationUniqueKey="1" />

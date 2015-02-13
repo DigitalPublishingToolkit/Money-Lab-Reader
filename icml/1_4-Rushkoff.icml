@@ -100,7 +100,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Robert Young, ‘Giving it Away: How Red Hat Software Stumbled Across a New Economic Model and Helped Improve an Industry’, in Chris DiBona, Sam Ockman, and Mark Stone (eds) </Content>
+          <Content>Robert Young, ‘Giving it Away: How Red Hat Software Stumbled Across a New Economic Model and Helped Improve an Industry’, in Chris DiBona, Sam Ockman, and Mark Stone (eds), </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Open Sources: Voices from the Open Source Revolution,</Content>
@@ -525,7 +525,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Tim O’ Reilly, ‘The Open Source Paradigm Shift’, in Chris DiBona, Danese Cooper, and Mark Stone (eds) </Content>
+          <Content>Tim O’ Reilly, ‘The Open Source Paradigm Shift’, in Chris DiBona, Danese Cooper, and Mark Stone (eds), </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Open Sources 2.0,</Content>
@@ -556,7 +556,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>For the history of Open Source, told by an assortment of its early participants, see DiBona, Ockman and Stone, 1999.</Content>
+          <Content>For the history of Open Source, told by an assortment of its early participants, see DiBona, Ockman and Stone (eds), </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Open Sources: Voices from the Open Source Revolution</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 1999.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -709,7 +715,7 @@
           <Content>, Wired</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> (June 2009): </Content>
+          <Content> (June 2009), </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
@@ -1005,6 +1011,17 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>DiBona Chris, Sam Ockman and Mark Stone (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Open Sources: Voices from the Open Source Revolution</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Sebastopol: O’Reilly, 1999.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Frank, Thomas. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1057,17 +1074,6 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Lietaer, Bernard A. and Stephen M. Belgin. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Of Human Wealth: Beyond Greed &amp; Scarcity,</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Boulder, CO: Human Wealth Books and Talks, 2004.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Huizinga, Johan. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1079,13 +1085,13 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>De Mul, Jos. ‘The Game of Life: Narrative and Ludic Identity Formation in Computer Games,’ in Joost Raessnes and Jeffrey Goldstein (eds) </Content>
+    <Content>Lietaer, Bernard A. and Stephen M. Belgin. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Handbook of Computer Game Studies</Content>
+    <Content>Of Human Wealth: Beyond Greed &amp; Scarcity,</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, Cambridge: MIT Press, 2005.</Content>
+    <Content> Boulder, CO: Human Wealth Books and Talks, 2004.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1097,6 +1103,17 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Munich: Riemann Verlag, 2000.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mul, Jos de. ‘The Game of Life: Narrative and Ludic Identity Formation in Computer Games,’ in Joost Raessnes and Jeffrey Goldstein (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Handbook of Computer Game Studies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: MIT Press, 2005.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1145,10 +1162,10 @@
     <Content>Raymond, Eric S. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Cathedral and Bazaar,</Content>
+    <Content>Cathedral and Bazaar</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Cambridge, MA: O’Reilly, 2001.</Content>
+    <Content>, Cambridge, MA: O’Reilly, 2001.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1167,10 +1184,10 @@
     <Content>Rushkoff, Douglas. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Get Back in the Box,</Content>
+    <Content>Get Back in the Box</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> New York: Collins, 2005.</Content>
+    <Content>, New York: Collins, 2005.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1178,10 +1195,10 @@
     <Content>Rushkoff, Douglas. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Media Virus.</Content>
+    <Content>Media Virus</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> New York: Ballantine Books, 1994.</Content>
+    <Content>. New York: Ballantine Books, 1994.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1199,10 +1216,10 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Wolk, D. ‘Future of Open Source: Collaborative Culture’</Content>
+    <Content>Wolk, D. ‘Future of Open Source: Collaborative Culture’, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>, Wired</Content>
+    <Content>Wired</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, June 2009, </Content>
@@ -1218,13 +1235,13 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Young, Robert. ‘Giving it Away: How Red Hat Software Stumbled Across a New Economic Model and Helped Improve an Industry’, in Chris DiBona, Sam Ockman, and Mark Stone (eds) </Content>
+    <Content>Young, Robert. ‘Giving it Away: How Red Hat Software Stumbled Across a New Economic Model and Helped Improve an Industry’, in Chris DiBona, Sam Ockman, and Mark Stone (eds), </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Open Sources: Voices from the Open Source Revolution,</Content>
+    <Content>Open Sources: Voices from the Open Source Revolution</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Sebastopol: O’Reilly, 1999.</Content>
+    <Content>, Sebastopol: O’Reilly, 1999.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 

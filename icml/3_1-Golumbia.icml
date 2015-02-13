@@ -122,7 +122,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> For some technologies and in some contexts, this kind of dynamic can be hard to see, and the apparently common-sense insistence that technologies develop autonomously, as it were, continually urges us to reject the idea that technologies might be in part or even largely social constructions, even when the technologies themselves, as we see in so much promotion of computational devices and methods today, are advertised as having socially beneficial effects. Technologies are neutral, this view seems to suggests, when human beings use them for ends we (whoever ‘we’ are) don’t like; they are socially embedded and the result of democratic or social power (as determined, almost exclusively, by markets or market-like aggregations) when they are used for ‘good’ purposes (again, </Content>
+    <Content> For some technologies and in some contexts, this kind of dynamic can be hard to see, and the apparently common-sense insistence that technologies develop autonomously, as it were, continually urges us to reject the idea that technologies might be in part or even largely social constructions. This is the case even when the technologies themselves, as we see in so much promotion of computational devices and methods today, are advertised as having socially beneficial effects. Technologies are neutral, this view seems to suggests, when human beings use them for ends we (whoever ‘we’ are) don’t like; they are socially embedded and the result of democratic or social power (as determined, almost exclusively, by markets or market-like aggregations) when they are used for ‘good’ purposes (again, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>pace</Content>
@@ -133,7 +133,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bitcoin (along with the other distributed ledger cryptocurrencies of which it is the best-known and most widely-used exponent) provides us with an unusually pointed example of the relationship between the social and the technical; for unlike many technologies about which scholars write, Bitcoin is not a technology that fails, either altogether due to errant premises (e.g. cold fusion) or, in part, due to social pressures (e.g. the Betamax videocassette format). Bitcoin is a technology that </Content>
+    <Content>Bitcoin (along with the other distributed ledger cryptocurrencies of which it is the best-known and most widely-used exponent) provides us with an unusually pointed example of the relationship between the social and the technical; for unlike many technologies critiqued by scholars, Bitcoin is not a technology that fails, either altogether due to errant premises (e.g. cold fusion) or, in part, due to social pressures (e.g. the Betamax videocassette format). Bitcoin is a technology that </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>works</Content>
@@ -453,7 +453,15 @@
           <Content>Infowars.com</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 29 December 2013,</Content>
+          <Content>, 29 December 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -493,7 +501,15 @@
           <Content>The New York</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Times, 21 January 2014,</Content>
+          <Content> Times, 21 January 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -519,7 +535,23 @@
           <Content>SSRN</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 1 April 2014, Paul Davidson, ‘Is Bitcoin “Money”? The Post-Keynesian View’, </Content>
+          <Content>, 1 April 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>; Paul Davidson, ‘Is Bitcoin “Money”? The Post-Keynesian View’, Real-World Economics Review Blog, 27 November 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://rwer.wordpress.com/2013/11/27/14335/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Paul Davidson, ‘Is Bitcoin “Money”? The Post-Keynesian View’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Real-World Economics Review Blog</Content>
@@ -531,7 +563,15 @@
           <Content>Economist’s View</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 25 December 2013,</Content>
+          <Content>, 25 December 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -557,7 +597,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Yermack, ‘Is Bitcoin a Real Currency?’, concludes that Bitcoin is neither money nor a currency. For Bitcoin advocates dismissing many widely-shared economic principles without offering substantive arguments against them, see, e.g., Bitcoin wiki, ‘Myths’,</Content>
+          <Content>Yermack, ‘Is Bitcoin a Real Currency?’, concludes that Bitcoin is neither money nor a currency. For Bitcoin advocates dismissing many widely-shared economic principles without offering substantive arguments against them, see, e.g., Bitcoin wiki, ‘Myths’, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://en.bitcoin.it/wiki/Myths</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -653,7 +701,15 @@
           <Content>Bloomberg View</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 5 April 2013,</Content>
+          <Content>, 5 April 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -679,7 +735,15 @@
           <Content>Forbes</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 4 October 2012,</Content>
+          <Content>, 4 October 2012, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -731,19 +795,43 @@
           <Content>VICE Motherboard</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 21 March 2013, On the historical fixing of gold prices, see ‘Gold Fix: The London Gold Fix’, </Content>
+          <Content>, 21 March 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. On the historical fixing of gold prices, see ‘Gold Fix: The London Gold Fix’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>BullionVault</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, On the potential implication of gold and silver price fixing in the LIBOR scandal, see Simon Goodley, ‘Could Gold Be the Next LIBOR Scandal?’, </Content>
+          <Content>, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.bullionvault.com/guide/gold/Gold-fix</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. On the potential implication of gold and silver price fixing in the LIBOR scandal, see Simon Goodley, ‘Could Gold Be the Next LIBOR Scandal?’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Guardian</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 13 March 2013,</Content>
+          <Content>, 13 March 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -800,13 +888,21 @@
           <Content>Jews and Money: The Myths and the Reality</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Boston, MA: Ticknor and Fields/Houghton Mifflin, 1982. On the many connections between the Pauls and racist conspiracy theories, see, e.g., ‘Ron Paul Sites Are Obsessed with Jews, Zionists, and Israel’, </Content>
+          <Content>, Boston, MA: Ticknor and Fields/Houghton Mifflin, 1982. On the many connections between the Paul’s and racist conspiracy theories, see, e.g., ‘Ron Paul Sites Are Obsessed with Jews, Zionists, and Israel’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>RonPaulSupporters.com</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 27 December 2011,</Content>
+          <Content>, 27 December 2011, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -832,13 +928,29 @@
           <Content>Economist’s View</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 24 April 2013, on the recent volatility of gold, see Katie Allen, ‘Gold Price Volatility Hits Pawnbroker’s Profits’, </Content>
+          <Content>, 24 April 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. On the recent volatility of gold, see Katie Allen, ‘Gold Price Volatility Hits Pawnbroker’s Profits’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Guardian</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 29 September 2013,</Content>
+          <Content>, 29 September 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -846,7 +958,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Such beliefs require one to ignore the direct evidence of one’s own eyes. Precisely because it is outside of regulatory structures, Bitcoin is particularly prone to the kinds of hoarding, dumping, derivation, and manipulation that characterize all instruments that lack central bank control and regulatory oversight by bodies like the SEC. Contrary to the advocates’ claims, unregulated securities instruments are everywhere in contemporary finance; there is convincing evidence that the inability of the Commodities Futures Trade Commission to establish regulatory authority over CDOs and CMOs is the proximate cause for the economic crisis of 2008.</Content>
+    <Content>Such beliefs require one to ignore the direct evidence before one’s own eyes. Precisely because it is outside of regulatory structures, Bitcoin is particularly prone to the kinds of hoarding, dumping, derivation, and manipulation that characterize all instruments that lack central bank control and regulatory oversight by bodies like the SEC. Contrary to the advocates’ claims, unregulated securities instruments are everywhere in contemporary finance; there is convincing evidence that the inability of the Commodities Futures Trade Commission to establish regulatory authority over CDOs and CMOs is the proximate cause for the economic crisis of 2008.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -866,7 +978,15 @@
           <Content>Frontline</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, October 2009,</Content>
+          <Content>, October 2009, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -892,7 +1012,15 @@
           <Content>Business Insider</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 10 December 2013,</Content>
+          <Content>, 10 December 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -918,13 +1046,29 @@
           <Content>Business Insider</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 4 December 2013, On Mt. Gox, see Pete Rizzo, ‘Tokyo Police Launch Investigation into Missing Mt. Gox Bitcoin’, </Content>
+          <Content>, 4 December 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. On Mt. Gox, see Pete Rizzo, ‘Tokyo Police Launch Investigation into Missing Mt. Gox Bitcoin’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>CoinDesk</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 30 July 2014,</Content>
+          <Content>, 30 July 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -952,7 +1096,15 @@
           <Content>Uncomputing</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 6 January 2014,</Content>
+          <Content>, 6 January 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.uncomputing.org/?p=307</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -983,7 +1135,15 @@
           <Content>Falkvinge.net</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, March 2013,</Content>
+          <Content>, March 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1026,13 +1186,21 @@
           <Content>The Volokh Conspiracy</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 14 November 2013,</Content>
+          <Content>, 14 November 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.volokh.com/2013/11/14/thoughts-doj-brief-lavabits-case/#comment-1124546635</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>); that all problems are engineering problems and that unsolved problems simply indicate that nobody so smart as they are has come along to solve those problems; that domain-specific knowledge is a kind of ‘elitism’ meant to keep out true experts like them.</Content>
+    <Content>); that all problems are engineering problems and that unsolved problems simply indicate that nobody as smart as they are has come along to solve those problems; that domain-specific knowledge is a kind of ‘elitism’ meant to keep out true experts like them.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1072,13 +1240,37 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>For libertarian economic criticisms of Bitcoin that distinguish themselves from Paulite/Tea Party conspiratorial theories about central banking, see, e.g., the writings of Mises Institute economists, including Frank Shostak, ‘The Bitcoin Money Myth’, Ludwig von Mises Institute, 17 April 2013, and Patrik Korda, ‘Bitcoin: Money of the Future or Old-Fashioned Bubble?’, Ludwig von Mises Institute, 9 April 2013, Also see well-known internet investment analyst Henry Blodget making much the same fiscal argument I am advancing here, in ‘Bitcoin Could Go To $1 Million’, </Content>
+          <Content>For libertarian economic criticisms of Bitcoin that distinguish themselves from Paulite/Tea Party conspiratorial theories about central banking, see, e.g., the writings of the Mises Institute economists, including Frank Shostak, ‘The Bitcoin Money Myth’, Ludwig von Mises Institute, 17 April 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-29" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://mises.org/daily/6411/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, and Patrik Korda, ‘Bitcoin: Money of the Future or Old-Fashioned Bubble?’, Ludwig von Mises Institute, 9 April 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://mises.org/daily/6401/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Also see well-known internet investment analyst Henry Blodget making much the same fiscal argument I am advancing here, in ‘Bitcoin Could Go To $1 Million’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Business Insider</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 8 November 2013,</Content>
+          <Content>, 8 November 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.businessinsider.com/bitcoin-price-2013-11</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1116,36 +1308,46 @@
           <Content>The Washington Post</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 8 November 2013, to Stephen Mihm, ‘Are Bitcoins the Criminal’s Best Friend?’, </Content>
+          <Content>, 8 November 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, to Stephen Mihm, ‘Are Bitcoins the Criminal’s Best Friend?’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Bloomberg View</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 18 November 2013, and to Rumpelstatskin, ‘Everything I Was Afraid to Ask About Bitcoin but Did’, </Content>
+          <Content>, 18 November 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, and to Rumpelstatskin, ‘Everything I Was Afraid to Ask About Bitcoin but Did’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Naked Capitalism</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 21 November 2013, Also see the comments collected by the Twitter account ‘Shit /r/Bitcoin says’ (</Content>
+          <Content>, 21 November 2013, </Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-          <Footnote>
-            <ParagraphStyleRange>
-              <CharacterStyleRange>
-                <Content><?ACE 4?></Content>
-              </CharacterStyleRange>
-            </ParagraphStyleRange>
-            <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-              <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-                <Content>	</Content>
-              </CharacterStyleRange>
-              <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-                <Content>@shit</Content>
-              </CharacterStyleRange><Br />
-            </ParagraphStyleRange>
-          </Footnote>
+        <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Also see the comments collected by the Twitter account ‘Shit /r/Bitcoin says’ (</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>@shit</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>_rbtc_says, https://twitter.com/shit_rbtc_says), some of which are discussed in David Golumbia, ‘Bitcoinsanity 2: Revolutions in Rhetoric’, </Content>
@@ -1154,7 +1356,15 @@
           <Content>Uncomputing</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 26 June 2014, Vasilis Kostakis and Chris Giotitsas, ‘The (A)Political Economy of Bitcoin’, </Content>
+          <Content>, 26 June 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-35" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.uncomputing.org/?p=1390</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Vasilis Kostakis and Chris Giotitsas, ‘The (A)Political Economy of Bitcoin’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>TripleC: Communication, Capitalism, &amp; Critique</Content>
@@ -1207,7 +1417,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Wikipedia contibutors, ‘Fiat Money’, accessed 15 September 2014.</Content>
+          <Content>Wikipedia contibutors, ‘Fiat Money’, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-36" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://en.wikipedia.org/wiki/Fiat_money</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, accessed 15 September 2014.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1220,7 +1438,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>What’s supposed to be wrong with fiat money? This is an age-old canard for ideologues to the right of economic libertarians; it’s one of the favored talking points of the Paul clan.</Content>
+    <Content>What is supposed to be wrong with fiat money? This is an age-old story for ideologues to the right of economic libertarians; it’s one of the favored talking points of the Paul clan.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1240,7 +1458,15 @@
           <Content>PolicyMic</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 18 October 2012,</Content>
+          <Content>, 18 October 2012, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-37" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1266,7 +1492,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ron Paul, ‘Paper Money and Tyranny’, Speech to U.S. House of Representatives (September 2003),</Content>
+          <Content>Ron Paul, ‘Paper Money and Tyranny’, Speech to U.S. House of Representatives (September 2003), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-38" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.house.gov/paul/congrec/congrec2003/cr090503.htm</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1285,7 +1519,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The problem with ‘fiat currency’ is value fluctuation. The most dangerous kind of value fluctuation is the deflationary spiral – it’s usually considered worse, even, than the kind of inflationary spiral experienced in the 1990s and 2000s by the Zimbabwean dollar. That is, a merchant cannot hold onto their Bitcoins as profit, because they have no guarantee that their profits will be worth the amount they were when they took the profit. The 6 Bitcoins I get for selling a lawnmower today, may (likely will) only buy me a box of cereal tomorrow. This forces people to constantly transfer their Bitcoins into the supposedly-outdated national currencies, which underpin Bitcoin, are actually necessary for it, rather than being the old-fashioned predecessors to it.</Content>
+    <Content>The problem with ‘fiat currency’ is value fluctuation. The most dangerous kind of value fluctuation is the deflationary spiral – it’s usually considered worse, even, than the kind of inflationary spiral experienced in the 1990s and 2000s by the Zimbabwean dollar. That is, a merchant cannot hold onto their Bitcoins as profit, because they have no guarantee that their profits will be worth the amount they were when they took the profit. The 6 Bitcoins I get for selling a lawnmower today, may (likely will) only buy me a box of cereal tomorrow. This forces people to constantly transfer their Bitcoins into the supposedly-outdated national currencies underpinning Bitcoin, which are actually necessary for it, rather than being the old-fashioned predecessors to it.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1321,7 +1555,7 @@
     <Content>even gold</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>) will be subject to derivation, securitization, and ultimately extreme boom-and-bust cycles that it are actually the purpose of central banks to prevent. The more Bitcoin fluctuates in value, the less functional it can be as a currency. The less impact it can have on ‘world governments’, whatever that is supposed to mean. </Content>
+    <Content>) will be subject to derivation, securitization, and ultimately extreme boom-and-bust cycles that central banks are tasked to prevent. The more Bitcoin fluctuates in value, the less functional it can be as a currency. The less impact it can have on ‘world governments’, whatever that is supposed to mean. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>The more Bitcoin ‘rises in value’</Content>
@@ -1383,7 +1617,15 @@
           <Content>Forbes</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 18 November 2013,</Content>
+          <Content>, 18 November 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-39" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1408,7 +1650,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Andreessen, ‘What Is Bitcoin’.</Content>
+          <Content>Marc Andreessen,‘Why Bitcoin Matters’, The New York Times, 21 January 2014.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1434,13 +1676,21 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See Alexander R. Galloway, ‘Reticular Fallacy’, 6 October 2014, on presumptions about the politics of networks.</Content>
+          <Content>See Alexander R. Galloway, ‘Reticular Fallacy’, 6 October 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-40" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://cultureandcommunication.org/galloway/the-reticular-fallacy</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> on presumptions about the politics of networks.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> These are almost exclusively ideologies that are broadly libertarian in character and that serve the neoliberal agenda: they follow Friedrich Hayek and his disciple Jimmy Wales in believing that markets, not formal political structures, are the only valid means for knowledge to be gained and power to be wielded, and that ‘the good will out’ if we impose competitive market structures over parts of society, like the issuance of money, that governments have claimed as part of their domain. Despite their frequent use of the word ‘democratization’, such efforts are profoundly anti-democratic, insisting that the introduction of devices and software by a self-identified technocratic elite trumps duly-enacted laws and law enforcement mechanisms, and that a kind of market – a market in adoption of such services – is the exclusive method society should use to judge the provision of these services. The most fervent advocates of such strategies are open in their rejection of democratic governance:</Content>
+    <Content> These are almost exclusively ideologies that are broadly libertarian in character and that serve the neoliberal agenda: they follow Friedrich Hayek and his disciple Jimmy Wales in believing that markets, not formal political structures, are the only valid means for knowledge to be gained and power to be wielded, and that ‘the good will win out’ if we impose competitive market structures over parts of society, like the issuance of money, that governments have claimed as part of their domain. Despite their frequent use of the word ‘democratization’, such efforts are profoundly anti-democratic, insisting that the introduction of devices and software by a self-identified technocratic elite trumps duly-enacted laws and law enforcement mechanisms, and that a kind of market – a market in adoption of such services – is the exclusive method society should use to judge the provision of these services. The most fervent advocates of such strategies are open in their rejection of democratic governance:</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -1465,13 +1715,29 @@
           <Content>The New York Times</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 15 December 2013, For background on Cody Wilson and his support for 3D-printed guns, see Jacob Silverman, ‘A Gun, a Printer, an Ideology’, </Content>
+          <Content>, 15 December 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-41" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. For background on Cody Wilson and his support for 3D-printed guns, see Jacob Silverman, ‘A Gun, a Printer, an Ideology’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The New Yorker</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 7 May 2013,</Content>
+          <Content>, 7 May 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-42" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1479,7 +1745,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>There was a time when it would have been relatively difficult to imagine a software platform that had more power as a politics than in its stated uses; it also used to be hard to imagine right-wing extremists like Cody Wilson being quoted as authoritative about anything in our nation’s leading newspapers. It is an index of Bitcoin’s power as ideology that today such statements pass without notice, and it is no less an index of the threat such technologies pose to democracy itself.</Content>
+    <Content>There was a time when it would have been relatively difficult to imagine a software platform that had more power in a political sphere than in its stated uses; it also used to be hard to imagine right-wing extremists like Cody Wilson being quoted as authoritative about anything in our nation’s leading newspapers. It is an index of Bitcoin’s power as ideology that today such statements pass without notice, and it is no less an index of the threat such technologies pose to democracy itself.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1499,7 +1765,15 @@
           <Content>E-International Relations</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 1 June 2014,</Content>
+          <Content>, 1 June 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-43" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1523,7 +1797,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 29 September 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-44" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits</Content>
     </CharacterStyleRange>
@@ -1542,7 +1816,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 24 April 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-45" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html</Content>
     </CharacterStyleRange>
@@ -1561,7 +1835,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 21 January 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-46" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1</Content>
     </CharacterStyleRange>
@@ -1596,7 +1870,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Bitcoin wiki.‘Myths’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-47" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://en.bitcoin.it/wiki/Myths</Content>
     </CharacterStyleRange>
@@ -1615,7 +1889,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 8 November 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-48" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.businessinsider.com/bitcoin-price-2013-11</Content>
     </CharacterStyleRange>
@@ -1634,7 +1908,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 5 September 2009, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-49" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html</Content>
     </CharacterStyleRange>
@@ -1653,7 +1927,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 27 November 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-50" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://rwer.wordpress.com/2013/11/27/14335/</Content>
     </CharacterStyleRange>
@@ -1672,7 +1946,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 4 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-51" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12</Content>
     </CharacterStyleRange>
@@ -1691,7 +1965,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 6 March 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-52" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/</Content>
     </CharacterStyleRange>
@@ -1710,7 +1984,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 15 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-53" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html</Content>
     </CharacterStyleRange>
@@ -1723,7 +1997,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Galloway, Alexander R. ‘The Reticular Fallacy’, 6 October 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-54" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://cultureandcommunication.org/galloway/the-reticular-fallacy</Content>
     </CharacterStyleRange>
@@ -1742,7 +2016,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 25 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-55" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html</Content>
     </CharacterStyleRange>
@@ -1761,7 +2035,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-56" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.bullionvault.com/guide/gold/Gold-fix</Content>
     </CharacterStyleRange>
@@ -1791,7 +2065,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 26 June 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-57" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.uncomputing.org/?p=1390</Content>
     </CharacterStyleRange>
@@ -1821,7 +2095,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-58" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.uncomputing.org/?p=276</Content>
     </CharacterStyleRange>
@@ -1840,7 +2114,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 4 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-59" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/</Content>
     </CharacterStyleRange>
@@ -1859,7 +2133,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 30 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-60" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html</Content>
     </CharacterStyleRange>
@@ -1878,7 +2152,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 13 March 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-61" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market</Content>
     </CharacterStyleRange>
@@ -1897,7 +2171,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 18 November 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-62" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/</Content>
     </CharacterStyleRange>
@@ -1910,7 +2184,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Hoepman, Jaap-Henk. ‘Distributed Double Spending Prevention’, arXiv (2008), </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-63" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>arXiv:0802.0832</Content>
     </CharacterStyleRange>
@@ -1948,7 +2222,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, October 2009, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-64" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html</Content>
     </CharacterStyleRange>
@@ -1972,7 +2246,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Korda, Patrik. ‘Bitcoin: Money of the Future or Old-Fashioned Bubble?’, Ludwig von Mises Institute, 9 April 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-29" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-65" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://mises.org/daily/6401/</Content>
     </CharacterStyleRange>
@@ -2002,7 +2276,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 28 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-66" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/</Content>
     </CharacterStyleRange>
@@ -2021,7 +2295,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 8 November 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-67" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/</Content>
     </CharacterStyleRange>
@@ -2040,7 +2314,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 30 January 2010, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-68" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/</Content>
     </CharacterStyleRange>
@@ -2070,7 +2344,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 21 March 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-69" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold</Content>
     </CharacterStyleRange>
@@ -2089,7 +2363,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 4 October 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-70" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/</Content>
     </CharacterStyleRange>
@@ -2108,7 +2382,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 20 August 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-35" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-71" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/</Content>
     </CharacterStyleRange>
@@ -2143,7 +2417,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 18 November 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-36" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-72" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-</Content>
     </CharacterStyleRange>
@@ -2156,7 +2430,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Nakamoto, Satoshi. ‘Bitcoin: A Peer-to-Peer Electronic Cash System’, 2008, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-37" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-73" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://bitcoin.org/bitcoin.pdf</Content>
     </CharacterStyleRange>
@@ -2169,7 +2443,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Paul, Ron. ‘Paper Money and Tyranny’, Speech in U.S. House of Representatives (September 2003), </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-38" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-74" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.house.gov/paul/congrec/congrec2003/cr090503.htm</Content>
     </CharacterStyleRange>
@@ -2188,7 +2462,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 27 December 2011, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-39" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-75" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/</Content>
     </CharacterStyleRange>
@@ -2218,7 +2492,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 30 July 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-40" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-76" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/</Content>
     </CharacterStyleRange>
@@ -2237,7 +2511,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 21 November 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-41" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-77" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html</Content>
     </CharacterStyleRange>
@@ -2256,7 +2530,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 1 June 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-42" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-78" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/</Content>
     </CharacterStyleRange>
@@ -2275,7 +2549,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 18 October 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-43" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-79" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china</Content>
     </CharacterStyleRange>
@@ -2288,7 +2562,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Shostak, Frank. ‘The Bitcoin Money Myth’, Ludwig von Mises Institute, 17 April 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-44" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-80" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://mises.org/daily/6411/</Content>
     </CharacterStyleRange>
@@ -2307,7 +2581,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 7 May 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-45" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-81" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology</Content>
     </CharacterStyleRange>
@@ -2323,7 +2597,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 5 April 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-46" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-82" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state</Content>
     </CharacterStyleRange>
@@ -2342,7 +2616,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 29 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-47" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-83" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/</Content>
     </CharacterStyleRange>
@@ -2361,7 +2635,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 30 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-48" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-84" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.forbes.com/sites/realspin/2013/12/30/paul-krugman-is-wrong-bitcoin-isnt-evil-but-monetary-stimulus-is/</Content>
     </CharacterStyleRange>
@@ -2374,7 +2648,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Wikipedia contributors. ‘Fiat Money’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-49" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-85" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://en.wikipedia.org/wiki/Fiat_money</Content>
     </CharacterStyleRange>
@@ -2393,7 +2667,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 10 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-50" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-86" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12</Content>
     </CharacterStyleRange>
@@ -2434,7 +2708,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 30 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-51" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-87" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.businessinsider.com/paul-krugman-bitcoin-2013-12</Content>
     </CharacterStyleRange>
@@ -2453,7 +2727,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 1 April 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-52" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-88" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599</Content>
     </CharacterStyleRange>
@@ -2465,101 +2739,353 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599" Name="link" DestinationURL="http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-52" Name="http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599" Source="htss-52" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-88" Name="http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599" Source="htss-88" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessinsider.com/paul-krugman-bitcoin-2013-12" Name="link" DestinationURL="http://www.businessinsider.com/paul-krugman-bitcoin-2013-12" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-51" Name="http://www.businessinsider.com/paul-krugman-bitcoin-2013-12" Source="htss-51" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-87" Name="http://www.businessinsider.com/paul-krugman-bitcoin-2013-12" Source="htss-87" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.businessinsider.com/paul-krugman-bitcoin-2013-12</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12" Name="link" DestinationURL="http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-50" Name="http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12" Source="htss-50" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-86" Name="http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12" Source="htss-86" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://en.wikipedia.org/wiki/Fiat_money" Name="link" DestinationURL="http://en.wikipedia.org/wiki/Fiat_money" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-49" Name="http://en.wikipedia.org/wiki/Fiat_money" Source="htss-49" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-85" Name="http://en.wikipedia.org/wiki/Fiat_money" Source="htss-85" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://en.wikipedia.org/wiki/Fiat_money</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/realspin/2013/12/30/paul-krugman-is-wrong-bitcoin-isnt-evil-but-monetary-stimulus-is/" Name="link" DestinationURL="http://www.forbes.com/sites/realspin/2013/12/30/paul-krugman-is-wrong-bitcoin-isnt-evil-but-monetary-stimulus-is/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-48" Name="http://www.forbes.com/sites/realspin/2013/12/30/paul-krugman-is-wrong-bitcoin-isnt-evil-but-monetary-stimulus-is/" Source="htss-48" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-84" Name="http://www.forbes.com/sites/realspin/2013/12/30/paul-krugman-is-wrong-bitcoin-isnt-evil-but-monetary-stimulus-is/" Source="htss-84" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/realspin/2013/12/30/paul-krugman-is-wrong-bitcoin-isnt-evil-but-monetary-stimulus-is/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/" Name="link" DestinationURL="http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-47" Name="http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/" Source="htss-47" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-83" Name="http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/" Source="htss-83" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state" Name="link" DestinationURL="http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-46" Name="http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state" Source="htss-46" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-82" Name="http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state" Source="htss-82" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology" Name="link" DestinationURL="http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-45" Name="http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology" Source="htss-45" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-81" Name="http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology" Source="htss-81" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://mises.org/daily/6411/" Name="link" DestinationURL="https://mises.org/daily/6411/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-44" Name="https://mises.org/daily/6411/" Source="htss-44" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-80" Name="https://mises.org/daily/6411/" Source="htss-80" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://mises.org/daily/6411/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china" Name="link" DestinationURL="http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-43" Name="http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china" Source="htss-43" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-79" Name="http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china" Source="htss-79" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/" Name="link" DestinationURL="http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-42" Name="http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/" Source="htss-42" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-78" Name="http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/" Source="htss-78" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html" Name="link" DestinationURL="http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-41" Name="http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html" Source="htss-41" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-77" Name="http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html" Source="htss-77" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/" Name="link" DestinationURL="http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-40" Name="http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/" Source="htss-40" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-76" Name="http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/" Source="htss-76" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/" Name="link" DestinationURL="http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-39" Name="http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/" Source="htss-39" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-75" Name="http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/" Source="htss-75" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.house.gov/paul/congrec/congrec2003/cr090503.htm" Name="link" DestinationURL="http://www.house.gov/paul/congrec/congrec2003/cr090503.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-74" Name="http://www.house.gov/paul/congrec/congrec2003/cr090503.htm" Source="htss-74" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.house.gov/paul/congrec/congrec2003/cr090503.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://bitcoin.org/bitcoin.pdf" Name="link" DestinationURL="http://bitcoin.org/bitcoin.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-73" Name="http://bitcoin.org/bitcoin.pdf" Source="htss-73" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://bitcoin.org/bitcoin.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-" Name="link" DestinationURL="http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-72" Name="http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-" Source="htss-72" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/" Name="link" DestinationURL="http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-71" Name="http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/" Source="htss-71" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/" Name="link" DestinationURL="http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-70" Name="http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/" Source="htss-70" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold" Name="link" DestinationURL="http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-69" Name="http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold" Source="htss-69" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/" Name="link" DestinationURL="http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-68" Name="http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/" Source="htss-68" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/" Name="link" DestinationURL="http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-67" Name="http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/" Source="htss-67" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/" Name="link" DestinationURL="http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-66" Name="http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/" Source="htss-66" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://mises.org/daily/6401/" Name="link" DestinationURL="https://mises.org/daily/6401/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-65" Name="https://mises.org/daily/6401/" Source="htss-65" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://mises.org/daily/6401/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html" Name="link" DestinationURL="http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-64" Name="http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html" Source="htss-64" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://arxiv.org/abs/0802.0832" Name="link" DestinationURL="http://arxiv.org/abs/0802.0832" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-63" Name="http://arxiv.org/abs/0802.0832" Source="htss-63" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://arxiv.org/abs/0802.0832</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/" Name="link" DestinationURL="http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-62" Name="http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/" Source="htss-62" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market" Name="link" DestinationURL="http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-61" Name="http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market" Source="htss-61" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html" Name="link" DestinationURL="http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-60" Name="http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html" Source="htss-60" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/" Name="link" DestinationURL="https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-59" Name="https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/" Source="htss-59" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.uncomputing.org/?p=276" Name="link" DestinationURL="http://www.uncomputing.org/?p=276" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-58" Name="http://www.uncomputing.org/?p=276" Source="htss-58" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.uncomputing.org/?p=276</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.uncomputing.org/?p=1390" Name="link" DestinationURL="http://www.uncomputing.org/?p=1390" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-57" Name="http://www.uncomputing.org/?p=1390" Source="htss-57" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.uncomputing.org/?p=1390</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.bullionvault.com/guide/gold/Gold-fix" Name="link" DestinationURL="https://www.bullionvault.com/guide/gold/Gold-fix" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-56" Name="https://www.bullionvault.com/guide/gold/Gold-fix" Source="htss-56" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://www.bullionvault.com/guide/gold/Gold-fix</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html" Name="link" DestinationURL="http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-55" Name="http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html" Source="htss-55" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://cultureandcommunication.org/galloway/the-reticular-fallacy" Name="link" DestinationURL="http://cultureandcommunication.org/galloway/the-reticular-fallacy" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-54" Name="http://cultureandcommunication.org/galloway/the-reticular-fallacy" Source="htss-54" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://cultureandcommunication.org/galloway/the-reticular-fallacy</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html" Name="link" DestinationURL="http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-53" Name="http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html" Source="htss-53" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/" Name="link" DestinationURL="http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-52" Name="http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/" Source="htss-52" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12" Name="link" DestinationURL="http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-51" Name="http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12" Source="htss-51" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rwer.wordpress.com/2013/11/27/14335/" Name="link" DestinationURL="http://rwer.wordpress.com/2013/11/27/14335/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-50" Name="http://rwer.wordpress.com/2013/11/27/14335/" Source="htss-50" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://rwer.wordpress.com/2013/11/27/14335/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html" Name="link" DestinationURL="http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-49" Name="http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html" Source="htss-49" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessinsider.com/bitcoin-price-2013-11" Name="link" DestinationURL="http://www.businessinsider.com/bitcoin-price-2013-11" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-48" Name="http://www.businessinsider.com/bitcoin-price-2013-11" Source="htss-48" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.businessinsider.com/bitcoin-price-2013-11</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://en.bitcoin.it/wiki/Myths" Name="link" DestinationURL="https://en.bitcoin.it/wiki/Myths" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-47" Name="https://en.bitcoin.it/wiki/Myths" Source="htss-47" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://en.bitcoin.it/wiki/Myths</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1" Name="link" DestinationURL="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-46" Name="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1" Source="htss-46" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html" Name="link" DestinationURL="http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-45" Name="http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html" Source="htss-45" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits" Name="link" DestinationURL="http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-44" Name="http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits" Source="htss-44" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/" Name="link" DestinationURL="http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-43" Name="http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/" Source="htss-43" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.e-ir.info/2014/06/01/visions-of-a-techno-leviathan-the-politics-of-the-bitcoin-blockchain/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology" Name="link" DestinationURL="http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-42" Name="http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology" Source="htss-42" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.newyorker.com/tech/elements/a-gun-a-printer-an-ideology</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html" Name="link" DestinationURL="http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-41" Name="http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html" Source="htss-41" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://cultureandcommunication.org/galloway/the-reticular-fallacy" Name="link" DestinationURL="http://cultureandcommunication.org/galloway/the-reticular-fallacy" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-40" Name="http://cultureandcommunication.org/galloway/the-reticular-fallacy" Source="htss-40" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://cultureandcommunication.org/galloway/the-reticular-fallacy</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/" Name="link" DestinationURL="http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-39" Name="http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/" Source="htss-39" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.house.gov/paul/congrec/congrec2003/cr090503.htm" Name="link" DestinationURL="http://www.house.gov/paul/congrec/congrec2003/cr090503.htm" DestinationUniqueKey="1" />
@@ -2569,214 +3095,214 @@
       <Destination type="object">HyperlinkURLDestination/http://www.house.gov/paul/congrec/congrec2003/cr090503.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://bitcoin.org/bitcoin.pdf" Name="link" DestinationURL="http://bitcoin.org/bitcoin.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-37" Name="http://bitcoin.org/bitcoin.pdf" Source="htss-37" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china" Name="link" DestinationURL="http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-37" Name="http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china" Source="htss-37" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://bitcoin.org/bitcoin.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://mic.com/articles/16690/ron-paul-sound-currency-message-is-resonating-with-worldwide-leaders-including-china</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-" Name="link" DestinationURL="http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-36" Name="http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-" Source="htss-36" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://en.wikipedia.org/wiki/Fiat_money" Name="link" DestinationURL="http://en.wikipedia.org/wiki/Fiat_money" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-36" Name="http://en.wikipedia.org/wiki/Fiat_money" Source="htss-36" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/" Name="link" DestinationURL="http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-35" Name="http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/" Source="htss-35" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/" Name="link" DestinationURL="http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-34" Name="http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/" Source="htss-34" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold" Name="link" DestinationURL="http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-33" Name="http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold" Source="htss-33" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/" Name="link" DestinationURL="http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-32" Name="http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/" Source="htss-32" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.lietaer.com/2010/01/commercial-credit-circuit-a-financial-innovation-2008/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/" Name="link" DestinationURL="http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-31" Name="http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/" Source="htss-31" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/" Name="link" DestinationURL="http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-30" Name="http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/" Source="htss-30" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://mises.org/daily/6401/" Name="link" DestinationURL="https://mises.org/daily/6401/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-29" Name="https://mises.org/daily/6401/" Source="htss-29" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://mises.org/daily/6401/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html" Name="link" DestinationURL="http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-28" Name="http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html" Source="htss-28" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://arxiv.org/abs/0802.0832" Name="link" DestinationURL="http://arxiv.org/abs/0802.0832" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-27" Name="http://arxiv.org/abs/0802.0832" Source="htss-27" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://arxiv.org/abs/0802.0832</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/" Name="link" DestinationURL="http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-26" Name="http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/" Source="htss-26" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market" Name="link" DestinationURL="http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-25" Name="http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market" Source="htss-25" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html" Name="link" DestinationURL="http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-24" Name="http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html" Source="htss-24" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.huffingtonpost.com/2013/12/30/paul-krugman-bitcoin_n_4518979.html</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/" Name="link" DestinationURL="https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-23" Name="https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/" Source="htss-23" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.uncomputing.org/?p=276" Name="link" DestinationURL="http://www.uncomputing.org/?p=276" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-22" Name="http://www.uncomputing.org/?p=276" Source="htss-22" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.uncomputing.org/?p=276</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://en.wikipedia.org/wiki/Fiat_money</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.uncomputing.org/?p=1390" Name="link" DestinationURL="http://www.uncomputing.org/?p=1390" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-21" Name="http://www.uncomputing.org/?p=1390" Source="htss-21" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-35" Name="http://www.uncomputing.org/?p=1390" Source="htss-35" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.uncomputing.org/?p=1390</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.bullionvault.com/guide/gold/Gold-fix" Name="link" DestinationURL="https://www.bullionvault.com/guide/gold/Gold-fix" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-20" Name="https://www.bullionvault.com/guide/gold/Gold-fix" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html" Name="link" DestinationURL="http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-34" Name="http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html" Source="htss-34" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.bullionvault.com/guide/gold/Gold-fix</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html" Name="link" DestinationURL="http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-19" Name="http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-" Name="link" DestinationURL="http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-33" Name="http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-" Source="htss-33" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend-</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://cultureandcommunication.org/galloway/the-reticular-fallacy" Name="link" DestinationURL="http://cultureandcommunication.org/galloway/the-reticular-fallacy" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-18" Name="http://cultureandcommunication.org/galloway/the-reticular-fallacy" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/" Name="link" DestinationURL="http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-32" Name="http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/" Source="htss-32" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://cultureandcommunication.org/galloway/the-reticular-fallacy</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html" Name="link" DestinationURL="http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-17" Name="http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html" Source="htss-17" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.nytimes.com/2013/12/15/sunday-review/the-bitcoin-ideology.html</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/" Name="link" DestinationURL="http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/" Source="htss-16" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12" Name="link" DestinationURL="http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12" Source="htss-15" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rwer.wordpress.com/2013/11/27/14335/" Name="link" DestinationURL="http://rwer.wordpress.com/2013/11/27/14335/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="http://rwer.wordpress.com/2013/11/27/14335/" Source="htss-14" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://rwer.wordpress.com/2013/11/27/14335/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html" Name="link" DestinationURL="http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html" Source="htss-13" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/08/everything-you-need-to-know-about-the-bitcoin-bubble/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessinsider.com/bitcoin-price-2013-11" Name="link" DestinationURL="http://www.businessinsider.com/bitcoin-price-2013-11" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://www.businessinsider.com/bitcoin-price-2013-11" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-31" Name="http://www.businessinsider.com/bitcoin-price-2013-11" Source="htss-31" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.businessinsider.com/bitcoin-price-2013-11</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://en.bitcoin.it/wiki/Myths" Name="link" DestinationURL="https://en.bitcoin.it/wiki/Myths" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="https://en.bitcoin.it/wiki/Myths" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://mises.org/daily/6401/" Name="link" DestinationURL="https://mises.org/daily/6401/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-30" Name="https://mises.org/daily/6401/" Source="htss-30" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://en.bitcoin.it/wiki/Myths</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://mises.org/daily/6401/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1" Name="link" DestinationURL="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://mises.org/daily/6411/" Name="link" DestinationURL="https://mises.org/daily/6411/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-29" Name="https://mises.org/daily/6411/" Source="htss-29" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://mises.org/daily/6411/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.volokh.com/2013/11/14/thoughts-doj-brief-lavabits-case/#comment-1124546635" Name="link" DestinationURL="http://www.volokh.com/2013/11/14/thoughts-doj-brief-lavabits-case/#comment-1124546635" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-28" Name="http://www.volokh.com/2013/11/14/thoughts-doj-brief-lavabits-case/#comment-1124546635" Source="htss-28" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.volokh.com/2013/11/14/thoughts-doj-brief-lavabits-case/#comment-1124546635</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/" Name="link" DestinationURL="http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-27" Name="http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/" Source="htss-27" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://falkvinge.net/2013/03/06/the-target-value-for-bitcoin-is-not-some-50-or-100-it-is-100000-to-1000000/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.uncomputing.org/?p=307" Name="link" DestinationURL="http://www.uncomputing.org/?p=307" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-26" Name="http://www.uncomputing.org/?p=307" Source="htss-26" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.uncomputing.org/?p=307</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/" Name="link" DestinationURL="http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-25" Name="http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/" Source="htss-25" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.coindesk.com/japan-police-launch-investigation-missing-mt-gox-bitcoin/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12" Name="link" DestinationURL="http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-24" Name="http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12" Source="htss-24" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12" Name="link" DestinationURL="http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-23" Name="http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12" Source="htss-23" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html" Name="link" DestinationURL="http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-22" Name="http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html" Source="htss-22" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits" Name="link" DestinationURL="http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-21" Name="http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits" Source="htss-21" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html" Name="link" DestinationURL="http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-20" Name="http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/04/why-gold-and-bitcoin-make-lousy-money.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits" Name="link" DestinationURL="http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/" Name="link" DestinationURL="http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-19" Name="http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://ronpaulsupporters.com/ron-paul-sites-are-obsessed-with-jews-zionists-and-israel/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market/" Name="link" DestinationURL="http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-18" Name="http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market/" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/business/2013/mar/13/london-financial-sector-gold-market/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.bullionvault.com/guide/gold/Gold-fix" Name="link" DestinationURL="https://www.bullionvault.com/guide/gold/Gold-fix" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-17" Name="https://www.bullionvault.com/guide/gold/Gold-fix" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://www.bullionvault.com/guide/gold/Gold-fix</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold" Name="link" DestinationURL="http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-16" Name="http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://motherboard.vice.com/blog/why-bitcoins-are-just-like-gold</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/" Name="link" DestinationURL="http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-15" Name="http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/jonmatonis/2012/10/04/bitcoin-prevents-monetary-tyranny/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state" Name="link" DestinationURL="http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-14" Name="http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.bloombergview.com/articles/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://en.bitcoin.it/wiki/Myths" Name="link" DestinationURL="https://en.bitcoin.it/wiki/Myths" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-13" Name="https://en.bitcoin.it/wiki/Myths" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://en.bitcoin.it/wiki/Myths</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html" Name="link" DestinationURL="http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://economistsview.typepad.com/economistsview/2013/12/time-for-a-little-bitcoin-discussion.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rwer.wordpress.com/2013/11/27/14335/" Name="link" DestinationURL="http://rwer.wordpress.com/2013/11/27/14335/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="http://rwer.wordpress.com/2013/11/27/14335/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://rwer.wordpress.com/2013/11/27/14335/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599" Name="link" DestinationURL="http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2361599</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1" Name="link" DestinationURL="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/" Name="link" DestinationURL="http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.infowars.com/paul-krugman-is-scared-he-says-bitcoin-is-evil-undermines-central-banks/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.uncomputing.org/?p=276" Name="link" DestinationURL="http://www.uncomputing.org/?p=276" DestinationUniqueKey="1" />

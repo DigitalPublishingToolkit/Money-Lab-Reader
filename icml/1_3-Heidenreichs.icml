@@ -152,7 +152,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The core routine of a money-free economy is the matching algorithm. Its main purpose is to make needs and capabilities meet. Matching is not to be confused with today’s market mechanisms. It is not about setting a price. Prices are needed when information about the participants of the transaction, their needs and capabilities, is lacking. Under these constraints, the exchange at an abstract level replaces a matching on the basis of needs. Money based markets operate on a high level of abstraction, and they involve very many institutions of production and services, that adapted to, mirror and create this level of abstraction.</Content>
+    <Content>The core routine of a money-free economy is the matching algorithm. Its main purpose is to make needs and capabilities meet. Matching is not to be confused with today’s market mechanisms. It is not about setting a price. Prices are needed when information about the participants of the transaction, their needs and capabilities, is lacking. Under these constraints, the exchange at an abstract level replaces a match on the basis of needs. Money based markets operate on a high level of abstraction, and they involve very many institutions of production and services, that adapted to, mirror and create this level of abstraction.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -264,7 +264,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Early pre-monetary economies usually do not extend much over the clan, or the village, or a tribe. Their reach was severely hindered by the fact that the reach of transactions and memorized records was restricted to friends or friends of friends. Most objects did not circulate much beyond the local community within which all kinds of ‘IOUs’ had to be remembered.</Content>
+    <Content>Early pre-monetary economies usually did not extend much over the clan, or the village, or a tribe. Their reach was severely hindered by the fact that the reach of transactions and memorized records was restricted to friends or friends of friends. Most objects did not circulate much beyond the local community within which all kinds of ‘IOUs’ had to be remembered.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -356,12 +356,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>It may require a completely different approach to solve the issue of economic circulation of needs from another angle. If a need is expressed, it can either be served, or it stays in the system as an open ticket. In case there is more demand than supply, the good would be ideally assigned to the person who needs it most, or who makes most out of it. This would be a relational value. At the same time a message is sent to whomever is willing and able to provide more of the same good. The basic communication around a transaction would consist in the activation of this network-based relation.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A communication environment of this type is far from trivial. As it easily extends over a more than two connected positions, it tends to produce huge flows of data even for small transactions. How do we compare recursive factors like the degree of need or an expected productive use? How can the desires of one person trigger the needs of another one? What about the global impacts, like sustainability or climate efficiency?</Content>
+    <Content>It may require a completely different approach to solve the issue of economic circulation of needs from another angle. If a need is expressed, it can either be served, or it stays in the system as an open ticket. In case there is more demand than supply, the good would be ideally assigned to the person who needs it most, or who makes most out of it. This would be a relational value. At the same time a message is sent to whomever is willing and able to provide more of the same good. The basic communication around a transaction would consist in the activation of this network-based relation.A communication environment of this type is far from trivial. As it easily extends over a more than two connected positions, it tends to produce huge flows of data even for small transactions. How do we compare recursive factors like the degree of need or an expected productive use? How can the desires of one person trigger the needs of another one? What about the global impacts, like sustainability or climate efficiency?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -412,22 +407,17 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The obstacles of a data rich exchange-oriented system may be overcome by reconsidering the participants in the market. Whomever or whatever partakes in an economic transaction may be regarded as an economic object, with its needs and desires and its own interests. This does not only refer to human beings, but also to all kinds of objects, even to objects in the sense of programmable objects, like events or communications.</Content>
+    <Content>The obstacles of a data rich exchange-oriented system may be overcome by reconsidering the participants in the market. Whomever or whatever partakes in an economic transaction may be regarded as an economic object, with its needs and desires and its own interests. This does not only refer to human beings, but also to all kinds of objects, even to objects in the sense of programmable objects, like events or communications.For each object included in a transaction, there should be an optimization function. A car wants to be driven. A house wants to be inhabited. A beer wants to be drunk. The bottle may even command a car to be taken to a place most suitable for that purpose getting emptied. A world of this type, in which objects communicate with each other, is not out of reach.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>For each object included in a transaction, there should be an optimization function. A car wants to be driven. A house wants to be inhabited. A beer wants to be drunk. The bottle may even command a car to be taken to a place most suitable for that purpose getting emptied. A world of this type, in which objects communicate with each other, is not out of reach.</Content>
+    <Content>Purpose-driven, intelligent and communicating objects may resolve one of the big obstacles of a data driven economy. Once an object knows what it is made for, it is possible to operate an economy without relying on a data-rich memory system. In this model, each thing or agent would know its own use and its own degrees of freedom. One may overwrite an assigned purpose and change what a thing strives to do. But overwriting and changing its own desires would by default be a privilege of self-conscious beings.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Purpose-driven intelligent and communicating objects may resolve one of the big obstacles of a data driven economy. Once an object knows what it is made for, it is possible to operate an economy without relying on a data-rich memory system. In this model, each thing or agent would know its own use and its own degrees of freedom. One may overwrite an assigned purpose and change what a thing strives to do. But overwriting and changing its own desires would by default be a privilege of self-conscious beings.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The object-based system does not need to be completely rational and standardized, not even consistent or universal. On the contrary, in the same way humans have their changing moods and desires, objects may be as ticklish as subjects. Their behavior towards possible transactions may rather resemble dating than just being sold. They may want to enter into negotiations or complex arguments, may withdraw and reappear, may change sides and features. The system does not need to have preset rules for once and ever. Its life depends on how humans interact with things, and how objects mirror the world.</Content>
+    <Content>The object-based system does not need to be completely rational and standardized, not even consistent or universal. On the contrary, in the same way humans have their changing moods and desires, objects may be as ticklish as subjects. Their behavior towards possible transactions may rather resemble dating than just being sold. They may want to enter into negotiations or complex arguments, may withdraw and reappear, may change sides and features. The system does not need to have preset rules for once and forever. Its life depends on how humans interact with things, and how objects mirror the world.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -437,17 +427,12 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As much as objects, humans have an economic agency, which can be described by sets of needs or desires. A strong concept of subjectivity or identity is not needed to operate as an economic agent. One and the same person may take different roles to appear under different circumstances.</Content>
+    <Content>As much as objects, humans have an economic agency, which can be described by sets of needs or desires. A strong concept of subjectivity or identity is not needed to operate as an economic agent. One and the same person may take different roles to appear under different circumstances. In a data rich, transaction-oriented system, the agent would be declared the site of a possible equilibrium. That means that each agent should strive to give as much as it gets. Within an object-oriented economy, the personalized equilibrium can be replaced by the optimization function of the objects.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In a data rich, transaction-oriented system, the agent would be declared the site of a possible equilibrium. That means that each agent should strive to give as much as it gets. Within an object-oriented economy, the personalized equilibrium can be replaced by the optimization function of the objects.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>One of the crucial distinctions between objects and human agents lies in the term ‘dignity’. According to Kant, dignity is what exempts the human from the realm the submission under the economic sphere. ‘In the realm of ends everything has either a price or a dignity’.</Content>
+    <Content>One of the crucial distinctions between objects and human agents lies in the term ‘dignity’. According to Kant, dignity is what exempts the human from the realm of submission under the economic sphere. ‘In the realm of ends everything has either a price or a dignity’.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -478,7 +463,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whilst objects may exist entirely within the economic sphere, humans have to be able and enabled to choose which part of their life and their activities to submit to the rules of the economic domain. That means that the descriptor of a human agent has to be up to her or his choice. There may be capabilities or needs that one does not want to be public or to be offered to the matching function. Without this clause, economic algorithms and their drive towards optimization could easily turn into an algorithmic dictatorship.</Content>
+    <Content>Whilst objects may exist entirely within the economic sphere, humans have to be able and enabled to choose which part of their life and their activities they submit to the rules of the economic domain. That means that the descriptor of a human agent has to be up to her or his choice. There may be capabilities or needs that one does not want to be public or to be offered to the matching function. Without this clause, economic algorithms and their drive towards optimization could easily turn into an algorithmic dictatorship.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -509,12 +494,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Humans, in contrast to objects, have to be recognized as non-efficient, often non-rational and unpredictable beings. The model of whatever algorithm should be a ‘homo non-economicus’, and for sure not the profit maximizing automata of current economic modeling. Freedom of decision making has to be granted not only as the freedom to choose amongst given alternatives, but on a far deeper level as the freedom to choose amongst a variety of games, or even to step out of the economic circuit as such, which would bring us back to the antique idea of freedom as being freed from the need to work at all.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>After all, algorithms and laws would have to be implemented according to four basic principles of human rights – dignity, public welfare, equality, and freedom. Given the poor performance of our current monetary regime, it should not be impossible to surpass the current system with its inclination to exclusive freedom for the wealthy and rising inequality.</Content>
+    <Content>Humans, in contrast to objects, have to be recognized as non-efficient, often non-rational and unpredictable beings. The model of whatever algorithm should be a ‘homo non-economicus’, and for sure not the profit maximizing automata of current economic modeling. Freedom of decision making has to be granted not only as the freedom to choose amongst given alternatives, but on a far deeper level as the freedom to choose amongst a variety of games, or even to step out of the economic circuit as such, which would bring us back to the antique idea of freedom as being freed from the need to work at all. After all, algorithms and laws would have to be implemented according to four basic principles of human rights – dignity, public welfare, equality, and freedom. Given the poor performance of our current monetary regime, it should not be impossible to surpass the current system with its inclination to exclusive freedom for the wealthy and rising inequality.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -616,7 +596,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>We are educated to things being scarce. This runs along common myths of current capitalism that things are in short supply and therefore have a market value. There is an intrinsic tie between money and scarcity, as money itself is the scarce good to which all other scarce goods have to be mapped. ‘The innovation consists in the duplication of scarcity. The scarcity of money is placed next to the very different scarcity of goods. That means, that </Content>
+    <Content>We are educated to things being scarce. This runs along common myths of current capitalism that things are in short supply and therefore have a market value. There is an intrinsic tie between money and scarcity, as money itself is a scarce good to which all other scarce goods have to be mapped. ‘The innovation consists in the duplication of scarcity. The scarcity of money is placed next to the very different scarcity of goods. That means, that </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>scarcity itself is codified.</Content>
@@ -659,22 +639,12 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>By now most of our products are no longer scarce. Usually, we have things in such an ample supply, that scarcity has to be artificially introduced. Just to name some examples: there is no shortage in shoes. Most of the efforts of brand marketing go into codifying a shoe model with social distinctions and thereby add the distinctive quality associated with scarcity. Practices of this kind may even persist in a post-monetary world. They could be part of a particular game, in which people with according distinctive needs may strive to achieve the qualifications needed to obtain the precious items.</Content>
+    <Content>Today, most of our products are no longer scarce. Usually, we have things in such an ample supply, that scarcity has to be artificially introduced. Just to name some examples: there is no shortage in shoes. Most of the efforts of brand marketing go into codifying a shoe model with social distinctions and thereby add the distinctive quality associated with scarcity. Practices of this kind may even persist in a post-monetary world. They could be part of a particular game, in which people with accordingly distinctive needs may strive to achieve the qualifications needed to obtain the precious items.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A more critical case can be found in immaterial goods and intellectual property. Consisting in data, there is absolutely no need to limit the circulation of digital goods. Technically, each single individual can contribute to the distribution of a text, a piece of music or a video by sharing it. The desperate attempt to create a legal environment that artificially curtails what is technically possible is an example of how an overcome economic value system seeks to prolong its existence and to retain its outdated set of rules.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A game that calculates values along networked recursions would give higher value to what is most linked and liked. That does not imply that other participants would have to ‘pay’ more in order to obtain the content. As all products of intellectual labor, it would be available for free, but its producers would in some ways benefit from their success, be it by being entitled to receive more of other peoples labor, or by other types of incentives depending on which game they participate in.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>That system turns the current regulation on intellectual property upside down. Instead of trying to shape the distribution of intellectual goods according to the economy of material production, one should rather transform the market of material goods along the distribution models of intellectual labor and file sharing.</Content>
+    <Content>A more critical case can be found in immaterial goods and intellectual property. Consisting in data, there is absolutely no need to limit the circulation of digital goods. Technically, each individual can contribute to the distribution of a text, a piece of music or a video by sharing it. The desperate attempt to create a legal environment that artificially curtails what is technically possible is an example of how an defunct economic value system seeks to prolong its existence and to retain its outdated set of rules. A game that calculates values along networked recursions would give higher value to what is most linked and liked. That does not imply that other participants would have to ‘pay’ more in order to obtain the content. As all products of intellectual labor, it would be available for free, but its producers would in some ways benefit from their success, be it by being entitled to receive more of other people’s labor, or by other types of incentives depending on which game they participate in. That system turns the current regulation on intellectual property upside down. Instead of trying to shape the distribution of intellectual goods according to the economy of material production, one should rather transform the market of material goods along the distribution models of intellectual labor and file sharing.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -740,12 +710,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The impossibility of today’s exaggerations in inequality will of course lead to resistance towards replacing our current well functioning system of wealth extraction. A transition may take very many different forms, other than revolutionary movements or even active resistance, which are close to impossible given the current conditions of communication and surveillance. Neither a spectacular breakdown, nor a big crisis or an increasing acceleration may lead to a change, but the slow and steady erosion of an increasingly dysfunctional monetary regime. In its niches the conditions for a different post-monetary economy are already set and growing under the shelter of and within the old structure.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Retrospectively, our current world will appear as a strange, somewhat backwards, and self-destructive place. The fury with which we exhaust our resources, produce overabundance without distributing it, and insist in making workers’ lives miserable, will be looked back at with amazement and awe.</Content>
+    <Content>The impossibility of today’s exaggerations in inequality will of course lead to resistance towards replacing our current well functioning system of wealth extraction. A transition may take very many different forms, other than revolutionary movements or even active resistance, which are close to impossible given the current conditions of communication and surveillance. Neither a spectacular breakdown, nor a big crisis or an increasing acceleration may lead to a change, but the slow and steady erosion of an increasingly dysfunctional monetary regime. In its niches the conditions for a different post-monetary economy are already set and growing under the shelter of and within the old structure. Retrospectively, our current world will appear as a strange, somewhat backwards, and self-destructive place. The fury with which we exhaust our resources, produce overabundance without distributing it, and insist in making workers’ lives miserable, will be looked back at with amazement and awe.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">

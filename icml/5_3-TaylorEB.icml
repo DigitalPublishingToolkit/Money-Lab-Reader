@@ -9,11 +9,6 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Italic Link" Name="Italic Link" FontStyle="Italic">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -195,7 +190,7 @@
           <Content>See </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://www.youtube.com/watch?v=nEZ30K5dBWU</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -241,8 +236,8 @@
           <Content> Fonkoze in Haiti bases their Chemen Lavi Miyò program on this model, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
-            <Content>http://www.fonkoze.org/what-we-do/step-1-clm/</Content>
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.fonkoze.org/what-we-do/step-1-clm/*</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -274,7 +269,7 @@
           <Content>World Bank, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -302,7 +297,7 @@
           <Content>IFAD, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.ifad.org/remittances/maps/</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -350,7 +345,7 @@
           <Content>Discussed by the GSMA, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -409,7 +404,7 @@
           <Content>InterMedia, ‘Mobile Money in Haiti: A Baseline Analysis of Access, Use and Barriers to Adoption’, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://audiencescapes.org/country-profiles/haiti/mobile-money-haiti-baseline-analysis-Gates-adoption-financial-services-HMMI</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -443,7 +438,7 @@
           <Content>, 27 February 2012, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor.html</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -476,7 +471,7 @@
           <Content>This had two major advantages: it immediately added thousands of users to Vodafone’s mobile money network, and it solved a serious corruption problem. People in the industry report that, when police officers received their salaries via mobile money for the first time, many were calling Vodafone to thank them for their pay rise. It turns out that their superiors had been skimming their salaries by as much as 20 percent. With mobile money, this was no longer possible. See </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.bloomberg.com/news/2011-04-13/afghan-police-now-paid-by-phone-to-cut-graft-in-anti-taliban-war.html</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -524,7 +519,7 @@
           <Content>See, for example, CGAP’s various blogs about merchant payments, including branchless banking in Brazil, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -598,7 +593,7 @@
           <Content>This estimate is given by Fonkoze on their website, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.fonkoze.org/why-it-matters/key-statistics/</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -725,7 +720,7 @@
           <Content>See </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -786,7 +781,7 @@
           <Content>Haiti Mobile Money Initiative/HIFIVE, ‘Awards Grant to Mercy Corps to expand Mobile Money Services in Rural Areas’, Press release, 27 October 2010, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.microlinks.org/ev_en.php?ID=46502_201&amp;ID2=DO_TOPIC</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -814,7 +809,7 @@
           <Content>See </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://kdid.org/projects/field-support/hifive/hmmi</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -842,7 +837,7 @@
           <Content>See </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.digicelhaiti.com/assets/uploads/Active_Agent_List.pdf</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -881,7 +876,7 @@
           <Content>, 3 August 2011, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.mercycorps.org/articles/haiti/mobile-wallets-help-haitians-rebuild</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -889,7 +884,7 @@
           <Content>; see USAID for World Vision’s involvement, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.usaid.gov/news-information/fact-sheets/haiti-mobile-money-initiative</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -917,7 +912,7 @@
           <Content>Bill &amp; Melinda Gates Foundation/Dalberg,‘Haiti Mobile Money: A Point-In-Time Case Study’, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2012/05/Haiti-Mobile-Money.pdf</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -951,7 +946,7 @@
           <Content>, July 2013, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.cgap.org/sites/default/files/eg2p_Haiti.pdf</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
@@ -1115,7 +1110,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Privacy is also a growing issue, especially in cases where people must supply biometric information to register for financial products</Content>
+          <Content>Privacy is also a growing issue, especially in cases where people must supply biometric information to register for financial products.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1484,7 +1479,7 @@
     <Content>, 27 February 2012, </Content>
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor_.html</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>

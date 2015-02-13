@@ -586,7 +586,35 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The ethical implications of crowdfunding are becoming more controversial as communities find voice through their campaigns with a cause. Disputes range from issues regarding freedom of speech and discrimination, as well as the transparency of information involving these forms of fundraising. ‘The American Freedom Defense Initiative, a radical anti-Islamic group, raised $41,500 on Indiegogo (of a $50,000 target) in May 2013 for an advertisement campaign warning against what it calls “the threat of jihad and Islamic supremacism”’.[^17] Concerns have been raised in regard to the platforms’ terms of service, which explicitly state that they prohibit racial intolerance, hate campaigns, or other forms of exploitation. A moral controversy ensued at Kickstarter with a campaign for a guide on how to seduce women ‘Above the Game’.</Content>
+    <Content>The ethical implications of crowdfunding are becoming more controversial as communities find voice through their campaigns with a cause. Disputes range from issues regarding freedom of speech and discrimination, as well as the transparency of information involving these forms of fundraising. ‘The American Freedom Defense Initiative, a radical anti-Islamic group, raised $41,500 on Indiegogo (of a $50,000 target) in May 2013 for an advertisement campaign warning against what it calls “the threat of jihad and Islamic supremacism”’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Indiegogo, ‘AFDI Jihad Awareness Campaign’, https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign. Cited from: Rodrigo Davies, ‘The Ethics of Crowdfunding’, Center for Digital Ethics and Policy, Loyola University Chicago, 17 December 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://digitalethics.org/essays/the-ethics-of-crowdfunding/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Concerns have been raised in regard to the platforms’ terms of service, which explicitly state that they prohibit racial intolerance, hate campaigns, or other forms of exploitation. A moral controversy ensued at Kickstarter with a campaign for a guide on how to seduce women ‘Above the Game’.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -644,7 +672,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Kickstarter, ‘The Pocket Drone – Your Personal Flying Robot’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot</Content>
           </CharacterStyleRange>
@@ -672,7 +700,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Peoples Project, ‘First People’s Drones’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.peoplesproject.com/en/bpla/</Content>
           </CharacterStyleRange>
@@ -706,7 +734,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, 29 June 2014, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone</Content>
           </CharacterStyleRange>
@@ -777,7 +805,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Spacehive, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://spacehive.com</Content>
           </CharacterStyleRange>
@@ -805,7 +833,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Neighbourly, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://www.neighbourly.com</Content>
           </CharacterStyleRange>
@@ -839,7 +867,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, 14 November 2013, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint/</Content>
           </CharacterStyleRange>
@@ -851,7 +879,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, whereas Ioby is a ‘citizen-led neighbor funded’ not for profit organization that strengthens neighborhoods through community resourcing.</Content>
+    <Content>, whereas Ioby is a ‘citizen-led neighbor funded’ not-for-profit organization that strengthens neighborhoods through community resourcing.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -867,7 +895,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Ioby, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://ioby.org</Content>
           </CharacterStyleRange>
@@ -908,7 +936,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html</Content>
           </CharacterStyleRange>
@@ -958,7 +986,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://issuu.com/goteo.org/docs/goteo-from\_crowdfunding\_to\_crowdvoc\#</Content>
           </CharacterStyleRange>
@@ -991,7 +1019,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Goteo, ‘The Case of Goteo: From Crowdfunding to Cloudfunding to Expand Resources for the Commons’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://goteo.org/blog/3317</Content>
           </CharacterStyleRange>
@@ -1054,7 +1082,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Platoniq, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.youcoop.org/</Content>
           </CharacterStyleRange>
@@ -1104,7 +1132,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Even though Goteo has a higher than average services fee (8 percent of amount obtained), this money is invested back into the collective that the Foundation is committed (obligated) to share with society. ‘The Case of Goteo: From Crowdfunding to Cloudfunding to Expand Resources for the Commons’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://goteo.org/blog/3317</Content>
           </CharacterStyleRange>
@@ -1116,7 +1144,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> There needs to be transparency about the monetary resources that are requested with each campaign and ‘to specify in advance the type of free or open license whereby such collective returns will be made accessible.’ Instead, training people how to be open is, along with recognizing the social value within the project. The foundation first signs a contract with the promoter, who has to generate a delivery within a period of one year, which serves as a guarantee for the backers. Once the campaign is accepted by the foundation, there is a workflow generated between the beneficiaries and promoters.</Content>
+    <Content> There needs to be transparency about the monetary resources that are requested with each campaign and ‘to specify in advance the type of free or open license whereby such collective returns will be made accessible.’ Training people how to be open is alongside recognizing the social value within the project. The foundation first signs a contract with the promoter, who has to generate a delivery within a period of one year, which serves as a guarantee for the backers. Once the campaign is accepted by the foundation, there is a workflow generated between the beneficiaries and promoters.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1202,7 +1230,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>El Diario, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.eldiario.es/colaboratorio/</Content>
           </CharacterStyleRange>
@@ -1210,7 +1238,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content> or in partnership with the ECF, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.culturalfoundation.eu/</Content>
           </CharacterStyleRange>
@@ -1218,7 +1246,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content> or with dissemination through Shareable: </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-29" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.shareable.net/</Content>
           </CharacterStyleRange>
@@ -1230,7 +1258,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Comments from users are encouraged and are available. However, like other online economies, the most successful projects go hand in hand with a strong reputational economy through social media. The trust that is acquired in digital reputation through crowdfunding enables other people to support others’ projects and builds up the collective return.</Content>
+    <Content> Comments from users are encouraged and are available. However, like other online economies, the most successful projects go hand-in-hand with a strong reputational economy through social media. The trust that is acquired in digital reputation through crowdfunding enables other people to support others’ projects and builds up the collective return.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1281,9 +1309,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Felix Stadler, ‘Crowdfunding the Commons: Goteo.org Interview’, Shareable, 13 June 2012, </Content>
+          <Content>Felix Stadler, ‘Crowdfunding the Commons: Goteo.org Interview’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-29" Name="" Hidden="false">
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Shareable</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 13 June 2012, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview</Content>
           </CharacterStyleRange>
@@ -1368,7 +1402,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>This project is deemed as one of the best social innovation crowdfunded projects by the EU commission. Goteo, ‘The Social Coin’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://goteo.org/project/the-social-coin?lang=en</Content>
           </CharacterStyleRange>
@@ -1403,7 +1437,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Goteo, ‘Tuderechoasaber’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://goteo.org/project/tuderechoasaber.es?lang=en</Content>
           </CharacterStyleRange>
@@ -1451,7 +1485,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>This campaign concerns the case of Rodrigo Rato who misrepresented Bankia at their IPO, promising growth and prosperity on 20 July 2011 with shares trading at €3,75. With the help of a PR campaign he was able to convince taxpayers to invest their savings, but then the shares collapsed to only €1 ten months later, and the gap grew. ‘#Crowdfundparato’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://goteo.org/project/crowdfundparato/</Content>
           </CharacterStyleRange>
@@ -1479,7 +1513,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>They state: ‘We will undertake criminal and civil actions against members of Bankia’s Board of Directors, at the time when it was chaired by Mr. Rodrigo Rato and against the Board of Directors of the Financial and Savings Bank, for endorsing on the State a toxic and ruinous matrix. We demand prison and seizure of assets for a value equivalent to the amount obtained with the irregular placement of shares. 400,000 investors have been misled, many of them with savings in this bank. Seized money has now mysteriously disappeared, dragging the country to an imminent bailout’, ‘#Crowdfundparato’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://goteo.org/project/crowdfundparato/</Content>
           </CharacterStyleRange>
@@ -1575,7 +1609,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, 8 May 2012, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-35" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/</Content>
           </CharacterStyleRange>
@@ -1634,7 +1668,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Brian Holmes, ‘Money Unlimited: The Consequences of Quantitative Easing’, talk at MoneyLab conference, 22 March 2014, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-35" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-36" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://vimeo.com/90207678</Content>
           </CharacterStyleRange>
@@ -1668,7 +1702,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, 2 November 2013, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-36" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-37" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.onlineopen.org/columns/monetizing-the-crowds</Content>
           </CharacterStyleRange>
@@ -1704,7 +1738,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, 13 June 2012, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-37" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-38" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview</Content>
           </CharacterStyleRange>
@@ -1732,7 +1766,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>‘The crowdfunding donations are a prerequisite, testing open projects for the subsequent search of micro-investments that may be the way to further fuel the emergence of this new world of business models and non-profit oriented real social purpose, rather than the model of a maximization of profit and perpetual growth regardless of the needs of society’, ‘Sobre la regulación del crowdfunding y Ley de Fomento de la Financiación Empresarial’, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-38" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-39" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://goteo.org/blog/4325</Content>
           </CharacterStyleRange>
@@ -1762,7 +1796,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 16 April 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-39" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-40" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.theguardian.com/music/2014/apr/16/neil-young-pono-kickstarter</Content>
     </CharacterStyleRange>
@@ -1792,7 +1826,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 2 October 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-40" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-41" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.newyorker.com/culture/culture-desk/amanda-palmers-accidental-experiment-with-real-communism</Content>
     </CharacterStyleRange>
@@ -1811,7 +1845,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 14 November 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-41" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-42" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint</Content>
     </CharacterStyleRange>
@@ -1824,7 +1858,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Davies, Rodrigo. ‘The Ethics of Crowdfunding’, Center for Digital Ethics and Policy, Loyola University Chicago, 17 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-42" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-43" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://digitalethics.org/essays/the-ethics-of-crowdfunding/</Content>
     </CharacterStyleRange>
@@ -1843,7 +1877,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, July 24, 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-43" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-44" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://blog.btcjam.com/2014/07/24/untangling-peer-to-peer-lending-crowdfunding-and/</Content>
     </CharacterStyleRange>
@@ -1856,7 +1890,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Goteo. ‘#Crowdfundparato’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-44" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-45" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://goteo.org/project/crowdfundparato/</Content>
     </CharacterStyleRange>
@@ -1869,7 +1903,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘Foldarap, Peer-to-Peer Edition’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-45" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-46" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://goteo.org/project/foldarap-peer-to-peer-edition/</Content>
     </CharacterStyleRange>
@@ -1882,7 +1916,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘Nodo Móvil’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-46" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-47" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://goteo.org/project/nodo-movil</Content>
     </CharacterStyleRange>
@@ -1895,7 +1929,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘Sobre la regulación del crowdfunding y Ley de Fomento de la Financiación Empresarial’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-47" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-48" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://goteo.org/blog/4325</Content>
     </CharacterStyleRange>
@@ -1908,7 +1942,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘The Case of Goteo: From Crowdfunding to Cloudfunding to Expand Resources for the Commons’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-48" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-49" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://goteo.org/blog/3317</Content>
     </CharacterStyleRange>
@@ -1921,7 +1955,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘The Social Coin,’ </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-49" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-50" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://goteo.org/project/the-social-coin?lang=en</Content>
     </CharacterStyleRange>
@@ -1934,7 +1968,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘Tuderechoasaber’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-50" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-51" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://goteo.org/project/tuderechoasaber.es?lang=en</Content>
     </CharacterStyleRange>
@@ -1953,7 +1987,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 29 June 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-51" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-52" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone</Content>
     </CharacterStyleRange>
@@ -1966,7 +2000,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Guifi. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-52" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-53" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://guifi.net/</Content>
     </CharacterStyleRange>
@@ -1979,7 +2013,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Heussner, Ki Mae. ‘Fred Wilson: What Crowdfunding Means for VC Business’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-53" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-54" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/</Content>
     </CharacterStyleRange>
@@ -1998,7 +2032,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 27 March 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-54" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-55" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://networkcultures.org/moneylab/2014/03/27/brian-holmes-consequences-of-quantitative-easing/</Content>
     </CharacterStyleRange>
@@ -2011,7 +2045,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Indiegogo. ‘AFDI Jihad Awareness Campaign’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-55" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-56" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign</Content>
     </CharacterStyleRange>
@@ -2024,7 +2058,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Ioby. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-56" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-57" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://ioby.org</Content>
     </CharacterStyleRange>
@@ -2042,7 +2076,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>JOBS ACT. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-57" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-58" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf</Content>
     </CharacterStyleRange>
@@ -2055,7 +2089,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Kickstarter. ‘Marina Abramovic Institute: The Founders’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-58" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-59" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.kickstarter.com/projects/maihudson/marina-abramovic-institute-the-founders</Content>
     </CharacterStyleRange>
@@ -2068,7 +2102,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘Pebble: E-paper Watch for iPhone and Android’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-59" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-60" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android</Content>
     </CharacterStyleRange>
@@ -2081,7 +2115,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘The Newest Hottest Spike Lee Joint’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-60" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-61" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.kickstarter.com/projects/spikelee/the-newest-hottest-spike-lee-joint</Content>
     </CharacterStyleRange>
@@ -2094,7 +2128,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘The Pocket Drone – Your Personal Flying Robot’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-61" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-62" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot</Content>
     </CharacterStyleRange>
@@ -2107,7 +2141,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘Touch Board: Interactivity Everywhere’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-62" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-63" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.kickstarter.com/projects/863853574/touch-board-interactivity-everywhere</Content>
     </CharacterStyleRange>
@@ -2120,7 +2154,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____. ‘We Were Wrong’, 21 June 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-63" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-64" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.kickstarter.com/blog/we-were-wrong</Content>
     </CharacterStyleRange>
@@ -2139,7 +2173,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 28 February 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-64" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-65" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.theguardian.com/media-network/media-network-blog/2014/feb/28/ten-digital-social-innovators-online</Content>
     </CharacterStyleRange>
@@ -2163,7 +2197,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-65" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-66" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html</Content>
     </CharacterStyleRange>
@@ -2176,7 +2210,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Neighbourly. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-66" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-67" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.neighbourly.com</Content>
     </CharacterStyleRange>
@@ -2189,7 +2223,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>New York Times Editorial, 3 March 2011, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-67" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-68" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?_r=0</Content>
     </CharacterStyleRange>
@@ -2202,7 +2236,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Peoples Project, ‘First People’s Drones’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-68" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-69" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.peoplesproject.com/en/bpla/</Content>
     </CharacterStyleRange>
@@ -2220,7 +2254,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Platoniq. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-69" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-70" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.youcoop.org/</Content>
     </CharacterStyleRange>
@@ -2250,7 +2284,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-70" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-71" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.onlineopen.org/columns/monetizing-the-crowds</Content>
     </CharacterStyleRange>
@@ -2269,7 +2303,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 13 June 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-71" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-72" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview</Content>
     </CharacterStyleRange>
@@ -2278,292 +2312,279 @@
     <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;17]: Indiegogo, ‘AFDI Jihad Awareness Campaign’, https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign. Cited from: Rodrigo Davies, ‘The Ethics of Crowdfunding’, Center for Digital Ethics and Policy, Loyola University Chicago, 17 December 2013, </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-72" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://digitalethics.org/essays/the-ethics-of-crowdfunding/</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://digitalethics.org/essays/the-ethics-of-crowdfunding/" Name="link" DestinationURL="http://digitalethics.org/essays/the-ethics-of-crowdfunding/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-72" Name="http://digitalethics.org/essays/the-ethics-of-crowdfunding/" Source="htss-72" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://digitalethics.org/essays/the-ethics-of-crowdfunding/</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" Name="link" DestinationURL="http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-71" Name="http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" Source="htss-71" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-72" Name="http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" Source="htss-72" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.onlineopen.org/columns/monetizing-the-crowds" Name="link" DestinationURL="http://www.onlineopen.org/columns/monetizing-the-crowds" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-70" Name="http://www.onlineopen.org/columns/monetizing-the-crowds" Source="htss-70" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-71" Name="http://www.onlineopen.org/columns/monetizing-the-crowds" Source="htss-71" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.onlineopen.org/columns/monetizing-the-crowds</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.youcoop.org/" Name="link" DestinationURL="http://www.youcoop.org/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-69" Name="http://www.youcoop.org/" Source="htss-69" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-70" Name="http://www.youcoop.org/" Source="htss-70" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.youcoop.org/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.peoplesproject.com/en/bpla/" Name="link" DestinationURL="http://www.peoplesproject.com/en/bpla/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-68" Name="http://www.peoplesproject.com/en/bpla/" Source="htss-68" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-69" Name="http://www.peoplesproject.com/en/bpla/" Source="htss-69" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.peoplesproject.com/en/bpla/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?_r=0" Name="link" DestinationURL="http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?_r=0" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-67" Name="http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?_r=0" Source="htss-67" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-68" Name="http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?_r=0" Source="htss-68" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?_r=0</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.neighbourly.com" Name="link" DestinationURL="https://www.neighbourly.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-66" Name="https://www.neighbourly.com" Source="htss-66" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-67" Name="https://www.neighbourly.com" Source="htss-67" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.neighbourly.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html" Name="link" DestinationURL="http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-65" Name="http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html" Source="htss-65" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-66" Name="http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html" Source="htss-66" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/media-network/media-network-blog/2014/feb/28/ten-digital-social-innovators-online" Name="link" DestinationURL="http://www.theguardian.com/media-network/media-network-blog/2014/feb/28/ten-digital-social-innovators-online" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-64" Name="http://www.theguardian.com/media-network/media-network-blog/2014/feb/28/ten-digital-social-innovators-online" Source="htss-64" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-65" Name="http://www.theguardian.com/media-network/media-network-blog/2014/feb/28/ten-digital-social-innovators-online" Source="htss-65" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/media-network/media-network-blog/2014/feb/28/ten-digital-social-innovators-online</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.kickstarter.com/blog/we-were-wrong" Name="link" DestinationURL="https://www.kickstarter.com/blog/we-were-wrong" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-63" Name="https://www.kickstarter.com/blog/we-were-wrong" Source="htss-63" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-64" Name="https://www.kickstarter.com/blog/we-were-wrong" Source="htss-64" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.kickstarter.com/blog/we-were-wrong</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.kickstarter.com/projects/863853574/touch-board-interactivity-everywhere" Name="link" DestinationURL="https://www.kickstarter.com/projects/863853574/touch-board-interactivity-everywhere" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-62" Name="https://www.kickstarter.com/projects/863853574/touch-board-interactivity-everywhere" Source="htss-62" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-63" Name="https://www.kickstarter.com/projects/863853574/touch-board-interactivity-everywhere" Source="htss-63" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.kickstarter.com/projects/863853574/touch-board-interactivity-everywhere</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot" Name="link" DestinationURL="https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-61" Name="https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot" Source="htss-61" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-62" Name="https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot" Source="htss-62" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.kickstarter.com/projects/spikelee/the-newest-hottest-spike-lee-joint" Name="link" DestinationURL="https://www.kickstarter.com/projects/spikelee/the-newest-hottest-spike-lee-joint" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-60" Name="https://www.kickstarter.com/projects/spikelee/the-newest-hottest-spike-lee-joint" Source="htss-60" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-61" Name="https://www.kickstarter.com/projects/spikelee/the-newest-hottest-spike-lee-joint" Source="htss-61" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.kickstarter.com/projects/spikelee/the-newest-hottest-spike-lee-joint</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" Name="link" DestinationURL="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-59" Name="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" Source="htss-59" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-60" Name="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" Source="htss-60" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.kickstarter.com/projects/maihudson/marina-abramovic-institute-the-founders" Name="link" DestinationURL="https://www.kickstarter.com/projects/maihudson/marina-abramovic-institute-the-founders" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-58" Name="https://www.kickstarter.com/projects/maihudson/marina-abramovic-institute-the-founders" Source="htss-58" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-59" Name="https://www.kickstarter.com/projects/maihudson/marina-abramovic-institute-the-founders" Source="htss-59" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.kickstarter.com/projects/maihudson/marina-abramovic-institute-the-founders</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf" Name="link" DestinationURL="http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-57" Name="http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf" Source="htss-57" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-58" Name="http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf" Source="htss-58" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://ioby.org" Name="link" DestinationURL="http://ioby.org" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-56" Name="http://ioby.org" Source="htss-56" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-57" Name="http://ioby.org" Source="htss-57" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://ioby.org</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign" Name="link" DestinationURL="https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-55" Name="https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign" Source="htss-55" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-56" Name="https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign" Source="htss-56" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/moneylab/2014/03/27/brian-holmes-consequences-of-quantitative-easing/" Name="link" DestinationURL="http://networkcultures.org/moneylab/2014/03/27/brian-holmes-consequences-of-quantitative-easing/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-54" Name="http://networkcultures.org/moneylab/2014/03/27/brian-holmes-consequences-of-quantitative-easing/" Source="htss-54" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-55" Name="http://networkcultures.org/moneylab/2014/03/27/brian-holmes-consequences-of-quantitative-easing/" Source="htss-55" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/moneylab/2014/03/27/brian-holmes-consequences-of-quantitative-easing/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/" Name="link" DestinationURL="https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-53" Name="https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/" Source="htss-53" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-54" Name="https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/" Source="htss-54" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://guifi.net/" Name="link" DestinationURL="http://guifi.net/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-52" Name="http://guifi.net/" Source="htss-52" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-53" Name="http://guifi.net/" Source="htss-53" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://guifi.net/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone" Name="link" DestinationURL="http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-51" Name="http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone" Source="htss-51" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-52" Name="http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone" Source="htss-52" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/project/tuderechoasaber.es?lang=en" Name="link" DestinationURL="https://goteo.org/project/tuderechoasaber.es?lang=en" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-50" Name="https://goteo.org/project/tuderechoasaber.es?lang=en" Source="htss-50" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-51" Name="https://goteo.org/project/tuderechoasaber.es?lang=en" Source="htss-51" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/project/tuderechoasaber.es?lang=en</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/project/the-social-coin?lang=en" Name="link" DestinationURL="https://goteo.org/project/the-social-coin?lang=en" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-49" Name="https://goteo.org/project/the-social-coin?lang=en" Source="htss-49" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-50" Name="https://goteo.org/project/the-social-coin?lang=en" Source="htss-50" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/project/the-social-coin?lang=en</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/blog/3317" Name="link" DestinationURL="https://goteo.org/blog/3317" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-48" Name="https://goteo.org/blog/3317" Source="htss-48" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-49" Name="https://goteo.org/blog/3317" Source="htss-49" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/blog/3317</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/blog/4325" Name="link" DestinationURL="https://goteo.org/blog/4325" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-47" Name="https://goteo.org/blog/4325" Source="htss-47" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-48" Name="https://goteo.org/blog/4325" Source="htss-48" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/blog/4325</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://goteo.org/project/nodo-movil" Name="link" DestinationURL="http://goteo.org/project/nodo-movil" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-46" Name="http://goteo.org/project/nodo-movil" Source="htss-46" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-47" Name="http://goteo.org/project/nodo-movil" Source="htss-47" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://goteo.org/project/nodo-movil</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/project/foldarap-peer-to-peer-edition/" Name="link" DestinationURL="https://goteo.org/project/foldarap-peer-to-peer-edition/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-45" Name="https://goteo.org/project/foldarap-peer-to-peer-edition/" Source="htss-45" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-46" Name="https://goteo.org/project/foldarap-peer-to-peer-edition/" Source="htss-46" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/project/foldarap-peer-to-peer-edition/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/project/crowdfundparato/" Name="link" DestinationURL="https://goteo.org/project/crowdfundparato/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-44" Name="https://goteo.org/project/crowdfundparato/" Source="htss-44" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-45" Name="https://goteo.org/project/crowdfundparato/" Source="htss-45" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/project/crowdfundparato/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.btcjam.com/2014/07/24/untangling-peer-to-peer-lending-crowdfunding-and/" Name="link" DestinationURL="http://blog.btcjam.com/2014/07/24/untangling-peer-to-peer-lending-crowdfunding-and/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-43" Name="http://blog.btcjam.com/2014/07/24/untangling-peer-to-peer-lending-crowdfunding-and/" Source="htss-43" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-44" Name="http://blog.btcjam.com/2014/07/24/untangling-peer-to-peer-lending-crowdfunding-and/" Source="htss-44" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://blog.btcjam.com/2014/07/24/untangling-peer-to-peer-lending-crowdfunding-and/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://digitalethics.org/essays/the-ethics-of-crowdfunding/" Name="link" DestinationURL="http://digitalethics.org/essays/the-ethics-of-crowdfunding/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-42" Name="http://digitalethics.org/essays/the-ethics-of-crowdfunding/" Source="htss-42" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-43" Name="http://digitalethics.org/essays/the-ethics-of-crowdfunding/" Source="htss-43" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://digitalethics.org/essays/the-ethics-of-crowdfunding/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint" Name="link" DestinationURL="http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-41" Name="http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint" Source="htss-41" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-42" Name="http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint" Source="htss-42" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.newyorker.com/culture/culture-desk/amanda-palmers-accidental-experiment-with-real-communism" Name="link" DestinationURL="http://www.newyorker.com/culture/culture-desk/amanda-palmers-accidental-experiment-with-real-communism" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-40" Name="http://www.newyorker.com/culture/culture-desk/amanda-palmers-accidental-experiment-with-real-communism" Source="htss-40" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-41" Name="http://www.newyorker.com/culture/culture-desk/amanda-palmers-accidental-experiment-with-real-communism" Source="htss-41" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.newyorker.com/culture/culture-desk/amanda-palmers-accidental-experiment-with-real-communism</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/music/2014/apr/16/neil-young-pono-kickstarter" Name="link" DestinationURL="http://www.theguardian.com/music/2014/apr/16/neil-young-pono-kickstarter" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-39" Name="http://www.theguardian.com/music/2014/apr/16/neil-young-pono-kickstarter" Source="htss-39" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-40" Name="http://www.theguardian.com/music/2014/apr/16/neil-young-pono-kickstarter" Source="htss-40" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/music/2014/apr/16/neil-young-pono-kickstarter</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/blog/4325" Name="link" DestinationURL="https://goteo.org/blog/4325" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-38" Name="https://goteo.org/blog/4325" Source="htss-38" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-39" Name="https://goteo.org/blog/4325" Source="htss-39" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/blog/4325</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" Name="link" DestinationURL="http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-37" Name="http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" Source="htss-37" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-38" Name="http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" Source="htss-38" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.onlineopen.org/columns/monetizing-the-crowds" Name="link" DestinationURL="http://www.onlineopen.org/columns/monetizing-the-crowds" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-36" Name="http://www.onlineopen.org/columns/monetizing-the-crowds" Source="htss-36" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-37" Name="http://www.onlineopen.org/columns/monetizing-the-crowds" Source="htss-37" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.onlineopen.org/columns/monetizing-the-crowds</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://vimeo.com/90207678" Name="link" DestinationURL="http://vimeo.com/90207678" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-35" Name="http://vimeo.com/90207678" Source="htss-35" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-36" Name="http://vimeo.com/90207678" Source="htss-36" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://vimeo.com/90207678</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/" Name="link" DestinationURL="https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-34" Name="https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/" Source="htss-34" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-35" Name="https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/" Source="htss-35" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://gigaom.com/2012/05/08/fred-wilson-what-crowdfunding-means-for-the-vc-business/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/project/crowdfundparato/" Name="link" DestinationURL="https://goteo.org/project/crowdfundparato/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-34" Name="https://goteo.org/project/crowdfundparato/" Source="htss-34" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://goteo.org/project/crowdfundparato/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/project/crowdfundparato/" Name="link" DestinationURL="https://goteo.org/project/crowdfundparato/" DestinationUniqueKey="1" />
@@ -2573,137 +2594,137 @@
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/project/crowdfundparato/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/project/crowdfundparato/" Name="link" DestinationURL="https://goteo.org/project/crowdfundparato/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-32" Name="https://goteo.org/project/crowdfundparato/" Source="htss-32" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://goteo.org/project/crowdfundparato/</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/project/tuderechoasaber.es?lang=en" Name="link" DestinationURL="https://goteo.org/project/tuderechoasaber.es?lang=en" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-31" Name="https://goteo.org/project/tuderechoasaber.es?lang=en" Source="htss-31" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-32" Name="https://goteo.org/project/tuderechoasaber.es?lang=en" Source="htss-32" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/project/tuderechoasaber.es?lang=en</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/project/the-social-coin?lang=en" Name="link" DestinationURL="https://goteo.org/project/the-social-coin?lang=en" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-30" Name="https://goteo.org/project/the-social-coin?lang=en" Source="htss-30" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-31" Name="https://goteo.org/project/the-social-coin?lang=en" Source="htss-31" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/project/the-social-coin?lang=en</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" Name="link" DestinationURL="http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-29" Name="http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" Source="htss-29" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-30" Name="http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview" Source="htss-30" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.shareable.net/blog/crowdfunding-the-commons-goteoorg-interview</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shareable.net/" Name="link" DestinationURL="http://www.shareable.net/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-28" Name="http://www.shareable.net/" Source="htss-28" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-29" Name="http://www.shareable.net/" Source="htss-29" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.shareable.net/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.culturalfoundation.eu/" Name="link" DestinationURL="http://www.culturalfoundation.eu/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-27" Name="http://www.culturalfoundation.eu/" Source="htss-27" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-28" Name="http://www.culturalfoundation.eu/" Source="htss-28" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.culturalfoundation.eu/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.eldiario.es/colaboratorio/" Name="link" DestinationURL="http://www.eldiario.es/colaboratorio/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-26" Name="http://www.eldiario.es/colaboratorio/" Source="htss-26" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-27" Name="http://www.eldiario.es/colaboratorio/" Source="htss-27" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.eldiario.es/colaboratorio/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/blog/3317" Name="link" DestinationURL="https://goteo.org/blog/3317" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-25" Name="https://goteo.org/blog/3317" Source="htss-25" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-26" Name="https://goteo.org/blog/3317" Source="htss-26" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/blog/3317</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.youcoop.org/" Name="link" DestinationURL="http://www.youcoop.org/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-24" Name="http://www.youcoop.org/" Source="htss-24" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-25" Name="http://www.youcoop.org/" Source="htss-25" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.youcoop.org/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://goteo.org/blog/3317" Name="link" DestinationURL="https://goteo.org/blog/3317" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-23" Name="https://goteo.org/blog/3317" Source="htss-23" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-24" Name="https://goteo.org/blog/3317" Source="htss-24" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://goteo.org/blog/3317</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://issuu.com/goteo.org/docs/goteo-from\_crowdfunding\_to\_crowdvoc\#" Name="link" DestinationURL="http://issuu.com/goteo.org/docs/goteo-from\_crowdfunding\_to\_crowdvoc\#" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-22" Name="http://issuu.com/goteo.org/docs/goteo-from\_crowdfunding\_to\_crowdvoc\#" Source="htss-22" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-23" Name="http://issuu.com/goteo.org/docs/goteo-from\_crowdfunding\_to\_crowdvoc\#" Source="htss-23" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://issuu.com/goteo.org/docs/goteo-from\_crowdfunding\_to\_crowdvoc\#</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html" Name="link" DestinationURL="http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-21" Name="http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html" Source="htss-21" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-22" Name="http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html" Source="htss-22" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-a-989584.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://ioby.org" Name="link" DestinationURL="http://ioby.org" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-20" Name="http://ioby.org" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-21" Name="http://ioby.org" Source="htss-21" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://ioby.org</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint/" Name="link" DestinationURL="http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-19" Name="http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint/" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-20" Name="http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint/" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://thebrooklynink.com/2013/11/14/53262-kickstarter-greenpoint/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.neighbourly.com" Name="link" DestinationURL="https://www.neighbourly.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-18" Name="https://www.neighbourly.com" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-19" Name="https://www.neighbourly.com" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.neighbourly.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://spacehive.com" Name="link" DestinationURL="https://spacehive.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-17" Name="https://spacehive.com" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-18" Name="https://spacehive.com" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://spacehive.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone" Name="link" DestinationURL="http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-17" Name="http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/world/2014/jun/29/outgunned-ukrainian-army-crowdfunding-people-drone</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.peoplesproject.com/en/bpla/" Name="link" DestinationURL="http://www.peoplesproject.com/en/bpla/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="http://www.peoplesproject.com/en/bpla/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-16" Name="http://www.peoplesproject.com/en/bpla/" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.peoplesproject.com/en/bpla/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot" Name="link" DestinationURL="https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-15" Name="https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.kickstarter.com/projects/airdroids/the-pocket-drone-your-personal-flying-robot</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://digitalethics.org/essays/the-ethics-of-crowdfunding/" Name="link" DestinationURL="http://digitalethics.org/essays/the-ethics-of-crowdfunding/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-14" Name="http://digitalethics.org/essays/the-ethics-of-crowdfunding/" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://digitalethics.org/essays/the-ethics-of-crowdfunding/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?\_r=0" Name="link" DestinationURL="http://www.nytimes.com/2012/03/11/opinion/sunday/washington-has-a-very-short-memory.html?\_r=0" DestinationUniqueKey="1" />

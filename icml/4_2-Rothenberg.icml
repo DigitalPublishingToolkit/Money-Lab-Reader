@@ -107,7 +107,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Several years back while conducting research on crowdfunding, a website called ‘Kiva’ came up in my search. For as little as $25 U.S. Dollars I could empower a poor woman in Bolivia. By contributing to her microloan of $250, I could help her purchase a cow for her farm and jump-start her life as a global entrepreneur. Curious, I clicked on her tentative but hopeful image that led me to more details. Her finely crafted but succinct profile shed just enough information about her life to pique my empathy alongside a selection of shocking economic statistics for her country. This information was juxtaposed to a list of lenders, complete with snapshot selfies and a personal blurb as to why they donate. As I scrolled down the list, I encountered an amalgam of responses that ranged from the banal to the self-righteous to the downright erratic: I donate because giving to others in need is good; I donate because I’m a post human; I donate because it’s sexy.</Content>
+    <Content>Several years back while conducting research on crowdfunding, a website called ‘Kiva’ came up in my search. For as little as $25 U.S. Dollars I could empower a poor woman in Bolivia. By contributing to her microloan of $250, I could help her purchase a cow for her farm and jump-start her life as a global entrepreneur. Curious, I clicked on her tentative but hopeful image that led me to more details. Her finely crafted but succinct profile shed just enough information about her life to pique my empathy, alongside a selection of shocking economic statistics for her country. This information was juxtaposed to a list of lenders, complete with snapshot selfies and a personal blurb as to why they donate. As I scrolled down the list, I encountered an amalgam of responses that ranged from the banal to the self-righteous to the downright erratic: I donate because giving to others in need is good; I donate because I’m a post human; I donate because it’s sexy.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -137,7 +137,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Started as a non-profit venture in 2005, Kiva is with similar organizations such as Global Giving part of a growing network of so-called ‘alternative’ charities. These philanthropic businesses leverage social media and mobile money platforms to merge business goals with social progress. The hybridization has led to a sector of the microfinance industry that utilizes crowdfunded microlending. The result is a ‘marketization of philanthropy’, a philanthropy for the masses, producing a new breed of loan-borrowing ‘entrepreneurs’ rising from the depths of the global poor.</Content>
+    <Content>Started as a non-profit venture in 2005, Kiva is, with similar organizations such as Global Giving, part of a growing network of so-called ‘alternative’ charities. These philanthropic businesses leverage social media and mobile money platforms to merge business goals with social progress. The hybridization has led to a sector of the microfinance industry that utilizes crowdfunded microlending. The result is a ‘marketization of philanthropy’, a philanthropy for the masses, producing a new breed of loan-borrowing ‘entrepreneurs’ rising from the depths of the global poor.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -168,15 +168,15 @@
     <Content>As the first and largest charity platform of its kind, Kiva has received much praise in business circles and the world of celebrities including Bill Clinton, Oprah Winfrey, and </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>New York Times</Content>
+    <Content>The New York Times</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> writer Nicholas Kristof known as the ‘White Knight’ for his column on human rights. All espouse the Kiva mantra that the organization is helping to alleviate global poverty and empower the global poor through microcredit.</Content>
+    <Content> writer Nicholas Kristof, known as the ‘White Knight’ for his column on human rights. All espouse the Kiva mantra that the organization is helping to alleviate global poverty and empower the global poor through microcredit.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>And to some extent it is. Kiva is becoming a household name, at least in the Global North, along with the concept of microcredit/microloans due to the popularity of platforms such as Kickstarter and Indiegogo. Through Kiva’s website, the organization claims to have raised over $605,592,375 million through 1,218,000 lenders giving to 1,403,980 borrowers with a 99.97 percent repayment rate.</Content>
+    <Content>And to some extent it is. Kiva is becoming a household name, at least in the Global North, along with the concept of microcredit/microloans, due to the popularity of platforms such as Kickstarter and Indiegogo. Through Kiva’s website, the organization claims to have raised over $605,592,375 million through 1,218,000 lenders giving to 1,403,980 borrowers with a 99.97 percent repayment rate.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -248,7 +248,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Yet these problems aren’t specific to Kiva, but long regarded concerns within the microfinance industry. The real issue with platforms such as Kiva that Sinclair raises is that they produce a veneer of philanthropy. Do we really care if it works as long as it satisfies our ethical desire for that ‘warm glow’ feeling we get when we give to the needy?</Content>
+    <Content>Yet these problems aren’t specific to Kiva, but long regarded concerns within the microfinance industry. The real issue with platforms such as Kiva that Sinclair raises is that they produce a veneer of philanthropy. Do we really care if it works as long as it satisfies our ethical desire for that ‘warm glow’ we get when we give to the needy?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -329,18 +329,18 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> In this four-and-a-half minute animation, Kiva shows a five year history of funding activity set to the tune of Tchaikovsky’s famous 1812 Overture. If you don’t know the history of the song, this famous war score was written to commemorate Russia’s defense of its homeland from Napoleon. In the animation depicting a world map, loans coming from the Global North are represented by exploding cannon fire shot through the air with their ‘target’ destination being borrowers in the Global South. Somehow I don’t think Kiva got the irony here.</Content>
+    <Content> In this four-and-a-half minute animation, Kiva shows a five year history of funding activity set to the tune of Tchaikovsky’s 1812 Overture. If you don’t know the history of the song, this famous war score was written to commemorate Russia’s defense of its homeland from Napoleon. In the animation depicting a world map, loans coming from the Global North are represented by exploding cannon fire shot through the air with their ‘target’ destination being borrowers in the Global South. Somehow I don’t think Kiva got the irony here.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Perversely inspired by the above examples, I decided to create my own info graphic interpretations of crowdfunded microfinance. Rather than using bombs I felt plants, like the delicate leaf in the Kiva logo, were more appropriate. The outcome has resulted in a series currently in development called </Content>
+    <Content>Perversely inspired by the above examples, I decided to create my own infographic interpretations of crowdfunded microfinance. Rather than using bombs I felt plants, like the delicate leaf in the Kiva logo, were more appropriate. The outcome has resulted in a series currently in development called </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Reversal of Fortune</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> comprised of live and digital gardens. The gardens reflect on how empathy-at-a-distance is produced while offering a counter mapping to the flows of microfinance capital that Kiva provides its audience.</Content>
+    <Content>, comprised of live and digital gardens. The gardens reflect on how empathy-at-a-distance is produced while offering a counter mapping to the flows of microfinance capital that Kiva provides its audience.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -432,7 +432,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Even more recently, NASA announced last year their ‘Lunar Plant Growth Habitat’ that further extrapolates on these early ideas of telematic gardening and takes crowdsourcing to the next level – the moon. In an article in </Content>
+    <Content>Even more recently, NASA announced their ‘Lunar Plant Growth Habitat’ that further extrapolates on these early ideas of telematic gardening and takes crowdsourcing to the next level – the moon. In an article in </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Forbes</Content>
@@ -454,6 +454,14 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Tarun Wadhwa, ‘NASA’s Next Frontier: Growing Plants on the Moon’, </Content>
         </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. </Content>
+        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Forbes</Content>
         </CharacterStyleRange>
@@ -469,7 +477,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>An interesting comment in the article by planetary scientist Dr. Chris McKay alludes to this shift in space program mentality – looking more like tech startups. The author understates the actual issue of government funding dwindling and the privatization of the industry. ‘Dr. McKay sees a world of possibilities emerging from this democratization [...] When your experiment costs 300 million dollars, and you do one a decade, you can’t take any risks. [...] But if your experiment is a million dollars and being done by grad students, you can do crazy and brilliant things.’</Content>
+    <Content>An interesting comment in the article by planetary scientist Dr. Chris McKay alludes to this shift in space program mentality towards looking more like tech startups. The author understates the actual issue of government funding dwindling and the privatization of the industry. ‘Dr. McKay sees a world of possibilities emerging from this democratization [] When your experiment costs 300 million dollars, and you do one a decade, you can’t take any risks. [] But if your experiment is a million dollars and being done by grad students, you can do crazy and brilliant things.’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -554,7 +562,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Stephanie Rothenberg, ‘Garden of Virtual Kinship’,</Content>
+          <Content>Stephanie Rothenberg, ‘Garden of Virtual Kinship’, [http://www.pan-o-matic.com/projects/reversal-of-fortune-the-garden-of-virtual-kinship] (http://www.pan-o-matic.com/projects/reversal-of-fortune-the-garden-of-virtual-kinship).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -574,7 +582,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Kiva live feed,</Content>
+          <Content>Kiva live feed, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.kiva.org/live</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -591,7 +607,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In addition, a side column gives a brief description of the loan activity that links to the borrower’s webpage encouraging further funding. For example: ‘John made a loan, which helps Gulmira purchase additional sheep in order to develop her livestock activity’.</Content>
+    <Content>In addition, a side column gives a brief description of the loan activity that links to the borrower’s webpage encouraging further funding. For example: ‘John made a loan, which helps Gulmira purchase additional sheep in order to develop her livestock activity.’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -605,7 +621,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Kiva lender’s page,</Content>
+          <Content>Kiva lender’s page, [http://www.kiva.org/lend/778631] (http://www.kiva.org/lend/778631).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -733,7 +749,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>On Kiva.org […] users can integrate such conscientious practices with the techno-social rhythms of their daily lives. Kiva ‘lets you browse loans on Facebook, and show off your loans in your Facebook page.’ There is Kiva for the iPhone, which ‘lets you get your Kiva fix from anywhere you bring your phone,’ and Kiva Tweets, which ‘automatically posts new loans to your Twitter account daily or weekly.’</Content>
+    <Content>On Kiva.org […] users can integrate such conscientious practices with the techno-social rhythms of their daily lives. Kiva “lets you browse loans on Facebook, and show off your loans in your Facebook page.” There is Kiva for the iPhone, which “lets you get your Kiva fix from anywhere you bring your phone,” and Kiva Tweets, which “automatically posts new loans to your Twitter account daily or weekly.”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -818,7 +834,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Stephanie Rothenberg, ‘Desiring Subjects, Desiring Plants’,</Content>
+          <Content>Stephanie Rothenberg, ‘Desiring Subjects, Desiring Plants’, [http://www.pan-o-matic.com/projects/reversal-of-fortune-desiring-subjects-desiring-plants] (http://www.pan-o-matic.com/projects/reversal-of-fortune-desiring-subjects-desiring-plants).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -829,7 +845,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Each hanging planter is equipped with its own automated watering system — an IV bag holding water along with a small LCD screen and audio speaker. When a loan from the Kiva website receives funding it activates the system. The IV bag releases a drip of water. The screen displays text from the lender’s profile page as to why they donate. The audio speaker speaks the message such as ‘I donate because it’s sexy’. The result is a real time cacophony of scrolling messages and synthetic voices emoting the feelings of lenders from around the world, or rather the Global North.</Content>
+    <Content>Each hanging planter is equipped with its own automated watering system - an IV bag holding water along with a small LCD screen and audio speaker. When a loan from the Kiva website receives funding it activates the system. The IV bag releases a drip of water. The screen displays text from the lender’s profile page as to why they donate. The audio speaker speaks the message such as ‘I donate because it’s sexy’. The result is a real time cacophony of scrolling messages and synthetic voices emoting the feelings of lenders from around the world, or rather the Global North.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -865,7 +881,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Christian Children’s Fund ‘Feed the Children’, campaign video,</Content>
+          <Content>Christian Children’s Fund ‘Feed the Children’, campaign video, [https://www.youtube.com/watch?v=XsxVy7vyyk0] (https://www.youtube.com/watch?v=XsxVy7vyyk00.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -890,13 +906,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Jessica Jackley, ‘Poverty, money –and love’, TED, July 2010,</Content>
+          <Content>Jessica Jackley, ‘Poverty, money –and love’, TED, July 2010, [http://www.ted.com/talks/jessica_jackley_poverty_money_and_love?language=en] (http://www.ted.com/talks/jessica_jackley_poverty_money_and_love?language=en).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Having spent time in Africa during her college years, she came to the realization that it was more effective to help the poor help themselves. We no longer need to feel guilty about our overpriced Starbuck’s cappuccino. Through the magic of microlending, we are empowered by empowering a poor farmer the entrepreneurial potential of owning his own coffee bean plantation.</Content>
+    <Content> Having spent time in Africa during her college years, she came to the realization that it was more effective to help the poor help themselves. We no longer need to feel guilty about our overpriced Starbucks cappuccino. Through the magic of microlending, we are empowered by empowering a poor farmer in the entrepreneurial potential of owning his own coffee bean plantation.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -929,7 +945,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Over 10 years later, what is the new weapon of mass salvation? Could it be philanthropic crowdfunding with its ability to leverage middle class emotions in order to mobilize new financial assets from the global poor? And what about crowdfunding’s underlying mechanisms that function to aid the impoverished but also to fund a work of art?</Content>
+    <Content>Over ten years later, what is the new weapon of mass salvation? Could it be philanthropic crowdfunding with its ability to leverage middle class emotions in order to mobilize new financial assets from the global poor? And what about crowdfunding’s underlying mechanisms that function to aid the impoverished but also to fund a work of art?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -963,7 +979,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Christian Children’s Fund, ‘Feed the Children’ campaign video, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.youtube.com/watch?v=XsxVy7vyyk0</Content>
     </CharacterStyleRange>
@@ -976,7 +992,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Goldberg, Ken. ‘The Telegarden’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.ieor.berkeley.edu/~goldberg/garden/Ars</Content>
     </CharacterStyleRange>
@@ -989,7 +1005,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Intercontinental Ballistic Microfinance, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://vimeo.com/28413747</Content>
     </CharacterStyleRange>
@@ -1007,7 +1023,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Kiva, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.kiva.org</Content>
     </CharacterStyleRange>
@@ -1020,7 +1036,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Kiva Cloud, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.frazao.org/kivacloud</Content>
     </CharacterStyleRange>
@@ -1037,7 +1053,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Rothenberg, Stephanie. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.stephanierothenberg.com</Content>
     </CharacterStyleRange>
@@ -1061,7 +1077,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Sinclair, Hugh. ‘</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>The Kiva Fairytale: It's a Microlending Superstar – But Who is it Really Serving?</Content>
     </CharacterStyleRange>
@@ -1075,7 +1091,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 10 February 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://nextbillion.net/blogpost.aspx?blogid=3726</Content>
     </CharacterStyleRange>
@@ -1099,7 +1115,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Yunas, Muhammed. Nobel Lecture, Oslo, 10 December 2006, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.nobelprize.org/nobel_prizes/peace/laureates/2006/yunus-lecture-en.html</Content>
     </CharacterStyleRange>
@@ -1111,66 +1127,80 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nobelprize.org/nobel_prizes/peace/laureates/2006/yunus-lecture-en.html" Name="link" DestinationURL="http://www.nobelprize.org/nobel_prizes/peace/laureates/2006/yunus-lecture-en.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="http://www.nobelprize.org/nobel_prizes/peace/laureates/2006/yunus-lecture-en.html" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-18" Name="http://www.nobelprize.org/nobel_prizes/peace/laureates/2006/yunus-lecture-en.html" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.nobelprize.org/nobel_prizes/peace/laureates/2006/yunus-lecture-en.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://nextbillion.net/blogpost.aspx?blogid=3726" Name="link" DestinationURL="http://nextbillion.net/blogpost.aspx?blogid=3726" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="http://nextbillion.net/blogpost.aspx?blogid=3726" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-17" Name="http://nextbillion.net/blogpost.aspx?blogid=3726" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://nextbillion.net/blogpost.aspx?blogid=3726</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://nextbillion.net/blogpost.aspx?blogid=3726" Name="link" DestinationURL="http://nextbillion.net/blogpost.aspx?blogid=3726" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="http://nextbillion.net/blogpost.aspx?blogid=3726" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-16" Name="http://nextbillion.net/blogpost.aspx?blogid=3726" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://nextbillion.net/blogpost.aspx?blogid=3726</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stephanierothenberg.com" Name="link" DestinationURL="http://www.stephanierothenberg.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="http://www.stephanierothenberg.com" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-15" Name="http://www.stephanierothenberg.com" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.stephanierothenberg.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.frazao.org/kivacloud" Name="link" DestinationURL="http://www.frazao.org/kivacloud" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://www.frazao.org/kivacloud" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-14" Name="http://www.frazao.org/kivacloud" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.frazao.org/kivacloud</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kiva.org" Name="link" DestinationURL="http://www.kiva.org" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="http://www.kiva.org" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-13" Name="http://www.kiva.org" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.kiva.org</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://vimeo.com/28413747" Name="link" DestinationURL="http://vimeo.com/28413747" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="http://vimeo.com/28413747" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-12" Name="http://vimeo.com/28413747" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://vimeo.com/28413747</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ieor.berkeley.edu/~goldberg/garden/Ars" Name="link" DestinationURL="http://www.ieor.berkeley.edu/~goldberg/garden/Ars" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://www.ieor.berkeley.edu/~goldberg/garden/Ars" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-11" Name="http://www.ieor.berkeley.edu/~goldberg/garden/Ars" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.ieor.berkeley.edu/~goldberg/garden/Ars</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.youtube.com/watch?v=XsxVy7vyyk0" Name="link" DestinationURL="https://www.youtube.com/watch?v=XsxVy7vyyk0" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="https://www.youtube.com/watch?v=XsxVy7vyyk0" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-10" Name="https://www.youtube.com/watch?v=XsxVy7vyyk0" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.youtube.com/watch?v=XsxVy7vyyk0</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kiva.org/live" Name="link" DestinationURL="http://www.kiva.org/live" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://www.kiva.org/live" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.kiva.org/live</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon" Name="link" DestinationURL="http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ieor.berkeley.edu/~goldberg/garden/Ars" Name="link" DestinationURL="http://www.ieor.berkeley.edu/~goldberg/garden/Ars" DestinationUniqueKey="1" />

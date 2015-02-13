@@ -596,29 +596,74 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Amsterdams Fonds voor de Kunst, http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/ Culture Crowd UK,</Content>
+    <Content>Amsterdams Fonds voor de Kunst, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Jeffers, Adrianne. ‘Indie No-go: Only One in Ten Projects Gets Fully Funded on Kickstarter's Biggest Rival’, The Verge, 7 August 2013,</Content>
+    <Content>Culture Crowd UK, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Kickstarter,</Content>
+    <Content>Jeffers, Adrianne. ‘Indie No-go: Only One in Ten Projects Gets Fully Funded on Kickstarter's Biggest Rival’, The Verge, 7 August 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Mondriaan Fonds,</Content>
+    <Content>Kickstarter, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://www.kickstarter.com/help/stats</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mondriaan Fonds, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/.</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>MoneyLab Crowdfunding Toolkit, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.networkcultures.org/moneylab-toolkit</Content>
     </CharacterStyleRange>
@@ -630,10 +675,45 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.networkcultures.org/moneylab-toolkit" Name="link" DestinationURL="http://www.networkcultures.org/moneylab-toolkit" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="http://www.networkcultures.org/moneylab-toolkit" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-8" Name="http://www.networkcultures.org/moneylab-toolkit" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.networkcultures.org/moneylab-toolkit</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/." Name="link" DestinationURL="http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/." DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/." Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/.</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.kickstarter.com/help/stats" Name="link" DestinationURL="https://www.kickstarter.com/help/stats" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="https://www.kickstarter.com/help/stats" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://www.kickstarter.com/help/stats</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded" Name="link" DestinationURL="http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf" Name="link" DestinationURL="http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/" Name="link" DestinationURL="http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded" Name="link" DestinationURL="http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded" DestinationUniqueKey="1" />

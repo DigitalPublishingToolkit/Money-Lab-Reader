@@ -13,11 +13,6 @@
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
-      </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Superscript" Name="Superscript" Position="Superscript">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
       </CharacterStyle> 
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
@@ -186,7 +181,7 @@
           <Content>Creditocracy and the Case for Debt Refusal</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, OR Books, 2014. Available at: </Content>
+          <Content>, OR Books, 2014. Available at </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
@@ -215,11 +210,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>3</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Jeff Madrick, ‘A Bit of Good News’, </Content>
+          <Content>Jeff Madrick, ‘A Bit of Good News’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Harper’s</Content>
@@ -280,7 +272,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See, </Content>
+          <Content>See </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
@@ -306,11 +298,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>4</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> See Nomi Prins, </Content>
+          <Content>See Nomi Prins, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>All the Presidents’ Bankers: The Hidden Alliances that Drive American Power,</Content>
@@ -335,11 +324,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>5</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Letter to Col. Edward Mandell House (21 November 1933), in Elliott Roosevelt (ed.) </Content>
+          <Content>Letter to Col. Edward Mandell House (21 November 1933), in Elliott Roosevelt (ed.) </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>F.D.R.: His Personal Letters, 1928-1945</Content>
@@ -369,11 +355,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>6</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> As quoted in Robert Manning, </Content>
+          <Content>As quoted in Robert Manning, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Credit Card Nation: The Consequences of America’s Addiction to Credit Cards,</Content>
@@ -408,11 +391,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>6</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> According to an August 2013 report from the Federal Reserve Bank of New York, almost 15 percent of all credit reports – covering an estimated 30 million consumers – displayed collection items from debt collection. In other words, one in seven Americans was being, or had been, hounded by debt collectors. </Content>
+          <Content>According to an August 2013 report from the Federal Reserve Bank of New York, almost 15 percent of all credit reports – covering an estimated 30 million consumers – displayed collection items from debt collection. In other words, one in seven Americans was being, or had been, hounded by debt collectors. </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Quarterly Report on Household Debt and Credit</Content>
@@ -439,7 +419,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>There are many ways of illustrating this historic development. Consider the balance of power between banks and government. In 1895, J.P. Morgan was called upon to save the U.S. Treasury from default (and again in 1907), and yet the shoe was on the other foot by 2008, when the Treasury was forced to bail out JPMorgan Chase, and few doubt that it would be obliged to do so again today. The shift is also displayed in how corporations make profits. Jumbo firms, like GE and GM, that commanded the economy on the strength of their industrial production have become much more dependent, for their revenue, on their firms’ respective finance arms. Companies are no longer regarded primarily as worthy recipients of productive loans for tangible outputs but as targets for leveraged buy-outs, to be loaded down with debt and ruthlessly used to extract finance fees and interest. The difference between Mitt Romney’s career, at Bain Capital, and his father’s, at the American Motor Company, neatly summarizes the transition from industrial to financial capitalism.</Content>
+    <Content>There are many ways of illustrating this historic development. Consider the balance of power between banks and government. In 1895, J.P. Morgan was called upon to save the U.S. Treasury from default (and again in 1907), and yet the shoe was on the other foot by 2008, when the Treasury was forced to bail out JPMorgan Chase, and few doubt that it would be obliged to do so again today. The shift is also displayed in how corporations make profits. Jumbo firms, like General Electrics and General Motors, that commanded the economy on the strength of their industrial production have become much more dependent, for their revenue, on their firms’ respective finance arms. Companies are no longer regarded primarily as worthy recipients of productive loans for tangible outputs but as targets for leveraged buy-outs, to be loaded down with debt and ruthlessly used to extract finance fees and interest. The difference between Mitt Romney’s career, at Bain Capital, and his father’s, at the American Motor Company, neatly summarizes the transition from industrial to financial capitalism.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -452,11 +432,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>7</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Matt Taibbi, ‘Greed and Debt: The True Story of Mitt Romney and Bain Capital’, </Content>
+          <Content>Matt Taibbi, ‘Greed and Debt: The True Story of Mitt Romney and Bain Capital’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Rolling Stone</Content>
@@ -506,11 +483,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>8</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> James MacDonald, </Content>
+          <Content>James MacDonald, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>A Free Nation Deep in Debt: The Financial Roots of Democracy</Content>
@@ -561,11 +535,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>9</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Peter Eavis and Ben Protess, ‘Considering the Fairness of JPMorgan’s Deal’, </Content>
+          <Content>Peter Eavis and Ben Protess, ‘Considering the Fairness of JPMorgan’s Deal’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The New York Times,</Content>
@@ -601,11 +572,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>10</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Anat Admati and Martin Hellwig, </Content>
+          <Content>Anat Admati and Martin Hellwig, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Bankers’ New Clothes: What’s Wrong with Banking and What to Do About It,</Content>
@@ -640,11 +608,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>11</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Damien Millet and Eric Toussaint, </Content>
+          <Content>Damien Millet and Eric Toussaint, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Who Owes Who? 50 Questions about World Debt,</Content>
@@ -662,7 +627,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> These advocates have devised moral and legal arguments for repudiating the external debts of governments, and have had some success in delivering relief for some of the world’s poorest populations. Public debts in the Global North are now at the core of the austerity policies being implemented from the battered periphery of the Eurozone to the beleaguered cohort of ex-industrial cities like Detroit and Baltimore. The process of questioning which of these debts is legitimate – and deserving of repayment – and which are unfair impositions to be rightfully rejected – is already underway.</Content>
+    <Content> These advocates have devised moral and legal arguments for repudiating the external debts of governments, and have had some success in delivering relief for some of the world’s poorest populations. Public debts in the Global North are now at the core of the austerity policies being implemented from the battered periphery of the Eurozone to the beleaguered cohort of ex-industrial cities like Detroit and Baltimore. The process of questioning which of these debts is legitimate – and deserving of repayment – and which are unfair impositions to be rightfully rejected, is already underway.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -675,17 +640,14 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>12</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> François Chesnais</Content>
+          <Content>François Chesnais, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>, Les Dettes Illégitimes: Quand les Banques Font Main Basse sur les Politiques Publiques,</Content>
+          <Content>Les Dettes Illégitimes: Quand les Banques Font Main Basse sur les Politiques Publiques</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Paris: Liber, 2012.</Content>
+          <Content>, Paris: Liber, 2012.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -752,18 +714,12 @@
     <Content>The Bankers’ New Clothes: What’s Wrong with Banking and What to Do About It</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, Princeton: Princeton University Press, 2013, p. 2.</Content>
+    <Content>, Princeton: Princeton University Press, 2013.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Chesnais</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>,</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> François. </Content>
+    <Content>Chesnais, François. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Les dettes illégitimes: Quand les banques font main basse sur les politiques publiques</Content>
@@ -791,15 +747,23 @@
     <Content>’ Frankfurter Algemeine Zeitung</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, 5 December 2011, accessible in English at .</Content>
+    <Content>, 5 December 2011, accessible in English at </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://michael-hudson.com/2011/12/democracy-and-debt/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>MacDonald, James</Content>
+    <Content>MacDonald, James. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>. A Free Nation Deep in Debt: The Financial Roots of Democracy</Content>
+    <Content>A Free Nation Deep in Debt: The Financial Roots of Democracy</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, New York: Farrar, Strauss &amp; Giroux, 2003.</Content>
@@ -906,6 +870,13 @@
 </ParagraphStyleRange>
 
   </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://michael-hudson.com/2011/12/democracy-and-debt/" Name="link" DestinationURL="http://michael-hudson.com/2011/12/democracy-and-debt/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://michael-hudson.com/2011/12/democracy-and-debt/" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://michael-hudson.com/2011/12/democracy-and-debt/</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.newyorkfed.org/research/national_economy/householdcredit/DistrictReport_Q22013.pdf" Name="link" DestinationURL="http://www.newyorkfed.org/research/national_economy/householdcredit/DistrictReport_Q22013.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-5" Name="http://www.newyorkfed.org/research/national_economy/householdcredit/DistrictReport_Q22013.pdf" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>

@@ -103,7 +103,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Starting with the wire: singular, because it is as free of individual peculiarities and distinguishing characteristics as one Platonic sphere from another, exact as an axiom. The engineer and scientist Danny Hillis, part of the team that produced the massively parallel supercomputer the Connection Machine, describes the wire as a ‘costless and volumeless idealized connection’.</Content>
+    <Content>Starting with the wire: singular, because it is as free of individual peculiarities and distinguishing characteristics as one Platonic sphere from another, as exact as an axiom. The engineer and scientist Danny Hillis, part of the team that produced the massively parallel supercomputer the Connection Machine, describes the wire as a ‘costless and volumeless idealized connection’.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -129,7 +129,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> You put data into one end of the wire, and the data appears in one or many other places. It is instantaneous, it is cheap, it is tiny, and it dissipates no power. It can be ordered from the same catalog as the frictionless boards and massless pulleys of introductory physics. It is fantastically useful for thinking and design, but sadly it must share our universe with us. Wire transmission can therefore be as good as instantaneous – but it will still take a bit more than three nanoseconds under ideal conditions for a signal to travel a meter. Factor in less-than-ideal media, and handoffs, interchanges, and switching systems, and you can produce one of the earliest and still most beautiful of the phone phreak hacks: routing a call from relay to relay around the planet all the way back to another line in the same room. Two phones sit on a table, and when you speak into one your voice comes out of the other after a brief delay, making the Earth into your Echoplex effect pedal.</Content>
+    <Content> You put data into one end of the wire, and the data appears in one or many other places. It is instantaneous, it is cheap, it is tiny, and it dissipates no power. It can be ordered from the same catalog as the frictionless boards and massless pulleys of introductory physics. It is fantastically useful for thinking and design, but sadly it must share our universe with us. Wire transmission can therefore be as good as instantaneous – but it will still take a bit more than three nanoseconds under ideal conditions for a signal to travel a meter. Factor in less-than-ideal media, and handoffs, interchanges, and switching systems, and you can produce one of the earliest and still most beautiful ‘phone phreak’ hacks: routing a call from relay to relay around the planet all the way back to another line in the same room. Two phones sit on a table, and when you speak into one your voice comes out of the other after a brief delay, making the Earth into your Echoplex effect pedal.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -309,7 +309,7 @@
     <Content>thermal architecture</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> capable of sustaining their operation. The IBM 704 (still with vacuum tubes, now featuring floating point operations) was the computer used for the voice synthesis experiments that inspired the demise of HAL 9000 in Kubrick's </Content>
+    <Content> capable of sustaining their operation. The IBM 704 (still with vacuum tubes, now featuring floating point operations) was the computer used for the voice synthesis experiments that inspired the demise of HAL 9000 in Kubrick’s </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>2001: A Space Odyssey</Content>
@@ -403,7 +403,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As the transistor and the integrated circuit condense these room-sized architectures into the thumbnails and postage stamps of chips, microscopically etched with photolithography, this problem becomes more extreme: the chips now have to get heat out of themselves, out of their envelopes of ceramic and plastic, and then the machine that encloses them must in turn do something with it. Moore's Law means the number of transistors that can fit on a chip doubles every eighteen months, and each doubling is another threshold of power dissipation to be crossed. The first Cray – a supercomputer for scientific projects that required processing huge volumes of data (Las Alamos National Laboratory got the test machine with serial number 001), developed by a team led by Seymour Cray – was a masterpiece of heat management. It used high-speed integrated circuits set back-to-back on sheets of copper mounted on tubes of Freon, the now-restricted refrigerant gas from DuPont, working like the coils of an air conditioner.</Content>
+    <Content>As the transistor and the integrated circuit condense these room-sized architectures into the thumbnails and postage stamps of chips, microscopically etched with photolithography, this problem becomes more extreme: the chips now have to get heat out of themselves, out of their envelopes of ceramic and plastic, and then the machine that encloses them must in turn do something with it. Moore’s Law means the number of transistors that can fit on a chip doubles every eighteen months, and each doubling is another threshold of power dissipation to be crossed. The first Cray – a supercomputer for scientific projects that required processing huge volumes of data (Las Alamos National Laboratory got the test machine with serial number 001), developed by a team led by Seymour Cray – was a masterpiece of heat management. It used high-speed integrated circuits set back-to-back on sheets of copper mounted on tubes of Freon, the now-restricted refrigerant gas from DuPont, working like the coils of an air conditioner.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -440,7 +440,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>This heat became part of the everyday practice of personal computing, signaled by the moment you hit the key command to save a Photoshop file and the program lurches, hangs, and suddenly the fans kick on. PC gamers running high-end graphics began building hot-rod boxes with fans like turbines, the parts assembled inside refrigerators with the gleaming edges of the components softened by the fog of condensation on the exterior glass. Gamers wanting laptops can buy or build custom machines, like Christian Sandvig's </Content>
+    <Content>This heat became part of the everyday practice of personal computing, signaled by the moment you hit the key command to save a Photoshop file and the program lurches, hangs, and suddenly the fans kick on. PC gamers running high-end graphics began building hot-rod boxes with fans like turbines, the parts assembled inside refrigerators with the gleaming edges of the components softened by the fog of condensation on the exterior glass. Gamers wanting laptops can buy or build custom machines, like Christian Sandvig’s </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Sager Notebook</Content>
@@ -480,7 +480,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>danah boyd, ‘blotchy burns on my legs from my Macbook’, </Content>
+          <Content>danah boyd, ‘Blotchy Burns on My Legs from my Macbook’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Zephoria</Content>
@@ -502,7 +502,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The heat of computation is now, for many, less of a daily experience than before, but that isn't because the heat is a solved problem and the bits move without resistance. More and more of the heavy computational lifting is now exported to the cloud. The phones and tablets and netbooks can be as light as they are, and keep what battery life they have, by relying on the serious work being done elsewhere, in places like Sweden, Finland, and the higher latitudes of the Pacific Northwest, where massive server farms can be chilled by wintry air and geothermal power.</Content>
+    <Content>The heat of computation is now, for many, less of a daily experience than before, but that isn’t because the heat is a solved problem and the bits move without resistance. More and more of the heavy computational lifting is now exported to the cloud. The phones and tablets and netbooks can be as light as they are, and keep what battery life they have, by relying on the serious work being done elsewhere, in places like Sweden, Finland, and the higher latitudes of the Pacific Northwest, where massive server farms can be chilled by wintry air and geothermal power.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -554,12 +554,12 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Behind the chainlink, under the trunks of tagged and zip-tied ethernet cables, layouts of flowing air and carefully chosen temperature gradients have created an accidental version of Yves Klein's ‘air architecture’, in constant motion.</Content>
+    <Content> Behind the chainlink, under the trunks of tagged and zip-tied ethernet cables, layouts of flowing air and carefully chosen temperature gradients have created an accidental version of Yves Klein’s ‘air architecture’, in constant motion.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>One of Seymour Cray's other patents concerns the use of a liquid from 3M called Fluorinert for immersion-cooling circuit boards: ‘Unfortunately, that theoretically possible high density cannot be achieved in practice unless a very considerable amount of heat generated by such a high density assemblage of circuits can be successfully removed.’</Content>
+    <Content>One of Seymour Cray’s other patents concerns the use of a liquid from 3M called Fluorinert for immersion-cooling circuit boards: ‘Unfortunately, that theoretically possible high density cannot be achieved in practice unless a very considerable amount of heat generated by such a high density assemblage of circuits can be successfully removed.’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -579,7 +579,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> In Hong Kong just such a set-up exists, with an inert liquid (one in which electricity does not conduct, making it safe for computer components) boiling in tanks filled with ranked circuit boards. But the chips aren't cranking through climate models or rendering polygons for cinematic airships. They're solving a set of arbitrary challenges to produce hashes of data – that is, they're mining Bitcoin.</Content>
+    <Content> In Hong Kong just such a set-up exists, with an inert liquid (one in which electricity does not conduct, making it safe for computer components) boiling in tanks filled with ranked circuit boards. But the chips aren’t cranking through climate models or rendering polygons for cinematic airships. They’re solving a set of arbitrary challenges to produce hashes of data – that is, they’re mining Bitcoin.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -593,7 +593,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Xiaogang Cao, ‘Visit of ASICMINER's Immersion Cooling Mining Facility’, </Content>
+          <Content>Xiaogang Cao, ‘Visit of ASICMINER’s Immersion Cooling Mining Facility’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Bitcoin Forum,</Content>
@@ -646,7 +646,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> He was speaking of the counterfeit U.S. hundred called the Supernote, believed to originate from North Korea (likely cranked out on the excellent currency presses inherited from East Germany after the fall of Berlin Wall, where they'd served to fund the activities of spies in need of ready foreign currency). The Supernote is a beautiful production. Indeed, one of the very few ways that one run of the notes could be distinguished from Federal Reserve issue was that a few of the minute scenes were </Content>
+    <Content> He was speaking of the counterfeit U.S. hundred called the Supernote, believed to originate from North Korea (likely cranked out on the excellent currency presses inherited from East Germany after the fall of Berlin Wall, where they’d served to fund the activities of spies in need of ready foreign currency). The Supernote is a beautiful production. Indeed, one of the very few ways that one run of the notes could be distinguished from Federal Reserve issue was that a few of the minute scenes were </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>too</Content>
@@ -694,7 +694,13 @@
     <Content>exchange.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> We could tell stories about cigarettes or beautiful snow-white slabs of salt on the backs of Bactrian camels on the Silk Road; we could cite trading networks of beads made from the pearl teeth of red deer around the Mediterranean basin about 46,000 years ago, or World of Warcraft gold.</Content>
+    <Content> We could tell stories about cigarettes or beautiful snow-white slabs of salt on the backs of Bactrian camels on the Silk Road; we could cite trading networks of beads made from the pearl teeth of red deer around the Mediterranean basin about 46,000 years ago, or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>World of Warcraft</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> gold.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -720,12 +726,12 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> But, for purposes of this essay, let's keep it simple. Money is what passes for money – that is, what you can pass in exchange for other things, and much, but not all, of what passes is a matter of sovereign decision. The sovereign, whether a monarch with a crown or the authority vested in a central bank by a representative government, has the right of mint and issue. They can do things like, in the case of the United States, making it law that a debt you owe can be paid by you in US dollars – your creditor cannot insist you pay it in euros, gold, or cocoa beans. They can police who is allowed to produce money that passes, and under what conditions. This work is obviously, trivially, about authority, but it is also about trust and confidence.</Content>
+    <Content> But, for purposes of this essay, let’s keep it simple. Money is what passes for money – that is, what you can pass in exchange for other things, and much, but not all, of what passes is a matter of sovereign decision. The sovereign, whether a monarch with a crown or the authority vested in a central bank by a representative government, has the right of mint and issue. They can do things like, in the case of the United States, make it law that a debt you owe can be paid by you in US Dollars – your creditor cannot insist you pay it in euros, gold, or cocoa beans. They can police who is allowed to produce money that passes, and under what conditions. This work is obviously, trivially, about authority, but it is also about trust and confidence.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>‘The same ignorance makes me so bold as to absolutely deny the truth of the various ghost stories’ – this is Kant speaking, in his small book on the visionary mystic Emanuel Swedenborg – ‘and yet with the common, although queer, reservation that while I deny any one of them, still I have a certain faith in the whole of them taken together’.</Content>
+    <Content>‘The same ignorance makes me so bold as to absolutely deny the truth of the various ghost stories’, this is Kant speaking, in his small book on the visionary mystic Emanuel Swedenborg, ‘and yet with the common, although queer, reservation that while I deny any one of them, still I have a certain faith in the whole of them taken together’.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -751,7 +757,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> I've started taking pictures of the little signs I see up at coffee shops, movie theaters, grocery stores and other spots that do a lot of business in cash, announcing that they no longer accept hundred, and in some cases fifty, dollar bills. These often hang in the foreground of the signs behind the register that itemize the traits identifying counterfeits and giving hotline numbers. It is easy for us to distrust any particular note while still believing in ‘the whole of them taken together’. The question of when that general trust begins to shift is a fascinating one – consider Wesley Weber, whose counterfeiting of the Canadian hundred-dollar note was sufficiently high volume that it made Canadian hundreds effectively unspendable in many large cities until the new issue. (In this context we can also look at Operation Bernhard, the Nazi project to counterfeit Bank of England notes to finance espionage and imports, and to drop in huge volumes from the air over the U.K. to crash the economy through inflation and insecurity in the currency.) There are larger reasons for the trust in currency generally, from the participation in imagined communities to the simple fact of ‘passing current’ – consensus understanding within a community that something accepted for payment here can be redeemed there – but part of it is technological: the technology of trust as embedded in currency itself.</Content>
+    <Content> I’ve started taking pictures of the little signs I see up at coffee shops, movie theaters, grocery stores and other spots that do a lot of business in cash, announcing that they no longer accept hundred, and in some cases fifty, dollar bills. These often hang in the foreground of the signs behind the register that itemize the traits identifying counterfeits and giving hotline numbers. It is easy for us to distrust any particular note while still believing in ‘the whole of them taken together’. The question of when that general trust begins to shift is a fascinating one – consider Wesley Weber, whose counterfeiting of the Canadian hundred-dollar note was sufficiently high volume that it made Canadian hundreds effectively unspendable in many large cities until the new issue. (In this context we can also look at Operation Bernhard, the Nazi project to counterfeit Bank of England notes to finance espionage and imports, and to drop in huge volumes from the air over the U.K. to crash the economy through inflation and insecurity in the currency.) There are larger reasons for the trust in currency generally, from the participation in imagined communities to the simple fact of ‘passing current’ – consensus understanding within a community that something accepted for payment here can be redeemed there – but part of it is technological: the technology of trust as embedded in currency itself.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -776,12 +782,12 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> He captures a whole world – one lost to most of us now – of monetary experience built around the intimate empiricism of metal: biting into a coin, weighing it in a scale or the palm of a hand, striking it to hear the chime. Far more elaborate versions of this process are still performed at events like the Trial of the Pyx at the Royal Mint (or, to be more precise, at Goldsmith's Hall in London), where a gathering of experts assay the coin issued by the Mint as they have for several centuries. However, even for those not expert, metallic currency contains mechanisms making it possible to do the work of evaluation – like ‘milling’ or ‘reeding’, the fine, narrow-set hatching on the edges of coins. This makes it easy to spot, or to feel with a fingertip, if a coin has been ‘clipped’, part of its precious metal content shaved away with a sharp knife so the coin can be spent for face value while the clipper can keep a bit of the bullion value.</Content>
+    <Content> He captures a whole world – one lost to most of us now – of monetary experience built around the intimate empiricism of metal: biting into a coin, weighing it in a scale or the palm of a hand, striking it to hear the chime. Far more elaborate versions of this process are still performed at events like the Trial of the Pyx at the Royal Mint (or, to be more precise, at Goldsmith’s Hall in London), where a gathering of experts assay the coin issued by the Mint as they have for several centuries. However, even for non-experts, metallic currency contains mechanisms making it possible to do the work of evaluation – like ‘milling’ or ‘reeding’, the fine, narrow-set hatching on the edges of coins. This makes it easy to spot, or to feel with a fingertip, if a coin has been ‘clipped’, part of its precious metal content shaved away with a sharp knife so the coin can be spent for face value while the clipper can keep a bit of the bullion value.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Paper money takes these challenges much further: we recognize real notes by feel, by reactions under ultraviolet light or to a special pen (which doesn't actually identify valid bills, but rather reacts to the properties of toner used in color copiers and printers), by optical tricks (ink that modulates green-black in color when turned) and holograms, by size, by texture (whether the delicate, slubby feel of intaglio printing on cotton, or the crisp, glossy quality of plasticine notes), by special fibers like security threads and watermarks. Even so, counterfeit notes are surprisingly easy to pass. The canonical reference for prop money produced for film, television, and theater captures the problem.</Content>
+    <Content>Paper money takes these challenges much further: we recognize real notes by feel, by reactions under ultraviolet light or to a special pen (which doesn’t actually identify valid bills, but rather reacts to the properties of toner used in color copiers and printers), by optical tricks (ink that modulates green-black in color when turned) and holograms, by size, by texture (whether the delicate, slubby feel of intaglio printing on cotton, or the crisp, glossy quality of plasticine notes), by special fibers like security threads and watermarks. Even so, counterfeit notes are surprisingly easy to pass. The canonical reference for prop money produced for film, television, and theater captures the problem.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -807,7 +813,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> The bills have to look good on camera – stuffed in a briefcase, flashed by a villain, and so on – but they are rarely in close-up, so the production facilities that produce them have found many ways to make it clear that these are not real notes. They will have fake political figures, gibberish text, misspelled words, even warnings like ‘For Motion Picture Use Only’ (albeit in the appropriate typeface and color for the bill, to keep it from being noticeable to an audience). Even so, prop notes have been spent. ‘If it's green and says 20 on it,’ said a Secret Service agent policing prop money production, ‘somebody will take it.’</Content>
+    <Content> The bills have to look good on camera – stuffed in a briefcase, flashed by a villain, and so on – but they are rarely in close-up, so the production facilities that produce them have found many ways to make it clear that these are not real notes. They will have fake political figures, gibberish text, misspelled words, even warnings like ‘For Motion Picture Use Only’ (albeit in the appropriate typeface and color for the bill, to keep it from being noticeable to an audience). Even so, prop notes have been spent. ‘If it’s green and says 20 on it,’ said a Secret Service agent policing prop money production, ‘somebody will take it.’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -861,7 +867,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (If you are holding the Mexican twenty-peso note, it's the small yellow circles in the band by Benito Juárez's head; on the 10 euro note they're in the visual echoes of the arch; the U.S.$ 20 hides them in small yellow ‘20’s.) This is a fairly obvious ploy, and the properties that make a banknote distinguishable so Photoshop will not allow it to be scanned and manipulated are still being researched.</Content>
+    <Content> (If you are holding the Mexican 20 peso note, it’s the small yellow circles in the band by Benito Juárez’s head; on the 10 euro note they’re in the visual echoes of the arch; the American $ 20 dollar hides them in small yellow ‘20’s.) This is a fairly obvious ploy, and the properties that make a banknote distinguishable so Photoshop will not allow it to be scanned and manipulated are still being researched.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -894,7 +900,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Of course, the other face of the question of confidence and trust is that of the behavior of the </Content>
+    <Content>Of course, on the flip-side of the question of confidence and trust is that of the behavior of the </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>legitimate</Content>
@@ -926,7 +932,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> The crisis of legitimacy – of confidence in the issue of new money – was expressed in the properties of the notes themselves. Their ink was sometimes still wet when they were rushed out to banks and businesses, a physical index of the scramble to stay ahead of the inflationary spiral; extra zeroes were stamped onto notes; under the worst conditions, some were only printed on one side. The weight, the mass of money was a direct concrete expression of how valueless it was: one would no more gather it than you would armfuls of wet, decaying leaves in the fall. Hyperinflation, underinflation, black markets in currency – Venezuela, Poland, Argentina, Brazil, Taiwan... trust and confidence is a problem for the individual notes themselves (is this one good?) and for all of them generally (will it stay stable?), spurred by the illegitimate producers, selling bricks of bills for pennies on the dollar to professionals in the business of laundering them through casinos, restaurants, laundromats and retail, and by the legitimate producers who may cause the value to climb too high or fall too fast and low.</Content>
+    <Content> The crisis of legitimacy – of confidence in the issue of new money – was expressed in the properties of the notes themselves. Their ink was sometimes still wet when they were rushed out to banks and businesses, a physical index of the scramble to stay ahead of the inflationary spiral; extra zeroes were stamped onto notes; under the worst conditions, some were only printed on one side. The weight, the mass of money was a direct concrete expression of how valueless it was: one would no more gather it than you would armfuls of wet, decaying leaves in the fall. Hyperinflation, underinflation, black markets in currency – Venezuela, Poland, Argentina, Brazil, Taiwan trust and confidence is a problem for the individual notes themselves (is this one good?) and for all of them generally (will it stay stable?), spurred by the illegitimate producers, selling bricks of bills for pennies on the dollar to professionals in the business of laundering them through casinos, restaurants, laundromats and retail, and by the legitimate producers who may cause the value to climb too high or fall too fast and low.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -941,7 +947,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>‘I'm done with Bitcoin’, writes the anonymous contributor. ‘It was easy money, but it wasn't worth the (literal) heat’.</Content>
+    <Content>‘I’m done with Bitcoin’, writes the anonymous contributor. ‘It was easy money, but it wasn’t worth the (literal) heat’.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -961,12 +967,12 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> This was posted in the summer of 2011, when Bitcoin mining was still a somewhat easy-money proposition. He or she spins a tale of woe. They were running the mining machinery in their bedroom: four boxes of ‘overclocked 5850s,’ meaning graphics cards with chips optimized to execute certain classes of operations, whose performance had been pushed beyond the preset limit by adjusting the clock speed, the rate at which it performs those operations. They were using these chips to produce solutions to the challenges posed by the Bitcoin system by generating hashes of transaction data that meet the escalating difficulty set by the algorithm. Hashes are a very well established product in computer science, a way of producing data of fixed length from data of arbitrary length. And, like the P versus NP problems mentioned above, hashing problems (appropriately configured) can take time to solve but are very quick to verify when you want check if you've got a correct solution.</Content>
+    <Content> This was posted in the summer of 2011, when Bitcoin mining was still a somewhat easy-money proposition. He or she spins a tale of woe. They were running the mining machinery in their bedroom: four boxes of ‘overclocked 5850s,’ meaning graphics cards with chips optimized to execute certain classes of operations, whose performance had been pushed beyond the preset limit by adjusting the clock speed, the rate at which it performs those operations. They were using these chips to produce solutions to the challenges posed by the Bitcoin system by generating hashes of transaction data that meet the escalating difficulty set by the algorithm. Hashes are a very well established product in computer science, a way of producing data of fixed length from data of arbitrary length. And, like the P versus NP problems mentioned above, hashing problems (appropriately configured) can take time to solve but are very quick to verify when you want check if you’ve got a correct solution.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The Bitcoin system, from the original paper circulated by the pseudonymous ‘Satoshi Nakamoto’ up to the present state of refinement and implementation, takes advantage of this property in quite a brilliant way. Or, rather, it adopts a version of hashing from prior systems like Adam Back's Hashcash proposal, which are in some ways more conceptually straightforward and easier to understand, so we’ll start there.</Content>
+    <Content>The Bitcoin system, from the original paper circulated by the pseudonymous ‘Satoshi Nakamoto’ up to the present state of refinement and implementation, takes advantage of this property in quite a brilliant way. Or, rather, it adopts a version of hashing from prior systems like Adam Back’s Hashcash proposal, which are in some ways more conceptually straightforward and easier to understand, so we’ll start there.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -994,18 +1000,12 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Hashcash was an idea for stopping the problem of spam email (among other uses). If it takes a little time to generate a unique hash of a message's content, its recipient, and the timestamp of its sending, but almost no time to verify that the hash attached to an email is correct, then you can effectively ‘rate-limit’ the amount of email someone can send. When you send me a message, I won't even notice that my email client has checked to confirm that the message you sent includes an accurate, unique hash particular to this message; nor will you notice that your machine has produced one – it only becomes an issue if you are sending, say, hundreds of thousands or millions of messages at once (as spammers must, to cast the net wide enough for a cost-effective catch of suckers and naïfs), in which case all those little hashes add up and render sending mass quantities of messages onerous. Your computers slow way down, the fans kick on, the heat billows from the vents.</Content>
+    <Content> Hashcash was an idea for stopping the problem of spam email (among other uses). If it takes a little time to generate a unique hash of a message’s content, its recipient, and the timestamp of its sending, but almost no time to verify that the hash attached to an email is correct, then you can effectively ‘rate-limit’ the amount of email someone can send. When you send me a message, I won’t even notice that my email client has checked to confirm that the message you sent includes an accurate, unique hash particular to this message; nor will you notice that your machine has produced one – it only becomes an issue if you are sending, say, hundreds of thousands or millions of messages at once (as spammers must, to cast the net wide enough for a cost-effective catch of suckers and naïfs), in which case all those little hashes add up and render sending mass quantities of messages onerous. Your computers slow way down, the fans kick on, the heat billows from the vents.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Now imagine you have a network for transacting money that relies on all the nodes – everybody participating in the network – to verify that all the transactions taking place are accurate and above-board. To sustain confidence, you need to confirm that nobody's making fake money and nobody's spending the same money multiple times. Perhaps you can have all the nodes cast votes that each transaction accurately matches their record of what should be happening. What's to stop many nodes under the control of one malevolent actor from casting masses of fake votes, and validating bad transactions? You rate-limit the process of validation. When participants in the Bitcoin system, or rather their machines, receive the updated ledger of transactions, they begin generating enormous numbers of hashes of the data, looking for one that meets a steadily escalating criterion of difficulty. Once it is found, they push their ‘answer’ out to the network, where it is swiftly confirmed by others; that block of transactions added to the </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>blockchain,</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> the master ledger, and they receive a batch of newly-minted bitcoins and all the transaction fees connected with that round of exchanges. To confirm a block of transactions yourself, fooling everyone else into agreeing with you, it's therefore not just enough to have a bunch of fake voters under your control – you must be able to do more computational work than 51 percent of everyone else on the network, so you can consistently outguess them when it comes to generating hashes of the data.</Content>
+    <Content>Now imagine you have a network for transacting money that relies on all the nodes – everybody participating in the network – to verify that all the transactions taking place are accurate and above-board. To sustain confidence, you need to confirm that nobody’s making fake money and nobody’s spending the same money multiple times. Perhaps you can have all the nodes cast votes that each transaction accurately matches their record of what should be happening. What’s to stop many nodes under the control of one malevolent actor from casting masses of fake votes, and validating bad transactions? You rate-limit the process of validation. When participants in the Bitcoin system, or rather their machines, receive the updated ledger of transactions, they begin generating enormous numbers of hashes of the data, looking for one that meets a steadily escalating criterion of difficulty. Once it is found, they push their ‘answer’ out to the network, where it is swiftly confirmed by others; that block of transactions added to the blockchain, the master ledger, and they receive a batch of newly-minted bitcoins and all the transaction fees connected with that round of exchanges. To confirm a block of transactions yourself, fooling everyone else into agreeing with you, it’s therefore not just enough to have a bunch of fake voters under your control – you must be able to do more computational work than 51 percent of everyone else on the network, so you can consistently outguess them when it comes to generating hashes of the data.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1065,7 +1065,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The bitcoins generated by ‘mining’ – that transaction validation process – are the only source of new bitcoins, meaning the ratcheting of difficulty is a throttle on the issue of new currency (making Bitcoin as a whole effectively deflationary, in ways that speak the cultic language of the Austrian school of economics). As users join the new network in the early days, adopters are rewarded by comparatively easy pay-outs from the system; as more sophisticated hardware and the associated powerful mining rigs and cartels hop on the bandwagon, the work entailed by mining goes up accordingly. It's very straightforward in practice: periodically, as the difficulty escalates, the system demands the hash of the data include an additional zero. This makes finding the correct hash proportionally more improbable–now it's not enough to find a hash valid for the data, but a valid hash like:</Content>
+    <Content>The bitcoins generated by ‘mining’ – that transaction validation process – are the only source of new bitcoins, meaning the ratcheting of difficulty is a throttle on the issue of new currency (making Bitcoin as a whole effectively deflationary, in ways that speak the cultic language of the Austrian school of economics). As users join the new network in the early days, adopters are rewarded by comparatively easy pay-outs from the system; as more sophisticated hardware and the associated powerful mining rigs and cartels hop on the bandwagon, the work entailed by mining goes up accordingly. It’s very straightforward in practice: periodically, as the difficulty escalates, the system demands the hash of the data include an additional zero. This makes finding the correct hash proportionally more improbable – now it’s not enough to find a hash valid for the data, but a valid hash like:</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1080,12 +1080,12 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>All that computational work doesn't come free, or even cheap. In the early days, it was possible to mine Bitcoin using your computer's CPU. Meeting the demands of the system soon escalated to GPUs – graphics cards, that is, better-engineered for cranking out hashes – and then, in short order, to ASICs. These Application Specific Integrated Circuits could be made to order for exactly one kind of work: not only to churn out hashes, but to meet Bitcoin's precise constraints. All this takes electricity, and all that electricity and consequent Joule heating means a new and awful world of dissipation to manage. The unfortunate miner with four mining rigs of 5850 Radeon graphics cards had been blessed with pretty good weather, so the room was ‘warm, but tolerable’ – but the fans on the enclosures were going at 100 percent already. The weather got hotter one day, and by the time he or she (luckily) woke up, they'd already developed heatstroke. Rushed to the ER, iced and hydrated, their story ended with permanent minor brain damage resulting from their brain swelling inside their skull, as though they’d barely survived a brutal malarial fever.</Content>
+    <Content>All that computational work doesn’t come free, or even cheap. In the early days, it was possible to mine Bitcoin using your computer’s CPU. Meeting the demands of the system soon escalated to GPUs – graphics cards, that is, better-engineered for cranking out hashes – and then, in short order, to ASICs. These Application Specific Integrated Circuits could be made to order for exactly one kind of work: not only to churn out hashes, but to meet Bitcoin’s precise constraints. All this takes electricity, and all that electricity and consequent Joule heating means a new and awful world of dissipation to manage. The unfortunate miner with four mining rigs of 5850 Radeon graphics cards had been blessed with pretty good weather, so the room was ‘warm, but tolerable’ – but the fans on the enclosures were going at 100 percent already. The weather got hotter one day, and by the time he or she (luckily) woke up, they’d already developed heatstroke. Rushed to the ER, iced and hydrated, their story ended with permanent minor brain damage resulting from their brain swelling inside their skull, as though they’d barely survived a brutal malarial fever.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The photographs from the first round of Bitcoin's popularity, the images of people's awesomely eccentric home-built mining rigs, were pictures of improvised heat management. Box fans, big stretches of the corrugated tubing normally used to channel the waste heat from clothes driers, precariously poised air conditioners, and USB-powered fans resting directly on the finned heat sinks of boards were the rule. Stories abounded of early Bitcoin devotees rerouting their home flues to keep the warm, hash-generating air circulating through their houses in winter. The serious mining projects now, like Cloud Hashing in Reykjanesbaer, Iceland, and MegaBigPower in Washington (the state with the cheapest electrical rates in the US due to an abundance of hydroelectric dams), are built on similar lines to the server farms described before: structured around efficient heat transfer through hot and cold corridors, with machinery neatly labeled in locked cages of perforated sheet metal, alight with flickering LEDs, and rows of Ethernet jacks.</Content>
+    <Content>The photographs from the first round of Bitcoin’s popularity, the images of people’s awesomely eccentric home-built mining rigs, were pictures of improvised heat management. Box fans, big stretches of the corrugated tubing normally used to channel the waste heat from clothes driers, precariously poised air conditioners, and USB-powered fans resting directly on the finned heat sinks of boards were the rule. Stories abounded of early Bitcoin devotees rerouting their home flues to keep the warm, hash-generating air circulating through their houses in winter. The serious mining projects now, like Cloud Hashing in Reykjanesbaer, Iceland, and MegaBigPower in Washington (the state with the cheapest electrical rates in the U.S. due to an abundance of hydroelectric dams), are built on similar lines to the server farms described before: structured around efficient heat transfer through hot and cold corridors, with machinery neatly labeled in locked cages of perforated sheet metal, alight with flickering LEDs, and rows of Ethernet jacks.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1107,7 +1107,15 @@
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>; MegaBigPower,</Content>
+          <Content>; MegaBigPower, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://megabigpower.com/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1129,7 +1137,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>‘Sunny King’ (pseudonym), ‘Primecoin: Cryptocurrency with Prime Number Proof-of-Work’, 7 July 2013,</Content>
+          <Content>‘Sunny King’ (pseudonym), ‘Primecoin: Cryptocurrency with Prime Number Proof-of-Work’, 7 July 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://primecoin.io/bin/primecoin-paper.pdf</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1151,7 +1167,21 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Guy Lane, ‘Bitcoin's Carbon Footprint is out of Control’, 19 December 2013,</Content>
+          <Content>Guy Lane, ‘Bitcoin’s Carbon Footprint is out of Control’, 19 December 2013, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>bitcarbon</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.bitcarbon.org/bitcarbon/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1200,7 +1230,7 @@
     <Content>Snow Dogs 2</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> and the abyssal ocean of pornography, and brokering and serving ads–to say nothing of energy costs for TVs and lights on in vacant rooms, half-empty refrigerators, inefficient homes, and the marquees in Times Square. In conversation with cryptocurrency advocates the question of the energy budget of conventional currency often comes up. Consider, they say, all those ATMs, guards with handguns, shipments from various mints and reserve banks, and the armored trucks loaded with hundreds of 500-dollar boxes of U.S. quarters, each weighing a bit more than 11 kilograms. To which we could add the ruined, alien-planet landscapes produced by the extraction of precious metals, the mountains of tailings and sumps of cyanide and mercury and other heavy metals. The gigahashes wasted in search of block authentication can look pretty lightweight compared to the deca-tons of waste ore produced and dumped to generate an ounce of gold.</Content>
+    <Content> and the abyssal ocean of pornography, and brokering and serving ads – to say nothing of energy costs for TVs and lights on in vacant rooms, half-empty refrigerators, inefficient homes, and the marquees in Times Square. In conversation with cryptocurrency advocates the question of the energy budget of conventional currency often comes up. Consider, they say, all those ATMs, guards with handguns, shipments from various mints and reserve banks, and the armored trucks loaded with hundreds of 500-dollar boxes of U.S. quarters, each weighing a bit more than 11 kilograms. To which we could add the ruined, alien-planet landscapes produced by the extraction of precious metals, the mountains of tailings and sumps of cyanide and mercury and other heavy metals. The gigahashes wasted in search of block authentication can look pretty lightweight compared to the deca-tons of waste ore produced and dumped to generate an ounce of gold.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1248,12 +1278,12 @@
     <Content>n</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>+1 documents at once is a helpful feature reminding you to go for a walk outside. This essay is about two big bugs, which cryptocurrency platforms refashion into complementary features. Computational friction, taking the most literal facet of Edwards’s idea, turns the frustrating ceiling on computational work into a floor, a foundation, on which can be built an institution (of sorts). The frustrating unreality of money, of the realness of any given note and trust in overall issue, is made explicit and featureful, with flawed open source code turning trust in all transactions that constitute the blockchain ledger into the basis of the trust in new money. (What makes the money money? The heat. What makes the heat valuable? That it’s treated as the basis of the money.)</Content>
+    <Content>+1 documents at once is a helpful feature reminding you to go for a walk outside. This essay is about two big bugs, which cryptocurrency platforms refashion into complementary features. Computational friction, taking the most literal facet of Edwards’ idea, turns the frustrating ceiling on computational work into a floor, a foundation, on which an institution (of sorts) can be built. The frustrating unreality of money, of the realness of any given note and trust in overall issue, is made explicit and featureful, with flawed open source code turning trust in all transactions that constitute the blockchain ledger into the basis of the trust in new money. (What makes the money money? The heat. What makes the heat valuable? That it’s treated as the basis of the money.)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>This is a system, in other words, in which the grain of the universe – the movement of particles, the collisions of electrons and ions – becomes a kind of friction brake on the operation of a social mechanism. Joule heating has been used as a source of visible light, and now it's been repurposed as a source of trust, a trust bulb. Like an incandescent bulb, it mostly produces heat, but it has trust as a side effect. Bitcoin’s political baggage now runs the spectrum from those who’d like it ‘boring’, a regulated, taxed payment rail, to those who work to make it a source of great, fruitful chaos in the world, the infrastructure of an agorist society bringing down statist institutions. If we temporarily jettison that complex political cargo, it is revealed as an elegant, almost metaphysical parallel construction uniting computing and money.</Content>
+    <Content>This is a system, in other words, in which the grain of the universe – the movement of particles, the collisions of electrons and ions – becomes a kind of friction brake on the operation of a social mechanism. Joule heating has been used as a source of visible light, and now it’s been repurposed as a source of trust, a trust bulb. Like an incandescent bulb, it mostly produces heat, but it has trust as a side effect. Bitcoin’s political baggage now runs the spectrum from those who’d like it ‘boring’, a regulated, taxed payment rail, to those who work to make it a source of great, fruitful chaos in the world, the infrastructure of an agorist society bringing down statist institutions. If we temporarily jettison that complex political cargo, it is revealed as an elegant, almost metaphysical parallel construction uniting computing and money.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1273,7 +1303,15 @@
           <Content>MIT Technology Review,</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 15 August 2014; Anti-statist: Oleg Andreev, ‘Crypto-anarchy does not require anonymity’, .</Content>
+          <Content> 15 August 2014; Anti-statist: Oleg Andreev, ‘Crypto-anarchy does not require anonymity’, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1311,7 +1349,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Andreev, Oleg. ‘Crypto-Anarchy Does Not Require Anonymity’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity</Content>
     </CharacterStyleRange>
@@ -1324,7 +1362,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Back, Adam. ‘Hashcash – A Denial of Service Counter-Measure’, 2002, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.hashcash.org/papers/hashcash.pdf</Content>
     </CharacterStyleRange>
@@ -1335,7 +1373,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>boyd, danah. ‘blotchy burns on my legs from my Macbook’, </Content>
+    <Content>boyd, danah. ‘Blotchy Burns on My Legs from my Macbook’, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Zephoria</Content>
@@ -1343,7 +1381,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 9 September 2007, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy_burns_o.html</Content>
     </CharacterStyleRange>
@@ -1354,7 +1392,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cao, Xiaogang. ‘Visit of ASICMINER's Immersion Cooling Mining Facility’, </Content>
+    <Content>Cao, Xiaogang. ‘Visit of ASICMINER’s Immersion Cooling Mining Facility’, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Bitcoin Forum,</Content>
@@ -1362,7 +1400,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 25 November 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://bitcointalk.org/index.php?topic=346134.0</Content>
     </CharacterStyleRange>
@@ -1386,7 +1424,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Cloudhashing. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://cloudhashing.com/</Content>
     </CharacterStyleRange>
@@ -1410,7 +1448,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, (May 2011), </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://blog.frieze.com/max-mathews/</Content>
     </CharacterStyleRange>
@@ -1504,7 +1542,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>King, Sunny (pseudonym). ‘Primecoin: Cryptocurrency with Prime Number Proof-of-Work’, 7 July 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://primecoin.io/bin/primecoin-paper.pdf</Content>
     </CharacterStyleRange>
@@ -1537,9 +1575,15 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Lane, Guy. ‘Bitcoin's carbon footprint is out of control’, 19 December 2013, </Content>
+    <Content>Lane, Guy. ‘Bitcoin’s carbon footprint is out of control’, 19 December 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>bitcarbon</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://bitcarbon.org/bitcarbon/</Content>
     </CharacterStyleRange>
@@ -1563,7 +1607,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>MegaBigPower. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://megabigpower.com/</Content>
     </CharacterStyleRange>
@@ -1587,7 +1631,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Murdoch, Steven J. ‘Software Detection of Currency’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.cl.cam.ac.uk/~sjm217/projects/currency/</Content>
     </CharacterStyleRange>
@@ -1742,73 +1786,101 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cl.cam.ac.uk/~sjm217/projects/currency/" Name="link" DestinationURL="http://www.cl.cam.ac.uk/~sjm217/projects/currency/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="http://www.cl.cam.ac.uk/~sjm217/projects/currency/" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-20" Name="http://www.cl.cam.ac.uk/~sjm217/projects/currency/" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.cl.cam.ac.uk/~sjm217/projects/currency/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://megabigpower.com/" Name="link" DestinationURL="https://megabigpower.com/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="https://megabigpower.com/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-19" Name="https://megabigpower.com/" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://megabigpower.com/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://bitcarbon.org/bitcarbon/" Name="link" DestinationURL="http://bitcarbon.org/bitcarbon/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="http://bitcarbon.org/bitcarbon/" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-18" Name="http://bitcarbon.org/bitcarbon/" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://bitcarbon.org/bitcarbon/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://primecoin.io/bin/primecoin-paper.pdf" Name="link" DestinationURL="http://primecoin.io/bin/primecoin-paper.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="http://primecoin.io/bin/primecoin-paper.pdf" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-17" Name="http://primecoin.io/bin/primecoin-paper.pdf" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://primecoin.io/bin/primecoin-paper.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.frieze.com/max-mathews/" Name="link" DestinationURL="http://blog.frieze.com/max-mathews/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://blog.frieze.com/max-mathews/" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-16" Name="http://blog.frieze.com/max-mathews/" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://blog.frieze.com/max-mathews/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://cloudhashing.com/" Name="link" DestinationURL="https://cloudhashing.com/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="https://cloudhashing.com/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-15" Name="https://cloudhashing.com/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://cloudhashing.com/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://bitcointalk.org/index.php?topic=346134.0" Name="link" DestinationURL="https://bitcointalk.org/index.php?topic=346134.0" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="https://bitcointalk.org/index.php?topic=346134.0" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-14" Name="https://bitcointalk.org/index.php?topic=346134.0" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://bitcointalk.org/index.php?topic=346134.0</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy_burns_o.html" Name="link" DestinationURL="http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy_burns_o.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy_burns_o.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-13" Name="http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy_burns_o.html" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy_burns_o.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.hashcash.org/papers/hashcash.pdf" Name="link" DestinationURL="http://www.hashcash.org/papers/hashcash.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://www.hashcash.org/papers/hashcash.pdf" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-12" Name="http://www.hashcash.org/papers/hashcash.pdf" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.hashcash.org/papers/hashcash.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity" Name="link" DestinationURL="http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-11" Name="http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity" Name="link" DestinationURL="http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://blog.oleganza.com/post/71410377996/crypto-anarchy-does-not-require-anonymity</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bitcarbon.org/bitcarbon/" Name="link" DestinationURL="http://www.bitcarbon.org/bitcarbon/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://www.bitcarbon.org/bitcarbon/" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.bitcarbon.org/bitcarbon/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://primecoin.io/bin/primecoin-paper.pdf" Name="link" DestinationURL="http://primecoin.io/bin/primecoin-paper.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://primecoin.io/bin/primecoin-paper.pdf" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://primecoin.io/bin/primecoin-paper.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://megabigpower.com/" Name="link" DestinationURL="https://megabigpower.com/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="https://megabigpower.com/" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://megabigpower.com/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://cloudhashing.com/" Name="link" DestinationURL="https://cloudhashing.com/" DestinationUniqueKey="1" />

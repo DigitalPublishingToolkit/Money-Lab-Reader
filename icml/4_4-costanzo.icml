@@ -778,7 +778,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>One of the most important reasons that the Constitution replaced the Articles of Confederation was to end the pro-debtor laws passed by individual states. James Madison, the primary author of the Constitution, was often quoted saying the Constitution would insure that the ‘right people’ would retain power. Or as Madison wrote in Federalist Paper #10, ‘A rage for paper money, for an abolition of debts, for the equal division of property, or for any other improper or wicked project, will be less apt to pervade the whole body of the Union...’</Content>
+    <Content>One of the most important reasons that the Constitution replaced the Articles of Confederation was to end the pro-debtor laws passed by individual states. James Madison, the primary author of the Constitution, was often quoted saying the Constitution would insure that the ‘right people’ would retain power. Or as Madison wrote in Federalist Paper #10, ‘A rage for paper money, for an abolition of debts, for the equal division of property, or for any other improper or wicked project, will be less apt to pervade the whole body of the Union’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -918,7 +918,15 @@
           <Content>Guardian Liberty Voice</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 1 October 2014,</Content>
+          <Content>, 1 October 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://guardianlv.com/2014/10/detroit-judge-rules-there-is-no-basic-human-right-to-water/#uO42XvhUWarre06y.99</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1203,9 +1211,9 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>See </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://strikedebt.org</Content>
+            <Content>http://strikedebt.org](http://strikedebt.org</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1258,7 +1266,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Rolling Jubilee,</Content>
+          <Content>Rolling Jubilee, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://rollingjubilee.org</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1437,7 +1453,15 @@
           <Content>Global Research, Haïti Liberté</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 10 May 2013.</Content>
+          <Content>, 10 May 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.globalresearch.ca/haiti-independence-debt-reparations-for-slavery-and-colonialism-and-international-aid/5334619</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1457,7 +1481,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>International Monetary Fund, ‘Odious Debt’,</Content>
+          <Content>International Monetary Fund, ‘Odious Debt’, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.imf.org/external/pubs/ft/fandd/2002/06/kremer.htm</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1482,7 +1514,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Democracy Now, ‘Exhaustive Study Finds Global Elite Hiding Up to $32 Trillion in Offshore Accounts’, 31 July 2012.</Content>
+          <Content>Democracy Now, ‘Exhaustive Study Finds Global Elite Hiding Up to $32 Trillion in Offshore Accounts’, 31 July 2012, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1508,7 +1548,15 @@
           <Content>The New York Times</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 15 June 2014,</Content>
+          <Content>, 15 June 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.nytimes.com/2014/06/16/opinion/a-piketty-proteges-theory-on-tax-havens.html?ref=opinion&amp;_r=0</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1539,7 +1587,15 @@
           <Content>,</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 24 June 2013,</Content>
+          <Content> 24 June 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://strikedebt.org/publicdebtaudits/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1559,7 +1615,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Jubilee Debt Campaign, ‘Argentina Passes Law To Establish Debt Audit Commission’, 1 October 2014,</Content>
+          <Content>Jubilee Debt Campaign, ‘Argentina Passes Law To Establish Debt Audit Commission’, 1 October 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://jubileedebt.org.uk/news/argentina-passes-law-establish-debt-audit-commission</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1584,7 +1648,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Participatory Budgeting Project,</Content>
+          <Content>Participatory Budgeting Project, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1609,7 +1681,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Records of the Post Office Department,</Content>
+          <Content>Records of the Post Office Department, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.archives.gov/research/guide-fed-records/groups/028.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1629,7 +1709,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>National Emergency Employment Defense Act of 2011 [NEED Act, HR 2990],</Content>
+          <Content>National Emergency Employment Defense Act of 2011 [NEED Act, HR 2990], </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.govtrack.us/congress/bills/112/hr2990/text</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1740,7 +1828,7 @@
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Fig. 12: Aaron Burr Society poster for performance series at Pine Box Rock Shop in Bushwick Brooklyn, 2014.</Content>
     </CharacterStyleRange>
@@ -1848,7 +1936,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 6 October 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse</Content>
     </CharacterStyleRange>
@@ -1878,7 +1966,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, Speakers: Gillian Metzger, Christine Desan, Farley Grubb, Woody Holton, 25 January 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.modernmoneynetwork.org/seminar-5-constitutional-.html</Content>
     </CharacterStyleRange>
@@ -1897,7 +1985,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, Speakers: Harvey J. Goldschmid, William K. Black, Michael Norman, Lynn E. Turner, 26 February 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.youtube.com/watch?v=BFk6epIveY8</Content>
     </CharacterStyleRange>
@@ -1927,7 +2015,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 2010, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.joaap.org/webonly/costanzo.htm</Content>
     </CharacterStyleRange>
@@ -1940,7 +2028,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Democracy Now. ‘Exhaustive Study Finds Global Elite Hiding Up to $32 Trillion in Offshore Accounts’, 31 July 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding</Content>
     </CharacterStyleRange>
@@ -1981,7 +2069,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 1729, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://etext.lib.virginia.edu/users/brock/webdoc6.html</Content>
     </CharacterStyleRange>
@@ -2083,7 +2171,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 15 June 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0</Content>
     </CharacterStyleRange>
@@ -2206,7 +2294,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____ ‘“Don’t Owe, Won’t Pay!”: A Conversation with a French Debt Resistor’, 24 June 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://strikedebt.org/publicdebtaudits/</Content>
     </CharacterStyleRange>
@@ -2219,7 +2307,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>_____ Rolling Jubilee, 30 August 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://rollingjubilee.org</Content>
     </CharacterStyleRange>
@@ -2243,7 +2331,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>U.S. History: Pre-Columbian to the New Millennium. ‘15a Shay’s Rebellion’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.ushistory.org/us/15a.asp</Content>
     </CharacterStyleRange>
@@ -2266,87 +2354,164 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ushistory.org/us/15a.asp" Name="link" DestinationURL="http://www.ushistory.org/us/15a.asp" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-17" Name="http://www.ushistory.org/us/15a.asp" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-28" Name="http://www.ushistory.org/us/15a.asp" Source="htss-28" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.ushistory.org/us/15a.asp</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rollingjubilee.org" Name="link" DestinationURL="http://rollingjubilee.org" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="http://rollingjubilee.org" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-27" Name="http://rollingjubilee.org" Source="htss-27" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://rollingjubilee.org</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://strikedebt.org/publicdebtaudits/" Name="link" DestinationURL="http://strikedebt.org/publicdebtaudits/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="http://strikedebt.org/publicdebtaudits/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-26" Name="http://strikedebt.org/publicdebtaudits/" Source="htss-26" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://strikedebt.org/publicdebtaudits/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0" Name="link" DestinationURL="http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-25" Name="http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0" Source="htss-25" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&amp;_R=0</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://etext.lib.virginia.edu/users/brock/webdoc6.html" Name="link" DestinationURL="http://etext.lib.virginia.edu/users/brock/webdoc6.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="http://etext.lib.virginia.edu/users/brock/webdoc6.html" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-24" Name="http://etext.lib.virginia.edu/users/brock/webdoc6.html" Source="htss-24" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://etext.lib.virginia.edu/users/brock/webdoc6.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" Name="link" DestinationURL="http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-23" Name="http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" Source="htss-23" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.joaap.org/webonly/costanzo.htm" Name="link" DestinationURL="http://www.joaap.org/webonly/costanzo.htm" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="http://www.joaap.org/webonly/costanzo.htm" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-22" Name="http://www.joaap.org/webonly/costanzo.htm" Source="htss-22" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.joaap.org/webonly/costanzo.htm</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.youtube.com/watch?v=BFk6epIveY8" Name="link" DestinationURL="https://www.youtube.com/watch?v=BFk6epIveY8" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="https://www.youtube.com/watch?v=BFk6epIveY8" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-21" Name="https://www.youtube.com/watch?v=BFk6epIveY8" Source="htss-21" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.youtube.com/watch?v=BFk6epIveY8</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.modernmoneynetwork.org/seminar-5-constitutional-.html" Name="link" DestinationURL="http://www.modernmoneynetwork.org/seminar-5-constitutional-.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://www.modernmoneynetwork.org/seminar-5-constitutional-.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-20" Name="http://www.modernmoneynetwork.org/seminar-5-constitutional-.html" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.modernmoneynetwork.org/seminar-5-constitutional-.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse" Name="link" DestinationURL="http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-19" Name="http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/media/Images_Costanzo/Fig_12_A.jpg" Name="link" DestinationURL="media/Images_Costanzo/Fig_12_A.jpg" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="media/Images_Costanzo/Fig_12_A.jpg" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-18" Name="media/Images_Costanzo/Fig_12_A.jpg" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/media/Images_Costanzo/Fig_12_A.jpg</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://strikedebt.org" Name="link" DestinationURL="http://strikedebt.org" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="http://strikedebt.org" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.govtrack.us/congress/bills/112/hr2990/text" Name="link" DestinationURL="https://www.govtrack.us/congress/bills/112/hr2990/text" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-17" Name="https://www.govtrack.us/congress/bills/112/hr2990/text" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://strikedebt.org</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://www.govtrack.us/congress/bills/112/hr2990/text</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.archives.gov/research/guide-fed-records/groups/028.html" Name="link" DestinationURL="http://www.archives.gov/research/guide-fed-records/groups/028.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-16" Name="http://www.archives.gov/research/guide-fed-records/groups/028.html" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.archives.gov/research/guide-fed-records/groups/028.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/" Name="link" DestinationURL="http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-15" Name="http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://jubileedebt.org.uk/news/argentina-passes-law-establish-debt-audit-commission" Name="link" DestinationURL="http://jubileedebt.org.uk/news/argentina-passes-law-establish-debt-audit-commission" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-14" Name="http://jubileedebt.org.uk/news/argentina-passes-law-establish-debt-audit-commission" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://jubileedebt.org.uk/news/argentina-passes-law-establish-debt-audit-commission</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://strikedebt.org/publicdebtaudits/" Name="link" DestinationURL="http://strikedebt.org/publicdebtaudits/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-13" Name="http://strikedebt.org/publicdebtaudits/" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://strikedebt.org/publicdebtaudits/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nytimes.com/2014/06/16/opinion/a-piketty-proteges-theory-on-tax-havens.html?ref=opinion&amp;_r=0" Name="link" DestinationURL="http://www.nytimes.com/2014/06/16/opinion/a-piketty-proteges-theory-on-tax-havens.html?ref=opinion&amp;_r=0" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="http://www.nytimes.com/2014/06/16/opinion/a-piketty-proteges-theory-on-tax-havens.html?ref=opinion&amp;_r=0" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.nytimes.com/2014/06/16/opinion/a-piketty-proteges-theory-on-tax-havens.html?ref=opinion&amp;_r=0</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" Name="link" DestinationURL="http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.imf.org/external/pubs/ft/fandd/2002/06/kremer.htm" Name="link" DestinationURL="http://www.imf.org/external/pubs/ft/fandd/2002/06/kremer.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://www.imf.org/external/pubs/ft/fandd/2002/06/kremer.htm" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.imf.org/external/pubs/ft/fandd/2002/06/kremer.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.globalresearch.ca/haiti-independence-debt-reparations-for-slavery-and-colonialism-and-international-aid/5334619" Name="link" DestinationURL="http://www.globalresearch.ca/haiti-independence-debt-reparations-for-slavery-and-colonialism-and-international-aid/5334619" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://www.globalresearch.ca/haiti-independence-debt-reparations-for-slavery-and-colonialism-and-international-aid/5334619" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.globalresearch.ca/haiti-independence-debt-reparations-for-slavery-and-colonialism-and-international-aid/5334619</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rollingjubilee.org" Name="link" DestinationURL="http://rollingjubilee.org" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://rollingjubilee.org" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://rollingjubilee.org</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://strikedebt.org](http://strikedebt.org" Name="link" DestinationURL="http://strikedebt.org](http://strikedebt.org" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="http://strikedebt.org](http://strikedebt.org" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://strikedebt.org](http://strikedebt.org</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://guardianlv.com/2014/10/detroit-judge-rules-there-is-no-basic-human-right-to-water/#uO42XvhUWarre06y.99" Name="link" DestinationURL="http://guardianlv.com/2014/10/detroit-judge-rules-there-is-no-basic-human-right-to-water/#uO42XvhUWarre06y.99" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://guardianlv.com/2014/10/detroit-judge-rules-there-is-no-basic-human-right-to-water/#uO42XvhUWarre06y.99" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://guardianlv.com/2014/10/detroit-judge-rules-there-is-no-basic-human-right-to-water/#uO42XvhUWarre06y.99</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/" Name="link" DestinationURL="http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/" DestinationUniqueKey="1" />
