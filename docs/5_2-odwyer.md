@@ -299,7 +299,7 @@ never purely instrumental; they are always sociotechnical.
 
 Instead of information and communication technologies supplementing
 financial operations, telecommunications operators, and particularly
-those supporting wireless communications, are emerging as veritable
+those supporting wireless communications, they are emerging as veritable
 financial actors in their own right.[^29] This trend is particularly
 obvious in the Global South, where wireless services are more easily
 provisioned than both financial services and wired communications.
@@ -387,7 +387,7 @@ transactions, smartphones provide more possibilities for payment, with
 mobile network operators and third parties producing mobile wallets and
 NFC or QR code based applications for e-payments on the go. Alongside
 network operators, ISPs such as Google and Facebook are also entering
-this space.[^40] Device manufacturers also have a hand in, with payment
+this space.[^40] Device manufacturers also have a hand in it, with payment
 solutions forming an integral part of the iPhone 6 and anticipated to
 replace the magnetic strip interface of the credit card in the near
 future.[^41]
@@ -653,7 +653,7 @@ Finacialization’, *Moneylab Conference*, Amsterdam, 21-22 March 2014,
 <http://vimeo.com/90208804>
 
 Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
-30 November 2011
+30 November 2011,
 <http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/>.
 
 [^1]: Mark Andrejevic, ‘Surveillance in the Digital Enclosure’, *The
@@ -778,8 +778,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     of the demarcation between banks and non-financial communications
     intermediaries.
 
-[^24]: David Zax, ‘Is Personal Data the New Currency? *MIT Technology
-Review*, 30 November 2011, (http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/)[http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/].
+[^24]: David Zax, ‘Is Personal Data the New Currency? *MIT Technology Review*, 30 November 2011, <http://www.technologyreview.com/view/426235/is-personal-data-the-new-currency/>.
 
 
 [^25]: International Finance Corporation (IFC), ‘Mobile Money Study
@@ -800,8 +799,7 @@ Review*, 30 November 2011, (http://www.technologyreview.com/view/426235/is-perso
 [^28]: See [https://ripple.com](See https://ripple.com) or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
     on your Reputation’, *Wired Magazine*, 18 July 2014, [http://www.wired.com/2014/07/document-coin/](http://www.wired.com/2014/07/document-coin/).
 
-[^29]: Wouter Rosingh, Adam Seal, and David Osborn, ‘Why Banks and
-Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001), [http://www.strategy-business.com/article/17163?gko=4cda6](http://www.strategy-business.com/article/17163?gko=4cda6)
+[^29]: Wouter Rosingh, Adam Seal, and David Osborn, ‘Why Banks and Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001), [http://www.strategy-business.com/article/17163?gko=4cda6](http://www.strategy-business.com/article/17163?gko=4cda6)
 
 [^30]: See [http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked](http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked). 
 
@@ -850,10 +848,10 @@ Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001), [http://www.st
     *Innovations* 4.2 (2009).
 
 [^40]: ‘Facebook seeks Irish Approval for New Money Service’, *Irish
-    Times*, 14 April 2014,
+    Times*, 14 April 2014, <http://www.irishtimes.com/business/sectors/technology/facebook-seeks-irish-approval-new-for-e-money-service-1.1760908>.
 
 [^41]: Jon Delano, ‘Swiping iPhone 6 May Soon Replace Credit Cards’,
-    *CBSLocal*, 10 September 2014,
+    *CBSLocal*, 10 September 2014, <http://pittsburgh.cbslocal.com/2014/09/10/swiping-iphone-6-may-soon-replace-credit-cards-cash/>.
 
 [^42]: As telecommunications economist Jan Dawson explains, traditional
     telecommunications providers can no longer afford to provision
