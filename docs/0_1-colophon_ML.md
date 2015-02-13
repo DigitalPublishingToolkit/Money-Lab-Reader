@@ -15,7 +15,7 @@ Rights: CC BY-NC 4.0
 
 **MoneyLab Reader: An Intervention in Digital Economy**
 
-Editors: Geert Lovink, Nathaniel Tkacz, and Patricia de Vries
+Editors: Geert Lovink, Nathaniel Tkacz and Patricia de Vries
 
 Copy editing: Annie Goodner and Morgan Currie
 
@@ -27,7 +27,7 @@ Production: Miriam Rasch
 
 Cover design: Content Context
 
-Printer:
+Printer: Drukkerij Tuijtel
 
 Publisher: Institute of Network Cultures, Amsterdam, 2015
 
@@ -71,7 +71,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/.
 
 **MoneyLab Reader: An Intervention in Digital Economy**
 
-Edited by Geert Lovink, Nathaniel Tkacz, and Patricia de Vries
+Edited by Geert Lovink, Nathaniel Tkacz and Patricia de Vries
 
 INC Reader \#10
 
@@ -133,7 +133,7 @@ When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to t
 
 **Geert Lovink and Nathaniel Tkacz**
 
-Introduction to the MoneyLab Reader
+Welcome to MoneyLab 
 
 THE LONG GAME
 
@@ -214,7 +214,7 @@ TECHNOLOGIES OF PAYMENT
 
 **Bill Maurer and Lana Swartz**
 
-Wild, Wild West: A View from Two California Schoolmarms
+Wild, Wild West: A View from Two Californian Schoolmarms
 
 **Rachel O’Dwyer**
 
@@ -507,7 +507,7 @@ the Central Bank of Austria.
 
 MoneyLab Reader: An Intervention In Digital Economy
 
-Edited by Geert Lovink, Nathaniel Tkacz, and Patricia de Vries
+Edited by Geert Lovink, Nathaniel Tkacz and Patricia de Vries
 
 INC Reader \#10
 
@@ -534,13 +534,13 @@ At stake is the full spectrum of technologies of economic
 **Contributors:**
 
 Irwan Abdalloh, Franco "Bifo" Berardi, Robert van Boeschoten, Finn Brunton, Paolo Cirio, Jim Costanzo,
-Primavera De Filippi , Eduard de Jong, Irina Enache, Andrea Fumagalli,
+Primavera De Filippi, Eduard de Jong, Irina Enache, Andrea Fumagalli,
 David Golumbia, Max Haiven, Keith Hart, Samer Hassan, Ralph Heidenreich,
 Stefan Heidenreich, Geert Lovink, Bill Maurer, Rachel O’Dwyer, Pekka
 Piironen, Lena Rethel, Renée Ridgway, Andrew Ross, Stephanie Rothenberg,
-Douglas Rushkoff, Saskia Sassen, Inge Ejbye Sørensen, Erin B. Taylor,
+Douglas Rushkoff, Saskia Sassen, Inge Ejbye Sørensen, Lana Swartz, Erin B. Taylor,
 Tiziana Terranova, Nathaniel Tkacz, Pablo
-Velasco, Akseli Virtanen, and Beat Weber.
+Velasco, Akseli Virtanen and Beat Weber.
 
 **Institute of Network Cultures, Amsterdam 2015**
 
