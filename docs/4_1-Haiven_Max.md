@@ -37,7 +37,7 @@ than quality. So in prisons, cigarettes are often used as currencies
 because they’re fairly identical, and you can owe your cellmate a
 certain hypothetical number of them in the future. Finally, money needs
 to work as a store of value, to (by and large) hold its worth over time.
-So cheesecakes, while delicious, wouldn't work as currencies (even if
+So cheesecakes, while delicious, wouldn’t work as currencies (even if
 everyone were to accept them) because they lose their value relatively
 quickly as they age.
 
@@ -63,7 +63,7 @@ other writers remind us). Yet the power they wield over our lives is
 more terrifying and more intimate than that of the most ambitious
 dictator.
 
-As I will argue in this chapter, today a great volume of contemporary
+I will argue that today a great volume of contemporary
 artistic production addresses precisely these contradictions and
 political-economic riddles by mobilizing money (bills, coins, credit
 cards, etc.) as a medium of creative expression, often in profound and
@@ -173,7 +173,7 @@ massage therapist’s labor, to a piece of art. Importantly, all these
 commodities are, in reality, the solidifications of workers’ labor. The
 value of any commodity ultimately boils down to how much human time and
 energy was invested in creating it and bringing it to market. The
-exchange of commodities takes place through one super-commodity, money,
+exchange of commodities takes place through one super-commodity (money)
 which fulfills the three ‘qualities’ listed above: widespread
 acceptability and convenience, uniformity for abstract mathematical
 manipulation, and durability of value.
@@ -194,7 +194,7 @@ and division of human labor, which, allegedly, benefits everyone.[^11]
 
 For most economists, this is the logical and harmonious basis of
 economic life.[^12] But Marx was keen to show that this bucolic fantasy
-was far from reality, a reality in which the European economy of his day
+was far from reality; a reality in which the European economy of his day
 was built on the unfree labor of enslaved people, colonized populations,
 and indentured servants, and in which even nominally ‘free’ laborers
 were not producing for their own benefit.[^13] True: the value of
@@ -237,7 +237,7 @@ Presidents or Person’s representations of fearsome mythological beasts),
 sometimes as ambiguous prompts for meditation (such as Wilde’s rendering
 of famous works of Western art history, notably Goya’s *Disasters of
 War*). Plenty of other artists have been tempted by the symbolic
-potential of shredded money, a material available in the from Federal
+potential of shredded money, a material available from Federal
 Reserve Bank locations in the United States, the byproduct of the
 destruction of decommissioned bills. The appeal of money collage perhaps
 stems from the acceleration of money’s circulation today and the
@@ -374,7 +374,7 @@ manipulated by human foibles.[^23] In either case, by consecrating or
 desecrating money as either angelic or demonic, politics, policy, and
 the political imagination are constrained to developing more
 sophisticated and expert-driven ways of managing money. Such a political
-imaginary is certainly not limited to the armature of Keynesian or,
+imagination is certainly not limited to the armature of Keynesian or,
 later, Monetarist economics, which have been ascendant since the end of
 the Second World War, an approach which sees the control of the supply
 and flow of money and, hence, economic life, as the paternal
@@ -647,7 +647,7 @@ their penchant for symbolic, celebratory gestures and spectacles, the
 Commune failed to seize the Bank of France. Arguably, Marx was not only
 frustrated that this denied the Commune the funds it desperately needed
 (for it was also true that the sanctity of the Bank of France was needed
-if the Commune was to secure loans into the future), oversight was
+if the Commune was to secure loans into the future), this oversight was
 symptomatic of a flaw in the Commune as a whole. As Engels wrote in his
 preface to a new posthumous edition of Marx’s writings on the Commune,
 twenty years later:
@@ -686,7 +686,7 @@ old regime. Yet plans for actually making Bitcoin or other
 cryptocurrencies into a means to vitally and fundamentally transform the
 relations of production under capitalism are much more shaky. More
 comforting to assume that if the grammar of money itself can be changed,
-the whole language and imaginary of society will follow. Yet in the
+the whole language and imagination of society will follow. Yet in the
 absence of either a strong regulatory state or powerful workers’
 movements, there is little to prevent Bitcoin from becoming the lingua
 franca of a new capitalist order or corporate oligarchy.
@@ -716,6 +716,9 @@ more powerful forces of empire amass today at the proverbial gates?
 Anderson, Benedict. *Imagined Communities*, London and New York: Verso,
 2006.
 
+Angelis, Massimo De. *The Beginning of History: Value Struggles and
+Global Capitalism*, London and Ann Arbor, MI: Pluto, 2007.
+
 Balibar, Etienne. *The Philosophy of Marx*, London and New York: Verso,
 2007.
 
@@ -726,20 +729,17 @@ Government’, *The Toronto Star*, 27 July 2014,
 Bello, Walden. *Capitalism’s Last Stand?: Deglobalization in the Age of
 Austerity*, London: Zed, 2013.
 
-Bishop, Claire. *Artificial Hells: Participatory Art and the Politics of
-Spectatorship*, London and New York: Verso, 2012.
-
 Beuys, Joseph et al. *What Is Money? A Discussion*, West Hoathly, UK:
 Clairview, 2010.
+
+Bishop, Claire. *Artificial Hells: Participatory Art and the Politics of
+Spectatorship*, London and New York: Verso, 2012.
 
 Caffentzis, George. *Clipped Coins, Abused Words, and Civil Government:
 John Locke’s Philosophy of Money*, Brooklyn NY: Autonomedia, 1989.
 
 Carruthers, Bruce G. and Laura Ariovich. *Money and Credit: A
 Sociological Approach*, Cambridge, UK and Malden, MA: Polity, 2010.
-
-De Angelis, Massimo. *The Beginning of History: Value Struggles and
-Global Capitalism*, London and Ann Arbor, MI: Pluto, 2007.
 
 Eagleton, Terry. *Why Marx Was Right*, New Haven, CT: Yale University
 Press, 2011.
@@ -948,7 +948,7 @@ Princeton University Press, 2005.
     Commune*, New York: International, 1993.
 
 
-[^41]: C.L.R. James, ‘They Showed the Way to Labor Emancipation: On Karl
+[^41]: C.L.R. James, ‘They Showed the Way to Labor Emancipation: On Karl Marx and the 75th Anniversary of the Paris Commune’ (1946), <https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm>.
 
 
 [^43]: See Kristen Ross, *The Emergence of Social Space: Rimbaud and the

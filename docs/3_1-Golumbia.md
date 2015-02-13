@@ -800,7 +800,7 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
 [^8]: See Marc Andreessen, co-founder of the Andreessen Horowitz venture
     capital firm which is one of Silicon Valley’s main backers of
     Bitcoin-related enterprises, in his ‘Why Bitcoin Matters’, *The New
-    York* Times, 21 January 2014,<http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1>.
+    York* Times, 21 January 2014, <http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1>.
 
 [^9]: On Bitcoin’s lack of fit with standard economic definitions of
     money and currency, see David Yermack, ‘Is Bitcoin a Real Currency?
@@ -857,7 +857,7 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     Volatility Hits Pawnbroker’s Profits’, *The Guardian*, 29 September
     2013, <http://www.theguardian.com/business/2013/sep/29/gold-price-volatility-pawnbroker-profits>.
 
-[^20]: See ‘Interview with Brooksley Born’, *Frontline*, October 2009,<http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html>.
+[^20]: See ‘Interview with Brooksley Born’, *Frontline*, October 2009, <http://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html>.
 
 [^21]: Rob Wile, ‘927 People Own Half of All Bitcoins’, *Business
     Insider*, 10 December 2013, <http://www.businessinsider.com/927-people-own-half-of-the-bitcoins-2013-12>.
@@ -903,7 +903,7 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     to Stephen Mihm, ‘Are Bitcoins the Criminal’s Best Friend?’,
     *Bloomberg View*, 18 November 2013, <http://www.bloombergview.com/articles/2013-11-18/are-bitcoins-the-criminal-s-best-friend->,
     and to Rumpelstatskin, ‘Everything I Was Afraid to Ask About Bitcoin
-    but Did’, *Naked Capitalism*, 21 November 2013,<http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html>. 
+    but Did’, *Naked Capitalism*, 21 November 2013, <http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html>. 
     Also see the comments collected by the Twitter account ‘Shit
     /r/Bitcoin says’ (@shit\_rbtc\_says,
     https://twitter.com/shit\_rbtc\_says), some of which are discussed
