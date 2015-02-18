@@ -116,13 +116,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ISBN: 978-90-822345-5-8 (print)</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&#x2028;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ISBN: 978-90-822345-6-5 (EPUB)</Content>
+    <Content>ISBN: 978-90-822345-5-8 (print) ISBN: 978-90-822345-6-5 (EPUB)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -345,13 +339,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>All INC Readers, and other publications like the Network Notebooks Series and Theory on Demand, can be downloaded and read for free.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&#x2028;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>See www.networkcultures.org/publications.</Content>
+    <Content>All INC Readers, and other publications like the Network Notebooks Series and Theory on Demand, can be downloaded and read for free. See www.networkcultures.org/publications.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -1072,7 +1060,7 @@
     <Content>Rachel O’Dwyer</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>  is a post-doctoral researcher and lecturer in the School of Computer Science in Trinity College Dublin. She is the leader of the Dublin Art and Technology Association (www.data.ie) and the initiator and lead curator of Openhere, a festival and conference on the digital commons. She writes about digital media, political economy of communications, and media art and culture.</Content>
+    <Content> is a post-doctoral researcher and lecturer in the School of Computer Science in Trinity College Dublin. She is the leader of the Dublin Art and Technology Association (www.data.ie) and the initiator and lead curator of Openhere, a festival and conference on the digital commons. She writes about digital media, political economy of communications, and media art and culture.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1339,12 +1327,12 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>MoneyLab is part of a global movement that demands the democratization of the design of our financial futures. Audacity is essential in times of crisis. And so we must engage constructively with hackers, entrepreneurs, and other creators who take up the call for economic alternatives. One first step is a map of the present: What works and what doesn’t? What is worth pursuing and what must be left aside? Which histories bear on the present moment? And what are the limits of our economic imagination?</Content>
+    <Content>MoneyLab is part of a global movement that demands the democratization of the design of our financial futures. Audacity is essential in times of crisis. And so we must engage constructively with hackers, entrepreneurs, and other creators who take up the call for economic alternatives. One first step is a map of the present: What works and what doesn’t? What is worth pursuing and what must be left aside? Which histories bear on the present moment? And what are the limits of our economic imagination?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The MoneyLab Reader brings developments in crowdfunding, currency design, technologies of payment, and other economic experiments into dialogue. The authors of this volume discuss the implications of the current architecture of global finance, its impact on ever-growing income disparity, and question money and finance as such. It is not always clear, for instance, whether genuine alternatives are unfolding or if we are simply witnessing the creative extension of neoliberalism. At stake is the full spectrum of technologies of economic (re)distribution.</Content>
+    <Content>The MoneyLab Reader brings developments in crowdfunding, currency design, technologies of payment, and other economic experiments into dialogue. The authors of this volume discuss the implications of the current architecture of global finance, its impact on ever-growing income disparity, and question money and finance as such. It is not always clear, for instance, whether genuine alternatives are unfolding or if we are simply witnessing the creative extension of neoliberalism. At stake is the full spectrum of technologies of economic (re)distribution.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1364,13 +1352,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ISBN: 978-90-822345-5-8 (print)</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&#x2028;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ISBN: 978-90-822345-6-5 (EPUB)</Content>
+    <Content>ISBN: 978-90-822345-5-8 (print) ISBN: 978-90-822345-6-5 (EPUB)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
