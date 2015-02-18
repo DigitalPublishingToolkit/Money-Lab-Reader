@@ -31,7 +31,7 @@ Printer: Drukkerij Tuijtel
 
 Publisher: Institute of Network Cultures, Amsterdam, 2015
 
-ISBN: 978-90-822345-5-8 (print)  
+ISBN: 978-90-822345-5-8 (print) 
 ISBN: 978-90-822345-6-5 (EPUB)
 
 
@@ -67,7 +67,7 @@ Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).
 To view a copy of this license, visit
 http://creativecommons.org/licenses/by-nc-sa/3.0/.
 
-[cover]
+\[cover\]
 
 **MoneyLab Reader: An Intervention in Digital Economy**
 
@@ -121,7 +121,7 @@ INC Reader \#1: Geert Lovink and Soenke Zehle (eds),
 *Incommunicado Reader*, 2005.
 
 All INC Readers, and other publications like the Network Notebooks
-Series and Theory on Demand, can be downloaded and read for free.  
+Series and Theory on Demand, can be downloaded and read for free. 
 See
 www.networkcultures.org/publications.
 
@@ -416,7 +416,7 @@ anthropologist, he conducts research on money and finance, focusing on
 the technological infrastructures and social relations of exchange and
 payment.
 
-**Rachel O’Dwyer**  is a post-doctoral researcher and lecturer in the School of Computer Science in Trinity College Dublin. She is the leader of the Dublin Art and Technology Association (www.data.ie) and the initiator and lead curator of Openhere, a festival and conference on the digital commons. She writes about digital media, political economy of communications, and media art and culture.
+**Rachel O’Dwyer** is a post-doctoral researcher and lecturer in the School of Computer Science in Trinity College Dublin. She is the leader of the Dublin Art and Technology Association (www.data.ie) and the initiator and lead curator of Openhere, a festival and conference on the digital commons. She writes about digital media, political economy of communications, and media art and culture.
 
 **Pekka Piironen** a Finnish economic and strategy theorist, known
 for his theory of the collective pledge and biopolitics of firms. He is
@@ -516,22 +516,22 @@ Edited by Geert Lovink, Nathaniel Tkacz and Patricia de Vries
 INC Reader \#10
 
 MoneyLab is part of a global movement that demands the democratization
-of the design of our financial futures. Audacity is essential in times
+of the design of our financial futures. Audacity is essential in times
 of crisis. And so we must engage constructively with hackers,
 entrepreneurs, and other creators who take up the call for economic
-alternatives. One first step is a map of the present: What works and what
+alternatives. One first step is a map of the present: What works and what
 doesn’t? What is worth pursuing and what must be left aside? Which
 histories bear on the present moment? And what are the limits of our
 economic imagination?
 
 The MoneyLab Reader brings developments in crowdfunding, currency
-design, technologies of payment, and other economic experiments into
-dialogue. The authors of this volume discuss the implications of the
+design, technologies of payment, and other economic experiments into
+dialogue. The authors of this volume discuss the implications of the
 current architecture of global finance, its impact on ever-growing
-income disparity, and question money and finance as such. It is not
+income disparity, and question money and finance as such. It is not
 always clear, for instance, whether genuine alternatives are unfolding
 or if we are simply witnessing the creative extension of neoliberalism.
-At stake is the full spectrum of technologies of economic 
+At stake is the full spectrum of technologies of economic 
 (re)distribution.
 
 
@@ -548,7 +548,7 @@ Velasco, Akseli Virtanen and Beat Weber.
 
 **Institute of Network Cultures, Amsterdam 2015**
 
-ISBN: 978-90-822345-5-8 (print)  
+ISBN: 978-90-822345-5-8 (print) 
 ISBN: 978-90-822345-6-5 (EPUB)
 
 
