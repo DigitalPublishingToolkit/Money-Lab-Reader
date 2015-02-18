@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>MoneyLab: Sprouting New Digital-Economic Forms</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Geert Lovink and Nathaniel Tkacz</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The best way to rob a bank is to design a currency – Johan Sjerpstra</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Welcome to MoneyLab, a network of artists, activists and researchers, founded in 2013 by the Amsterdam-based Institute of Network Cultures; its aim is to research, discuss, and experiment with (alternative) internet-related revenue models in the arts and beyond. The initial MoneyLab: Coining Alternatives conference was organised in March 2014 in Amsterdam and focussed on the Bitcoin debate, first steps in crowdfunding research, mobile money in Africa and beyond, and artistic responses to the 2008 global financial crisis, on-going recession, foreclosures and insolvencies. This reader can in part be read as the proceedings of this event (the program of the conference is included in the back of this publication). In our text ‘Friends with Money’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Geert Lovink and Nate Tkacz, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Data Browser</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Autonomedia, 2013, pp. 175-191. See also: http://networkcultures.org/moneylab/about/background/.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, included in the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Disrupting Business: Art and Activism in Times of Financial Crisis</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> anthology, we have laid out the programmatic intentions of our interventionist research. We’re not going to repeat that here. Instead, we want to go through a few key developments and identify touchstone authors in the MoneyLab </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>umfeld</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. We conclude with the outlook of MoneyLab two years into the project and reassess the relation between experimentation-innovation and radical critique, inside and outside academia.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>MoneyLab begins when network cultures and their corporate counterparts come to see the network as generative of new economic forms. Money is no longer a given, coming from outside. Currency, tokens, ‘wallets’ and technologies of payment are all fair game, all up for grabs. The spectacle of Bitcoin has drawn everyone’s attention, but the heavyweights – Google, Facebook, Amazon, Apple, Samsung, etc. – have also been busy reimagining themselves as financial services and payment providers for the platformed masses.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Meanwhile, the networked subjects are left to their devices, having to generate revenue themselves and create something out of nothing, from zero to one. Neoliberal subjects find themselves in permanent start-up mode. In times of advanced stagnation we can neither count on subsidies, nor investments provided by the traditional world of finance. Welcome to digital realism. The 99% have all become survival artists in our austerity networks, subjected to rolling crises amidst never-ending economic decline. The search for new modes of value extraction intensifies. The latest ubiquitous technology is financialization itself. In this not-so-brave new world, conflict risks being superseded by competing economic visions articulated through software. Destroy the system! Bitcoin or Ripple?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The content potlatch is over. You can share – but who cares? The copy is neither the problem nor the solution and tends to postpone rather than speed-up the decisions ahead. The classic distinction between the idealistic hacker and the opportunistic start-up entrepreneur has started to blur. It is no longer clear whether genuine alternatives are unfolding, or we are simply witnessing creative destruction without a cause. Disruption has become an aim in itself. What will we pitch? Dunno? How about potato salad?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Kate Harrison, ‘Crowdfunding Potato Salad: Funny or Insulting?’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Forbes</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 08/08/2014, http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We used to take for granted that money circulates, but now we are forced to invent it, time and again. The Lab is our creative jail. No solution coming from here will ever become sustainable: we are locked-up in a mad house of temporary standards for ‘additional’ sources of income. Additional to what? many of us will ask ourselves. Will the tiny revenue streams ever swell, or will they remain as erratic as the global weather? Can micropayments ever create a New Renaissance or should we be more realistic? Shouldn’t we combine the desire for new revenue models with a demand to redistribute income?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Let’s scan the future spectrum of technologies of (re)distribution. You have been signed up for the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>network economicus</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: the internet reconfigured as a suite of financial services, as a space for conducting and intensifying financial selves – entrepreneurs, funders, venturers, exchangers, and of course, debtors. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Network economicus</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> presents an archipelago of platform economies. Google, Apple, Facebook, Twitter—all working to harness the lock-in effects of social ties in order to generate and extract value from routine economic activities beyond the service/data-profile/advertising complex.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Could it be that the real killer app of the net has been uniformly overlooked? We are talking, of course, of internet banking. Imagine how different the frontier mentality of earlier phases of ‘new media’ would look if it paid serious attention to net banking. There is no community, no collaboration, no anonymous exploration of multiple selves. It never took place in a virtual world and is in no way progressive. Instead we see user accounts linked to real identities supported by hard documentation. These are websites that function to support utterly mundane financial tasks. Security, of selves and of the general infrastructure, is a central concern. The goal of the net banking experience is seamless functionality and ease of transfer, devoid of any unforeseen potentiality, where financial subjectivity is quietly fostered through the routine browsing, clicking and scrolling through of one’s meaningful numbers.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Large portions of the web have now been recast in this imagining of internet banking. But the converse is also true. Contemporary banking is folding in the logics of personalisation, recommendation and advertising, and is starting to borrow from design techniques pioneered in social media and other commercial platforms. In England, for example, online statements are now riddled with promotional material, which are derived from their clients spending and purchase histories. User accounts now come with money management dashboards that categorise and visualise spending and saving habits, or lack thereof. And, of course, the banks are in on the data profiling game.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the U.S., the East-West division of powers is shifting. The visions and aspirations of Wall Street and Silicon Valley are merging. Start-ups are now looking to innovate at the level of money, payment and funding, while financial companies innovate through technology. Finance is increasingly where the geeks end up: mathematical modelers, machine learning experts, physics majors and so on. Increasingly, their target is the ‘data flows’ of social media and related platforms. Front-end financialization of the web coincides with the discovery that the web can be used as a financial resource. Wikipedia page edits can be used to predict stock movements. Social media platforms are machine-readable and the content of these ‘flows’ is reflected in fluctuating stock values. The hacking of the Associated Press Twitter account in April 2013 showed all too well the new volatilities of finance when it becomes subject to the status update. MoneyLab takes place within this layering of financial techniques and technologies. Some of these developments are beyond reach, but we must not fear finance as such. This point has been made most clearly by financial activist Brett Scott, who contributed to the MoneyLab conference. Scott’s technique is to approach the world of finance through the mindset of the hacker. We might equally ask what other strategies of engagement are possible?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Historically, the MoneyLab project can be situated as one of the many post-global financial crisis initiatives that emerged after the global uprisings of 2011, in particular Occupy. In a sense, Occupy was not enough about Wall Street and was too inward looking at the internal dynamics of becoming a movement in the 21st century. Occupy showed not only how mainstream the discontent of global finance was, but also demonstrated the need for alternative views on money, capital, income and finance. MoneyLab emerged a few years into the Bitcoin craze and similar cryptocurrency experiments. Early days wherever you looked. That’s the spirit of MoneyLab. The critique of global finance is there but is still waiting for its own ‘Piketty’ moment. There is a growing awareness of 'dark pools' and other absurdities (thanks to Scott Peterson</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Scott Patterson, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Dark Pools, The Rise of A.I. trading machines and the looming threat to Wall Street</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Random House, New York, 2012.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and the pop literature of Michael Lewis</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Michael Lewis, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Flash Boys: A Wall Street Revolt</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: W.W. Norton &amp; Co., 2014.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>), but how can all this evidence be turned into an organised outrage or even be translated into policy? Many of us fear that regulation alone will not do the job. It is not enough to decommission this or that financial tool. Besides a General Theory of Global Finance for the 21st Century, we also need blueprints for how money should be generated in this age of digital networks.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>MoneyLab talks strategy. In his book </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Quants</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Scott Patterson discusses proposals to ban quants from Wall Street. To him ‘that would be tantamount to banishing civil engineers from the bridge-making profession after a bridge collapse. Instead, many believed the goal should be to design better bridges – or, in the case of the quants, more robust models that could withstand financial tsunamis, not create them.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Scott Patterson, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Quants</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, p. 318.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> But what's better ‘design’ in the age of algo wars? Is Bitcoin the better bridge? What does it mean to improve systems when we have reached the end of the liberal market illusion? There will always be ‘new insiders’. Will it be Apple, Google and Facebook this time? Or should we expect the telcos to become the new banks?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In her 2014 book </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Expulsions</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Saskia Sassen points to the Theatre of Cruelty, the neoliberal revenge on the poor, as a result of the 2008 financial crisis. In terms of strategy, this is always good to keep in mind: there are hidden costs, there is a long-term fall out. The autonomy of the ‘money that went to heaven’ is relative. As we know from our own youth: not even a game of Monopoly is innocent and without consequences.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Philip Mirowski’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Never Let a Serious Crisis Go to Waste</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> from 2013 asks the simple but hard question: how did the neoliberals emerge from the crisis stronger than ever? The MoneyLab project should at least open up this line of critique. What if all these well-meant, constructive alternatives only strengthen neoliberal policies and benefit the parasitic 1%? Or worse, what if the very alternatives proposed are themselves somehow neoliberal? Should we go on an alternatives strike and even refuse to formulate any form of criticism? What’s the deadliest form of negativity in the world of finance? The questions Mirowski asks eventually culminate in the organisation issue of the adversaries. On the positive side, initiatives such as MoneyLab can also come together in an organized network and eventually flip into a Thought Collective (as Mirowski calls it), a global initiative that can review and distribute alternatives seeds. He asks, ‘What would a vital counter narrative to the epistemological commitments of the neoliberals look like?’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Philip Mirowski, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Never Let a Serious Crisis Go to Waste</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 2013, p. 356.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Can we be so bold and answer: MoneyLab? Or would that be premature? If the ‘major ambition of the Neoliberal Thought Collective is to sow doubt and ignorance amongst the populace,’ what role can internet-based research networks such as MoneyLab play? Is it enough to emphasize the mix of radical critique and concept development? If, as Mirowski states, ‘true political power resides in the ability to make the decision to “suspend” the market in order to save the market,’ is it enough for opposite forces to uncool entrepreneurial myths and break the spell of the unchallenged capitalist consensus? Is our Decision a purely semiologic one?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>So far the left has mainly defended mid-20th century models of the welfare state and demanded the redistribution of money, instead of considering the radical reinvention of money itself. Alternative, complimentary and local currencies have remained at the margins. It is one thing to conclude that the think-tank model itself is an outmoded organisational form to do research and make policy. The professionalism of the NGO model is too dull, too slow for this fast-moving world of continuous events, wars, climate disasters and political ruptures. In this light Mirowski asks the 1000 Bitcoin question: ‘Is there a coherent alternative framework within which to understand the interaction of the financialization of the economy with larger ebbs and flows of political economy in the global transformations of capitalism?’ One possible direction that needs to be discussed is the issue of the financialization from below. So far, financialization has only been understood as a move from trade and commodity production to profits from financial channels.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Costas Lapavitsas, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Profiling Without Producing, How Finance Exploits Us All</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London/New York: Verso, 2013, p. 138.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Is the monetisation of services that were once free of cost (or that did not exist in the first place) changing this picture?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Are initiatives such as MoneyLab ready for the ‘exception’ and the financial state of emergency as predicted by websites such as Zero Hedge and RT celebrities such as Max Keiser?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.zerohedge.com/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> and http://rt.com/shows/keiser-report/.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Do we, unconsciously, underestimate the urgency of the current situation? According to Mirowski this is precisely what defines the behaviour of financial elites: they know how to get ready for the next crash. ‘Neoliberals may preach the rule of law, and sneer in public about the ineptitude of government, but they win by taking advantage of “the exception” to introduce components of their program unencumbered by judicial or democratic accountability. They know what it means to never let a serious crisis go to waste.’ Are we ready? Are efforts to collectively imagine alternative, internet-based revenue models, for instance for the arts, ready to operate after the Great Collapse?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The MoneyLab Reader brings developments in crowdfunding, digital and crypto currency, mobile money services, technologies of payment and other economic experiments into dialogue. It is naïve to see them as unrelated or to dismiss them offhand. Now more than ever we need constructive engagement with the hackers, entrepreneurs and other creators of economic alternatives. Audaciousness in times of austerity. First, though, we need a map of the present: What works and what doesn’t? What is worth pursuing and what must be left aside? What tips the dominant ideology? Which histories are bearing on the present? And what are the limits of our own economic imagination?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>References</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Harrison, Kate. 'Crowdfunding Potato Salad: Funny or Insulting?' </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Forbes</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 8 August 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lapavitsas, Costas. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Profiling Without Producing, How Finance Exploits Us All</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London/New York: Verso, 2013, p. 138.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lewis, Michael. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Flash Boys: A Wall Street Revolt</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: W.W. Norton &amp; Co., 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lovink, Geert and Nathaniel Tkacz. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Data Browser</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Autonomedia, 2013, pp. 175-191.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Philip Mirowski, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Never Let a Serious Crisis Go to Waste</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Verso Books, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Patterson, Scott. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Dark Pools, The Rise of A.I. Trading Machines and the Looming Threat to Wall Street</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Random House, 2012.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/" Name="link" DestinationURL="http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.zerohedge.com/" Name="link" DestinationURL="http://www.zerohedge.com/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.zerohedge.com/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.zerohedge.com/</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>
