@@ -1,9 +1,0 @@
-./0. Cover_Intro_Colophon
-./1. Chapter_1_The_Long_Game
-./2. Chapter_2_Financial_Interventions
-./3. Chapter_3_Critical_Currencies
-./4. Chapter_4_Economies_of_Imagination
-./5. Chapter_5_Technologies_of_Payment
-./6. Chapter_6_Crowdfunding_and_Beyond
-
-
