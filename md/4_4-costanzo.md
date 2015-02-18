@@ -107,7 +107,7 @@ addressed are serious.
 > Those who control the present, control the past and those who control
 > the past control the future.[^3]
 > 
-> – George Orwell, [*1984*](http://www.goodreads.com/work/quotes/153313)
+> – George Orwell, *1984*
 
 ABS originated in the spring and summer of 2008, just before the crash
 of the international financial markets, but it was a sign placed in
@@ -319,10 +319,10 @@ a Constitution that valued property rights over human rights;
 slave-holding and limited voting rights to property-owning white males
 being just two examples.
 
-![Fig. 8: The Society’s distillation on Oxbow Creek up-state New York,
-2010.](media/Images_Costanzo/image11.jpg)
+![](media/Images_Costanzo/image11.jpg)
 
-![](media/Images_Costanzo/image12.jpg)
+![Fig. 8: The Society’s distillation on Oxbow Creek up-state New York,
+2010.](media/Images_Costanzo/image12.jpg)
 
 `Fig. 8: The Society’s distillation on Oxbow Creek up-state New York,
 2010.`{.caption}
@@ -431,7 +431,7 @@ Worlds, a Commons Collation and occasionally Occupy Museums. Strike Debt
 published the *Debt Registers’ Operation Manual*[^12] and launched the
 Rolling Jubilee.[^13] The *Manual* informs debtors about their rights
 and forms of resistance both for individual and government debt. There
-is also a chapter on ‘Climate Debt*’*, the debt industrial nations owe
+is also a chapter on ‘Climate Debt’, the debt industrial nations owe
 to the developing world for creating the pollution that causes climate
 change. The Rolling Jubilee purchases personal debt that is in default
 and sold to vulture capitalists for pennies on the dollar. The vulture
@@ -673,7 +673,7 @@ Columbia Law School New York. ‘Law, Money and Public Service Series,
 Money Democracy And The Constitution’, Series 5*. Revolutionary
 Experience In The United States*, Speakers: Gillian Metzger, Christine
 Desan, Farley Grubb, Woody Holton, 25 January 2013,
-<http://www.modernmoneynetwork.org/seminar-5-constitutional-.html>.
+<http://www.modernmoneynetwork.org/seminar-5-constitutional.html>.
 
 Columbia Law School New York. ‘Law, Money and Public Service, Money
 Democracy And The Constitution’, Series *7. Rent-Seeking, Instability
@@ -725,8 +725,7 @@ Klein, Naomi. *The Shock Doctrine: The Rise of Disaster Capitalism*, New
 York: Henry Holt and Company, 2007.
 
 Leslie, Jacques. ‘The True Cost of Hidden Money A Piketty Protégé’s
-Theory on Tax Havens’, *The New York Times*, 15 June 2014,
-<http://www.Nytimes.Com/2014/06/16/Opinion/A-Piketty-Proteges-Theory-On-Tax-Havens.Html?Ref=Opinion&_R=0>.
+Theory on Tax Havens’, *The New York Times*, 15 June 2014, <A-Piketty-Proteges-Theory-On-Tax-Havens>.
 
 Mann, Geoff. *Dissembly Required: A Field Guide To Actually Existing
 Capitalism*, Edinburgh, Oakland, Baltimore: AK Press, 2013.
@@ -774,7 +773,7 @@ Rebellion’, <http://www.ushistory.org/us/15a.asp>.
 Wheelan, Joseph. *Jefferson’s Vendetta: The Pursuit of Aaron Burr and
 the Judiciary*, New York: Carroll & Graf Publishers, 2005.
 
-[^1]: See [www.aaronburrsociety.org](styles.xml).
+[^1]: See <http://www.aaronburrsociety.org/aaron_burr_society_home.html>
 
 [^2]: While this is an abstract concept with no set definition, most
     would agree that it is about establishing local autonomy and
@@ -804,11 +803,11 @@ the Judiciary*, New York: Carroll & Graf Publishers, 2005.
     [http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/](http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/).
 
 [^9]: Rebecca Savastio, ‘Detroit Judge Rules There Is No Basic Human
-    Right to Water’, *Guardian Liberty Voice*, 1 October 2014, <http://guardianlv.com/2014/10/detroit-judge-rules-there-is-no-basic-human-right-to-water/#uO42XvhUWarre06y.99>.
+    Right to Water’, *Guardian Liberty Voice*, 1 October 2014, <http://guardianlv.com/2014/10/detroit-judge-rules-there-is-no-basic-human-right-to-water>.
 
 [^10]: *Pittsburgh Gazette*, Pittsburgh, Pennsylvania, 17 December 1794.
 
-[^11]: See <http://strikedebt.org](http://strikedebt.org>.
+[^11]: See <http://strikedebt.org>.
 
 [^12]: Strike Debt, *The Debt Resisters’ Operation Manual*, Brooklyn, NY
     and Oakland: Common Notions/PM Press/Autonomedia, 2014.
