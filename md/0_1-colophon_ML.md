@@ -10,47 +10,56 @@ Rights: CC BY-NC 4.0
 ...
 
 
+# INC Reader \#10
+
+MoneyLab is part of a global movement that demands the democratization
+of the design of our financial futures. Audacity is essential in times
+of crisis. And so we must engage constructively with hackers,
+entrepreneurs, and other creators who take up the call for economic
+alternatives. One first step is a map of the present: What works and what
+doesn’t? What is worth pursuing and what must be left aside? Which
+histories bear on the present moment? And what are the limits of our
+economic imagination?
+
+The MoneyLab Reader brings developments in crowdfunding, currency
+design, technologies of payment, and other economic experiments into
+dialogue. The authors of this volume discuss the implications of the
+current architecture of global finance, its impact on ever-growing
+income disparity, and question money and finance as such. It is not
+always clear, for instance, whether genuine alternatives are unfolding
+or if we are simply witnessing the creative extension of neoliberalism.
+At stake is the full spectrum of technologies of economic 
+(re)distribution.
+
+
+
 # MoneyLab Reader: An Intervention in Digital Economy
 
 
-**MoneyLab Reader: An Intervention in Digital Economy**
-
-Editors: Geert Lovink, Nathaniel Tkacz and Patricia de Vries
-
-Copy editing: Annie Goodner and Morgan Currie
-
-Design: Katja van Stiphout
-
-EPUB development: André Castro
-
-Production: Miriam Rasch
-
-Cover design: Content Context
-
-Printer: Drukkerij Tuijtel
-
+Editors: Geert Lovink, Nathaniel Tkacz and Patricia de Vries  
+Copy editing: Annie Goodner and Morgan Currie  
+Design: Katja van Stiphout  
+EPUB development: André Castro  
+Production: Miriam Rasch  
+Cover design: Content Context  
+Printer: Drukkerij Tuijtel  
 Publisher: Institute of Network Cultures, Amsterdam, 2015
 
-ISBN: 978-90-822345-5-8 (print) 
+ISBN: 978-90-822345-5-8 (print)  
 ISBN: 978-90-822345-6-5 (EPUB)
 
 
-**Contact**
-
-Institute of Network Cultures
-
-phone: +31205951865
-
-email: info@networkcultures.org
-
-web: www.networkcultures.org
+**Contact**  
+Institute of Network Cultures  
+phone: +31205951865  
+email: info@networkcultures.org  
+web: [www.networkcultures.org](http://networkcultures.org/)  
 
 Order a copy or download this publication freely at:
-www.networkcultures.org/publications/
+[www.networkcultures.org/publications/](http://networkcultures.org/publications)
 
 Join the MoneyLab mailing list at:
-
-http://listcultures.org/mailman/listinfo/moneylab_listcultures.org
+<http://listcultures.org/mailman/listinfo/moneylab_listcultures.org>
 
 Supported by: Amsterdam University of Applied Sciences
 (Hogeschool van Amsterdam), Amsterdam Creative Industries Publishing and the University of Warwick
@@ -60,189 +69,146 @@ contributions, Annie Goodner and Morgan Currie for their copy editing,
 and to Amsterdam Creative Industries Publishing for their financial
 support.
 
-This publication is licensed under Creative Commons
+This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).  
+To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/3.0/>.
 
-Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).
 
-To view a copy of this license, visit
-http://creativecommons.org/licenses/by-nc-sa/3.0/.
 
-\[cover\]
 
-**MoneyLab Reader: An Intervention in Digital Economy**
-
-Edited by Geert Lovink, Nathaniel Tkacz and Patricia de Vries
-
-INC Reader \#10
-
-##Previously published INC Readers
+## Previously published INC Readers
 
 The INC Reader series is derived from conference contributions and
 produced by the Institute of Network Cultures. They are available in
 print, EPUB, and PDF form. The *MoneyLab Reader* is the tenth publication in
 the series.
 
-INC Reader\#9: René König and Miriam Rasch (eds),
-
+INC Reader\#9: René König and Miriam Rasch (eds),  
 *Society of the Query Reader: Reflections on Web Search*, 2013.
 
-INC Reader \#8: Geert Lovink and Miriam Rasch (eds),
-
+INC Reader \#8: Geert Lovink and Miriam Rasch (eds),  
 *Unlike Us: Social Media Monopolies and Their Alternatives*, 2013.
 
-INC Reader \#7: Geert Lovink and Nathaniel Tkacz (eds),
+INC Reader \#7: Geert Lovink and Nathaniel Tkacz (eds),  
+*Critical Point of View: A Wikipedia Reader*, 2011.  
 
-*Critical Point of View: A Wikipedia Reader*, 2011.
-
-INC Reader \#6: Geert Lovink and Rachel Somers Miles (eds),
-
-*Video Vortex Reader II: Moving Images Beyond Youtube*, 2011.
+INC Reader \#6: Geert Lovink and Rachel Somers Miles (eds),  
+*Video Vortex Reader II: Moving Images Beyond Youtube*, 2011.  
 
 INC Reader \#5: Scott McQuire, Meredith Martin and Sabine Niederer
-(eds),
+(eds),  
+*Urban Screens Reader*, 2009.  
 
-*Urban Screens Reader*, 2009.
+INC Reader \#4: Geert Lovink and Sabine Niederer (eds),  
+*Video Vortex Reader: Responses to YouTube*, 2008.  
 
-INC Reader \#4: Geert Lovink and Sabine Niederer (eds),
-
-*Video Vortex Reader: Responses to YouTube*, 2008.
-
-INC Reader \#3: Geert Lovink and Ned Rossiter (eds),
-
-*MyCreativity Reader: A Critique of Creative Industries*, 2007.
+INC Reader \#3: Geert Lovink and Ned Rossiter (eds),  
+*MyCreativity Reader: A Critique of Creative Industries*, 2007.  
 
 INC Reader \#2: Katrien Jacobs, Marije Janssen and Matteo Pasquinelli
-(eds),
+(eds),  
+*C’LICK ME: A Netporn Studies Reader*, 2007.  
 
-*C’LICK ME: A Netporn Studies Reader*, 2007.
-
-INC Reader \#1: Geert Lovink and Soenke Zehle (eds),
-
+INC Reader \#1: Geert Lovink and Soenke Zehle (eds),  
 *Incommunicado Reader*, 2005.
 
 All INC Readers, and other publications like the Network Notebooks
 Series and Theory on Demand, can be downloaded and read for free. 
-See
-www.networkcultures.org/publications.
+See [www.networkcultures.org/publications](http://networkcultures.org/publications/).
 
-##CONTENTS
 
-**Saskia Sassen**
+# Contents
 
+**Saskia Sassen**  
 When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to the MoneyLab Reader
 
-**Geert Lovink and Nathaniel Tkacz**
-
+**Geert Lovink and Nathaniel Tkacz**  
 MoneyLab: Sprouting New Digital-Economic Forms
 
-THE LONG GAME
+## The Long Game
 
-**Keith Hart**
-
+**Keith Hart**  
 Money in the Making of World Society
 
-**Franco "Bifo" Berardi**
-
+**Franco "Bifo" Berardi**  
 Is There Life Beyond Money?
 
-**Ralph and Stefan Heidenreich**
-
+**Ralph and Stefan Heidenreich**  
 On a Post-Monetary Network Based Economy
 
-**Douglas Rushkoff**
-
+**Douglas Rushkoff**  
 Playability and the Search for an Open Source Economy
 
-**Andrew Ross**
-
+**Andrew Ross**  
 Accumulation and Resistance in the 21st Century
 
-FINANCIAL INTERVENTIONS
+## Financial Interventions
 
-**Primavera De Filippi and Samer Hassan**
-
+**Primavera De Filippi and Samer Hassan**  
 Measuring Value in the Commons-Based Ecosystem: Bridging the Gap Between the Commons and the Market 
 
-**Pekka Piironen and Akseli Virtanen**
-
+**Pekka Piironen and Akseli Virtanen**  
 Democratizing the Power of Finance: A Discussion About Robin Hood Asset
 Management Cooperative with Founder Akseli Virtanen
 
-**Lena Rethel and Irwan Abdalloh**
-
+**Lena Rethel and Irwan Abdalloh**  
 Inculcating Ethical Behaviour in Market Transactions? The Case of the
 Sharia Online Trading System in Indonesia
 
-CRITICAL CURRENCIES
+## Critical Currencies
 
-**David Golumbia**
-
+**David Golumbia**  
 Bitcoin as Politics: Distributed Right-Wing Extremism
 
-**Beat Weber**
-
+**Beat Weber**  
 The Economic Viability of Complementary Currencies: Bound to Fail?
 
-**Tiziana Terranova and Andrea Fumagalli**
-
+**Tiziana Terranova and Andrea Fumagalli**  
 Financial Capital and the Money of the Common: The Case of Commoncoin
 
-**Finn Brunton**
-
+**Finn Brunton**  
 Heat Exchanges
 
-ECONOMIES OF IMAGINATION
+##  Economies of Imagination
 
-**Max Haiven**
-
+**Max Haiven**  
 Money as a Medium of the Imagination: Art and the Currencies of
 Cooperation
 
-**Stephanie Rothenberg**
-
+**Stephanie Rothenberg**  
 Reversal of Fortune: Visualizing Marketized Philanthropy
 
-**Paolo Cirio**
-
+**Paolo Cirio**  
 (W)orld Currency
 
-**Jim Costanzo**
-
+**Jim Costanzo**  
 The Free Money Movement
 
-TECHNOLOGIES OF PAYMENT
+## Technologies of Payment
 
-**Bill Maurer and Lana Swartz**
-
+**Bill Maurer and Lana Swartz**  
 Wild, Wild West: A View from Two Californian Schoolmarms
 
-**Rachel O’Dwyer**
-
+**Rachel O’Dwyer**  
 Money Talks: The Enclosure of Mobile Payments
 
-**Erin Taylor**
-
+**Erin Taylor**  
 Mobile Money: Financial Globalization, Alternative, or Both?
 
-**Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco**
-
+**Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco**  
 ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 
-CROWDFUNDING AND BEYOND
+## Crowdfunding and Beyond
 
-**Inge Ejbye Sørensen**
-
+**Inge Ejbye Sørensen**  
 Go Crowdfund Yourself! Some Unintended Consequences of Crowdfunding for Documentary Film and Industry in the U.K.
 
-**Renée Ridgway**
-
+**Renée Ridgway**  
 Crowdfunding the Commons?
 
-**Irina Enache and Robert van Boeschoten**
-
+**Irina Enache and Robert van Boeschoten**  
 The MoneyLab Crowdfunding Toolkit for Creatives
 
-## APPENDICES
+## Appendices
 
 **MoneyLab Conference**
 
@@ -307,7 +273,7 @@ Moderator: Rob van Hilten
 
 Speakers: Max Haiven, Matthew Slater and Eli Gothill, Lana Swartz
 
-##Author Biographies
+# Author Biographies
 
 **Irwan Abdalloh** is the head of Islamic Capital Market Development at
 the Indonesia Stock Exchange (IDX). He is a lecturer in Islamic
@@ -507,49 +473,5 @@ and Business. He is an expert at the Division for European Affairs and
 International Financial Organizations of Oesterreichische Nationalbank,
 the Central Bank of Austria.
 
-##Back cover
-
-MoneyLab Reader: An Intervention In Digital Economy
-
-Edited by Geert Lovink, Nathaniel Tkacz and Patricia de Vries
-
-INC Reader \#10
-
-MoneyLab is part of a global movement that demands the democratization
-of the design of our financial futures. Audacity is essential in times
-of crisis. And so we must engage constructively with hackers,
-entrepreneurs, and other creators who take up the call for economic
-alternatives. One first step is a map of the present: What works and what
-doesn’t? What is worth pursuing and what must be left aside? Which
-histories bear on the present moment? And what are the limits of our
-economic imagination?
-
-The MoneyLab Reader brings developments in crowdfunding, currency
-design, technologies of payment, and other economic experiments into
-dialogue. The authors of this volume discuss the implications of the
-current architecture of global finance, its impact on ever-growing
-income disparity, and question money and finance as such. It is not
-always clear, for instance, whether genuine alternatives are unfolding
-or if we are simply witnessing the creative extension of neoliberalism.
-At stake is the full spectrum of technologies of economic 
-(re)distribution.
 
 
-**Contributors:**
-
-Irwan Abdalloh, Franco "Bifo" Berardi, Robert van Boeschoten, Finn Brunton, Paolo Cirio, Jim Costanzo,
-Primavera De Filippi, Eduard de Jong, Irina Enache, Andrea Fumagalli,
-David Golumbia, Max Haiven, Keith Hart, Samer Hassan, Ralph Heidenreich,
-Stefan Heidenreich, Geert Lovink, Bill Maurer, Rachel O’Dwyer, Pekka
-Piironen, Lena Rethel, Renée Ridgway, Andrew Ross, Stephanie Rothenberg,
-Douglas Rushkoff, Saskia Sassen, Inge Ejbye Sørensen, Lana Swartz, Erin B. Taylor,
-Tiziana Terranova, Nathaniel Tkacz, Pablo
-Velasco, Akseli Virtanen and Beat Weber.
-
-**Institute of Network Cultures, Amsterdam 2015**
-
-ISBN: 978-90-822345-5-8 (print) 
-ISBN: 978-90-822345-6-5 (EPUB)
-
-
-INC | HvA | University of Warwick | Amsterdam Creative Industries Network |
