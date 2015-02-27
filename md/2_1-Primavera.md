@@ -315,8 +315,8 @@ Therefore, in the case of CC:
 
 `Eq. 5`{.caption}
 
->Hence, Maya’s 200 CC-Tokens are equal to 40 sabirs, and Maya’s overall contribution to the commons is equal to: Total number of sabirs (Maya) = 125 \* $\frac{SV(WP)}{12,500}$ + 200 \*    $\frac{SV(CC)}{5,000}$ = 15 + 40 = 55 sabirs  
-    Maya is really proud of herself, not only can she understand the value that she has contributed to the commons over the past year, but she can also easily express it to her friends.
+>Hence, Maya’s 200 CC-Tokens are equal to 40 sabirs, and Maya’s overall contribution to the commons is equal to: Total number of sabirs (Maya) ![](media/Images_Primavera/image9.png)
+Maya is really proud of herself, not only can she understand the value that she has contributed to the commons over the past year, but she can also easily express it to her friends.
 
 ### Gratification
 

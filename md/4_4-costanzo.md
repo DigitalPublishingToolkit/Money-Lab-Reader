@@ -727,7 +727,7 @@ Klein, Naomi. *The Shock Doctrine: The Rise of Disaster Capitalism*, New
 York: Henry Holt and Company, 2007.
 
 Leslie, Jacques. ‘The True Cost of Hidden Money A Piketty Protégé’s
-Theory on Tax Havens’, *The New York Times*, 15 June 2014, <A-Piketty-Proteges-Theory-On-Tax-Havens>.
+Theory on Tax Havens’, *The New York Times*, 15 June 2014, <http://www.nytimes.com/2014/06/16/opinion/a-piketty-proteges-theory-on-tax-havens.html?ref=opinion&_r=0>.
 
 Mann, Geoff. *Dissembly Required: A Field Guide To Actually Existing
 Capitalism*, Edinburgh, Oakland, Baltimore: AK Press, 2013.
