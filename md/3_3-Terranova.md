@@ -312,7 +312,7 @@ Marazzi, Christian. ‘Summer School: La moneta del comune’, *Uninomade
 Massumi, Brian. *The Power at the End of the Economy, Art Beyond
 Interest, Joy Beyond Reason.* São Paulo and Helsinki: n-1 Edições, 2014.
 
-# Morini, Cristina. *Per amore o per forza. Femminilizzazione del lavoro e biopolitiche del corpo.* Verona: Ombre Corte, 2010 
+Morini, Cristina. *Per amore o per forza. Femminilizzazione del lavoro e biopolitiche del corpo.* Verona: Ombre Corte, 2010 
 
 Piironen, Pekka and Virtanen, Akseli. ‘Democratization of Finance: An
 Interview’, *Robin Hood Minor Asset Management*,
@@ -325,7 +325,7 @@ Capitalism’, *Roarmag.org*, 31 March 2014,
 Scott, Brett. *The Heretic’s Guide to Global Finance: Hacking the Future
 of Money*. London: Pluto Press, 2013.
 
-# Terranova, Tiziana. ‘Red Stack Attack! Algorithms, Capital and the Automation of the Common’, *Euronomade*, <http://www.euronomade.info/?p=2268>.
+Terranova, Tiziana. ‘Red Stack Attack! Algorithms, Capital and the Automation of the Common’, *Euronomade*, <http://www.euronomade.info/?p=2268>.
 
 \_\_\_\_\_\_.‘Social Unionism and Digital Labor in the Transnational
 Space of European Austerity’, *Euronomade*,

@@ -9,17 +9,40 @@ Item-id: unique no.
 Rights: CC BY-NC 4.0
 ...
 
+
+# INC Reader \#10
+<!-- backcover text -->
+
+MoneyLab is part of a global movement that demands the democratization
+of the design of our financial futures. Audacity is essential in times
+of crisis. And so we must engage constructively with hackers,
+entrepreneurs, and other creators who take up the call for economic
+alternatives. One first step is a map of the present: What works and what
+doesn’t? What is worth pursuing and what must be left aside? Which
+histories bear on the present moment? And what are the limits of our
+economic imagination?
+
+The MoneyLab Reader brings developments in crowdfunding, currency
+design, technologies of payment, and other economic experiments into
+dialogue. The authors of this volume discuss the implications of the
+current architecture of global finance, its impact on ever-growing
+income disparity, and question money and finance as such. It is not
+always clear, for instance, whether genuine alternatives are unfolding
+or if we are simply witnessing the creative extension of neoliberalism.
+At stake is the full spectrum of technologies of economic 
+(re)distribution.
+
+
 # MoneyLab Reader: An Intervention in Digital Economy
 
-
-Editors: Geert Lovink, Nathaniel Tkacz and Patricia de Vries  
-Copy editing: Annie Goodner and Morgan Currie  
-Design: Katja van Stiphout  
-EPUB development: André Castro  
-Production: Miriam Rasch  
-Cover design: Content Context  
-Printer: Drukkerij Tuijtel  
-Publisher: Institute of Network Cultures, Amsterdam, 2015
+**Editors:** Geert Lovink, Nathaniel Tkacz and Patricia de Vries  
+**Copy editing:** Annie Goodner and Morgan Currie  
+**Design:** Katja van Stiphout  
+**EPUB development:** André Castro  
+**Production:** Miriam Rasch  
+**Cover design:** Content Context  
+**Printer:** Drukkerij Tuijtel  
+**Publisher:** Institute of Network Cultures, Amsterdam, 2015  
 
 ISBN: 978-90-822345-5-8 (print)  
 ISBN: 978-90-822345-6-5 (EPUB)
@@ -53,29 +76,6 @@ and to Amsterdam Creative Industries Publishing for their financial
 support.
 
 This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/3.0/>.
-
-
-# INC Reader \#10
-<!-- backcover text -->
-
-MoneyLab is part of a global movement that demands the democratization
-of the design of our financial futures. Audacity is essential in times
-of crisis. And so we must engage constructively with hackers,
-entrepreneurs, and other creators who take up the call for economic
-alternatives. One first step is a map of the present: What works and what
-doesn’t? What is worth pursuing and what must be left aside? Which
-histories bear on the present moment? And what are the limits of our
-economic imagination?
-
-The MoneyLab Reader brings developments in crowdfunding, currency
-design, technologies of payment, and other economic experiments into
-dialogue. The authors of this volume discuss the implications of the
-current architecture of global finance, its impact on ever-growing
-income disparity, and question money and finance as such. It is not
-always clear, for instance, whether genuine alternatives are unfolding
-or if we are simply witnessing the creative extension of neoliberalism.
-At stake is the full spectrum of technologies of economic 
-(re)distribution.
 
 
 
@@ -212,13 +212,14 @@ Crowdfunding the Commons?
 **Irina Enache and Robert van Boeschoten**  
 The MoneyLab Crowdfunding Toolkit for Creatives
 
-## Appendix
 
-**MONEYLAB: COINING ALTERNATIVES**
+# Appendix
 
-**March 21-22, 2014, Lab111, Amsterdam**
+## MONEYLAB: COINING ALTERNATIVES
 
-**FRIDAY, March 21, 2014**
+## March 21-22, 2014, Lab111, Amsterdam
+
+### FRIDAY, March 21, 2014
 
 **Session 1: Monetization of Everything**
 
@@ -244,7 +245,7 @@ Moderator: Bill Maurer
 
 Speakers: Erin Taylor, Taylor Nelms, Gawain Lynch
 
-**SATURDAY, March 22, 2014**
+### SATURDAY, March 22, 2014
 
 **Session 5: Bitcoin and Beyond**
 
@@ -270,6 +271,8 @@ Enache and Robert van Boeschoten
 Moderator: Rob van Hilten
 
 Speakers: Max Haiven, Matthew Slater and Eli Gothill, Lana Swartz
+
+![](imgs/2Money_lab_flyer.jpg)
 
 
 # Author Biographies

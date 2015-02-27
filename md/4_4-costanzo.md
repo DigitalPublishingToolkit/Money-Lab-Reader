@@ -58,6 +58,7 @@ Burr’s political career eventually ended badly, after killing Hamilton
 he returned to Washington DC, and finished his term as Vice-President.
 
 ![Fig. 2: Revolutionary Script.](media/Images_Costanzo/image2.jpg)
+
 ![Fig. 2: Revolutionary Script.](media/Images_Costanzo/image3.jpg)
 
 `Fig. 2: Revolutionary Script.`{.caption}
@@ -605,8 +606,9 @@ unending oil wars and the increasing damage from climate driven super
 storms. We are not limited by economics but by a failed political
 economy that protects existing class and economic structures.
 
-[Fig. 12: Aaron Burr Society poster for performance series at Pine Box
-Rock Shop in Bushwick Brooklyn, 2014.](media/Images_Costanzo/Fig_12_A.jpg)
+![Fig. 12: Aaron Burr Society poster for performance series at Pine Box
+Rock Shop in Bushwick Brooklyn, 2014.
+](media/Images_Costanzo/Fig_12_A.jpg)
 
 `Fig. 12: Aaron Burr Society poster for performance series at Pine Box
 Rock Shop in Bushwick Brooklyn, 2014.`{.caption}
