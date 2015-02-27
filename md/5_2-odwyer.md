@@ -611,7 +611,7 @@ Anthropological Institute* 19.1 (2013): 52-74.
 the-unbanked/insights/tracker](http://www.gsma.com/mobilefordevelopment/programmes/mobile-money-for-%09the-unbanked/insights/tracker).
 
 Mumo, Muthoki. ‘Equity Bank Seeks Share of Telco Business’, *Mobile
-Nation*, 25 February 2014,
+Nation*, 25 February 2014.
 
 Nyakazeya, Paul and Bernard Mpofu. ‘Econet Phone Tokens Used as Change’,
 *The Independent*, 27 May 2010,
@@ -650,7 +650,7 @@ New York, <http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf>.
 
 Taylor, Erin. ‘Mobile Money and the “Social Good” of Global
 Finacialization’, *Moneylab Conference*, Amsterdam, 21-22 March 2014,
-<http://vimeo.com/90208804>
+<http://vimeo.com/90208804>.
 
 Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 30 November 2011,
@@ -684,8 +684,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^9]: A.M. Seybold, ‘Seybold’s Take: Spectrum is the True Currency of
     Wireless Operators’, *Fierce Wireless*, 22 June 2012,
-    <http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-
-    operators/2012-06-22>.
+    <http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22>.
 
 [^10]: Robert J. Dippelsman and Nils Ø. Mæhle, ‘Treatment of Mobile
     Phone Licenses in the National Accounts’, *Review of Income and
@@ -696,8 +695,8 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Frequencies from the 1690 MHz Band’, *The Brattle Group*, Washington
     DC: International Telecommunications Union (ITU); *Exploring the
     Value and Economic Valuation of Spectrum*, ITU, 2012,
-    <http://www.itu.int/ITU- D/treg/broadband/ITU-BB-Reports\_SpectrumV
-    alue.pdf>.
+	<http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports\_SpectrumValue.pdf>.
+
 
 [^12]: Bill Maurer speaks about payment as the last commons in
     ‘Regulation as Retrospective Ethnography: Mobile Money and the Arts
@@ -741,7 +740,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^20]: Paul Jaeger, Jimmy Lin, Justin M. Grimes, and Shannon N. Simmons,
     ‘Where is the Cloud? Geography, Economics, Environment, and
-    Jurisdiction in Cloud Computing’, *First Monday* 14.5 (2009), [http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171](http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171)
+    Jurisdiction in Cloud Computing’, *First Monday* 14.5 (2009), [http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171](http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171).
 
 [^21]: Alexander R. Galloway, *Protocol: How Control Exists After
     Decentralization*, London: MIT Press, 2004, p. 11.
@@ -796,10 +795,9 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Cash: Channeling Agency in Mobile Money’, *Journal of the Royal
     Anthropological Institute* 19.1 (2013).
 
-[^28]: See <https://ripple.com> or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
-    on your Reputation’, *Wired Magazine*, 18 July 2014, [http://www.wired.com/2014/07/document-coin/](http://www.wired.com/2014/07/document-coin/).
+[^28]: See <https://ripple.com> or Klint Finley, ‘Document Coin: A New Currency whose Value is Based on your Reputation’, *Wired Magazine*, 18 July 2014, [http://www.wired.com/2014/07/document-coin/](http://www.wired.com/2014/07/document-coin/).
 
-[^29]: Wouter Rosingh, Adam Seal, and David Osborn, ‘Why Banks and Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001), [http://www.strategy-business.com/article/17163?gko=4cda6](http://www.strategy-business.com/article/17163?gko=4cda6)
+[^29]: Wouter Rosingh, Adam Seal, and David Osborn, ‘Why Banks and Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001), [http://www.strategy-business.com/article/17163?gko=4cda6](http://www.strategy-business.com/article/17163?gko=4cda6).
 
 [^30]: See [http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked](http://www.gsma.com/mobilefordevelopment/category/mobile-money-for-the-unbanked). 
 
@@ -829,7 +827,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     (2011): 49-65.
 
 [^36]: Arunjay Katakam, ‘Annual Reports Show Mobile Money Remains a
-    Strategic Priority for MNO Groups’, *GSMA,* 19 June 2014, [http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups](http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups)
+    Strategic Priority for MNO Groups’, *GSMA,* 19 June 2014, [http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups](http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups).
 
 [^37]: Bill Maurer, Taylor C. Nelms, and Stephen C. Rea, ‘Bridges to
     Cash: Channeling Agency in Mobile Money’, *Journal of the Royal
@@ -875,3 +873,4 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^46]: Kate Crawford, ‘The Uses and Abuses of Big Data’, *Transmediale
     Conference,* Berlin, 29 January - 2 February, 2014.
+

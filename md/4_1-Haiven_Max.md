@@ -808,8 +808,7 @@ Siegel, Katy and Paul Mattick. *Art Works: Money*, London: Thames and
 Hudson, 2004.
 
 Taylor, Mark C. ‘Financialization of Art’. *Capitalism and Society* 6.2
-(2011),
-[http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf](capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf).
+(2011), <http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf>.
 
 Therborn, Göran. *The Killing Fields of Inequality*, London: Polity,
 2013.
