@@ -618,24 +618,21 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 [^1]: David Roodman, *Due Diligence: An Impertinent Inquiry Into
     Microfinance*, Washington: CGD Books, 2012.
 
-[^2]: See [https://www.youtube.com/watch?v=nEZ30K5dBWU](styles.xml).
+[^2]: See <https://www.youtube.com/watch?v=nEZ30K5dBWU>
 
 [^3]: For example, BRAC developed their ‘graduation model’ to ‘graduate
     the poorest from ultra-poverty’,
-    [http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest.](http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest.)
-    Fonkoze in Haiti bases their Chemen Lavi Miyò program on this model,
-    [http://www.fonkoze.org/what-we-do/step-1-clm/*](settings.xml).
+    [http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest](http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest). Fonkoze in Haiti bases their Chemen Lavi Miyò program on this model,
+	<http://www.fonkoze.org/what-we-do/step-1-clm/>
 
-[^4]: World Bank,
-    [http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013](webSettings.xml).
+[^4]: World Bank, <http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013>.
 
-[^5]: IFAD, [http://www.ifad.org/remittances/maps/](footnotes.xml).
+[^5]: IFAD, <http://www.ifad.org/remittances/maps/>.
 
 [^6]: Kusimba, ‘Mobile Kin and Mobile Money: The Anthropology of
     International Remittances in Kenya’, IMTFI Working Paper, 2013.
 
-[^7]: Discussed by the GSMA,
-    [http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity](endnotes.xml)*.*
+[^7]: Discussed by the GSMA, <http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity>.
 
 [^8]: Gunnar Camner, Caroline Pulner, and Emil Sjöblom, *What Makes a
     Successful Mobile Money Implementation? Learnings from M-Pesa in
@@ -663,16 +660,14 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     Accelerator Alliance, Citibank / USAID’ 2012, .
 
 [^13]: See, for example, CGAP’s various blogs about merchant payments,
-    including branchless banking in Brazil,
-    [http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants](footer1.xml).
+    including branchless banking in Brazil, <http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants>.
 
 [^14]: Espelencia Baptiste, Heather A. Horst, and Erin B. Taylor,
     *Haitian Monetary Ecologies and Repertoires: A Qualitative Snapshot
     of Money Transfer and Savings*, University of California Irvine:
     IMTFI, 2010.
 
-[^15]: This estimate is given by Fonkoze on their website,
-    [http://www.fonkoze.org/why-it-matters/key-statistics/](fontTable.xml).
+[^15]: This estimate is given by Fonkoze on their website, <http://www.fonkoze.org/why-it-matters/key-statistics/>
 
 [^16]: See Baptiste, Horst and Taylor 2010; Taylor and Horst 2014.
 

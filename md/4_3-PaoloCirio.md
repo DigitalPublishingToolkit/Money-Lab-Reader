@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# (W)orld Currency 
+# \(W\)orld Currency 
 
 ###  Paolo Cirio {.author}
 

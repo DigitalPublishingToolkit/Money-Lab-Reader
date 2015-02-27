@@ -1,5 +1,4 @@
 ---
-
 Pr-id: MoneyLab
 P-id: INC Reader
 A-id: 10
@@ -467,5 +466,4 @@ Zelizer, Viviana A. *The Social Meaning of Money*, Princeton: Princeton Universi
     Public Sphere in Eighteenth-Century America,* Cambridge, MA: Harvard
     University Press, 1992.
 
-[^14]: Hart, *Memory Bank: Money in an Unequal World*, London: Profile,
-2000.
+[^14]: Hart, *Memory Bank: Money in an Unequal World*, London: Profile, 2000.

@@ -809,7 +809,7 @@ Hudson, 2004.
 
 Taylor, Mark C. ‘Financialization of Art’. *Capitalism and Society* 6.2
 (2011),
-[capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf](capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf).
+[http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf](capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf).
 
 Therborn, Göran. *The Killing Fields of Inequality*, London: Polity,
 2013.
@@ -896,8 +896,7 @@ Princeton University Press, 2005.
     Verso, 2006.
 
 [^21]: See Mark C. Taylor, ‘Financialization of Art’, *Capitalism and
-    Society* 6.2 (2011),
-    [capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf](styles.xml).
+    Society* 6.2 (2011), <http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf>.
 
 [^22]: On this perspective, see Fredric Jameson, *Representing Capital:
     A Reading of Volume One*, London and New York: Verso, 2011.
@@ -918,7 +917,7 @@ Princeton University Press, 2005.
 
 [^28]: See [http://www.schwarzbank.org/](http://www.schwarzbank.org/).
 
-[^29]: See [moneyandart.tumblr.com](settings.xml).
+[^29]: See <http://moneyandart.tumblr.com/>.
 
 [^30]: Marc Shell, *Art and Money*, Chicago: University of Chicago
     Press, 1994; Katy Siegel and Paul Mattick, *Art Works: Money*,
@@ -934,7 +933,7 @@ Princeton University Press, 2005.
 
 [^34]: See [http://www.nonfunctionalthoughts.net/](http://www.nonfunctionalthoughts.net/).
 
-[^35]: See [http://www.cassiethornton.com/.](http://www.cassiethornton.com/.)
+[^35]: See [http://www.cassiethornton.com/](http://www.cassiethornton.com/).
 
 
 [^37]: See Max Haiven and Alex Khasnabish, *The Radical Imagination:

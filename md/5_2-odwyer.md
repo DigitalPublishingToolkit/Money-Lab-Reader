@@ -684,8 +684,8 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
 
 [^9]: A.M. Seybold, ‘Seybold’s Take: Spectrum is the True Currency of
     Wireless Operators’, *Fierce Wireless*, 22 June 2012,
-    [http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-
-    operators/2012-06-22](webSettings.xml).
+    <http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-
+    operators/2012-06-22>.
 
 [^10]: Robert J. Dippelsman and Nils Ø. Mæhle, ‘Treatment of Mobile
     Phone Licenses in the National Accounts’, *Review of Income and
@@ -696,8 +696,8 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Frequencies from the 1690 MHz Band’, *The Brattle Group*, Washington
     DC: International Telecommunications Union (ITU); *Exploring the
     Value and Economic Valuation of Spectrum*, ITU, 2012,
-    [http://www.itu.int/ITU- D/treg/broadband/ITU-BB-Reports\_SpectrumV
-    alue.pdf](footnotes.xml).
+    <http://www.itu.int/ITU- D/treg/broadband/ITU-BB-Reports\_SpectrumV
+    alue.pdf>.
 
 [^12]: Bill Maurer speaks about payment as the last commons in
     ‘Regulation as Retrospective Ethnography: Mobile Money and the Arts
@@ -796,7 +796,7 @@ Zax, David. ‘Is Personal Data the New Currency?’ *MIT Technology Review*
     Cash: Channeling Agency in Mobile Money’, *Journal of the Royal
     Anthropological Institute* 19.1 (2013).
 
-[^28]: See [https://ripple.com](See https://ripple.com) or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
+[^28]: See <https://ripple.com> or Klint Finley, ‘Document Coin: A New Currency whose Value is Based
     on your Reputation’, *Wired Magazine*, 18 July 2014, [http://www.wired.com/2014/07/document-coin/](http://www.wired.com/2014/07/document-coin/).
 
 [^29]: Wouter Rosingh, Adam Seal, and David Osborn, ‘Why Banks and Telecoms must Merge to Surge’, *Strategy + Business* 23 (2001), [http://www.strategy-business.com/article/17163?gko=4cda6](http://www.strategy-business.com/article/17163?gko=4cda6)

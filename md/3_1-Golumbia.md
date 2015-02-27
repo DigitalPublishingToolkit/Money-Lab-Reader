@@ -737,8 +737,7 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     with Bitcoin’, *Forbes*, 20 August 2012,
     [http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/](http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/).
     On the double-spending problem see Jaap-Henk Hoepman, ‘Distributed
-    Double Spending Prevention’, arXiv (2008),
-    [arXiv:0802.0832](stylesWithEffects.xml).
+    Double Spending Prevention’, arXiv (2008).
 
 [^3]: For the Liberty Lobby, the John Birch Society, and their
     connection to contemporary far-right US politics, see Chip Berlet

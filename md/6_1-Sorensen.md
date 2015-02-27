@@ -734,8 +734,8 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films).
 
 [^18]: As described by Inge Sørensen, ‘Crowdsourcing and Outsourcing’
-    and Darren C. Brabham, ‘[The Myth of Amateur Crowds: A Critical
-    Discourse Analysis of Crowdsourcing Coverage](endnotes.xml)’,
+    and Darren C. Brabham, ‘The Myth of Amateur Crowds: A Critical
+    Discourse Analysis of Crowdsourcing Coverage’,
     *Information, Communication & Society,* 15.3 (2012): 394-410.
 
 [^19]: Evgeny Morozov, ‘Kickstarter Will Not Save Artists from the
