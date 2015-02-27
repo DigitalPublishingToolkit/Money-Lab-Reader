@@ -9,30 +9,6 @@ Item-id: unique no.
 Rights: CC BY-NC 4.0
 ...
 
-
-# INC Reader \#10
-
-MoneyLab is part of a global movement that demands the democratization
-of the design of our financial futures. Audacity is essential in times
-of crisis. And so we must engage constructively with hackers,
-entrepreneurs, and other creators who take up the call for economic
-alternatives. One first step is a map of the present: What works and what
-doesn’t? What is worth pursuing and what must be left aside? Which
-histories bear on the present moment? And what are the limits of our
-economic imagination?
-
-The MoneyLab Reader brings developments in crowdfunding, currency
-design, technologies of payment, and other economic experiments into
-dialogue. The authors of this volume discuss the implications of the
-current architecture of global finance, its impact on ever-growing
-income disparity, and question money and finance as such. It is not
-always clear, for instance, whether genuine alternatives are unfolding
-or if we are simply witnessing the creative extension of neoliberalism.
-At stake is the full spectrum of technologies of economic 
-(re)distribution.
-
-
-
 # MoneyLab Reader: An Intervention in Digital Economy
 
 
@@ -64,18 +40,46 @@ Join the MoneyLab mailing list at:
 Supported by: Amsterdam University of Applied Sciences
 (Hogeschool van Amsterdam), Amsterdam Creative Industries Publishing and the University of Warwick
 
+![](imgs/file1.jpg)
+![](imgs/file0.jpg)
+![](imgs/file3.jpg)
+![](imgs/file2.jpg)
+
+
+
 Thanks to everyone at INC, to all of the authors for their
 contributions, Annie Goodner and Morgan Currie for their copy editing,
 and to Amsterdam Creative Industries Publishing for their financial
 support.
 
-This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).  
-To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/3.0/>.
+This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/3.0/>.
+
+
+# INC Reader \#10
+<!-- backcover text -->
+
+MoneyLab is part of a global movement that demands the democratization
+of the design of our financial futures. Audacity is essential in times
+of crisis. And so we must engage constructively with hackers,
+entrepreneurs, and other creators who take up the call for economic
+alternatives. One first step is a map of the present: What works and what
+doesn’t? What is worth pursuing and what must be left aside? Which
+histories bear on the present moment? And what are the limits of our
+economic imagination?
+
+The MoneyLab Reader brings developments in crowdfunding, currency
+design, technologies of payment, and other economic experiments into
+dialogue. The authors of this volume discuss the implications of the
+current architecture of global finance, its impact on ever-growing
+income disparity, and question money and finance as such. It is not
+always clear, for instance, whether genuine alternatives are unfolding
+or if we are simply witnessing the creative extension of neoliberalism.
+At stake is the full spectrum of technologies of economic 
+(re)distribution.
 
 
 
-
-## Previously published INC Readers
+# Previously published INC Readers
 
 The INC Reader series is derived from conference contributions and
 produced by the Institute of Network Cultures. They are available in
@@ -208,13 +212,7 @@ Crowdfunding the Commons?
 **Irina Enache and Robert van Boeschoten**  
 The MoneyLab Crowdfunding Toolkit for Creatives
 
-## Appendices
-
-**MoneyLab Conference**
-
-**Author Biographies**
-
-**Appendix**
+## Appendix
 
 **MONEYLAB: COINING ALTERNATIVES**
 
@@ -272,6 +270,7 @@ Enache and Robert van Boeschoten
 Moderator: Rob van Hilten
 
 Speakers: Max Haiven, Matthew Slater and Eli Gothill, Lana Swartz
+
 
 # Author Biographies
 
