@@ -57,9 +57,9 @@ Vice-President Aaron Burr, killed Hamilton in a duel, and although
 Burr’s political career eventually ended badly, after killing Hamilton
 he returned to Washington DC, and finished his term as Vice-President.
 
-![Fig. 2: Revolutionary Script.](media/Images_Costanzo/image2.jpg)
+![Fig. 2.1: Revolutionary Script.](media/Images_Costanzo/image2.jpg)
 
-![Fig. 2: Revolutionary Script.](media/Images_Costanzo/image3.jpg)
+![Fig. 2.2: Revolutionary Script.](media/Images_Costanzo/image3.jpg)
 
 `Fig. 2: Revolutionary Script.`{.caption}
 
@@ -584,10 +584,10 @@ Washington DC, March 2014.`{.caption}
 `Fig. 11.2: Author performing at New Museum for Pawel Althamer’s *The Neighbors*, a collaboration started at BB7, March 2014.`{.caption}
 
 
-![Fig. 11.2: Author and Harrison Tesoura Schultz in front of the New
+![Fig. 11.3: Author and Harrison Tesoura Schultz in front of the New
 York Federal Reserve Bank, FedUp action July, 2014.](media/Images_Costanzo/image19.jpg)
 
-`Fig. 11.2: Author and Harrison Tesoura Schultz in front of the New
+`Fig. 11.3: Author and Harrison Tesoura Schultz in front of the New
 York Federal Reserve Bank, FedUp action July, 2014.`{.caption}
 
 Again, ABS agrees with the NEED Act but advocates expanding its mission.

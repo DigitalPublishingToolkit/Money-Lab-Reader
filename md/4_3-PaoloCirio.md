@@ -78,6 +78,7 @@ losses in the total average (G).
 The following diagram illustrates how an algorithm can automatically
 aggregate (W) by wiring currencies over the multiple reserve deposits
 based on the recursive calculation of the (W) equation. 
+
 ![](media/Images_PaoloCirio/image2.png) 
 
 ##  Glossary
