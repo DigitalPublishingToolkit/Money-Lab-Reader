@@ -35,14 +35,15 @@ At stake is the full spectrum of technologies of economic
 
 # MoneyLab Reader: An Intervention in Digital Economy
 
-**Editors:** Geert Lovink, Nathaniel Tkacz and Patricia de Vries  
-**Copy editing:** Annie Goodner and Morgan Currie  
-**Design:** Katja van Stiphout  
-**EPUB development:** André Castro  
-**Production:** Miriam Rasch  
-**Cover design:** Content Context  
-**Printer:** Drukkerij Tuijtel  
-**Publisher:** Institute of Network Cultures, Amsterdam, 2015  
+**MoneyLab Reader: An Intervention in Digital Economy**  
+Editors: Geert Lovink, Nathaniel Tkacz and Patricia de Vries  
+Copy editing: Annie Goodner and Morgan Currie  
+Design: Katja van Stiphout  
+EPUB development: André Castro  
+Production: Miriam Rasch  
+Cover design: Content Context  
+Printer: Drukkerij Tuijtel  
+Publisher: Institute of Network Cultures, Amsterdam, 2015  
 
 ISBN: 978-90-822345-5-8 (print)  
 ISBN: 978-90-822345-6-5 (EPUB)
