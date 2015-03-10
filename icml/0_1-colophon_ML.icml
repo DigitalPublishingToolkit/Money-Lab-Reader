@@ -4,6 +4,11 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -44,7 +49,17 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Rawblock" Name="Rawblock" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -66,102 +81,261 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>INC Reader #10</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Rawblock">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&lt;!-- backcover text --&gt;</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>MoneyLab is part of a global movement that demands the democratization of the design of our financial futures. Audacity is essential in times of crisis. And so we must engage constructively with hackers, entrepreneurs, and other creators who take up the call for economic alternatives. One first step is a map of the present: What works and what doesn’t? What is worth pursuing and what must be left aside? Which histories bear on the present moment? And what are the limits of our economic imagination?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The MoneyLab Reader brings developments in crowdfunding, currency design, technologies of payment, and other economic experiments into dialogue. The authors of this volume discuss the implications of the current architecture of global finance, its impact on ever-growing income disparity, and question money and finance as such. It is not always clear, for instance, whether genuine alternatives are unfolding or if we are simply witnessing the creative extension of neoliberalism. At stake is the full spectrum of technologies of economic (re)distribution.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>MoneyLab Reader: An Intervention in Digital Economy</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>MoneyLab Reader: An Intervention in Digital Economy</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Editors: Geert Lovink, Nathaniel Tkacz and Patricia de Vries</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Copy editing: Annie Goodner and Morgan Currie</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Design: Katja van Stiphout</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>EPUB development: André Castro</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Production: Miriam Rasch</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Cover design: Content Context</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Printer: Drukkerij Tuijtel</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Publisher: Institute of Network Cultures, Amsterdam, 2015</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ISBN: 978-90-822345-5-8 (print) ISBN: 978-90-822345-6-5 (EPUB)</Content>
+    <Content>ISBN: 978-90-822345-5-8 (print)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>ISBN: 978-90-822345-6-5 (EPUB)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Contact</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Institute of Network Cultures</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>phone: +31205951865</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>email: info@networkcultures.org</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>web: </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>www.networkcultures.org</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>web: www.networkcultures.org</Content>
-  </CharacterStyleRange><Br />
+    <Content>Order a copy or download this publication freely at: </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>www.networkcultures.org/publications/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Order a copy or download this publication freely at: www.networkcultures.org/publications/</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Join the MoneyLab mailing list at:</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>http://listcultures.org/mailman/listinfo/moneylab_listcultures.org</Content>
-  </CharacterStyleRange><Br />
+    <Content>Join the MoneyLab mailing list at: </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://listcultures.org/mailman/listinfo/moneylab_listcultures.org</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Supported by: Amsterdam University of Applied Sciences (Hogeschool van Amsterdam), Amsterdam Creative Industries Publishing and the University of Warwick</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="imgs/file1.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="imgs/file0.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="imgs/file3.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="imgs/file2.jpg" />
+      </Image>
+    </Rectangle>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -171,40 +345,18 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>This publication is licensed under Creative Commons</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+    <Content>This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://creativecommons.org/licenses/by-nc-sa/3.0/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[cover]</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>MoneyLab Reader: An Intervention in Digital Economy</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Edited by Geert Lovink, Nathaniel Tkacz and Patricia de Vries</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>INC Reader #10</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Previously published INC Readers</Content>
   </CharacterStyleRange><Br />
@@ -223,9 +375,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INC Reader#9: René König and Miriam Rasch (eds),</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Society of the Query Reader: Reflections on Web Search</Content>
   </CharacterStyleRange>
@@ -236,9 +389,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INC Reader #8: Geert Lovink and Miriam Rasch (eds),</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Unlike Us: Social Media Monopolies and Their Alternatives</Content>
   </CharacterStyleRange>
@@ -249,9 +403,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INC Reader #7: Geert Lovink and Nathaniel Tkacz (eds),</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Critical Point of View: A Wikipedia Reader</Content>
   </CharacterStyleRange>
@@ -262,9 +417,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INC Reader #6: Geert Lovink and Rachel Somers Miles (eds),</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Video Vortex Reader II: Moving Images Beyond Youtube</Content>
   </CharacterStyleRange>
@@ -275,9 +431,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INC Reader #5: Scott McQuire, Meredith Martin and Sabine Niederer (eds),</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Urban Screens Reader</Content>
   </CharacterStyleRange>
@@ -288,9 +445,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INC Reader #4: Geert Lovink and Sabine Niederer (eds),</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Video Vortex Reader: Responses to YouTube</Content>
   </CharacterStyleRange>
@@ -301,9 +459,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INC Reader #3: Geert Lovink and Ned Rossiter (eds),</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>MyCreativity Reader: A Critique of Creative Industries</Content>
   </CharacterStyleRange>
@@ -314,9 +473,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INC Reader #2: Katrien Jacobs, Marije Janssen and Matteo Pasquinelli (eds),</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>C’LICK ME: A Netporn Studies Reader</Content>
   </CharacterStyleRange>
@@ -327,9 +487,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INC Reader #1: Geert Lovink and Soenke Zehle (eds),</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Incommunicado Reader</Content>
   </CharacterStyleRange>
@@ -339,20 +500,29 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>All INC Readers, and other publications like the Network Notebooks Series and Theory on Demand, can be downloaded and read for free. See www.networkcultures.org/publications.</Content>
+    <Content>All INC Readers, and other publications like the Network Notebooks Series and Theory on Demand, can be downloaded and read for free. See </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>www.networkcultures.org/publications</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>CONTENTS</Content>
+    <Content>Contents</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Saskia Sassen</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to the MoneyLab Reader</Content>
   </CharacterStyleRange><Br />
@@ -360,24 +530,26 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Geert Lovink and Nathaniel Tkacz</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>MoneyLab: Sprouting New Digital-Economic Forms</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>THE LONG GAME</Content>
+    <Content>The Long Game</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Keith Hart</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Money in the Making of World Society</Content>
   </CharacterStyleRange><Br />
@@ -385,9 +557,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Franco &quot;Bifo&quot; Berardi</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Is There Life Beyond Money?</Content>
   </CharacterStyleRange><Br />
@@ -395,9 +568,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Ralph and Stefan Heidenreich</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>On a Post-Monetary Network Based Economy</Content>
   </CharacterStyleRange><Br />
@@ -405,9 +579,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Douglas Rushkoff</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Playability and the Search for an Open Source Economy</Content>
   </CharacterStyleRange><Br />
@@ -415,24 +590,26 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Andrew Ross</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Accumulation and Resistance in the 21st Century</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>FINANCIAL INTERVENTIONS</Content>
+    <Content>Financial Interventions</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Primavera De Filippi and Samer Hassan</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Measuring Value in the Commons-Based Ecosystem: Bridging the Gap Between the Commons and the Market</Content>
   </CharacterStyleRange><Br />
@@ -440,9 +617,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Pekka Piironen and Akseli Virtanen</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Democratizing the Power of Finance: A Discussion About Robin Hood Asset Management Cooperative with Founder Akseli Virtanen</Content>
   </CharacterStyleRange><Br />
@@ -450,24 +628,26 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Lena Rethel and Irwan Abdalloh</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Inculcating Ethical Behaviour in Market Transactions? The Case of the Sharia Online Trading System in Indonesia</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>CRITICAL CURRENCIES</Content>
+    <Content>Critical Currencies</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>David Golumbia</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Bitcoin as Politics: Distributed Right-Wing Extremism</Content>
   </CharacterStyleRange><Br />
@@ -475,9 +655,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Beat Weber</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Economic Viability of Complementary Currencies: Bound to Fail?</Content>
   </CharacterStyleRange><Br />
@@ -485,9 +666,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Tiziana Terranova and Andrea Fumagalli</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Financial Capital and the Money of the Common: The Case of Commoncoin</Content>
   </CharacterStyleRange><Br />
@@ -495,24 +677,26 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Finn Brunton</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Heat Exchanges</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ECONOMIES OF IMAGINATION</Content>
+    <Content>Economies of Imagination</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Max Haiven</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Money as a Medium of the Imagination: Art and the Currencies of Cooperation</Content>
   </CharacterStyleRange><Br />
@@ -520,9 +704,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Stephanie Rothenberg</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Reversal of Fortune: Visualizing Marketized Philanthropy</Content>
   </CharacterStyleRange><Br />
@@ -530,9 +715,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Paolo Cirio</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>(W)orld Currency</Content>
   </CharacterStyleRange><Br />
@@ -540,24 +726,26 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Jim Costanzo</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Free Money Movement</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>TECHNOLOGIES OF PAYMENT</Content>
+    <Content>Technologies of Payment</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Bill Maurer and Lana Swartz</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Wild, Wild West: A View from Two Californian Schoolmarms</Content>
   </CharacterStyleRange><Br />
@@ -565,9 +753,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Rachel O’Dwyer</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Money Talks: The Enclosure of Mobile Payments</Content>
   </CharacterStyleRange><Br />
@@ -575,9 +764,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Erin Taylor</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Mobile Money: Financial Globalization, Alternative, or Both?</Content>
   </CharacterStyleRange><Br />
@@ -585,24 +775,26 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>CROWDFUNDING AND BEYOND</Content>
+    <Content>Crowdfunding and Beyond</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Inge Ejbye Sørensen</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Go Crowdfund Yourself! Some Unintended Consequences of Crowdfunding for Documentary Film and Industry in the U.K.</Content>
   </CharacterStyleRange><Br />
@@ -610,9 +802,10 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Renée Ridgway</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Crowdfunding the Commons?</Content>
   </CharacterStyleRange><Br />
@@ -620,45 +813,31 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Irina Enache and Robert van Boeschoten</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The MoneyLab Crowdfunding Toolkit for Creatives</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>APPENDICES</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>MoneyLab Conference</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Author Biographies</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Appendix</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>MONEYLAB: COINING ALTERNATIVES</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>March 21-22, 2014, Lab111, Amsterdam</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>FRIDAY, March 21, 2014</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -722,8 +901,8 @@
     <Content>Speakers: Erin Taylor, Taylor Nelms, Gawain Lynch</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>SATURDAY, March 22, 2014</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -782,7 +961,34 @@
     <Content>Speakers: Max Haiven, Matthew Slater and Eli Gothill, Lana Swartz</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="imgs/2Money_lab_flyer.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Author Biographies</Content>
   </CharacterStyleRange><Br />
@@ -794,7 +1000,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> is the head of Islamic Capital Market Development at the Indonesia Stock Exchange (IDX). He is a lecturer in Islamic Investment in the Postgraduate Program of the University of Indonesia and at the Tazkia University College of Islamic Economics. He is the founder of </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>icmspecialist.com</Content>
     </CharacterStyleRange>
@@ -912,7 +1118,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> (Harvard, 2009), and of many articles on digital culture, language, linguistics, and literary studies. He maintains the blog </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://uncomputing.org</Content>
     </CharacterStyleRange>
@@ -966,7 +1172,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> (2000), available at </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://thememoryba nk.co.uk/book/</Content>
     </CharacterStyleRange>
@@ -990,7 +1196,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> lives in Biberach/Riss and works as a programmer (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.ralph-heidenreich.de</Content>
     </CharacterStyleRange>
@@ -1006,7 +1212,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> lives in Berlin and holds a research position at the Center for Digital Culture, Lüneburg University (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.stefanheidenreich.de</Content>
     </CharacterStyleRange>
@@ -1202,7 +1408,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> is a Robert S. Lynd Professor of Sociology and Co-Chair at Committee on Global Thought at Columbia University. Her research and writing is focused on globalization (including its social, economic, and political dimensions), immigration, new-networked technologies, and changes within the liberal state that result from current transnational conditions (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.saskiasassen.com</Content>
     </CharacterStyleRange>
@@ -1305,103 +1511,83 @@
     <Content> studied economics at the Vienna University of Economics and Business. He is an expert at the Division for European Affairs and International Financial Organizations of Oesterreichische Nationalbank, the Central Bank of Austria.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Back cover</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>MoneyLab Reader: An Intervention In Digital Economy</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Edited by Geert Lovink, Nathaniel Tkacz and Patricia de Vries</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>INC Reader #10</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>MoneyLab is part of a global movement that demands the democratization of the design of our financial futures. Audacity is essential in times of crisis. And so we must engage constructively with hackers, entrepreneurs, and other creators who take up the call for economic alternatives. One first step is a map of the present: What works and what doesn’t? What is worth pursuing and what must be left aside? Which histories bear on the present moment? And what are the limits of our economic imagination?</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The MoneyLab Reader brings developments in crowdfunding, currency design, technologies of payment, and other economic experiments into dialogue. The authors of this volume discuss the implications of the current architecture of global finance, its impact on ever-growing income disparity, and question money and finance as such. It is not always clear, for instance, whether genuine alternatives are unfolding or if we are simply witnessing the creative extension of neoliberalism. At stake is the full spectrum of technologies of economic (re)distribution.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Contributors:</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Irwan Abdalloh, Franco &quot;Bifo&quot; Berardi, Robert van Boeschoten, Finn Brunton, Paolo Cirio, Jim Costanzo, Primavera De Filippi, Eduard de Jong, Irina Enache, Andrea Fumagalli, David Golumbia, Max Haiven, Keith Hart, Samer Hassan, Ralph Heidenreich, Stefan Heidenreich, Geert Lovink, Bill Maurer, Rachel O’Dwyer, Pekka Piironen, Lena Rethel, Renée Ridgway, Andrew Ross, Stephanie Rothenberg, Douglas Rushkoff, Saskia Sassen, Inge Ejbye Sørensen, Lana Swartz, Erin B. Taylor, Tiziana Terranova, Nathaniel Tkacz, Pablo Velasco, Akseli Virtanen and Beat Weber.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Institute of Network Cultures, Amsterdam 2015</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ISBN: 978-90-822345-5-8 (print) ISBN: 978-90-822345-6-5 (EPUB)</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>INC | HvA | University of Warwick | Amsterdam Creative Industries Network |</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.saskiasassen.com/" Name="link" DestinationURL="http://www.saskiasassen.com/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="http://www.saskiasassen.com/" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-11" Name="http://www.saskiasassen.com/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.saskiasassen.com/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stefanheidenreich.de" Name="link" DestinationURL="http://www.stefanheidenreich.de" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="http://www.stefanheidenreich.de" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-10" Name="http://www.stefanheidenreich.de" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.stefanheidenreich.de</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ralph-heidenreich.de" Name="link" DestinationURL="http://www.ralph-heidenreich.de" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="http://www.ralph-heidenreich.de" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-9" Name="http://www.ralph-heidenreich.de" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.ralph-heidenreich.de</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://thememorybank.co.uk/book/" Name="link" DestinationURL="http://thememorybank.co.uk/book/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="http://thememorybank.co.uk/book/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-8" Name="http://thememorybank.co.uk/book/" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://thememorybank.co.uk/book/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://uncomputing.org" Name="link" DestinationURL="http://uncomputing.org" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="http://uncomputing.org" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-7" Name="http://uncomputing.org" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://uncomputing.org</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.icmspecialist.com" Name="link" DestinationURL="http://www.icmspecialist.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="http://www.icmspecialist.com" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-6" Name="http://www.icmspecialist.com" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.icmspecialist.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/publications/" Name="link" DestinationURL="http://networkcultures.org/publications/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://networkcultures.org/publications/" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/publications/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://creativecommons.org/licenses/by-nc-sa/3.0/" Name="link" DestinationURL="http://creativecommons.org/licenses/by-nc-sa/3.0/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://creativecommons.org/licenses/by-nc-sa/3.0/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://creativecommons.org/licenses/by-nc-sa/3.0/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://listcultures.org/mailman/listinfo/moneylab_listcultures.org" Name="link" DestinationURL="http://listcultures.org/mailman/listinfo/moneylab_listcultures.org" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://listcultures.org/mailman/listinfo/moneylab_listcultures.org" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://listcultures.org/mailman/listinfo/moneylab_listcultures.org</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/publications" Name="link" DestinationURL="http://networkcultures.org/publications" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://networkcultures.org/publications" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/publications</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/" Name="link" DestinationURL="http://networkcultures.org/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://networkcultures.org/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/</Destination>
     </Properties>
   </Hyperlink>
 </Document>

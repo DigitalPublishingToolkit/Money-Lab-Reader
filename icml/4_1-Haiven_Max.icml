@@ -792,7 +792,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf</Content>
+            <Content>http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1031,7 +1031,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>moneyandart.tumblr.com</Content>
+            <Content>http://moneyandart.tumblr.com/</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1224,9 +1224,12 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.cassiethornton.com/.</Content>
+            <Content>http://www.cassiethornton.com/</Content>
           </CharacterStyleRange>
-        </HyperlinkTextSource><Br />
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -1826,7 +1829,7 @@
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf</Content>
+      <Content>http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1879,11 +1882,11 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" Name="link" DestinationURL="capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" Name="link" DestinationURL="http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm" Name="link" DestinationURL="http://www.marxists.org/archive/marx/works/1844/manuscripts/power.htm" DestinationUniqueKey="1" />
@@ -1914,11 +1917,11 @@
       <Destination type="object">HyperlinkURLDestination/https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cassiethornton.com/." Name="link" DestinationURL="http://www.cassiethornton.com/." DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="http://www.cassiethornton.com/." Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cassiethornton.com/" Name="link" DestinationURL="http://www.cassiethornton.com/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="http://www.cassiethornton.com/" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.cassiethornton.com/.</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.cassiethornton.com/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nonfunctionalthoughts.net/" Name="link" DestinationURL="http://www.nonfunctionalthoughts.net/" DestinationUniqueKey="1" />
@@ -1935,11 +1938,11 @@
       <Destination type="object">HyperlinkURLDestination/http://blog.artasmoney.com/blog/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/settings.xml" Name="link" DestinationURL="settings.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="settings.xml" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://moneyandart.tumblr.com/" Name="link" DestinationURL="http://moneyandart.tumblr.com/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://moneyandart.tumblr.com/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/settings.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://moneyandart.tumblr.com/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.schwarzbank.org/" Name="link" DestinationURL="http://www.schwarzbank.org/" DestinationUniqueKey="1" />
@@ -1949,11 +1952,11 @@
       <Destination type="object">HyperlinkURLDestination/http://www.schwarzbank.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/styles.xml" Name="link" DestinationURL="styles.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="styles.xml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" Name="link" DestinationURL="http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/styles.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html" Name="link" DestinationURL="http://www.thestar.com/news/canada/2014/07/27/feminist_disappears_from_public_history_under_harper_government.html" DestinationUniqueKey="1" />

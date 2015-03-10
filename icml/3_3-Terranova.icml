@@ -661,7 +661,7 @@
     <Content> São Paulo and Helsinki: n-1 Edições, 2014.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Morini, Cristina. </Content>
   </CharacterStyleRange>
@@ -721,7 +721,7 @@
     <Content>. London: Pluto Press, 2013.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Terranova, Tiziana. ‘Red Stack Attack! Algorithms, Capital and the Automation of the Common’, </Content>
   </CharacterStyleRange>

@@ -158,8 +158,10 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The following diagram illustrates how an algorithm can automatically aggregate (W) by wiring currencies over the multiple reserve deposits based on the recursive calculation of the (W) equation. </Content>
-  </CharacterStyleRange>
+    <Content>The following diagram illustrates how an algorithm can automatically aggregate (W) by wiring currencies over the multiple reserve deposits based on the recursive calculation of the (W) equation.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
       <Properties>

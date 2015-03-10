@@ -835,15 +835,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>As described by Inge Sørensen, ‘Crowdsourcing and Outsourcing’ and Darren C. Brabham, ‘</Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>The Myth of Amateur Crowds: A Critical Discourse Analysis of Crowdsourcing Coverage</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>’, </Content>
+          <Content>As described by Inge Sørensen, ‘Crowdsourcing and Outsourcing’ and Darren C. Brabham, ‘The Myth of Amateur Crowds: A Critical Discourse Analysis of Crowdsourcing Coverage’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Information, Communication &amp; Society,</Content>
@@ -1013,7 +1005,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html</Content>
     </CharacterStyleRange>
@@ -1042,7 +1034,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Branham, Darren C. ‘</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>The Myth of Amateur Crowds: A Critical Discourse Analysis of Crowdsourcing Coverage</Content>
     </CharacterStyleRange>
@@ -1078,7 +1070,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 27 March 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction</Content>
     </CharacterStyleRange>
@@ -1119,7 +1111,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 9 November 2009, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films</Content>
     </CharacterStyleRange>
@@ -1160,7 +1152,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 5 April 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://mashable.com/2012/04/05/jobs-act-signed/</Content>
     </CharacterStyleRange>
@@ -1179,7 +1171,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 6 March 2014, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737</Content>
     </CharacterStyleRange>
@@ -1203,7 +1195,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Kickstarter. http://www.</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>kickstarter.com</Content>
     </CharacterStyleRange>
@@ -1227,7 +1219,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Lovefilms. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.lovefilm.com</Content>
     </CharacterStyleRange>
@@ -1246,7 +1238,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/</Content>
     </CharacterStyleRange>
@@ -1281,7 +1273,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Nesta. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013</Content>
     </CharacterStyleRange>
@@ -1366,7 +1358,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> PhD Diss., Department for Media, Cognition and Communication, Copenhagen University, Copenhagen, Denmark, 2013, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf</Content>
     </CharacterStyleRange>
@@ -1401,7 +1393,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Ward, Chris, and Vandana Ramachandran. ‘Crowdfunding the Next Hit: Microfunding Online Experience Goods’, workshop at NIPS2010, Whistler, Canada, 10 December 2010, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf</Content>
     </CharacterStyleRange>
@@ -1424,94 +1416,87 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf" Name="link" DestinationURL="http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-20" Name="http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-19" Name="http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/ward.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" Name="link" DestinationURL="http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-19" Name="http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-18" Name="http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://curis.ku.dk/ws/files/44584781/Ph.d._2013_S_rensen.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" Name="link" DestinationURL="http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-18" Name="http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-17" Name="http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/" Name="link" DestinationURL="http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-17" Name="http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-16" Name="http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.crowdfundinsider.com/2014/04/35553-ai-weiwei-secretly-shot-sci-fi-film-funding-kickstarter/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.lovefilm.com" Name="link" DestinationURL="http://www.lovefilm.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="http://www.lovefilm.com" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-15" Name="http://www.lovefilm.com" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.lovefilm.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kickstarter.com" Name="link" DestinationURL="http://www.kickstarter.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="http://www.kickstarter.com" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-14" Name="http://www.kickstarter.com" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.kickstarter.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" Name="link" DestinationURL="http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-13" Name="http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mashable.com/2012/04/05/jobs-act-signed/" Name="link" DestinationURL="http://mashable.com/2012/04/05/jobs-act-signed/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="http://mashable.com/2012/04/05/jobs-act-signed/" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-12" Name="http://mashable.com/2012/04/05/jobs-act-signed/" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://mashable.com/2012/04/05/jobs-act-signed/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Name="link" DestinationURL="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-11" Name="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" Name="link" DestinationURL="http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-10" Name="http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991" Name="link" DestinationURL="http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-9" Name="http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.641991</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html" Name="link" DestinationURL="http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-8" Name="http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.youvebeentrumped.com/youvebeentrumped.com/PRESS.html</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/endnotes.xml" Name="link" DestinationURL="endnotes.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="endnotes.xml" Source="htss-8" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/endnotes.xml</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" Name="link" DestinationURL="http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films" DestinationUniqueKey="1" />

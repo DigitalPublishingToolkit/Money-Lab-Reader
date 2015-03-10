@@ -193,10 +193,7 @@
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://www.youtube.com/watch?v=nEZ30K5dBWU</Content>
           </CharacterStyleRange>
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
-        </CharacterStyleRange><Br />
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -229,20 +226,17 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest.</Content>
+            <Content>http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Fonkoze in Haiti bases their Chemen Lavi Miyò program on this model, </Content>
+          <Content>. Fonkoze in Haiti bases their Chemen Lavi Miyò program on this model, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.fonkoze.org/what-we-do/step-1-clm/*</Content>
+            <Content>http://www.fonkoze.org/what-we-do/step-1-clm/</Content>
           </CharacterStyleRange>
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
-        </CharacterStyleRange><Br />
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -349,7 +343,7 @@
             <Content>http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
@@ -596,10 +590,7 @@
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.fonkoze.org/why-it-matters/key-statistics/</Content>
           </CharacterStyleRange>
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
-        </CharacterStyleRange><Br />
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -1613,18 +1604,18 @@
       <Destination type="object">HyperlinkURLDestination/http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&amp;commentId=4920407%3AComment%3A78008&amp;xg_source=activity</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/fontTable.xml" Name="link" DestinationURL="fontTable.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="fontTable.xml" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.fonkoze.org/why-it-matters/key-statistics/" Name="link" DestinationURL="http://www.fonkoze.org/why-it-matters/key-statistics/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="http://www.fonkoze.org/why-it-matters/key-statistics/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/fontTable.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.fonkoze.org/why-it-matters/key-statistics/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/footer1.xml" Name="link" DestinationURL="footer1.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="footer1.xml" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants" Name="link" DestinationURL="http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/footer1.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor_.html" Name="link" DestinationURL="http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor_.html" DestinationUniqueKey="1" />
@@ -1648,46 +1639,46 @@
       <Destination type="object">HyperlinkURLDestination/http://audiencescapes.org/country-profiles/haiti/mobile-money-haiti-baseline-analysis-Gates-adoption-financial-services-HMMI</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/endnotes.xml" Name="link" DestinationURL="endnotes.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="endnotes.xml" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity" Name="link" DestinationURL="http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/endnotes.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/footnotes.xml" Name="link" DestinationURL="footnotes.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="footnotes.xml" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ifad.org/remittances/maps/" Name="link" DestinationURL="http://www.ifad.org/remittances/maps/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://www.ifad.org/remittances/maps/" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/footnotes.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.ifad.org/remittances/maps/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/webSettings.xml" Name="link" DestinationURL="webSettings.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="webSettings.xml" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013" Name="link" DestinationURL="http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/webSettings.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/settings.xml" Name="link" DestinationURL="settings.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="settings.xml" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.fonkoze.org/what-we-do/step-1-clm/" Name="link" DestinationURL="http://www.fonkoze.org/what-we-do/step-1-clm/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.fonkoze.org/what-we-do/step-1-clm/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/settings.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.fonkoze.org/what-we-do/step-1-clm/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest." Name="link" DestinationURL="http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest." DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest." Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest" Name="link" DestinationURL="http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest.</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/styles.xml" Name="link" DestinationURL="styles.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="styles.xml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.youtube.com/watch?v=nEZ30K5dBWU" Name="link" DestinationURL="https://www.youtube.com/watch?v=nEZ30K5dBWU" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://www.youtube.com/watch?v=nEZ30K5dBWU" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/styles.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://www.youtube.com/watch?v=nEZ30K5dBWU</Destination>
     </Properties>
   </Hyperlink>
 </Document>

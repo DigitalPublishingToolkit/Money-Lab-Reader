@@ -367,7 +367,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless- operators/2012-06-22</Content>
+            <Content>http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -435,7 +435,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.itu.int/ITU- D/treg/broadband/ITU-BB-Reports_SpectrumV alue.pdf</Content>
+            <Content>http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports\_SpectrumValue.pdf</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -700,7 +700,10 @@
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2456/2171</Content>
           </CharacterStyleRange>
-        </HyperlinkTextSource><Br />
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -1007,7 +1010,10 @@
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.strategy-business.com/article/17163?gko=4cda6</Content>
           </CharacterStyleRange>
-        </HyperlinkTextSource><Br />
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -1241,7 +1247,10 @@
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.gsma.com/mobilefordevelopment/annual-reports-show-mobile-money-remains-a-strategic-priority-for-mno-groups</Content>
           </CharacterStyleRange>
-        </HyperlinkTextSource><Br />
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange><Br />
@@ -2035,7 +2044,7 @@
     <Content>Mobile Nation</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, 25 February 2014,</Content>
+    <Content>, 25 February 2014.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2196,7 +2205,10 @@
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://vimeo.com/90208804</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2415,11 +2427,11 @@
       <Destination type="object">HyperlinkURLDestination/http://www.wired.com/2014/07/document-coin/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/See%20https://ripple.com" Name="link" DestinationURL="See%20https://ripple.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="See%20https://ripple.com" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://ripple.com" Name="link" DestinationURL="https://ripple.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="https://ripple.com" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/See%20https://ripple.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://ripple.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES" Name="link" DestinationURL="http://www.ifc.org/wps/wcm/connect/fad057004a052eb88b23ffdd29332b51/MobileMoneyReport-Summary.pdf?MOD=AJPERES" DestinationUniqueKey="1" />
@@ -2457,18 +2469,18 @@
       <Destination type="object">HyperlinkURLDestination/http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/footnotes.xml" Name="link" DestinationURL="footnotes.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="footnotes.xml" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports\_SpectrumValue.pdf" Name="link" DestinationURL="http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports\_SpectrumValue.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports\_SpectrumValue.pdf" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/footnotes.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.itu.int/ITU-D/treg/broadband/ITU-BB-Reports\_SpectrumValue.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/webSettings.xml" Name="link" DestinationURL="webSettings.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="webSettings.xml" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22" Name="link" DestinationURL="http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/webSettings.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.fiercewireless.com/story/seybolds-take-spectrum-true-currency-wireless-operators/2012-06-22</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money" Name="link" DestinationURL="http://www.economist.com/news/finance-and-economics/21569744-use-pre-paid-mobile-phone-minutes-currency-airtime-money" DestinationUniqueKey="1" />
