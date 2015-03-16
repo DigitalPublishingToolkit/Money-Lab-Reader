@@ -52,7 +52,6 @@ One after the other every space of daily life – learning, affection, sex
 – is invaded by the brutality of the arbitrary power of money, and the
 undifferentiated abstraction swallows every dimension of experience,
 depriving it of its special flavor and concreteness.
-
 This is why the discourse on money can no longer be reserved to the
 experts in financial science; this is why I’m going to discuss money and
 finance.
@@ -645,7 +644,7 @@ Publications, 1998 (1921).
     the Theory of Syntax*, Cambridge: MIT, 1975.
 
 [^10]: Marshall McLuhan, *Understanding Media: The Extensions of Man*,
-    Toronto: McGraw Hill, p. 7.
+    Toronto: McGraw Hill, p.136.
 
 [^11]: McLuhan, *Understanding Media*, p. 41.
 
@@ -653,6 +652,8 @@ Publications, 1998 (1921).
 
 [^13]: Griziotti Vercellone, *‘*Biorank vs Commoncoin: Algorithms and
     Crypto-Currencies in the Bios of Cognitive Capitalism’, in *Quaderni
-    di San Precario*, Vol. 8 (June 2014).
+    di San Precario*, Vol. 8 (June 2014). 
+    http://quaderni.sanprecario.info/2014/06/biorank-vs-commoncoin-algorithms-and-crypto-currencies-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti-and-carlo-vercellone/. 
 
-[^14]: Vercellone, ‘Biorank’.
+[^14]: Vercellone, ‘Biorank vs Commoncoin: Algorithms and
+    Crypto-Currencies in the Bios of Cognitive Capitalism’’.
