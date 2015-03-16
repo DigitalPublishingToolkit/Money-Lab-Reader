@@ -10,7 +10,7 @@ Article-title: (W)orld Currency
 Article-status: accepted
 Author: Paolo Cirio
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Paolo Cirio’s art projects investigate issues such as privacy, transparency, copyright,finance, and democracy. He renders his conceptual works through performances,photos, drawings, videos, and installations. His work has unsettled Facebook, Amazon,Google, and NAT O, among others. He currently lives in New York City.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
