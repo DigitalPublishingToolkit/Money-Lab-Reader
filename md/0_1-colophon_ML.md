@@ -37,10 +37,9 @@ At stake is the full spectrum of technologies of economic
 
 **MoneyLab Reader: An Intervention in Digital Economy**  
 Editors: Geert Lovink, Nathaniel Tkacz and Patricia de Vries  
-Copy editing: Annie Goodner and Morgan Currie  
+Copy editing: Annie Goodner, Morgan Currie, Jess van Zyl, Matthew Beros, Miriam Rasch  
 Design: Katja van Stiphout  
-EPUB development: André Castro  
-Production: Miriam Rasch  
+EPUB development: André Castro   
 Cover design: Content Context  
 Printer: Drukkerij Tuijtel  
 Publisher: Institute of Network Cultures, Amsterdam, 2015  
@@ -76,7 +75,7 @@ contributions, Annie Goodner and Morgan Currie for their copy editing,
 and to Amsterdam Creative Industries Publishing for their financial
 support.
 
-This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/3.0/>.
+This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/3.0/>.
 
 
 
@@ -88,7 +87,7 @@ print, EPUB, and PDF form. The *MoneyLab Reader* is the tenth publication in
 the series.
 
 INC Reader\#9: René König and Miriam Rasch (eds),  
-*Society of the Query Reader: Reflections on Web Search*, 2013.
+*Society of the Query Reader: Reflections on Web Search*, 2014.
 
 INC Reader \#8: Geert Lovink and Miriam Rasch (eds),  
 *Unlike Us: Social Media Monopolies and Their Alternatives*, 2013.
