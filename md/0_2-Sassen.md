@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 ##TEST
-
+baba yaga
 # When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to the MoneyLab Reader
 
 ### Saskia Sassen {.author}
