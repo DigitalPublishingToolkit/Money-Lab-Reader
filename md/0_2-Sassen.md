@@ -16,6 +16,7 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+##TEST
 
 # When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to the MoneyLab Reader
 
