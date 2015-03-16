@@ -313,7 +313,7 @@ Marazzi, Christian. ‘Summer School: La moneta del comune’, *Uninomade
 Massumi, Brian. *The Power at the End of the Economy, Art Beyond
 Interest, Joy Beyond Reason.* São Paulo and Helsinki: n-1 Edições, 2014.
 
-Morini, Cristina. *Per amore o per forza. Femminilizzazione del lavoro e biopolitiche del corpo.* Verona: Ombre Corte, 2010 
+Morini, Cristina. *Per amore o per forza. Femminilizzazione del lavoro e biopolitiche del corpo.* Verona: Ombre Corte, 2010.
 
 Piironen, Pekka and Virtanen, Akseli. ‘Democratization of Finance: An
 Interview’, *Robin Hood Minor Asset Management*,
@@ -352,7 +352,7 @@ Elements for a Marxist Reading of the Thesis of Cognitive Capitalism’,
     February 2014,
     [http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/](http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/).
 
-[^2]: See http://dcentproject.eu
+[^2]: See, <http://dcentproject.eu>.
 
 [^3]: Jerome Roos, ‘In Each Other We Trust: Coining Alternatives to
     Capitalism’, *Roarmag.org*, 31 March 2014,
@@ -364,7 +364,7 @@ Elements for a Marxist Reading of the Thesis of Cognitive Capitalism’,
 
 [^5]: Tiziana Terranova, ‘Social Unionism and Digital Labor in the
     Transnational Space of European Austerity’, *Euronomade*,
-    [http://www.euronomade.info/?p=3416](http://www.euronomade.info/?p=3416),
+    [http://www.euronomade.info/?p=3416](http://www.euronomade.info/?p=3416).
 
 [^6]: For further reading see: Christian Marazzi, ‘Summer School: La
     moneta del comune’, *Uninomade 2.0,* 13 September 2012,
