@@ -16,12 +16,11 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-
 # When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to the MoneyLab Reader
 
 ### Saskia Sassen {.author}
 
-
+TEST 12345
 MoneyLab is an exciting and strategic project. The diversity of
 contributions to this volume is exceptional and promising. It is
 impossible to do justice to this enormous variety of ideas and proposals
