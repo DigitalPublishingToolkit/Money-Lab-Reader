@@ -10,7 +10,8 @@ Article-title: Democratizing the Power of Finance: A Discussion About Robin Hood
 Article-status: accepted
 Author: Pekka Piironen, Akseli Virtanen
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Pekka Piironen a Finnish economic and strategy theorist, known for his theory of thecollective pledge and biopolitics of firms. He is a founding member of Robin Hood AssetManagement Cooperative and the author of Economy of Insecurity.
+Akseli Virtanen is a theorist of new political finance, born in Finland and currentlybased in Santa Cruz, California. He is the author of Arbitrary Power, Critique of BiopoliticalEconomy and the editor of n-1 Edições. He is a founding member of Robin HoodAsset Management Cooperative.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
