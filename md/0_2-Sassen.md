@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Contents
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Saskia Sassen
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
