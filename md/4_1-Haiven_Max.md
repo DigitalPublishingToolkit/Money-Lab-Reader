@@ -8,9 +8,9 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Max Haiven
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Max Haiven is an Assistant Professor in the Division of Art History and Critical Studiesat the Nova Scotia College of Art and Design, Canada. He is author of Crises of Imagination,Crises of Power (2014), The Radical Imagination (2014) with Alex Khasnabish,and Cultures of Financialization (2014).
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
