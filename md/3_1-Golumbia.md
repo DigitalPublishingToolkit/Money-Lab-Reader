@@ -8,9 +8,9 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: David Golumbia
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  David Golumbia teaches at Virginia Commonwealth University. He is the author of TheCultural Logic of Computation (Harvard, 2009), and of many articles on digital culture,language, linguistics, and literary studies. He maintains the blog http://uncomputing.org. Golumbia is completing a book titled Cyberlibertarianism: The False Promise ofDigital Freedom.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
