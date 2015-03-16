@@ -8,9 +8,9 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Ralph and Stefan Heidenreich
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Ralph Heidenreich lives in Biberach an der Riss and works as a programmer andauthor (http://www.ralph-heidenreich.de).Stefan Heidenreich lives in Berlin and holds a research position at the Center forDigital Culture, Lüneburg University (http://www.stefanheidenreich.de). Together withRalph Heidenreich he wrote the books Mehr Geld (1998) and Der Preis der Welt (2014).
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
