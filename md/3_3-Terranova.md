@@ -8,9 +8,10 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Tiziana Terranova and Andrea Fumagalli
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Tiziana Terranova is Associate Professor of Cultural Theory and New Media in theDepartment of Human and Social Sciences at the University of Naples ‘L’Orientale’.Terranova is the author of Network Culture: Politics for the Information Age and iscurrently writing a book on digital social networks to be published by University ofMinnesota Press.
+Andrea Fumagalli is Associate Professor of Economics in the Department of Economicsand Management at University of Pavia. His research activity deals with the hypothesisof cognitive bio-capitalism, basic income, and precarity issues. He is co-editor ofThe Global Economic Crisis (Semiotext(e), 2011).
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
