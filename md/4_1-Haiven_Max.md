@@ -729,8 +729,7 @@ Government’, *The Toronto Star*, 27 July 2014,
 Bello, Walden. *Capitalism’s Last Stand?: Deglobalization in the Age of
 Austerity*, London: Zed, 2013.
 
-Beuys, Joseph et al. *What Is Money? A Discussion*, West Hoathly, UK:
-Clairview, 2010.
+Beuys, Joseph et al. *What Is Money? A Discussion*, West Hoathly: Clairview, 2010.
 
 Bishop, Claire. *Artificial Hells: Participatory Art and the Politics of
 Spectatorship*, London and New York: Verso, 2012.
