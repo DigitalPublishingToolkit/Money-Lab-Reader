@@ -232,7 +232,7 @@ money art. While generally speaking this technique has been marginalized
 in contemporary art, artists like C.K. Wilde, Chad Person, and Mark
 Wagner,[^15]among many others, have sought to use cut up fragments of
 bills to create new, larger pictures. Sometimes these take the form of
-explicit political commentary (such as Wagner’s portraits of US
+explicit political commentary (such as Wagner’s portraits of U.S.
 Presidents or Person’s representations of fearsome mythological beasts),
 sometimes as ambiguous prompts for meditation (such as Wilde’s rendering
 of famous works of Western art history, notably Goya’s *Disasters of
@@ -446,7 +446,7 @@ platform to link up barterers in New York City, and TradeSchool.coop, a
 free platform that allows individuals in various cities to barter for
 skills and knowledge. In a similar vein, in 2012, the German group
 geheimagentur,[^27] inspired by the community banking initiative
-pioneered by the Banco Palmas of Brasil, worked with community members
+pioneered by the Banco Palmas of Brazil, worked with community members
 and activists in the bankrupt German city of Oberhausen to establish a
 temporary institution called Schwartzbank[^28] in the town’s center,
 which enabled un(der)employed community-members to be compensated in an
@@ -925,8 +925,7 @@ Princeton University Press, 2005.
 [^31]: Claire Bishop, *Artificial Hells: Participatory Art and the
     Politics of Spectatorship*, London and New York: Verso, 2012.
 
-[^32]: Joseph Beuys et al. *What Is Money? A Discussion*, West Hoathly,
-    UK: Clairview, 2010.
+[^32]: Joseph Beuys et al. *What Is Money? A Discussion*, West Hoathly: Clairview, 2010.
 
 [^33]: See [http://blog.artasmoney.com/blog/](http://blog.artasmoney.com/blog/).
 
@@ -934,6 +933,7 @@ Princeton University Press, 2005.
 
 [^35]: See [http://www.cassiethornton.com/](http://www.cassiethornton.com/).
 
+[^36]: See [http://www.melchin.org/](http://www.melchin.org/).
 
 [^37]: See Max Haiven and Alex Khasnabish, *The Radical Imagination:
     Social Movement Research in the Age of Austerity*, London and New
@@ -942,12 +942,14 @@ Princeton University Press, 2005.
 [^38]: See Etienne Balibar, *The Philosophy of Marx*, London and New
     York: Verso, 2007.
 
-[^39]: Karl Marx and V. I. Lenin, *The Civil War in France and the Paris
+[^39]: Karl Marx and V.I. Lenin, *The Civil War in France and the Paris
     Commune*, New York: International, 1993.
 
+[^40]: See <https://www.marxists.org/archive/marx/works/1871/civil-war-france/ch05.htm.>.
 
 [^41]: C.L.R. James, ‘They Showed the Way to Labor Emancipation: On Karl Marx and the 75th Anniversary of the Paris Commune’ (1946), <https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm>.
 
+[^42]: See <http://www.marxists.org/archive/marx/works/1871/civil-war-france/postscript.htm.>.
 
 [^43]: See Kristen Ross, *The Emergence of Social Space: Rimbaud and the
     Paris Commune*, Minneapolis: University of Minnesota Press, 1988.
