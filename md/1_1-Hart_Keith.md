@@ -10,7 +10,7 @@ Article-title: Money in the Making of World Society
 Article-status: accepted
 Author: Keith Hart
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Keith Hart is Centennial Professor of Economic Anthropology at the London Schoolof Economics and International Director at the Human Economy Program, Universityof Pretoria. His writings on money include ‘Heads or Tails? Two Sides of the Coin’(1986), and The Memory Bank: Money in an Unequal World (2000), available at <http://thememoryba nk.co.uk/book/>.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
