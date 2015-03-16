@@ -399,7 +399,7 @@ Which world currency is currently experiencing among the most dramatic
 deflationary spirals anyone has ever seen? Bitcoin itself, the
 ‘existential threat to the liberal nation state’.[^32] Any sane person
 putting their life’s savings into Bitcoin among all world currencies
-right now is as foolish as a Dutch person buying tulips bulbs. That is
+right now is as foolish as a Dutch person buying tulip bulbs. That is
 because the problems with currencies actually aren’t formal, or
 mechanical, or algorithmic, despite what Bitcoin propagandists
 desperately want us to believe. They are social and political problems
@@ -491,11 +491,11 @@ should use to judge the provision of these services. The most fervent
 advocates of such strategies are open in their rejection of democratic
 governance:
 
-> ‘We see this as part of the total sublation of the state’, said Cody
+> "We see this as part of the total sublation of the state", said Cody
 > Wilson […] who gained fame earlier this year when he published online
 > the blueprints to a pistol that could be manufactured with a 3D
-> printer. ‘I know I sound like some kind of weird Jehovah’s Witness,
-> but we’ve only just begun. We admit that we are ideologues.’[^37]
+> printer. "I know I sound like some kind of weird Jehovah’s Witness,
+> but we’ve only just begun. We admit that we are ideologues."[^37]
 
 There was a time when it would have been relatively difficult to imagine
 a software platform that had more power in a political sphere than in its stated
@@ -740,7 +740,7 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     Double Spending Prevention’, arXiv (2008).
 
 [^3]: For the Liberty Lobby, the John Birch Society, and their
-    connection to contemporary far-right US politics, see Chip Berlet
+    connection to contemporary far-right U.S. politics, see Chip Berlet
     and Matthew N. Lyons, *Right-Wing Populism in America: Too Close for
     Comfort*, New York: Guilford Press, 2000, especially chapter 9.
 
