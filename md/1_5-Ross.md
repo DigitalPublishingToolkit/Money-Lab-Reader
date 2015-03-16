@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: The Long Game
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Andrew Ross
 Author-email:   corresponding address
 Author-bio:  Andrew Ross is a social activist and Professor of Social and Cultural Analysis at NYU.A contributor to The Guardian, The New York Times, The Nation, and Al Jazeera, he isthe author of many books, including Creditocracy and the Case for Debt Refusal, NiceWork if You Can Get It, Fast Boat to China, No-Collar, and The Celebration Chronicles.
 Abstract:   short description of the article (100 words)
