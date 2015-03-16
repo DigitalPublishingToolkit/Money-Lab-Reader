@@ -521,7 +521,7 @@ How can we be certain that a portfolio of any investment bank really exists?
 That it has value? Of what is this value made? You must trust. Think
 about the Bernie Madoff affair for example, the largest financial fraud
 in U.S. history, how long he was able to carry on his investment scam,
-just because he was the ex-chairman of Nasdaq. The big banks spend
+just because he was the ex-chairman of NASDAQ. The big banks spend
 billions to appear trustworthy and seduce people to trust them. On
 average banks have 20 to 30 sales people per one analyst. That is their
 real business. And do you think we should trust them? I mean, after all
@@ -628,7 +628,7 @@ the risks. Our individual and collective capability to assume debt, pay
 taxes and bear the austerity measures is used directly as raw material
 for making these profits. We are the wild side of finance.
 
-[^1]: The soft belly - il ventre molle - of Infosphere is a concept by
+[^1]: The soft belly - *il ventre molle* - of Infosphere is a concept by
     Franco Berardi. He developed it to think about the place of
     insurrection and mutation when controls have become arbitrary and
     start to operate through linguistic and technological automatisms,
