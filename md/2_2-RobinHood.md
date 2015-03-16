@@ -471,7 +471,7 @@ concentrating only on money?
 perhaps got a little irritated in the end and raised her voice to ask us
 why we only think about money while the entire Documenta 13, for
 example, was made with love! Well, with love and €29 million we might
-add…but she said that money does not exist, only love. She meant that,
+add… but she said that money does not exist, only love. She meant that,
 essentially, it was not money that made Documenta happen, but love from
 which in turn, artworks emerged. And the entire big art audience nodded
 and hummed as a sign of consensus. We answered that we know the
