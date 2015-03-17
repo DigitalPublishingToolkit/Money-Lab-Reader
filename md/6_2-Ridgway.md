@@ -10,7 +10,7 @@ Article-title: Crowdfunding the Commons?
 Article-status: accepted
 Author: Renée Ridgway
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Renée Ridgway is an artist, curator, writer, and educator. Ridgway is currently a PhDfellow at Copenhagen Business School in the Department of Management, Philosophyand Politics in cooperation with Leuphana University’s Digital Cultures ResearchLab. Her current research merges artistic and curatorial practice within the digitaleconomies.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -633,7 +633,7 @@ Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
 [^17]: Indiegogo, ‘AFDI Jihad Awareness Campaign’, https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign. Cited from: Rodrigo Davies, ‘The Ethics of Crowdfunding’, Center for Digital Ethics and Policy, Loyola University Chicago, 17 December 2013,
     <http://digitalethics.org/essays/the-ethics-of-crowdfunding/>. 
 
-[^18]: Kickstarter, ‘We Were Wrong’, 21 June 2013,
+[^18]: Kickstarter, ‘We Were Wrong’, 21 June 2013, https://www.kickstarter.com/blog/we-were-wrong,and see Davies, ‘The Ethics of Crowdfunding’.
 
 [^19]: Davies, ‘The Ethics of Crowdfunding’. 
 
