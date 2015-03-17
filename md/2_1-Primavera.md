@@ -10,7 +10,8 @@ Article-title: Measuring Value in the Commons-Based Ecosystem: Bridging the Gap 
 Article-status: accepted
 Author: Primavera De Filippi and Samer Hassan
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio: Primavera De Filippi is a postdoctoral researcher at the CERSA / CNRS / Université Paris II (Panthéon-Assas). She is currently a research fellow at the Berkman Center for Internet & Society at Harvard Law School, where she is investigating the legal challenges of ‘governance-by-design’ in online distributed architectures, such as Bitcoin and Ethereum.
+Samer Hassan is an activist and Assistant Professor at the Universidad Complutense de Madrid. With an interdisciplinary background, he's been researching on social networks, distributed systems, and social simulation from positions in Spain, UK, and Lebanon. Engaged in free/open source software, he co-founded Comunes.org and Move Commons. Presently he is Principal Investigator in the FP7 P2Pvalue.eu project.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
