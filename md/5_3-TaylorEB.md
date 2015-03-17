@@ -656,8 +656,7 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     possible. See
     [http://www.bloomberg.com/news/2011-04-13/afghan-police-now-paid-by-phone-to-cut-graft-in-anti-taliban-war.html](http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor_.html).
 
-[^12]: ‘10 Ways to Accelerate Mobile Money: USAID-Citi Mobile Money
-    Accelerator Alliance, Citibank / USAID’ 2012, .
+[^12]: ‘10 Ways to Accelerate Mobile Money: USAID-Citi Mobile Money Accelerator Alliance, Citibank/ USAID’, 2012, <http://www.citibank.com/transactionservices/home/public_sector/docs/Mobile_Money_Article.pdf>.
 
 [^13]: See, for example, CGAP’s various blogs about merchant payments,
     including branchless banking in Brazil, <http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants>.
@@ -748,4 +747,4 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 [^35]: Daniel Verdier, *Moving Money: Banking and Finance in the
     Industrialized World*, Cambridge: Cambridge University Press, 2002.
 
-[^36]: Kendall, ‘An Emerging Platform’.
+[^36]: Jack Kendall, et al. ‘An Emerging Platform: From Money Transfer System to Mobile MoneyEcosystem’, Innovations 6.4 (2012): 49-64.
