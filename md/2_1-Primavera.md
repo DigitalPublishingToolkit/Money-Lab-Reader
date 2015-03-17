@@ -270,7 +270,7 @@ non-transferable (i.e. not currency-based) but that the market may
 somehow recognize.
 
 Let’s imagine that we have such system – the so-called *Sabir* system –
-for a moment, and continue our story...
+for a moment, and continue our story.
 
 
 
@@ -422,7 +422,7 @@ CBEs according to their own value metrics. For example schools or universities
 could apply an ‘education’ matrix, giving greater importance to Wikipedia
 and Creative Commons. Whereas a local restaurant might apply the ‘slow
 food’ matrix, giving more weight to local farmers and producers. Therefore,
-the previous Equation \#4 could be customized by a third-party (M) as
+the previous Eq. \#4 could be customized by a third-party (M) as
 follows:
 
 ![Eq. 6](media/Images_Primavera/image7.png)
@@ -476,7 +476,7 @@ In Fig. 3, we illustrate the benefits of the Sabir system, as an interface betwe
 
 
 
-## Implications & Benefits
+## Implications and Benefits
 
 In a nutshell, the proposed system can help (1) measure CBEs social
 value (2) distribute non-transferable tokens to relevant contributors
@@ -740,7 +740,7 @@ the Web*, 1999.
 Yager, Ronald R. and Kacprzyk, Janusz, *The Ordered Weighted Averaging
 Operators: Theory and Applications*, Kluwer: Norwell, MA, 1997.
 
-[^1]: Sabir website: [http://sabir.cc](http://sabir.cc) - For additional
+[^1]: Sabir website: [http://sabir.cc](http://sabir.cc). For additional
     details on the implementation, see the FAQ on the website.
 
 [^2]: Yochai Benkler, *The Wealth of Networks*: *How Social Production
@@ -754,7 +754,7 @@ Operators: Theory and Applications*, Kluwer: Norwell, MA, 1997.
 
 [^4]: Robert Schiller, *Finance and the Good Society*, New Haven:
     Princeton University Press, 2012.
-
+  
 [^5]: Siegwart Lindenberg, ‘Contractual Relations and Weak Solidarity:
     The Behavioral Basis of Restraints on Gain-Maximization’, *Journal
     of Institutional and Theoretical Economics (JITE)/Zeitschrift für
