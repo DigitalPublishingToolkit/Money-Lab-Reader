@@ -8,16 +8,17 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Irina Enache and Robert van Boeschoten
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Irina Enache is a communication and new media enthusiast. She has collaboratedwith the Institute of Network Cultures as a researcher for the MoneyLab project inappendices 3052013-2014. She gained her BA in Communication and Public Relations in Bucharest,Romania (2011) and MA in New Media and Digital Culture in Amsterdam, the Netherlands(2013).
+Robert van Boeschoten is a philosopher interested in the cultural impact of media onsociety at large, and organizations in particular. His work is divided over the Universityof Applied Sciences Amsterdam (HvA) at the Communication and Multimedia Departmentand The University for Humanistics (UvH) in Utrecht.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
 
-# The MonelyLab Crowdfunding Toolkit for Creatives
+# The MoneyLab Crowdfunding Toolkit for Creatives
 
 ### Irina Enache and Robert van Boeschoten {.author}
 
@@ -231,7 +232,7 @@ Funded on Kickstarter's Biggest Rival’, The Verge, 7 August 2013, <http://www.
 
 Kickstarter, <https://www.kickstarter.com/help/stats>.
 
-Mondriaan Fonds, <http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/.>.
+Mondriaan Fonds, <http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/>.
 
 MoneyLab Crowdfunding Toolkit,
 [www.networkcultures.org/moneylab-toolkit](http://www.networkcultures.org/moneylab-toolkit).
