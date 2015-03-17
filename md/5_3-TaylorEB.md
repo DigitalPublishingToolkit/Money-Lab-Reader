@@ -8,9 +8,9 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Erin B. Taylor
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Erin B. Taylor is an economic anthropologist who researches money, poverty and materialculture. She is the author of Materializing Poverty: How the Poor Transform TheirLives. Taylor has researched squatting in the Dominican Republic and mobile money inHaiti. Her current project investigates global research in consumer finance.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
