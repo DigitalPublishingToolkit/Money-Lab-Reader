@@ -8,9 +8,9 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Inge Ejbye Sørensen
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Inge Ejbye Sørensen is Lord Kelvin Adam Smith Research Fellow in Digital Economyand Culture at Centre for Cultural Policy Research, University of Glasgow. She is anaward-winning film producer and academic, who writes about crowdfunding, creativeindustries, documentary film production, and digital distribution and delivery of audiovisualcontent.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
