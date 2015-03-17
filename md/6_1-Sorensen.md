@@ -614,7 +614,7 @@ Reidl, John. ‘Crowdfunding
 Technology Innovation’, *Computer* 46. 3 (2013): 100-103.
 
 Sørensen, Inge.
-‘Crowdsourcing and Outsourcing. The Impact of Online Funding and
+‘Crowdsourcing and Outsourcing: The Impact of Online Funding and
 Distribution on the Documentary Film Industry in the UK’, *Media ,
 Culture & Society* 34.6 (2012): 726-743.
 
@@ -644,7 +644,7 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
 
 [^1]: This figure is the sum of equity, donations, reward-based, and
     revenue-sharing profit crowdfunding in this report by Liam Collins,
-    Richard Swart, and Bryan Zhang, The Rise of Future Finance, London:
+    Richard Swart, and Bryan Zhang, *The Rise of Future Finance*, London:
     Nesta, Berkeley and University of Cambridge, 2013.
 
 [^2]: Nesta, [http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013](http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013).
@@ -666,7 +666,7 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     the Rich” Site’, *The Guardian,* 27 March 2014,
     [http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction](http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction).
 
-[^6]: Cf. Brabham’s, Mollick’s, Morozov’s and Sørensen’s research.
+[^6]: See Brabham’s, Mollick’s, Morozov’s, and Sørensen’s research.
 
 [^7]: Jane Chapman and Kate Allison, *Issues in Contemporary
     Documentary*, Cambridge: Polity, 2009, p. 104.
@@ -706,12 +706,12 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     Affairs’ and ‘Arts & Music’ have also declined, as Figure 1
     demonstrates.
 
-[^12]: Inge Sørensen, ‘Crowdsourcing and Outsourcing. The Impact of
+[^12]: Inge Sørensen, ‘Crowdsourcing and Outsourcing: The Impact of
     Online Funding and Distribution on the Documentary Film Industry in
     the UK’, *Media, Culture & Society* 34.6 (2012): p. 734.
 
 [^13]: David Hickman, ‘Documentary Funding Gap Stalls Great Films Like
-    the Act of Killing’, *The Conversation,* 6 Marts 2014,
+    the Act of Killing’, *The Conversation,* 6 March 2014,
     [http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737](http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737).
 
 [^14]: Nick Fraser is cited in David Cox, ‘Is This the End of the Line
@@ -738,10 +738,7 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     Discourse Analysis of Crowdsourcing Coverage’,
     *Information, Communication & Society,* 15.3 (2012): 394-410.
 
-[^19]: Evgeny Morozov, ‘Kickstarter Will Not Save Artists from the
-    Entertainment Industry’s Shackles: A New Study Says Crowdfunding
-    Benefits Only Certain Kinds of Movies’, *Slate Magazine*, 25
-    September 2012,
+[^19]: Evgeny Morozov, ‘Kickstarter Will Not Save Artists from the Entertainment Industry’s Shackles:A New Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, Slate Magazine, 25September 2012, <http://www.slate.com/articles/technology/future_tense/2012/09/kickstarter_s_crowdfunding_won_t_save_indie_filmmaking_.html>.
 
 [^20]: Ruth Towse, *Advanced Introduction To Cultural Economics*,
     Cheltenham: Edward Elgar Publishing, 2014.
