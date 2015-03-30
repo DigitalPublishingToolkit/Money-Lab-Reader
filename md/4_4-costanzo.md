@@ -8,9 +8,9 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Jim Costanzo
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Jim Costanzo is the founding director of the Aaron Burr Society. His conceptuallybased artwork is diverse and includes installation, performance, and collaboration. Hehas shown his work at the Berlin Biennale, the Whitney Biennial, and Arti et Amicitiaein Amsterdam. He lives in Brooklyn, New York and teaches at Pratt Institute.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
