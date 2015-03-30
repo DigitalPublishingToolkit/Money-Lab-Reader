@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 ### Geert Lovink and Nathaniel Tkacz {.author}
  
 
-> The best way to rob a bank is to design a currency
+> The best way to rob a bank is to design a currency.
 >
 > – Johan Sjerpstra
 
@@ -273,31 +273,29 @@ Lovink, Geert and Nathaniel Tkacz. *Data Browser*, New York: Autonomedia, 2013, 
 Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, London: Verso
 Books, 2013.
 
-Patterson, Scott. *Dark Pools, The Rise of A.I. Trading Machines and the
-Looming Threat to Wall Street*, New York: Random House, 2012.
+Patterson, Scott. *Dark Pools, The Rise of A.I. Trading Machines and the Looming Threat to Wall Street*, New York: Random House, 2012.
 
-[^1]: Geert Lovink and Nate Tkacz, *Data Browser*, New York: Autonomedia, 2013, pp.
+[^1]: Geert Lovink and Nathaniel Tkacz, *Data Browser*, New York: Autonomedia, 2013, pp.
     175-191. See also:
     http://networkcultures.org/moneylab/about/background/.
 
 [^2]: Kate Harrison, ‘Crowdfunding Potato Salad: Funny or Insulting?’,
-    *Forbes*, 08/08/2014,
+    *Forbes*, 08 August 2014,
     http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/
 
-[^3]: Scott Patterson, *Dark Pools, The Rise of A.I. trading machines
-    and the looming threat to Wall Street*, Random House, New York,
-    2012.
+[^3]: Scott Patterson, *Dark Pools, The Rise of A.I. Trading Machines
+    and the Looming Threat to Wall Street*, New York: Random House, 2012.
 
 [^4]: Michael Lewis, *Flash Boys: A Wall Street Revolt*, New York: W.W. Norton &
     Co., 2014.
 
 [^5]: Scott Patterson, *The Quants*, p. 318.
 
-[^6]: Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, 2013,
-    p. 356.
+[^6]: Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, London: Verso
+Books, 2013, p. 356.
 
 [^7]: Costas Lapavitsas, *Profiling Without Producing, How Finance
     Exploits Us All*, London/New York: Verso, 2013, p. 138.
 
-[^8]: See [http://www.zerohedge.com/](http://www.zerohedge.com/) and
-    http://rt.com/shows/keiser-report/.
+[^8]: See, [http://www.zerohedge.com/](http://www.zerohedge.com/) and
+    <http://rt.com/shows/keiser-report/>.
