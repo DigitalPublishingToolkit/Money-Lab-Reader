@@ -386,7 +386,7 @@ compliance as governed by Fatwa No. 80 as follows:
 
 1.  Only Islamic stocks can be traded. SOTS will block any transaction
     of stock that does not comply with the Sharia. Blocking is started
-    from the first step of the transaction –that is when investors input
+    from the first step of the transaction – that is when investors input
     a buying order of stocks.
 
 2.  It must be a cash-basis transaction for buying Islamic stocks.
@@ -584,12 +584,12 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
 [^1]: While it is notoriously difficult to pin down the exact time frame
     of the global financial crisis (and the term global might be a
     misnomer given that it was the transatlantic financial systems that
-    were at its core), problems in the US credit market that emerged in
+    were at its core), problems in the U.S. credit market that emerged in
     late 2006 led to tighter liquidity that resulted amongst other
-    things in the bank run on UK-based Northern Rock in 2007, the first
+    things in the bank run on U.K.-based Northern Rock in 2007, the first
     run on a British bank in over a century. The period from 2007-2009
     was characterised by a global liquidity crunch and recession in the
-    US. This is not to say that the crisis is truly over yet. In 2009 it
+    U.S. This is not to say that the crisis is truly over yet. In 2009 it
     morphed into a crisis of sovereign debt in Europe and its
     repercussions are still felt today. 
 
@@ -611,8 +611,8 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
 
 [^6]: See Amartya K. Sen, *Money and Value: On the Ethics and Economics
     of Finance* [Denaro e Valore: Etica ed Economia della Finanza],
-    Rome: Bank of Italy, 1991; Bill Maurer, *Pious Property*, New York:
-    Russell Sage Foundation. 2006.
+    Rome: Bank of Italy, 1991; Bill Maurer, *Pious Property. Islamic Mortgages in the United States*, New York:
+    Russell Sage Foundation, 2006.
 
 [^7]: Ibrahim A. Warde, *Islamic Finance in the Global Economy*,
     Edinburgh: Edinburgh University Press, 2000.
@@ -630,7 +630,7 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
     the utterances of the Prophet Mohammed and the Sunnah recounts the
     teachings and way of life of the Prophet
 
-[^11]: Bill Maurer, *Mutual Life, Limited. Islamic Banking, Alternative
+[^11]: Bill Maurer, *Mutual Life, Limited: Islamic Banking, Alternative
     Currencies, Lateral Reason*, Princeton: Princeton University Press,
     2005, p. 39.
 
@@ -644,7 +644,7 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
     Regulation of Islamic Banking in Indonesia’, *Sydney Law Review* 34
     (2012): 119.
 
-[^15]: Cf. Sen 1991 for a similar argument applied to Judeo-Christian
+[^15]: See Sen 1991 for a similar argument applied to Judeo-Christian
     finance
 
 [^16]: See G. Thompson, ‘What’s in the Frame? How the Financial Crisis
@@ -659,7 +659,7 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
 
 [^18]: Umar Juoro, ‘The Development of Islamic Banking in the
     Post-Crisis Indonesian Economy’, in G. Fealy and S. White (eds)
-    *Expressing Islam. Religious Life and Politics in Indonesia*,
+    *Expressing Islam: Religious Life and Politics in Indonesia*,
     Singapore: ISEAS, 2008, pp. 229-250.
 
 [^19]: See Miranti Kartika Dewi and Irwan Abdalloh,‘Socializing Islamic
