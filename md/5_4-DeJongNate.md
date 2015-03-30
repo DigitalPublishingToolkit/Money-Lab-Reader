@@ -10,7 +10,9 @@ Article-title: ‘Live as Friends and Count as Enemies’: On Digital Cash and t
 Article-status: accepted
 Author: Eduard de Jong, Nathaniel Tkacz, Pablo Velasco
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Eduard de Jong is an Amsterdam-based computer scientist, entrepreneur and inventortrying to improve security in software systems. He worked on software for smartcards,later marketed as Java Card. De Jong started his career working at DigiCash,where he developed a passion for electronic money.
+Nathaniel Tkacz is Assistant Professor in the Centre for Interdisciplinary Methodologiesat The University of Warwick. He writes and researches at the intersection of digitalmedia and politics. His most recent book is Wikipedia and The Politics of Openness(University of Chicago Press, 2014).
+Pablo Velasco is a PhD student at the University of Warwick Centre for InterdisciplinaryMethodologies. He holds an MA in Philosophy from the National Autonomous Universityof Mexico. His doctoral research focuses on the topologies and socio-politicalaspects of digital currencies.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
