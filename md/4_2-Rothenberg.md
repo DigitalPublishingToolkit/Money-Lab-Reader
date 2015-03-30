@@ -52,9 +52,7 @@ much praise in business circles and the world of celebrities including
 Bill Clinton, Oprah Winfrey, and *The New York Times* writer Nicholas
 Kristof, known as the ‘White Knight’ for his column on human rights. All
 espouse the Kiva mantra that the organization is helping to alleviate
-global poverty and empower the global poor through microcredit.
-
-And to some extent it is. Kiva is becoming a household name, at least in
+global poverty and empower the global poor through microcredit. And to some extent it is. Kiva is becoming a household name, at least in
 the Global North, along with the concept of microcredit/microloans, due
 to the popularity of platforms such as Kickstarter and Indiegogo.
 Through Kiva’s website, the organization claims to have raised over
@@ -407,7 +405,7 @@ Yunas, Muhammed. Nobel Lecture, Oslo, 10 December 2006,
 
 [^18]: Stephanie Rothenberg, ‘Desiring Subjects, Desiring Plants’, [http://www.pan-o-matic.com/projects/reversal-of-fortune-desiring-subjects-desiring-plants] (http://www.pan-o-matic.com/projects/reversal-of-fortune-desiring-subjects-desiring-plants).
 
-[^19]: Christian Children’s Fund ‘Feed the Children’, campaign video, [https://www.youtube.com/watch?v=XsxVy7vyyk0] (https://www.youtube.com/watch?v=XsxVy7vyyk00. 
+[^19]: Christian Children’s Fund ‘Feed the Children’, campaign video, [https://www.youtube.com/watch?v=XsxVy7vyyk0](https://www.youtube.com/watch?v=XsxVy7vyyk00). 
 
 [^20]: Jessica Jackley, ‘Poverty, money –and love’, TED, July 2010, [http://www.ted.com/talks/jessica_jackley_poverty_money_and_love?language=en] (http://www.ted.com/talks/jessica_jackley_poverty_money_and_love?language=en).
 
