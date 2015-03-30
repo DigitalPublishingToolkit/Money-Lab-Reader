@@ -10,7 +10,7 @@ Article-title: Money Talks: The Enclosure of Mobile Payments
 Article-status: accepted
 Author: Rachel O’Dwyer
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Rachel O’Dwyer is a post-doctoral researcher and lecturer in the School of ComputerScience in Trinity College Dublin. She is the leader of the Dublin Art and TechnologyAssociation (www.data.ie) and the initiator and lead curator of Openhere, a festival andconference on the digital commons. She writes about digital media, political economyof communications, and media art and culture.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
