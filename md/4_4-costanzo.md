@@ -30,7 +30,7 @@ was sworn in as the first president. From there the group marched a few
 blocks north to the Federal Reserve Bank, then to the Museum of American
 Finance, and returned to where we began.
 
-The goal of the performance was to distribute 100 one dollar bills
+The goal of the performance was to distribute 100 one Dollar bills
 stamped with *Free Money* on one side and *Slave of Wall Street* on the
 other. ABS’s website[^1] was also stamped on the paper currency, actual
 Federal Reserve Notes. The goal was to raise awareness of the predatory
@@ -305,7 +305,7 @@ Rights, a declaration adopted by the United Nations General Assembly in
 
 ## The Whiskey Rebellion of 1791-1794
 
-![Fig. 7: Alexander Hamilton’s portrait on stamped \$10 bill.](media/Images_Costanzo/image10.jpg)
+![Fig. 7: Alexander Hamilton’s portrait on stamped $10 bill.](media/Images_Costanzo/image10.jpg)
 
 `Fig. 7: Alexander Hamilton’s portrait on stamped \$10 bill.`{.caption}
 
@@ -534,8 +534,7 @@ is why austerity is a lie; this is why debt resistance is necessary to
 break the political and economic oppression created by deregulation and
 fraud.
 
-Cities across France have started debt audits to uncover odious debt
-[^20]and Argentina has just passed a law establishing a debt audit
+Cities across France have started debt audits to uncover odious debt[^20] and Argentina has just passed a law establishing a debt audit
 commission.[^21] However, debt resistance is just the first step, there
 are thousands of roads necessary to end capitalism but, as previously
 stated, ABS is focused on monetary policy. This is not to imply that
@@ -668,12 +667,11 @@ Guardian*, 6 October 2013,
 <http://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse>.
 
 Caffentzis, George. *In Letters of Blood and Fire: Work, Machines, and
-the Crisis of Capitalism* , Brooklyn, NY and Oakland: Common Notions/PM
+the Crisis of Capitalism*, Brooklyn, NY and Oakland: Common Notions/PM
 Press/Autonomedia, 2013.
 
 Columbia Law School New York. ‘Law, Money and Public Service Series,
-Money Democracy And The Constitution’, Series 5*. Revolutionary
-Experience In The United States*, Speakers: Gillian Metzger, Christine
+Money Democracy And The Constitution’, Series 5.*Revolutionary Experience In The United States*, Speakers: Gillian Metzger, Christine
 Desan, Farley Grubb, Woody Holton, 25 January 2013,
 <http://www.modernmoneynetwork.org/seminar-5-constitutional.html>.
 
@@ -685,7 +683,7 @@ February 2013, <https://www.youtube.com/watch?v=BFk6epIveY8>.
 
 Costanzo, Jim. ‘Letter to the Editor’, *Harper’s Magzine*, June 2008.
 
-Costanzo, Jim. ‘2nd Whiskey Rebellion’*, Journal of Aesthetics &
+\_\_\_\_\_. ‘2nd Whiskey Rebellion’*, Journal of Aesthetics &
 Protest*, 2010, <http://www.joaap.org/webonly/costanzo.htm>.
 
 Democracy Now. ‘Exhaustive Study Finds Global Elite Hiding Up to \$32
@@ -709,10 +707,10 @@ Melville House, 2011.
 Holmes, David L. *The Faith of the Founding Fathers*, New York: Oxford
 University Press, 2006.
 
-Holton, Woody. *Unruly Americans And The Origins Of The Constitution*,
+Holton, Woody. *Unruly Americans and the Origins of the Constitution*,
 New York: Hill and Wang, 2007.
 
-Holton, Woody. *Forced Founders: Indians, Debtors, Slaves, and the
+\_\_\_\_\_. *Forced Founders: Indians, Debtors, Slaves, and the
 Making of the American Revolution in Virginia*, Chapel Hill, London:
 University of North Carolina Press, 1999.
 
@@ -729,7 +727,7 @@ York: Henry Holt and Company, 2007.
 Leslie, Jacques. ‘The True Cost of Hidden Money A Piketty Protégé’s
 Theory on Tax Havens’, *The New York Times*, 15 June 2014, <http://www.nytimes.com/2014/06/16/opinion/a-piketty-proteges-theory-on-tax-havens.html?ref=opinion&_r=0>.
 
-Mann, Geoff. *Dissembly Required: A Field Guide To Actually Existing
+Mann, Geoff. *Dissembly Required: A Field Guide to Actually Existing
 Capitalism*, Edinburgh, Oakland, Baltimore: AK Press, 2013.
 
 McCaleb, Walter Flavius. *The Aaron Burr Conspiracy*, introduction:
@@ -740,11 +738,11 @@ University Press, 2002.
 
 Orwell, George. *1984*, New York: Signet Classic, 1977 (1949).
 
-Piketty, Thomas. *Capitalism In The Twenty-First Century*, trans. Arthur
+Piketty, Thomas. *Capitalism in the Twenty-First Century*, trans. Arthur
 Goldhammer, Cambridge, Massachusetts, London, England: The Belknap Press
 of Harvard University Press, 2014.
 
-Ross, Andrew. *Creditocracy: And The Case For Debt Refusal*, New York,
+Ross, Andrew. *Creditocracy: And the Case For Debt Refusal*, New York,
 London: OR Books, 2013.
 
 Sitrin, Marina and Dario, Azzellini. *They Can’t Represent Us!
@@ -754,16 +752,16 @@ Verso, 2014.
 Skull, John. *Pittsburgh Gazette*, Carnegie Library, Pittsburgh,
 Pennsylvania, 16 May 1789.
 
-\_\_\_\_\_ *Pittsburgh Gazette*, Carnegie Library, Pittsburgh,
+\_\_\_\_\_. *Pittsburgh Gazette*, Carnegie Library, Pittsburgh,
 Pennsylvania, 27 December 1794.
 
 Strike Debt. *The Debt Resisters’ Operation Manual*, Brooklyn, NY and
 Oakland: Common Notions/PM Press/Autonomedia, 2014.
 
-\_\_\_\_\_ ‘“Don’t Owe, Won’t Pay!”: A Conversation with a French Debt
+\_\_\_\_\_. ‘“Don’t Owe, Won’t Pay!”: A Conversation with a French Debt
 Resistor’, 24 June 2013, <http://strikedebt.org/publicdebtaudits/>.
 
-\_\_\_\_\_ Rolling Jubilee, 30 August 2014, <http://rollingjubilee.org>.
+\_\_\_\_\_. Rolling Jubilee, 30 August 2014, <http://rollingjubilee.org>.
 
 Taibbi, Matt. *Griftopia: A Story of Bankers, Politicians, and the Most
 Audacious Power Grab in American History*, New York: Spiegel & Grau,
@@ -775,7 +773,7 @@ Rebellion’, <http://www.ushistory.org/us/15a.asp>.
 Wheelan, Joseph. *Jefferson’s Vendetta: The Pursuit of Aaron Burr and
 the Judiciary*, New York: Carroll & Graf Publishers, 2005.
 
-[^1]: See <http://www.aaronburrsociety.org/aaron_burr_society_home.html>
+[^1]: See <http://www.aaronburrsociety.org/aaron_burr_society_home.html>.
 
 [^2]: While this is an abstract concept with no set definition, most
     would agree that it is about establishing local autonomy and
@@ -816,7 +814,7 @@ the Judiciary*, New York: Carroll & Graf Publishers, 2005.
 
 [^13]: Rolling Jubilee, <http://rollingjubilee.org>.
 
-[^14]: Susan Dunn (ed.) *Something That Will Surprise the World: the
+[^14]: Susan Dunn (ed.) *Something that Will Surprise the World: the
     Essential Writings of the Founding Fathers*, New York: Basic Books,
     2006.
 
@@ -849,6 +847,6 @@ the Judiciary*, New York: Carroll & Graf Publishers, 2005.
 [^24]: National Emergency Employment Defense Act of 2011 [NEED Act, HR
     2990], <https://www.govtrack.us/congress/bills/112/hr2990/text>.
 
-[^25]: Thomas Piketty, *Capitalism In The Twenty-First Century*, trans.
+[^25]: Thomas Piketty, *Capitalism in the Twenty-First Century*, trans.
     Arthur Goldhammer, Cambridge, MA and London: The Belknap Press of
     Harvard University Press, 2014.
