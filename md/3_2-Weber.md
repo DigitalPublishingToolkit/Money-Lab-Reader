@@ -68,8 +68,8 @@ complementary currencies work as money?
 Money is the general equivalent in capitalism – commodities do not buy
 each other, but all commodities can be bought with money. Based on this
 status, money is used for three purposes: 1. As unit of account in which
-prices are measured and compared in money. 2. As means of payment: goods
-and services are purchased and debts settled with money. 3. As the most
+prices are measured and compared in money; 2. As means of payment: goods
+and services are purchased and debts settled with money; 3. As the most
 liquid store of value. Facing an uncertain future with respect to their
 income and their economic needs and obligations, people hold money to
 insure themselves against unforeseen expenditures. In contrast to other
@@ -147,7 +147,7 @@ the sovereign or banks have circulated. We can distinguish these
 episodes by the CCs respective field of application, giving specific
 meanings to the term *complementarity* in each.
 
-### a) Complementarity With Respect to Specific Currency Denominations 
+### a) Complementarity with Respect to Specific Currency Denominations 
 
 Examples include small denomination coins privately issued by shops and
 bars to overcome shortage of small change in times when the availability
@@ -189,7 +189,7 @@ to engage in that gamble, in turn enabling cheap transactions among
 users of its payment network (that nevertheless entail considerable loss
 risks).[^8]
 
-### b) Complementarity With Respect to Specific Geographical Areas
+### b) Complementarity with Respect to Specific Geographical Areas
 
 There were a number of episodes in history where regions (or private
 actors within regions) temporarily introduced complementary currencies
@@ -222,7 +222,7 @@ phenomenon was observed in Russia’s transition from a centrally planned
 economy in the 1990s.[^11] In a political crisis concerning the state
 budget in 2009, even the state of California resorted to issuing IOUs to
 meet its short-term financial obligations for a few months.[^12] In the
-recent crisis of 2008 –which in many ways was compared to the Great
+recent crisis of 2008 – which in many ways was compared to the Great
 Depression – policy makers in most industrialized countries took
 measures to prevent deflation and breakdown of the financial
 infrastructure comparable to the 1930s. In some countries though, policy
@@ -315,7 +315,7 @@ uncertainty. Making money dysfunctional as store of value does not
 encourage people to stop hoarding; they simply start searching for
 different modes to preserve value or for a different kind of money.
 
-### c) Complementarity With Respect to Specific Contracts
+### c) Complementarity with Respect to Specific Contracts
 
 Suppliers can decide to make specific goods, services, and transaction
 types more or less exlusively available through certain CCs. Examples
@@ -401,7 +401,7 @@ care worker? Such issues typically trigger disputes over the appropriate
 value standard and lead to the exit of suppliers that can get a better
 deal in markets based on official currency.[^15]
 
-### d) Complementarity With Respect to Specific Groups
+### d) Complementarity with Respect to Specific Groups
 
 In many grassroots campaigns, complementary currencies are envisaged as
 a way to promote economic exchange among participants lacking jobs and
@@ -444,7 +444,7 @@ entry on LETS puts it, ‘Conventional national currency is generally hard
 to earn, but easy to spend. To date LETSystems are comparatively easy to
 earn, but harder to spend’.[^19]
 
-## Why Currencies Are Accepted
+## Why Currencies are Accepted
 
 Having reviewed experience and prospects of various approaches towards
 complementary currencies, we can step towards some general observations
@@ -523,7 +523,7 @@ issuers offer different units of account, currency competition will
 ensue. If faced with a choice between competing currencies, a currency
 user has to form expectations about the behavior of two (groups of)
 actors, the issuer and other users. Currencies can be conceived as
-networks comparable to telephone networks–the benefits of using a
+networks comparable to telephone networks – the benefits of using a
 specific currency for each individual grows with the service quality of
 the network and the number of participants. If one among several
 competing networks of comparable quality succeeds in reaching a critical
