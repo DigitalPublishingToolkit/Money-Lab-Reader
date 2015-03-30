@@ -10,7 +10,7 @@ Article-title: The Economic Viability of Complementary Currencies: Bound to Fail
 Article-status: accepted
 Author: Beat Weber
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Beat Weber studied economics at the Vienna University of Economics and Business.He is an expert at the Division for European Affairs and International Financial Organizationsof Oesterreichische Nationalbank, the Central Bank of Austria.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
