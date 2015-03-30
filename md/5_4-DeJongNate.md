@@ -67,7 +67,7 @@ DigiCash.
 
 …
 
-In 1990, Chaum was already a renowned cryptographer working at The
+In 1990, Chaum was already a renowned cryptographer working at the
 University of Amsterdam’s Center for Mathematics and Informatics (CMI).
 At the time, the Minister of Transport in the Netherlands was
 considering the introduction of road pricing: the automatic collection
