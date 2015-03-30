@@ -10,7 +10,7 @@ Article-title: Reversal of Fortune: Visualizing Marketized Philanthropy
 Article-status: accepted
 Author: Stephanie Rothenberg
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Stephanie Rothenberg’s artworks mix physical and virtual spaces to investigate newmodels of crowdsourced labor and the power dynamics between contemporary visionsof utopian urbanization and real world economic, political, and environmentalfactors. She is Associate Professor at SUNY Buffalo.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
