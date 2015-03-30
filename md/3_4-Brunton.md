@@ -243,7 +243,7 @@ sovereign decision. The sovereign, whether a monarch with a crown or the
 authority vested in a central bank by a representative government, has
 the right of mint and issue. They can do things like, in the case of the
 United States, make it law that a debt you owe can be paid by you in
-US Dollars – your creditor cannot insist you pay it in euros, gold, or
+U.S. Dollars – your creditor cannot insist you pay it in euros, gold, or
 cocoa beans. They can police who is allowed to produce money that
 passes, and under what conditions. This work is obviously, trivially,
 about authority, but it is also about trust and confidence.
@@ -356,7 +356,7 @@ may cause the value to climb too high or fall too fast and low.
 Silver is silver; notes are notes. On what other basis could trust in
 money rest?
 
-## 3. The Trust Bulb
+##The Trust Bulb
 
 ‘I’m done with Bitcoin’, writes the anonymous contributor. ‘It was easy
 money, but it wasn’t worth the (literal) heat’.[^28] This was posted in
@@ -631,11 +631,11 @@ September 2007,
 <http://www.zephoria.org/thoughts/archives/2007/09/09/blotchy_burns_o.html>.
 
 Cao, Xiaogang. ‘Visit of ASICMINER’s Immersion Cooling Mining Facility’,
-*Bitcoin Forum,* 25 November 2013,
+*Bitcoin Forum*, 25 November 2013,
 <https://bitcointalk.org/index.php?topic=346134.0>.
 
 Carney, Michael. ‘Bitcoin Has a Dark Side: Its Carbon Footprint’,
-*PandoDaily,* 16 December 2013.
+*PandoDaily*, 16 December 2013.
 
 Cloudhashing. <https://cloudhashing.com/>.
 
@@ -648,28 +648,28 @@ Dayal, Geeta. ‘Max Mathews (1926-2011)’, *Frieze*, (May 2011),
 [Dubz mining]. ‘had 4 machines’, 4chan.org, 2011-07-01 06:08.
 
 Dyson, George. *Turing’s Cathedral: The Origins of the Digital
-Universe,* New York: Vintage, 2012.
+Universe*, New York: Vintage, 2012.
 
 Edwards, Paul. *A Vast Machine: Computer Models, Climate Data, and the
-Politics of Global Warming,* Cambridge, MA: MIT Press, 2010.
+Politics of Global Warming*, Cambridge, MA: MIT Press, 2010.
 
 Eyal, Ittay and Emin Gün Sirer. ‘Majority is Not Enough: Bitcoin Mining
 is Vulnerable’, arXiv:1311.0243v5 [cs.CR], November 2013.
 
 Fausset, Richard and Andrew Blankstein. ‘Films’ Fake Cash Can’t Look Too
-Real’, *Los Angeles Times,* 6 June 2001.
+Real’, *Los Angeles Times*, 6 June 2001.
 
 Godfrey, M.D. and D.F. Hendry. ‘The Computer as von Neumann Planned It’,
 *IEEE Annals in the History of Computing* 15.1 (1993): 11-21.
 
-Hillis, William Daniel. *The Connection Machine,* PhD diss.,
+Hillis, William Daniel. *The Connection Machine*, PhD diss.,
 Massachusetts Institute of Technology, Cambridge MA, 1985.
 
 Horsman, Clare, et al. ‘When Does a Physical System Compute?’,
 arXiv:1309.7979v2, 7 March 2014.
 
 Kant, Immanuel. *Dreams of Spirit-Seer by Immanuel Kant and Other
-Related Writings,* trans. John Manolesco, New York: Vantage Press, 1969.
+Related Writings*, trans. John Manolesco, New York: Vantage Press, 1969.
 
 King, Sunny (pseudonym). ‘Primecoin: Cryptocurrency with Prime Number
 Proof-of-Work’, 7 July 2013,
@@ -686,12 +686,12 @@ Workshop on the Economics of Information Security* (WEIS 2013), June
 Lane, Guy. ‘Bitcoin’s carbon footprint is out of control’, 19 December
 2013, *bitcarbon*, <http://bitcarbon.org/bitcarbon/>.
 
-Levy, Steven. *Hackers: Heroes of the Computer Revolution,* Sebastapol:
+Levy, Steven. *Hackers: Heroes of the Computer Revolution*, Sebastapol:
 O’Reilly Press, 2010.
 
 MegaBigPower. <https://megabigpower.com/>.
 
-Mihm, Stephen. ‘No Ordinary Counterfeit’, *New York Times Magazine,* 23
+Mihm, Stephen. ‘No Ordinary Counterfeit’, *New York Times Magazine*, 23
 July 2006.
 
 Murdoch, Steven J. ‘Software Detection of Currency’,
@@ -699,23 +699,23 @@ Murdoch, Steven J. ‘Software Detection of Currency’,
 
 Nieves, Javier, Igor Ruiz-Agundez, and Pablo G. Bringas. ‘Recognizing
 Banknote Patterns for Protecting Economic Transactions’, *2010 Workshops
-on Database and Expert Systems Applications,* 2010.
+on Database and Expert Systems Applications*, 2010.
 
 Reed, Fred. *Show Me the Money!: The Standard Catalog of Motion Picture,
-Television, Stage and Advertising Prop Money,* Jefferson, NC: McFarland,
+Television, Stage and Advertising Prop Money*, Jefferson, NC: McFarland,
 2005.
 
-Rosenbaum, Ron. ‘Secrets of the Little Blue Box’, *Esquire Magazine,*
+Rosenbaum, Ron. ‘Secrets of the Little Blue Box’, *Esquire Magazine*,
 October 1971.
 
 Schrader, Charles. *History of Operations Research in the United States
-Army, Vol. I: 1942-1962,* Washington D.C.: CMH Pub 70-102-1, 2006.
+Army, Vol. I: 1942-1962*, Washington D.C.: CMH Pub 70-102-1, 2006.
 
 Simonite, Tom. ‘The Man Who Really Built Bitcoin’, *MIT Technology
-Review,* 15 August 2014.
+Review*, 15 August 2014.
 
 Smail, Daniel Lord, Mary C. Stiner, and Timothy K. Earle. ‘Goods’, in
-*Deep History: The Architecture of Past and Present,* Oakland:
+*Deep History: The Architecture of Past and Present*, Oakland:
 University of California Press, 2012, pp. 219-240.
 
 Sperry Rand Co. *UNIVAC I Maintenance Manual For Use With UNIVAC I
@@ -725,20 +725,20 @@ Starosielski, Nicole. ‘Digital Media: Hot or Cool?’, *Flow* 15.5
 (January 2012).
 
 Unsigned obituary. ‘Charles Babbage, Philosopher’, *Van Nostrand’s
-Engineering Magazine,* October 1871.
+Engineering Magazine*, October 1871.
 
 Ware, Willis H., et al. *RAND and the Information Evolution: A History
-in Essays and Vignettes,* Santa Monica: RAND, 2008.
+in Essays and Vignettes*, Santa Monica: RAND, 2008.
 
-Widdig, Bernd. *Culture and Inflation in Weimar Germany,* Oakland:
+Widdig, Bernd. *Culture and Inflation in Weimar Germany*, Oakland:
 University of California Press, 2001.
 
 Wolman, David. *The End of Money: Counterfeiters, Preachers, Techies,
-Dreamers – And the Coming Cashless Society,* New York: Da Capo, 2012.
+Dreamers – And the Coming Cashless Society*, New York: Da Capo, 2012.
 
 Zhou, Rongliang et al. ‘Modeling and Control for Cooling Management of
 Data Centers with Hot Aisle Containment’, *Proceedings of the ASME 2011
-International Mechanical Engineering Congress & Exposition,* November
+International Mechanical Engineering Congress & Exposition*, November
 2011.
 
 [^1]: William Daniel Hillis, *The Connection Machine,* PhD diss.,
