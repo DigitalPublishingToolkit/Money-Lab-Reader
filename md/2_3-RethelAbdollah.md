@@ -527,7 +527,7 @@ Lindsey, T. ‘Between Piety and Prudence: State Syariah and the
 Regulation of Islamic Banking in Indonesia’, *Sydney Law Review* 34
 (2012): 107-127.
 
-Maurer, B. *Mutual Life, Limited. Islamic Banking, Alternative
+Maurer, B. *Mutual Life, Limited: Islamic Banking, Alternative
 Currencies, Lateral Reason*, Princeton: Princeton University Press,
 2005.
 
@@ -535,7 +535,7 @@ Maurer, B. ‘Resocializing finance? Or Dressing it in Mufti? Calculating
 Alternatives for Cultural Economies’, *Journal of Cultural Economy* 1.1
 (2008): 65-78.
 
-Maurer, B. *Pious Property. Islamic Mortgages in the United States*, New
+Maurer, B. *Pious Property: Islamic Mortgages in the United States*, New
 York: Russell Sage Foundation, 2006.
 
 Miranti K.D. and I. Abdalloh. ‘Socializing Islamic Capital Market
@@ -564,7 +564,7 @@ Thompson, G. ‘What’s in the Frame? How the Financial Crisis is Being
 Packaged for Consumption’, *Economy and Society* 38.3 (2009): 520-524.
 
 Umar J. ‘The Development of Islamic Banking in the Post-Crisis
-Indonesian Economy’, in: G. Fealy and S. White (eds.) *Expressing Islam.
+Indonesian Economy’, in: G. Fealy and S. White (eds.) *Expressing Islam:
 Religious Life and Politics in Indonesia*, Singapore: ISEAS, 2008, pp.
 229-250.
 
