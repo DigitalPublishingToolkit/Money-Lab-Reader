@@ -21,9 +21,9 @@ Rights: CC BY-NC 4.0
 
 ### Rachel O’Dwyer {.author}
 
-> *Much still depends on who owns and controls the networks, who sets
+> Much still depends on who owns and controls the networks, who sets
 > the terms of entry, and who gathers and sorts […] information and for
-> what ends.*[^1]
+> what ends.[^1]
 
 In parts of the Global South 2.5 billion people are excluded from
 financial services, but many of this number have access to mobile
@@ -577,7 +577,7 @@ Kavesh, Robert A., Kenneth D. Garbade, and William L. Silber.
 
 Kendall, Jake, Bill Maurer, Phillip Machoka, and Clara Veniard. ‘An
 Emerging Platform: From Money Transfer System to Mobile Money
-Ecosystem’, *Innovations: Technology, Gover- nance, Globalization* 6.4
+Ecosystem’, *Innovations: Technology, Gover-nance, Globalization* 6.4
 (2011): 49-65.
 
 Mas, Ignacio, and Olga Morawczynski. ‘Designing Mobile Money Services:
@@ -592,13 +592,13 @@ Maurer, Bill. ‘Mobile Money: Communication, Consumption and Change in
 the Payments Space’, *Journal of Development Studies* 48.5 (2012):
 589-604.
 
-Maurer, Bill. ‘Late to the Party: Debt and Data’, *Social Anthropology*
+\_\_\_\_\_. ‘Late to the Party: Debt and Data’, *Social Anthropology*
 20.4 (2012): 474-481.
 
-Maurer, Bill. ‘Regulation as Retrospective Ethnography: Mobile Money and
+\_\_\_\_\_. ‘Regulation as Retrospective Ethnography: Mobile Money and
 the Arts of Cash’ *Banking and Finance Law Review* 27.2 (2012): 299-313.
 
-Maurer, Bill. ‘Closed Loops and Private Gateways: Money, Technology and
+\_\_\_\_\_. ‘Closed Loops and Private Gateways: Money, Technology and
 the Private Interest in Payment’, *Moneylab Conference*, Amsterdam,
 21-22 March 2014, <http://vimeo.com/90207123>.
 
