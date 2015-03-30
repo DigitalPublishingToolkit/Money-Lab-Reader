@@ -10,7 +10,8 @@ Article-title: title of the article
 Article-status: accepted
 Author: Geert Lovink, Nathaniel Tkacz 
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Geert Lovink is a media theorist, internet critic and author of Zero Comments (2007)and Networks Without a Cause (2012). From 2004-2013 he taught in the new mediamasters program at Media Studies, University of Amsterdam. He is the founding directorof the Institute of Network Cultures.
+Nathaniel Tkacz is Assistant Professor in the Centre for Interdisciplinary Methodologiesat The University of Warwick. He writes and researches at the intersection of digitalmedia and politics. His most recent book is Wikipedia and The Politics of Openness(University of Chicago Press, 2014).
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
