@@ -949,19 +949,15 @@ Ingham,* Houndsmill/New York: Palgrave, 2013, pp. 101-123.
     for too long a time, therefore offering banks an incentive to
     overissue them.
 
-[^7]: Bruce Champ, *Private Money in Our Past, Present, and Future*,
-    [http://www.clevelandfed.org/research/commentary/2007/010107.cfm](http://www.clevelandfed.org/research/commentary/2007/010107.cfm).
+[^7]: Bruce Champ, *Private Money in Our Past, Present, and Future*, in:Economic Commentary, Federal Reserve Bank of Cleveland, January 2007.
 
 [^8]: Beat Weber, ‘Can Bitcoin Compete With Money?’, *Journal of Peer
     Production* 4 (2014),
     [http://peerproduction.net/issues/issue-4-value-and-currency/invited-comments/can-bitcoin-compete-with-money/](http://peerproduction.net/issues/issue-4-value-and-currency/invited-comments/can-bitcoin-compete-with-money/).
 
-[^9]: Bruce Champ, *Private Money in Our Past, Present, and Future*,
-    2007,
-    [http://www.clevelandfed.org/research/commentary/2007/010107.cfm](http://www.clevelandfed.org/research/commentary/2007/010107.cfm).
+[^9]: Bruce Champ, *Private Money in Our Past, Present, and Future*, in:Economic Commentary, Federal Reserve Bank of Cleveland, January 2007.
 
-[^10]: Bruce Champ, *Stamp Scrip: Money People Paid to Use*, 2008,
-    [http://www.clevelandfed.org/research/commentary/2008/0408.pdf](http://www.clevelandfed.org/research/commentary/2008/0408.pdf).
+[^10]: Bruce Champ, *Stamp Scrip: Money People Paid to Use*, 2008, Available at: [http://core.ac.uk/download/pdf/6670241.pdf](http://core.ac.uk/download/pdf/6670241.pdf).
 
 [^11]: David Woodruff, ‘Monetary Surrogates and Money’s Dual Nature’, in
     Jocelyn Pixley and G.C.Harcourt (eds) *Financial Crises and the
