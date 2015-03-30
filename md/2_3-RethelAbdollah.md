@@ -8,9 +8,10 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Lena Rethel and Irwan Abdalloh
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Lena Rethel is Associate Professor of International Political Economy at the Universityof Warwick, working on financial development and Islamic finance. Her publicationsinclude The Problem with Banks (Zed Books, 2012; with Timothy J. Sinclair) and TheEveryday Political Economy of Southeast Asia (Cambridge University Press, 2015; withJuanita Elias).
+Irwan Abdalloh is the head of Islamic Capital Market Development at the IndonesiaStock Exchange (IDX). He is a lecturer in Islamic Investment in the PostgraduateProgram of the University of Indonesia and at the Tazkia University College of IslamicEconomics. He is the founder of icmspecialist.com.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
