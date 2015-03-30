@@ -10,7 +10,7 @@ Article-title: Heat Exchanges
 Article-status: accepted
 Author: Finn Brunton
 Author-email:   corresponding address
-Author-bio:  about the author
+Author-bio:  Finn Brunton is Assistant Professor in the Department of Media, Culture, and Communicationat NYU’s Steinhardt School. He is the author of Spam: A Shadow History ofthe Internet (MIT, 2013), and the forthcoming Obfuscation: A User’s Guide (MIT, 2015)with Helen Nissenbaum. He is working on a book about cryptocurrencies.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
