@@ -272,7 +272,7 @@ Moderator: Rob van Hilten
 
 Speakers: Max Haiven, Matthew Slater and Eli Gothill, Lana Swartz
 
-![](imgs/2Money_lab_flyer.jpg)
+![](media/Images_intro/2Money_lab_flyer.png)
 
 
 # Author Biographies
