@@ -46,7 +46,7 @@ Throughout history, issues of distribution and allocation have been
 solved through money. But also before the introduction of money, goods
 were distributed and tasks were allocated according to different
 practices. As David Graeber has recently shown, many standard accounts
-on the history of a pre-monetary economy were wrong.[^1] The narratives
+on the history of a pre-monetary economy were wrong.[^1_3-Heidenreichs_1] The narratives
 about the appearance of money were retrospectively arranged according to
 practices introduced by money itself. But the imagined societies based
 on barter exchange were never found. Also, the idea of private property
@@ -104,7 +104,7 @@ equilibrium of production and consumption within each agent, or at the
 overall benefit for a group or the society as a whole. Each solution
 comes with its own ethical settings. One could even go so far to say
 that each different economic procedure installs its suitable set of
-rules, frames it as morally correct behavior and codifies it as law.[^2]
+rules, frames it as morally correct behavior and codifies it as law.[^1_3-Heidenreichs_2]
 
 In this sense early monetary systems established their respective laws
 referring to property, stealing and the assignment of goods to persons;
@@ -128,7 +128,7 @@ Within the current economy matching is handled by markets mediated
 through money. Each good is assigned an owner and a price. The price is
 said to reflect the relation of demand and supply in the markets, but
 the market itself is an idealized site of optimal allocation and
-efficient information.[^3] But after all, it forms the core procedure of
+efficient information.[^1_3-Heidenreichs_3] But after all, it forms the core procedure of
 a monetary system of distribution and allocation. Its matching function
 operates at aggregated quantifications provided by money, and that
 creates a situation far from any optimum. Products and services are
@@ -136,7 +136,7 @@ rather given triple or more to people in possession of money, than to
 the ones who actually would need it. Manipulation of demand and supply
 contributes to the inefficiency of markets. However, more dangerous and
 damaging turned out the inherent drive – not towards equilibrium as the
-classical theory postulates – towards exaggeration and instability.[^4]
+classical theory postulates – towards exaggeration and instability.[^1_3-Heidenreichs_4]
 
 Usually, resistance against our current monetary regime starts with
 alternative currencies. But the overall scope of this approach remains
@@ -159,7 +159,7 @@ or the village, or a tribe. Their reach was severely hindered by the
 fact that the reach of transactions and memorized records was restricted
 to friends or friends of friends. Most objects did not circulate much
 beyond the local community within which all kinds of ‘IOUs’ had to be
-remembered.[^5] Seen from this perspective, the history of credit and
+remembered.[^1_3-Heidenreichs_5] Seen from this perspective, the history of credit and
 money can be told as a story of record keeping, of databases,
 bookkeeping techniques and network complexity. For our purpose, it is
 sufficient to briefly sketch out the outlines of such a history.
@@ -211,7 +211,7 @@ surprisingly lean and elegant solution.
 ## Data Transactions
 
 Money can fully be replaced by memory, according to a paper by N.
-Kocherlakota, at least for certain types of economic systems.[^6]
+Kocherlakota, at least for certain types of economic systems.[^1_3-Heidenreichs_6]
 Keeping track of all transactions would allow for a system of
 bookkeeping that enables us to regulate an economy. But within a data
 driven system of this kind, underlying theoretical problems appear. A
@@ -271,7 +271,7 @@ practices around. Just to give one example – in bars, beer is usually
 not served to the one who is willing to pay most.
 
 Some of the perverse incentives coming with money were still obvious
-shortly after its introduction.[^7] But once the monetary regime had
+shortly after its introduction.[^1_3-Heidenreichs_7] But once the monetary regime had
 become the general rule, they appear to be the new normal.
 
 ## Ticklish Objects
@@ -324,7 +324,7 @@ function of the objects.
 One of the crucial distinctions between objects and human agents lies in
 the term ‘dignity’. According to Kant, dignity is what exempts the human
 from the realm of submission under the economic sphere. ‘In the realm
-of ends everything has either a price or a dignity’.[^8] Unlike objects,
+of ends everything has either a price or a dignity’.[^1_3-Heidenreichs_8] Unlike objects,
 dignity allows humans to withdraw form economic pressure, without
 risking their existence.
 
@@ -335,7 +335,7 @@ that the descriptor of a human agent has to be up to her or his choice.
 There may be capabilities or needs that one does not want to be public
 or to be offered to the matching function. Without this clause, economic
 algorithms and their drive towards optimization could easily turn into
-an algorithmic dictatorship.[^9] Digital profiles would replace, as they
+an algorithmic dictatorship.[^1_3-Heidenreichs_9] Digital profiles would replace, as they
 already do, parts of our personality and would more or less subtly
 direct our wishes and needs according to manipulative matching
 procedures.
@@ -366,7 +366,7 @@ or whatever other mode of ranking and measurement, like karma or health.
 Rhetoric and narratives around the matching algorithms may derive from
 contemporary computer games. In our current digital online environment,
 games deliver possible procedures of how to manage the exchange and
-matching of activities among large groups.[^10] Players should be
+matching of activities among large groups.[^1_3-Heidenreichs_10] Players should be
 allowed to transfer their characters from one game to the other. We
 don’t want to be slaves to another game, when self-models are affected
 by technical protocols, and individuality or persistence of a
@@ -379,7 +379,7 @@ everyone. In the end, this situation may lead to a system of
 contribution that could replace taxation. In such a social environment,
 territorial boundaries would not necessarily withhold their current
 impact. States as entities of taxation and policing may loose their grip
-and be replaced by other forms of organization.[^11] The administration
+and be replaced by other forms of organization.[^1_3-Heidenreichs_11] The administration
 of the commons could as well operate on a non-territorial basis of a
 meta-game.
 
@@ -430,7 +430,7 @@ market value. There is an intrinsic tie between money and scarcity, as
 money itself is a scarce good to which all other scarce goods have to
 be mapped. ‘The innovation consists in the duplication of scarcity. The
 scarcity of money is placed next to the very different scarcity of
-goods. That means, that *scarcity itself is codified.*’[^12] This
+goods. That means, that *scarcity itself is codified.*’[^1_3-Heidenreichs_12] This
 relation implies that scarcity may be overcome in the moment that money
 as its codification is driven out of the system.
 
@@ -499,7 +499,7 @@ factors in the dissemination of communication technologies.
 
 In its consequences, post-monetary economies would come very close to
 what Keynes envisions in his essay on the ‘Economic Possibilities for
-our Grandchildren’.[^13] With his prediction that the economical problem
+our Grandchildren’.[^1_3-Heidenreichs_13] With his prediction that the economical problem
 may be solved by a rise in welfare for everyone, he could not have been
 proven more wrong. Current capitalism has managed to install a system in
 which the accumulation of wealth even creates a situation of declining
@@ -573,10 +573,10 @@ pp. 273-287.
 Wray, L. Randall. *Credit and State Theories of Money: The Contributions
 of A. Mitchell Innes*, Cheltenham: Edward Elgar 2004.
 
-[^1]: See David Graeber, *Debt: The First 5,000 Years*, New York:
+[^1_3-Heidenreichs_1]: See David Graeber, *Debt: The First 5,000 Years*, New York:
     Melville House, 2011, pp. 21-42.
 
-[^2]: Bernard E. Harcourt, *The Illusion of Free Markets*, Cambridge:
+[^1_3-Heidenreichs_2]: Bernard E. Harcourt, *The Illusion of Free Markets*, Cambridge:
     Harvard University Press, 2011, p. 241: ‘In truth, however, the
     “liberalization” of markets and “privatization” of industries during
     portions of the nineteenth and twentieth centuries merely
@@ -584,48 +584,48 @@ of A. Mitchell Innes*, Cheltenham: Edward Elgar 2004.
     rule-making, with other regulatory systems that merely favored a
     different sort of actors’.
 
-[^3]: See Karl Polanyi, *The Great Transformation*, Boston: Beacon
+[^1_3-Heidenreichs_3]: See Karl Polanyi, *The Great Transformation*, Boston: Beacon
     Press, 2001 (1944), p. 171.
 
-[^4]: Hyman Minsky, *Stabilizing an Unstable Economy*, New Haven: Yale
+[^1_3-Heidenreichs_4]: Hyman Minsky, *Stabilizing an Unstable Economy*, New Haven: Yale
     University, 1986 p. 106: ‘What we seem to have is a system that
     sustains instability even as it prevents the deep depression of the
     past.’
 
-[^5]: Larry Randall Wray, *Credit and State Theories of Money: The
+[^1_3-Heidenreichs_5]: Larry Randall Wray, *Credit and State Theories of Money: The
     Contributions of A. Mitchell Innes*, Cheltenham: Edward Elgar, 2004,
     p. 79.
 
-[^6]: Narayana R. Kocherlakota, ‘Money is Memory’, *Federal Reserve Bank
+[^1_3-Heidenreichs_6]: Narayana R. Kocherlakota, ‘Money is Memory’, *Federal Reserve Bank
     of Minnesota*, Research Department Staff Report 218, October 1996.
 
-[^7]: See the Aristotelian characterization of wealth acquisition in
+[^1_3-Heidenreichs_7]: See the Aristotelian characterization of wealth acquisition in
     Aristotle, *Politics*, I, 10, 1257b, trans. C.D.C. Reeve,
     Indianapolis: Hackett, 1998, p.16.
 
-[^8]: Immanuel Kant, *Groundworks for the Metaphysics of Morals*, trans.
+[^1_3-Heidenreichs_8]: Immanuel Kant, *Groundworks for the Metaphysics of Morals*, trans.
     Allan Wood, New Haven: Yale University Press, 2002, p. 52.
 
-[^9]: Antoinette Rouvroy, ‘Technology, Virtuality, and Utopia:
+[^1_3-Heidenreichs_9]: Antoinette Rouvroy, ‘Technology, Virtuality, and Utopia:
     Governmentality in an Age of Autonomic Computing’, in Mireille
     Hildebrandt and Antoinette Rouvroy (eds) *Law, Human Agency and
     Autonomic Computing: The Philosophy of Law meets the Philosophy of
     Technology*, Abingdon: Routledge, 2011, pp. 119-140.
 
-[^10]: Sonia Fizek,‘Why Fun Matters. In Search of Emergent Playful
+[^1_3-Heidenreichs_10]: Sonia Fizek,‘Why Fun Matters. In Search of Emergent Playful
     Experiences’, in Matthias Fuchs, Sonja Fizek, Paolo Ruffino, and
     Niklas Schrape (eds) *Rethinking Gamification*, Lüneburg: Meson
     Press, 2014, pp. 273-287.
 
-[^11]: Saskia Sassen, *Territory, Authority, Rights*. Princeton:
+[^1_3-Heidenreichs_11]: Saskia Sassen, *Territory, Authority, Rights*. Princeton:
     Princeton University Press, 2006, p. 319.
 
-[^12]: Niklas Luhmann, *Wirtschaft der Gesellschaft*, Frankfurt am Main:
+[^1_3-Heidenreichs_12]: Niklas Luhmann, *Wirtschaft der Gesellschaft*, Frankfurt am Main:
     Suhrkamp, 1988, p. 197: ‘Die Innovation besteht in der Duplikation
     von Knappheit. Neben die Knappheit der Güter wird eine ganz
     andersartige Knappheit des Geldes gesetzt. Das heißt, *Knappheit
     wird selbst codiert.*’ [trans. from German to English by authors].
 
-[^13]: John Maynard Keynes, ‘Economic Possibilities for our
+[^1_3-Heidenreichs_13]: John Maynard Keynes, ‘Economic Possibilities for our
     Grandchildren’, in *Essay in Persuasion*, New York: W.W. Norton
     1963, pp. 358-373.

@@ -51,7 +51,7 @@ notions of exchange. In the classic work *The Gift,* Marcel Mauss set
 forth the basic understanding that human sociality is solidified through
 various exchanges of one kind or another, of shells or money or other
 sorts of valuables or gifts or kin, ramifying social relations in
-enduring webs of obligation.[^1] Through our research in the payments
+enduring webs of obligation.[^5_1-Maurer-Swartz_1] Through our research in the payments
 industry, however, we have had to rethink this exchange-centrism.
 
 The payments industry is the set of business and government entities
@@ -121,7 +121,7 @@ over each month from checks not yet cashed – could be invested at
 interest. During World War I, the private express industry was
 nationalized. With little incentive to remain in the shipping business,
 the cartels officially consolidated as American Express and focused on
-their payments services and financial activities.[^2] The modern
+their payments services and financial activities.[^5_1-Maurer-Swartz_2] The modern
 payments industry was born.
 
 No private infrastructure industry wants to be regulated as serving the
@@ -141,9 +141,9 @@ circumvention – be it American Express points or bitcoins – we think of
 reserves. We also think of a Twitter exchange by some of our payment
 industry interlocutors. One wrote of the current explosion of innovation
 in payments, ‘In a gold rush, you can mine for gold or sell
-shovels’.[^3] Another countered, ‘Or set up a bank’.[^4] Another
+shovels’.[^5_1-Maurer-Swartz_3] Another countered, ‘Or set up a bank’.[^5_1-Maurer-Swartz_4] Another
 offered, ‘You could sell treasure maps too. Today we call that
-consulting’.[^5] If we were wearing our capitalist black Stetsons
+consulting’.[^5_1-Maurer-Swartz_5] If we were wearing our capitalist black Stetsons
 instead of our schoolmarm bonnets, we might suggest that if they really
 wanted to be the winning robber barons in this metaphor, they might
 consider a railroad.
@@ -165,7 +165,7 @@ beautiful abstract designs, small hands, lion’s paws.
 
 Remember that the earliest moneys were not tokens but records, receipts
 inscribed on cuneiform tablets, more like contracts or letters of credit
-than cash or coin.[^6] These were also often held centrally, by
+than cash or coin.[^5_1-Maurer-Swartz_6] These were also often held centrally, by
 religious or state authorities, in storehouses where grain or silver or
 tribute items might also be maintained. Did the early users of this new
 Wild West technology, the coin, feel compelled to write their own
@@ -191,7 +191,7 @@ economic control. We think back to those marked coins, however, this
 desire to write, to make records. Because there is a growing awareness
 again today that money is nothing but records, after all. At least in
 some quarters. Not a commodity unto itself, but a database – a book of
-credits and debits, a statement of transactions.[^7]
+credits and debits, a statement of transactions.[^5_1-Maurer-Swartz_7]
 
 ## New Rails
 
@@ -208,11 +208,11 @@ But banks and states are still important. Today in the United States,
 the Automated Clearing House facilitates more than 60 percent of
 non-cash payments by value (all those paychecks!), though debit cards
 account for almost 40 percent of non-cash payments by number of
-transactions (all those small purchases at the point of sale!).[^8] The
+transactions (all those small purchases at the point of sale!).[^5_1-Maurer-Swartz_8] The
 ACH is a federally-mandated interbank network responsible for clearing
 and settling transfers between bank accounts. The debit card networks
 developed from the automatic teller machine (ATM) networks built by the
-banks to make it easier and cheaper to get money to account holders.[^9]
+banks to make it easier and cheaper to get money to account holders.[^5_1-Maurer-Swartz_9]
 
 Payment innovators come from another place. Many of them come from the
 Wild West – at least as far as the American continent is concerned – the
@@ -220,7 +220,7 @@ information technology, start-up culture, and venture capital associated
 with the northern part of the State of California: gold rush territory.
 Even VISA, now the most mundane of payment rails, was, in the 1970s,
 envisioned as a radical disruption by its San Francisco-based founder
-and feared by traditional bank executives.[^10] First PayPal in the late
+and feared by traditional bank executives.[^5_1-Maurer-Swartz_10] First PayPal in the late
 1990s, and now ApplePay in 2014, a host of new companies have come into
 being since 2008 seeking to jump into payments.
 
@@ -259,7 +259,7 @@ together with payment information together with locational, credit,
 social network, or other histories? David Stearns chronicles how fights
 between big merchants and the emerging card networks led to the
 development of different technological standards for inventory and
-payment.[^11] The stores, using optical scanner technology, gained
+payment.[^5_1-Maurer-Swartz_11] The stores, using optical scanner technology, gained
 access to what consumers were buying, but only in their own shop or
 franchise. The networks, using magnetic stripe technology on plastic
 cards, could know levels of spending and locations, but would not get
@@ -289,7 +289,7 @@ and distributing cash but no central record of how that cash was being
 used. In the Simmel story, this is anonymized and de-hierarchized money.
 Viviana Zelizer, Jane Guyer, and others, however, have shown how people
 took that deracinated money and reinserted it into relations of
-rank.[^12]
+rank.[^5_1-Maurer-Swartz_12]
 
 What is happening now? Centralized database owners vie with one another
 over ownership of new and vast transactional archives that are always in
@@ -303,7 +303,7 @@ databases.
 Michael Warner argued in *Letters of the Republic* that broadsides in
 early colonial America at first provided a representation of a God-given
 hierarchical natural order, with the King firmly ensconced at that top of that
-order.[^13] The Revolutionaries were different: they were, after all,
+order.[^5_1-Maurer-Swartz_13] The Revolutionaries were different: they were, after all,
 trying to constitute a new kind of person through these letters: fellow
 citizens, whom they would hail as such. By hailing the person into a
 distributed horizontal community they would then constitute the
@@ -314,7 +314,7 @@ database of all human interaction and transaction? Where is it? Who
 controls it?
 
 Money can serve as an externalized memory of social transactions and
-relations.[^14] What we are seeing now is a kind of memory. One kind
+relations.[^5_1-Maurer-Swartz_14] What we are seeing now is a kind of memory. One kind
 of decentralization is corporate. There is decentralization from the
 mass payment markets of the ACH, the card networks, and checks – with
 designs on cash. There is then a corresponding recentralization into
@@ -410,29 +410,29 @@ Univ. Press, 1992.
 
 Zelizer, Viviana A. *The Social Meaning of Money*, Princeton: Princeton University Press, 1994.
 
-[^1]: Marcel Mauss, *The Gift: The Form and Reason for Exchange in
+[^5_1-Maurer-Swartz_1]: Marcel Mauss, *The Gift: The Form and Reason for Exchange in
     Archaic Societies*, New York: W.W. Norton & Co., 1954.
 
-[^2]: For a journalistic history of American Express, see Peter Z.
+[^5_1-Maurer-Swartz_2]: For a journalistic history of American Express, see Peter Z.
     Grossman, *American Express: The Unofficial History of the People
     Who Built the Great Financial Empire*, New York: Random House Value
     Publishing, 1987.
 
-[^3]: @sammaule, ‘My tweet back in Oct: In a gold rush you can mine for
+[^5_1-Maurer-Swartz_3]: @sammaule, ‘My tweet back in Oct: In a gold rush you can mine for
     gold or sell shovels. Nice shovel @obedier @GetPoynt \#CGDigital.’
     Twitter post, 4 November 2014, 6:28 AM,
     [https://twitter.com/sammaule/status/529641370638897152](https://twitter.com/sammaule/status/529641370638897152).
 
-[^4]: @dgwbirch, ‘“@sammaule: My tweet back in Oct: In a gold rush you
+[^5_1-Maurer-Swartz_4]: @dgwbirch, ‘“@sammaule: My tweet back in Oct: In a gold rush you
     can mine for gold or sell shovels" or set up a bank.’ Twitter post,
     4 November 2014, 7:09
     AM, [https://twitter.com/dgwbirch/status/529651610461282304](https://twitter.com/dgwbirch/status/529651610461282304).
 
-[^5]: @Greg\_Coogan, ‘@dgwbirch @sammaule You could sell treasure maps
+[^5_1-Maurer-Swartz_5]: @Greg\_Coogan, ‘@dgwbirch @sammaule You could sell treasure maps
     too. Today we call that consulting.’ Twitter post, 4 November 2014,
     7:10 AM, [https://twitter.com/Greg\_Coogan/status/529651859942678529](https://twitter.com/Greg\_Coogan/status/529651859942678529).
 
-[^6]: See Michael Hudson, ‘The Development of Money-of-Account in
+[^5_1-Maurer-Swartz_6]: See Michael Hudson, ‘The Development of Money-of-Account in
     Sumer’s Temples’, in Michael Hudson and Cornelia Wunsch (eds)
     *Creating Economic Order: Record-keeping, Standardization, and the
     Development of Accounting in the Ancient Near East*, Volume IV,
@@ -441,31 +441,31 @@ Zelizer, Viviana A. *The Social Meaning of Money*, Princeton: Princeton Universi
     John Smithin (ed.) *What Is Money?* London: Routledge, 2000, pp.
     16-41.
 
-[^7]: This is a position long held by the economic anthropologist Keith
+[^5_1-Maurer-Swartz_7]: This is a position long held by the economic anthropologist Keith
     Hart. See his *Memory Bank: Money in an Unequal World*, London:
     Profile, 2000.
 
-[^8]: US Federal Reserve, 2013 ‘Federal Reserve Payments Study: Recent
+[^5_1-Maurer-Swartz_8]: US Federal Reserve, 2013 ‘Federal Reserve Payments Study: Recent
     and Long-Term Payment Trends in the United States: 2003-2012’,
     *Summary Report and Initial Data Release*, Washington, DC, 2013.
 
-[^9]: See Tom Harper and Bernardo Batiz-Lazo, *Cash Box: The Invention
+[^5_1-Maurer-Swartz_9]: See Tom Harper and Bernardo Batiz-Lazo, *Cash Box: The Invention
     and Globalization of the ATM*, Louisville, KY: NetWorld Media Group,
     2013.
 
-[^10]: See David Stearns, *Electronic Value Exchange: Origins of the
+[^5_1-Maurer-Swartz_10]: See David Stearns, *Electronic Value Exchange: Origins of the
     VISA Electronic Payment System*, New York: Springer, 2011.
 
-[^11]: David Stearns. *Electronic Value Exchange: Origins of the VISA Electronic Payment System*, New York: Springer, 2011.
+[^5_1-Maurer-Swartz_11]: David Stearns. *Electronic Value Exchange: Origins of the VISA Electronic Payment System*, New York: Springer, 2011.
 
-[^12]: Georg Simmel, *The Sociology of Georg Simme*l, trans. Kurt H.
+[^5_1-Maurer-Swartz_12]: Georg Simmel, *The Sociology of Georg Simme*l, trans. Kurt H.
     Wolff, Glencoe, IL: The Free Press, 1950; Jane Guyer, *Marginal
     Gains: Monetary Transactions in Atlantic Africa*, Chicago:
     University of Chicago Press, 2004; Viviana A. Zelizer, *The Social
     Meaning of Money*, Princeton: Princeton University Press, 1994.
 
-[^13]: Michael Warner, *The Letters of the Republic: Publication and the
+[^5_1-Maurer-Swartz_13]: Michael Warner, *The Letters of the Republic: Publication and the
     Public Sphere in Eighteenth-Century America,* Cambridge, MA: Harvard
     University Press, 1992.
 
-[^14]: Keith Hart, *Memory Bank: Money in an Unequal World*, London: Profile, 2000.
+[^5_1-Maurer-Swartz_14]: Keith Hart, *Memory Bank: Money in an Unequal World*, London: Profile, 2000.

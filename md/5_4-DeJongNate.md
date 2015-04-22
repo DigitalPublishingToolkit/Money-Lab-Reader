@@ -77,7 +77,7 @@ business. His goal was to provide a working prototype of a payment
 system that was capable of making complete transactions at speeds of up
 to 80 km/h, and which were *secure* and protected the *privacy* of the
 payer. Chaum gathered a group of skilled engineers, mostly from his
-Eindhoven University former contacts,[^1] and started building his
+Eindhoven University former contacts,[^5_4-DeJongNate_1] and started building his
 e-Cash system with a smart card to hold the funds. De Jong was hired to
 document the implementation of this system. Specifically, he came up
 with a formal method to describe the implementation of the e-Cash
@@ -98,9 +98,9 @@ securely transferred with a cryptographic key and algorithm also stored
 in the card. It was in the tradition of prepaid phone and credit cards,
 but focused much more on security and privacy. To protect privacy in
 public key cryptography Chaum had invented ‘blind signatures’ in the
-early 80s.[^2] A first draft of his currency system – without any
+early 80s.[^5_4-DeJongNate_2] A first draft of his currency system – without any
 attempt at implementation – was also already published in 1982, when he
-was still a Professor at UCLA.[^3] The blind public key signature that
+was still a Professor at UCLA.[^5_4-DeJongNate_3] The blind public key signature that
 protected the transfer of e-Cash money was cleverly mixed with the Data
 Encryption Standard (DES – which was developed at IBM by Mathias and
 Meyer and based on the work of Horst Feistel). For an e-Cash transfer to
@@ -190,7 +190,7 @@ cash was Danmønt, in 1991. It was a smart card with a disposable
 (Danmønt S/A) and endorsed by KTAS, the Copenhagen Telephone Company,
 and HT (Capital Traffic, a transport institution). Its pilot started in
 1992 and it was introduced on a nation-wide scale in 1993, mostly as a
-payment method for launderettes and telephone booths.[^4] With Danmønt,
+payment method for launderettes and telephone booths.[^5_4-DeJongNate_4] With Danmønt,
 the payer smart card sent a message with value to a merchant smart card
 that was authenticated by a secret key using the DES algorithm. Keys
 were stored in the smart cards, as was the amount of money to spend or
@@ -215,14 +215,14 @@ expected to deploy racks filled with smart cards. According to de Jong,
 the fully off-line security provided a potential fatal security
 weakness. Mondex was put to a consumer test in July 1995 in Swindon,
 U.K., McDonald's, BP, Sainsbury's, and other major retailers were
-involved in the test.[^5] NatWest and Midland Bank (now part of HSBC)
+involved in the test.[^5_4-DeJongNate_5] NatWest and Midland Bank (now part of HSBC)
 were shareholders of Mondex. The Bank of Scotland was also a
 sub-franchise holder, and both the Royal Bank of Canada and the Canadian
-Imperial Bank had planned a pilot program for it in 1996.[^6] The system
+Imperial Bank had planned a pilot program for it in 1996.[^5_4-DeJongNate_6] The system
 was eventually sold to Mastercard, which kept it alive for the smart
-card operating system, Multos,[^7] which was developed to support the
+card operating system, Multos,[^5_4-DeJongNate_7] which was developed to support the
 electronic money system. Mondex’s security protocol has not been
-published[^8] and consisted of public key signatures to validate
+published[^5_4-DeJongNate_8] and consisted of public key signatures to validate
 messages with a public key from the Mondex originator protecting the
 authenticity and the privacy of the per card unique transfer key. In
 1996, smart card chips could not yet perform public key cryptography
@@ -384,7 +384,7 @@ renamed as Global System for Mobile Communications). By 1989, its first
 phase of specifications were approved based on the ISO standards for
 card size and communication. Once the European (and later global)
 standard was developed, phone-embedded GSM smart cards enjoyed a
-ready-made (phone) market and were very easy to mass produce.[^9]
+ready-made (phone) market and were very easy to mass produce.[^5_4-DeJongNate_9]
 
 **‘What really takes off with smart cards is GSM. There was a made-in-heaven combination of technologies and that led to the take off of the
 smart card production. At one point banking would do about 100 million
@@ -411,7 +411,7 @@ signatures was specifically motivated by the protection of privacy. It
 was a clear political motivation. He is on the record stating that, ‘The
 difference between a bad electronic cash system and well-developed
 digital cash will determine whether we will have a dictatorship or a
-real democracy’.[^10] Cash and ledger systems manage two fundamentally
+real democracy’.[^5_4-DeJongNate_10] Cash and ledger systems manage two fundamentally
 different types of value transfer messages. In the former, the message
 *is* the value and in the latter the message is an *instruction to
 transfer* a value. E-Cash, Danmønt, and Mondex differed in terms of
@@ -436,7 +436,7 @@ the 1920s Amsterdam had seen the first automatic ledger system,
 processing transactions by updating account cards with mechanical
 retrieval and sorting. For de Jong, the ledger is the crucial technology
 – or ‘cultural technique’– that transforms money into information for
-the first time. This ‘other great transformation’,[^11] sets the quest
+the first time. This ‘other great transformation’,[^5_4-DeJongNate_11] sets the quest
 for the re-creation of the *qualities* of cash into motion. Ledgers are
 anathema to supporters of digital cash.
 
@@ -531,41 +531,41 @@ Formal Methods*, Lecture Notes in Computer Science 4085, Berling and
 Heidelberg: Springer, 2006, pp. 16-31,
 <http://link.springer.com/chapter/10.1007/11813040_2>.
 
-[^1]: ‘How DigiCash Blew Everything’, January 1999, <http://cryptome.org/jya/digicrash.htm>.
+[^5_4-DeJongNate_1]: ‘How DigiCash Blew Everything’, January 1999, <http://cryptome.org/jya/digicrash.htm>.
 
-[^2]: David Chaum, ‘Blind Signatures for Untraceable Payments’, in David Chaum,
+[^5_4-DeJongNate_2]: David Chaum, ‘Blind Signatures for Untraceable Payments’, in David Chaum,
     Ronald L. Rivest, and Alan T. Sherman (eds) *Advances in
     Cryptology*, New York: Springer, 1983, pp. 199-203,
 
-[^3]: Andy Greenberg, *This Machine Kills Secrets: How WikiLeakers,
+[^5_4-DeJongNate_3]: Andy Greenberg, *This Machine Kills Secrets: How WikiLeakers,
     Hacktivists, and Cypherpunks Are Freeing the World’s
     Information*, New York: Random House, 2012.
 
-[^4]: Knud Böhle, Michael Rader, and Ulrich Riehm, ‘Electronic Payment Systems
+[^5_4-DeJongNate_4]: Knud Böhle, Michael Rader, and Ulrich Riehm, ‘Electronic Payment Systems
     in European Countries: Country Synthesis Report’, Forschungszentrum
     Karlsruhe*,* September 1999, <http://www.itas.kit.edu/pub/v/1999/boua99b.pdf>.
 
-[^5]: E.K. Clemons, D.C. Croson, and B.W. Weber, ‘Reengineering Money:
+[^5_4-DeJongNate_5]: E.K. Clemons, D.C. Croson, and B.W. Weber, ‘Reengineering Money:
     The Mondex Stored Value Card and Beyond’, in *Proceedings of the
     Twenty-Ninth Hawaii International Conference on System Sciences
     1996*, Vol. 4, (1996): 254-61, doi:10.1109/HICSS.1996.495345.
 
-[^6]: Clemons, Croson, and Weber, ‘Reengineering Money’.
+[^5_4-DeJongNate_6]: Clemons, Croson, and Weber, ‘Reengineering Money’.
 
-[^7]: Peter Landrock, ‘Mondex’, in Henk C.A. van Tilborg (ed.) *Encyclopedia of Cryptography and Security*, Berlin and Heidelberg: Springer, 2005, p.
+[^5_4-DeJongNate_7]: Peter Landrock, ‘Mondex’, in Henk C.A. van Tilborg (ed.) *Encyclopedia of Cryptography and Security*, Berlin and Heidelberg: Springer, 2005, p.
     394, <http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262>.
 
-[^8]: Gerhard Schellhorn et al., ‘The Mondex Challenge: Machine Checked Proofs for
+[^5_4-DeJongNate_8]: Gerhard Schellhorn et al., ‘The Mondex Challenge: Machine Checked Proofs for
     an Electronic Purse’, in Jayadev Misra, Tobias Nipkow, and Emil
     Sekerinski (ed.) *FM 2006: Formal Methods*, Lecture Notes in
     Computer Science 4085, Berlin and Heidelberg: Springer, 2006, pp. 16-31.
 
-[^9]: Thomas Haug, ‘A Commentary on Standardization Practices: Lessons from the
+[^5_4-DeJongNate_9]: Thomas Haug, ‘A Commentary on Standardization Practices: Lessons from the
     NMT and GSM Mobile Telephone Standards Histories’,
     *Telecommunications Polic* 26 (2002): 101-107.
 
-[^10]: ‘How DigiCash Blew Everything’.
+[^5_4-DeJongNate_10]: ‘How DigiCash Blew Everything’.
 
-[^11]: Karl Polanyi, *The Great Transformation: The Political and
+[^5_4-DeJongNate_11]: Karl Polanyi, *The Great Transformation: The Political and
     Economic Origins of Our Time*, 2nd edition, Boston, MA: Beacon
     Press, 2002.

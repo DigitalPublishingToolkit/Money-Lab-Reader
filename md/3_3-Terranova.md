@@ -30,10 +30,10 @@ implement a new cryptocurrency, which was later named ‘Commoncoin’. The
 Macao workshop was just one in a series of events to take place across
 Europe in 2014. The events included (among others) the workshop on
 Algorithms and Capital hosted by the Digital Culture Research Unit at
-Goldsmiths College in London[^1]; the launch of D-Cent, a European
-research project on complementary currencies[^2]; the MoneyLab
-conference in Amsterdam[^3]; and the workshop of the Robin Hood Minor
-Asset Management Cooperative in Stuttgart.[^4] These events took place
+Goldsmiths College in London[^3_3-Terranova_1]; the launch of D-Cent, a European
+research project on complementary currencies[^3_3-Terranova_2]; the MoneyLab
+conference in Amsterdam[^3_3-Terranova_3]; and the workshop of the Robin Hood Minor
+Asset Management Cooperative in Stuttgart.[^3_3-Terranova_4] These events took place
 against the background of the possibilities opened up by the success of
 Bitcoin, but also against the pressure of the ongoing recession and the
 austerity policies imposed by the European Central Bank after 2008,
@@ -43,7 +43,7 @@ nations since the 1990s. In such a way, the financial crisis of 2008 was
 turned into the occasion for the imposition of an ever more intensive
 precarization of labor compounded by drastic cuts to public services
 opening the way to privatization and a re-structuring of the Welfare
-State into a Workfare model.[^5] These European meetings thus expressed
+State into a Workfare model.[^3_3-Terranova_5] These European meetings thus expressed
 a specific, situated response to a global process of financialization,
 looking at the changed nature of money and capital while also
 considering whether an alternative financial circuit could break the
@@ -54,7 +54,7 @@ the ‘false’ economy of finance, the meeting in Milan drew on theoretical
 arguments, which emphasized the structural importance of finance to a
 global economy where the extraction of surplus value is generalized to
 the whole of society while labor as such assumes an affective,
-cooperative, and cognitive dimension.[^6] From this perspective,
+cooperative, and cognitive dimension.[^3_3-Terranova_6] From this perspective,
 financialization is considered as the answer of capitalism to the
 urgency of creating a new dispositif of accumulation given the
 centrality of the network as a mode of logistical organization and
@@ -62,7 +62,7 @@ patterning of social cooperation. As the division of labor in the
 factory and the distinction between productive and reproductive work is
 supplemented and displaced by social cooperation as the main source of
 value, the political concept of the common identifies a new political
-platform beyond public and private, state and market.[^7] The capability
+platform beyond public and private, state and market.[^3_3-Terranova_7] The capability
 of finance to express the value of such cooperation through a form of
 money which is not simply exchangeable into commodities but which has
 the power to shape the future(s) is a crucial stake in new forms of
@@ -119,7 +119,7 @@ referent, virtual currency could be understood as the final colonization
 of the real economy by a hyperreal domain of speculation – a pure
 simulation. The notion of a bad, fake financialization opposed to the
 real economy is contested both by activist anthropologists of the
-financial world[^8], but also by post-workerist Marxists who, as we have
+financial world[^3_3-Terranova_8], but also by post-workerist Marxists who, as we have
 seen, consider financialization as the answer of capital to the crisis
 of measure – that is the inability to measure productivity on the basis
 of the labor theory of value. Financialization has a potential: it
@@ -211,7 +211,7 @@ commodity whose cost is ever closer to zero. Can cryptocurrencies
 contribute to the creation of what Christian Marazzi has called a ‘money
 of the common’, that is a ‘money that gives expression to and
 acknowledges what is common to a multitude… in a political, social and
-demographic space?’[^9]
+demographic space?’[^3_3-Terranova_9]
 
 If conceived as alternative to the monetary and financial production
 economy, Commoncoin could be used at first as complementary monetary
@@ -244,7 +244,7 @@ faculties of human beings, from knowledge to the body, from relations to
 sensations, from language to movement, from sensuality to thought: a
 production of surplus that derives from the mere fact of existing. As
 Brian Massumi has recently put it, the economy can be seen to rest on
-the groundless ground of ‘bare activity’.[^10] In its two main
+the groundless ground of ‘bare activity’.[^3_3-Terranova_10] In its two main
 articulations (the re/productive and the cognitive commonwealth), the
 common is the basis on which the process of *subsumption* of life under
 capital in the age of cognitive-biocapitalism is articulated: it is a
@@ -336,7 +336,7 @@ Vercellone, Carlo. ‘From Formal Subsumption to General Intellect:
 Elements for a Marxist Reading of the Thesis of Cognitive Capitalism’,
 *Historical Materialism* 15.1 (2007): 13-36.
 
-[^1]: For further reference see: Tiziana, Terranova, ‘Red Stack Attack!
+[^3_3-Terranova_1]: For further reference see: Tiziana, Terranova, ‘Red Stack Attack!
     Algorithms, Capital and the Automation of the Common’, *Euronomade*,
     [http://www.euronomade.info/?p=2268](http://www.euronomade.info/?p=2268); Stefano
     Lucarelli, ‘Il principio della liquidità e la sua corruzione. Un
@@ -352,21 +352,21 @@ Elements for a Marxist Reading of the Thesis of Cognitive Capitalism’,
     February 2014,
     [http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/](http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/).
 
-[^2]: See, <http://dcentproject.eu>.
+[^3_3-Terranova_2]: See, <http://dcentproject.eu>.
 
-[^3]: Jerome Roos, ‘In Each Other We Trust: Coining Alternatives to
+[^3_3-Terranova_3]: Jerome Roos, ‘In Each Other We Trust: Coining Alternatives to
     Capitalism’, *Roarmag.org*, 31 March 2014,
     [http://roarmag.org/2014/03/moneylab-conference-alternative-currencies/](http://roarmag.org/2014/03/moneylab-conference-alternative-currencies/).
 
-[^4]: Pekka Piironen and Akseli Virtanen, ‘Democratization of Finance:
+[^3_3-Terranova_4]: Pekka Piironen and Akseli Virtanen, ‘Democratization of Finance:
     An Interview’, *Robin Hood Minor Asset Management*,
     [http://www.robinhoodcoop.org/pages/democratization-of-finance-an-interview](http://www.robinhoodcoop.org/pages/democratization-of-finance-an-interview).
 
-[^5]: Tiziana Terranova, ‘Social Unionism and Digital Labor in the
+[^3_3-Terranova_5]: Tiziana Terranova, ‘Social Unionism and Digital Labor in the
     Transnational Space of European Austerity’, *Euronomade*,
     [http://www.euronomade.info/?p=3416](http://www.euronomade.info/?p=3416).
 
-[^6]: For further reading see: Christian Marazzi, ‘Summer School: La
+[^3_3-Terranova_6]: For further reading see: Christian Marazzi, ‘Summer School: La
     moneta del comune’, *Uninomade 2.0,* 13 September 2012,
     Cristina Morini and Andrea Fumagalli, ‘Life Put to Work: Towards a
     Theory of Life-Value’, *Ephemera* 10.3/4 (2010): 234-252; Cristina
@@ -378,7 +378,7 @@ Elements for a Marxist Reading of the Thesis of Cognitive Capitalism’,
     *Les révolutions du capitalisme*, Paris: Empêcheurs de Penser en
     Rond, 2004.
 
-[^7]: David Bollierand and Silke Helfrich, *The Wealth of the Commons: A
+[^3_3-Terranova_7]: David Bollierand and Silke Helfrich, *The Wealth of the Commons: A
     World Beyond Market and State*, Amherst, MA: Levellers Press, 2012;
     Andrea Fumagalli, ‘Twenty Theses on Contemporary Capitalism
     (Cognitive Biocapitalism)’, *Angelaki* 16 (2011): 7-17; Michael
@@ -392,11 +392,11 @@ Elements for a Marxist Reading of the Thesis of Cognitive Capitalism’,
     Peter Lang, 2010*;* Christian Marazzi, ‘Summer School: La moneta del
     commune’.
 
-[^8]: Brett Scott, *The Heretic’s Guide to Global Finance: Hacking the
+[^3_3-Terranova_8]: Brett Scott, *The Heretic’s Guide to Global Finance: Hacking the
     Future of Money*. London: Pluto Press, 2013.
 
-[^9]: Christian Marazzi, ‘Summer School: La Moneta del Commune’.
+[^3_3-Terranova_9]: Christian Marazzi, ‘Summer School: La Moneta del Commune’.
 
-[^10]: Brian Massumi, *The Power at the End of the Economy, Art Beyond
+[^3_3-Terranova_10]: Brian Massumi, *The Power at the End of the Economy, Art Beyond
     Interest, Joy Beyond Reason.* São Paulo and Helsinki: n-1 Edições,
     2014.

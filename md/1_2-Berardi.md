@@ -87,7 +87,7 @@ will have no consequence whatsoever. There will be no judgment day for
 this virtual bankruptcy. It is simple enough to enter an exponential or
 virtual mode to become free of any responsibility, since there is no
 reference anymore, no referential world to serve as a measuring
-norm.[^1]
+norm.[^1_2-Berardi_1]
 
 The prediction of Baudrillard proved false: the orbitalization of the
 debt has failed. The debt, which was in orbit around the globe has
@@ -183,7 +183,7 @@ monetarism has provoked on work and society.
 
 ‘The workday is not an extension of human nature; long working hours
 are not rooted in need and are not something that workers have
-willingly, freely or joyfully agreed to…’[^2]
+willingly, freely or joyfully agreed to…’[^1_2-Berardi_2]
 
 My point of view will be the recent history of work, particularly the
 imposed extension of work time. In *The New York
@@ -192,7 +192,7 @@ surge in American employment rate, after the crisis that followed the
 2008 financial collapse: ‘The new jobs don’t feel as sturdy as the old
 ones. It takes more hours to make the same money or support the same
 lifestyle. Students amass debt. Upward mobility increasingly seems a
-mirage, a myth.’[^3]
+mirage, a myth.’[^1_2-Berardi_3]
 
 It takes more hours to make the same money. This is the crucial
 transformation that is a result of the neoliberal policy, and has
@@ -212,7 +212,7 @@ struggle for control over the workday. People no longer imagine the
 possibility of the end of work. The workaholic model, once regarded as
 an individual pathology, has become the enforced, ethically approved
 standard: the workday has again become the central feature of human
-existence.[^4]
+existence.[^1_2-Berardi_4]
 
 In the last decades – since Margaret Thatcher’s rise to power in the United Kingdom – the workers of the
 world have been subjected to the most ferocious aggression imaginable. The
@@ -246,7 +246,7 @@ discipline by any means: the blackmail of misery, the violence of war,
 and the pervasive potency of advertising, ideology and consumerism. As
 Aronowitz and Cutler write: ‘consumption was created as a new motive: a
 new human nature was constructed around an insatiable need to shop and
-accumulate commodities of all kinds.’[^5]
+accumulate commodities of all kinds.’[^1_2-Berardi_5]
 
 The cultural reduction of individual needs and habits to uniformity, the
 mass production of material expectations and the massive commodification
@@ -275,11 +275,11 @@ and then into your beer to keep it cold as you drink it. Suggestively,
 what’s come to be known as the “long-hours premium” – the return that
 salaried employees effectively receive for each hour of work they put in
 beyond the usual forty – has more than doubled in the past thirty
-years.[^6]
+years.[^1_2-Berardi_6]
 
 According to Joseph Stiglitz consumption choices become
 self-reinforcing. We ‘learn how to consume by consuming,’ he writes, and
-how to ‘enjoy leisure by enjoying leisure’.[^7] Most people feel bad
+how to ‘enjoy leisure by enjoying leisure’.[^1_2-Berardi_7] Most people feel bad
 when they are not obliged to work all day long. They do not know what to
 do, because they have never learned what life might be in conditions of
 freedom. 
@@ -303,7 +303,7 @@ precarious conditions.
 ## A Digression About Language and Money
 
 Thanks to Wittgenstein I know that the limits of my language are the
-limits of my world.[^8] When we talk of ‘limit’ however we are dealing
+limits of my world.[^1_2-Berardi_8] When we talk of ‘limit’ however we are dealing
 with two dimensions: what is here, inside the space of our limited
 world, and what is there, beyond the limit. The limit is the tangle in
 which our world is captured, and it is a linguistic tangle. How can we
@@ -355,7 +355,7 @@ can be exchanged in a bank of shared structures: a common cognitive
 competence makes the exchange possible. Language is therefore, like
 money, a general equivalent and universal translator of different goods. We
 can exchange everything with money, as we can exchange everything with
-words.[^9]
+words.[^1_2-Berardi_9]
 
 But money (like language, of course) is also a tool for the mobilization
 of energies, a pragmatic act of self-expansion. In the sphere of
@@ -390,7 +390,7 @@ of *Understanding Media*, Marshall McLuhan writes:
 > the work of the barber, doctor, engineer, or plumber. As a vast social
 > metaphor, bridge, or translator, money – like writing – speeds up
 > exchange and tightens the bonds of interdependence in any
-> community.[^10]
+> community.[^1_2-Berardi_10]
 
 Money is a tool for the simplification of social relations, and it makes
 possible the automation of acts of enunciation. While the industrial
@@ -433,7 +433,7 @@ of the monetary sphere, and for the submission of social life to this
 sphere of abstraction. Automation, which is electronic, does not
 represent physical work so much as programmed knowledge. As work is
 replaced by the sheer movement of information, money as a store of work
-merges with the informational forms of credit and credit cards.[^11]
+merges with the informational forms of credit and credit cards.[^1_2-Berardi_11]
 
 Retracing the history of money, from exchange commodity to
 representative money to standard value to electronic abstraction,
@@ -452,7 +452,7 @@ McLuhan writes:
 > so long as the hand of the individual clutches the material stuff. It
 > has become a much more abstract thing - just a standard of value; and
 > it only keeps this nominal status by being handed round from time to
-> time in quite small quantities amongst a group of Central Banks.[^12]
+> time in quite small quantities amongst a group of Central Banks.[^1_2-Berardi_12]
 
 Only when it is abstracted (separated from the referent, and
 dis-embodied) can the monetary dynamics be automated and submitted to the
@@ -546,7 +546,7 @@ financial money with alternative money is a problem of trust. 
 
 According to Giorgio Griziotti and Carlo Vercellone: ‘a money of the
 common should take into account three essential elements, hardwired into
-its algorithms and its implementation’:[^13] 
+its algorithms and its implementation’:[^1_2-Berardi_13] 
 
 > The impossibility to accumulate and thus impeding it from becoming the
 > object of speculation. Consequently, it must lose some of its value
@@ -561,7 +561,7 @@ its algorithms and its implementation’:[^13] 
 > where a currency of the common circulates implies adhering to these
 > principles, whether participants are individuals, businesses or
 > institutional subjects, as in the case of certain alternative currency
-> models experimented with on a local level.[^14]
+> models experimented with on a local level.[^1_2-Berardi_14]
 
 Alternative currencies can act as a game changer, this is quite
 possible, and it is already happening up to a certain point, but it is
@@ -619,41 +619,41 @@ di San Precario*, Vol. 8, (June 2014),
 Wittgenstein, Ludwig. *Tractatus Logico-Philosophicus*, Mineola: Dover
 Publications, 1998 (1921).
 
-[^1]: Jean Baudrillard, ‘Global Debt and Parallel Universe’, trans.
+[^1_2-Berardi_1]: Jean Baudrillard, ‘Global Debt and Parallel Universe’, trans.
     Franciois Debrix, *Liberation Paris*, 15 January 1996.
 
-[^2]: Stanley Aronowitz and Jonathan Cutler, *Post-Work*, New York:
+[^1_2-Berardi_2]: Stanley Aronowitz and Jonathan Cutler, *Post-Work*, New York:
     Routledge, 1998, p. 59.
 
-[^3]: Frank Bruni, ‘Lost in America’, *The International New York
+[^1_2-Berardi_3]: Frank Bruni, ‘Lost in America’, *The International New York
     Times*, 27 August 2014.
 
-[^4]: Aronowitz and Cutler, *Post-Work*, p. 68.
+[^1_2-Berardi_4]: Aronowitz and Cutler, *Post-Work*, p. 68.
 
-[^5]: Aronowitz and Cutler, *Post-Work*, p. 61.
+[^1_2-Berardi_5]: Aronowitz and Cutler, *Post-Work*, p. 61.
 
-[^6]: Elisabeth Kolbert,‘No Time. How Did We Get So Busy?’ *The* *New
+[^1_2-Berardi_6]: Elisabeth Kolbert,‘No Time. How Did We Get So Busy?’ *The* *New
     Yorker*, 26 May 2014, pp. 52-56.
 
-[^7]: Kolbert, ‘No Time’, p. 54.
+[^1_2-Berardi_7]: Kolbert, ‘No Time’, p. 54.
 
-[^8]: Ludwig Wittgenstein, *Tractatus Logico-Philosophicus*, Mineola:
+[^1_2-Berardi_8]: Ludwig Wittgenstein, *Tractatus Logico-Philosophicus*, Mineola:
     Dover Publications, 1998 (1921).
 
-[^9]: Noam Chomsky, *Syntactic Structures,* Mouton, 1957; *Aspects of
+[^1_2-Berardi_9]: Noam Chomsky, *Syntactic Structures,* Mouton, 1957; *Aspects of
     the Theory of Syntax*, Cambridge: MIT, 1975.
 
-[^10]: Marshall McLuhan, *Understanding Media: The Extensions of Man*,
+[^1_2-Berardi_10]: Marshall McLuhan, *Understanding Media: The Extensions of Man*,
     Toronto: McGraw Hill, p.136.
 
-[^11]: McLuhan, *Understanding Media*, p. 41.
+[^1_2-Berardi_11]: McLuhan, *Understanding Media*, p. 41.
 
-[^12]: McLuhan, *Understanding Media*, p. 41.
+[^1_2-Berardi_12]: McLuhan, *Understanding Media*, p. 41.
 
-[^13]: Griziotti Vercellone, *‘*Biorank vs Commoncoin: Algorithms and
+[^1_2-Berardi_13]: Griziotti Vercellone, *‘*Biorank vs Commoncoin: Algorithms and
     Crypto-Currencies in the Bios of Cognitive Capitalism’, in *Quaderni
     di San Precario*, Vol. 8 (June 2014). 
     http://quaderni.sanprecario.info/2014/06/biorank-vs-commoncoin-algorithms-and-crypto-currencies-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti-and-carlo-vercellone/. 
 
-[^14]: Vercellone, ‘Biorank vs Commoncoin: Algorithms and
+[^1_2-Berardi_14]: Vercellone, ‘Biorank vs Commoncoin: Algorithms and
     Crypto-Currencies in the Bios of Cognitive Capitalism’’.

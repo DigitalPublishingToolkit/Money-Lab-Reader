@@ -26,17 +26,17 @@ focused recently on wealth accumulation at the top. The income data they
 have gathered shows that the primary source of accumulation for the 1
 percent now comes in the form of economic rents (from debt-leveraging,
 capital gains, manipulation of paper claims through derivatives, and
-other forms of financial engineering).[^1] The corresponding
+other forms of financial engineering).[^1_5-Ross_1] The corresponding
 accumulation of household debt (you can’t have one without the other)
 has been neglected, however, despite evidence that it continues to
 increase, posing a threat to the capacity of democracies to protect
-their citizenry from economic harms imposed by the creditor class.[^2]
+their citizenry from economic harms imposed by the creditor class.[^1_5-Ross_2]
 
 For a while, there seemed to be some good news on this front. Overall
 household debt was on the decrease from its sky-high levels just before
 the financial crash. In the U.S., debt service, which reached more than
 14 percent of after-tax income by the end of 2007, had fallen to 10.5
-percent by April 2013.[^3] Much of the deleveraging was due to low
+percent by April 2013.[^1_5-Ross_3] Much of the deleveraging was due to low
 interest rates, and to a reduction in mortgage debt, though it is not
 clear how much of the decrease came from banks writing off delinquent
 loans rather than from faithful repayment. In the third quarter of 2013,
@@ -124,17 +124,17 @@ acknowledged publicly last year in testimony to the Senate Judiciary
 Committee that when banks acquire so much concentrated power, it is
 ‘difficult for us to prosecute them… if you do bring a criminal charge,
 it will have a negative impact on the national economy, perhaps even the
-world economy’.[^4]
+world economy’.[^1_5-Ross_4]
 
 Holder’s admission that the government lacked the wherewithal to punish
 bankers for their widely-publicized record of extortion was a
 significant milestone, particularly for a democracy that has long
 struggled to contain the damage inflicted by plutocrats in its midst.
 But the ability of Wall Street barons to hold the government in thrall
-is nothing new.[^5] In a 1933 letter, Franklin D. Roosevelt wrote: ‘The
+is nothing new.[^1_5-Ross_5] In a 1933 letter, Franklin D. Roosevelt wrote: ‘The
 real truth of the matter is, as you and I know, that a financial element
 in the large centers has owned the government ever since the days of
-Andrew Jackson.’[^6] Owning lawmakers may be a venerable prerogative for
+Andrew Jackson.’[^1_5-Ross_6] Owning lawmakers may be a venerable prerogative for
 American financiers, but the rise of a full-blown creditocracy is more
 recent. Financialization had to creep into every corner of the household
 economy before the authority of the creditor class took on a sovereign,
@@ -150,7 +150,7 @@ Financiers seek to wrap debt around every possible asset and income
 stream, placing a tollbooth on every revenue source, ensuring a flow of
 interest from each. Furthermore, when fresh sources of credit are
 routinely needed to service existing debt (neatly captured in the 1990s
-bumper sticker, ‘I Use MasterCard to Pay Visa’),[^7] we can be sure we
+bumper sticker, ‘I Use MasterCard to Pay Visa’),[^1_5-Ross_7] we can be sure we
 are entering a more advanced phase of creditor rule.
 
 This kind of arrangement – borrowing to cover existing debt service –
@@ -175,7 +175,7 @@ debt have also spread upwards in recent decades, and now affect the
 majority of the population, tethering two generations of the
 college-educated. In the U.S., 77 percent of households are in serious
 debt, and one in seven Americans is being, or has been, pursued by a
-debt collector.[^8]
+debt collector.[^1_5-Ross_8]
 
 Even those without personal loans are debtors, because public debts,
 especially municipal obligations, have been structured in such a way
@@ -203,7 +203,7 @@ leveraged buy-outs, to be loaded down with debt and ruthlessly used to
 extract finance fees and interest. The difference between Mitt Romney’s
 career, at Bain Capital, and his father’s, at the American Motor
 Company, neatly summarizes the transition from industrial to financial
-capitalism.[^9] As for ordinary individuals, we are now under constant
+capitalism.[^1_5-Ross_9] As for ordinary individuals, we are now under constant
 financial surveillance by the major credit bureaus (Equifax, Experian,
 and TransUnion), whose credit reports, scores, and ratings of our
 conduct as debtors control the gateways to so many areas of economic
@@ -271,7 +271,7 @@ history of the struggle for political liberty is closely tied to the
 growth of credit. As James MacDonald has argued, the democratic
 institutions of liberal societies were able to survive and flourish
 because government bonds made it possible to borrow cheaply, especially
-in times of war.[^10] But today’s bond markets, which are globally
+in times of war.[^1_5-Ross_10] But today’s bond markets, which are globally
 networked and susceptible to speculative bets from hedge funds, are more
 likely to ‘judge’, ‘discipline’, and ‘reward’ policymakers than to
 faithfully serve their ends. Central banks increasingly act to ensure
@@ -345,7 +345,7 @@ JPMorgan Chase, for example, negotiated a \$13 billion settlement the
 U.S. Justice Department over packing mortgage-backed securities with
 dodgy home loans. Notably, less than \$3 billion was claimed in fines
 and only \$4 billion in relief for homeowners, while more than \$6
-billion was allocated for investors who suffered losses.[^11] Bank of
+billion was allocated for investors who suffered losses.[^1_5-Ross_11] Bank of
 America settled for \$17 billion under similar terms. But the profits of
 these banks and their peers are so large that such penalties are
 shrugged off as the cost of doing business. Public trust, the crucial
@@ -361,7 +361,7 @@ In *The Bankers’ New Clothes*, Anat Admati and Martin Hellwig argue that
 ‘there is a pervasive myth that banks and banking are special and
 different from all other companies in the economy. Anyone who questions
 the mystique and the claims that are made is at risk of being declared
-incompetent to participate in the discussion.’[^12] Finance, we are
+incompetent to participate in the discussion.’[^1_5-Ross_12] Finance, we are
 encouraged to believe, is too complex for lay people to understand. One
 of the outcomes of this mystique is that too many of us are trapped in
 the payback mindset. Though we may be more and more aware of the
@@ -390,7 +390,7 @@ existential threat to a free citizenry, then the refusal to pay is a
 defensible act of civil disobedience. For those aiming to reinvent
 democracy, this refusal is nothing short of a responsibility. The case
 for debt cancellation in developing countries has already been made by
-groups within or allied to the Debt Jubilee movement.[^13] These
+groups within or allied to the Debt Jubilee movement.[^1_5-Ross_13] These
 advocates have devised moral and legal arguments for repudiating the
 external debts of governments, and have had some success in delivering
 relief for some of the world’s poorest populations. Public debts in the
@@ -399,7 +399,7 @@ implemented from the battered periphery of the Eurozone to the
 beleaguered cohort of ex-industrial cities like Detroit and Baltimore.
 The process of questioning which of these debts is legitimate – and
 deserving of repayment – and which are unfair impositions to be
-rightfully rejected, is already underway.[^14] Now is the time to
+rightfully rejected, is already underway.[^1_5-Ross_14] Now is the time to
 extend this initiative to household debts, especially those taken on
 simply to gain access to basic social goods.
 
@@ -492,7 +492,7 @@ Duell, Sloan and Pearce, 1950.
 Ross, Andrew. *Creditocracy and the Case for Debt Refusal*, New York: OR
 Books, 2014.
 
-[^1]: Thomas Piketty, *Capital in the Twenty-First Century,* Cambridge:
+[^1_5-Ross_1]: Thomas Piketty, *Capital in the Twenty-First Century,* Cambridge:
     Harvard University Press, 2014; ‘Striking it Richer: The Evolution
     of Top Incomes in the United States’, a series of data reports by
     Emmanuel Saez and Thomas Piketty, outlines how the 1 percent have
@@ -510,28 +510,28 @@ Books, 2014.
     Middle Class’, New York University, 2012 accessible at
     [https://appam.confex.com/appam/2012/webprogram/Paper2134.html](https://appam.confex.com/appam/2012/webprogram/Paper2134.html).
 
-[^2]: Many of the arguments, and a good deal of the content, for this
+[^1_5-Ross_2]: Many of the arguments, and a good deal of the content, for this
     article are drawn from Andrew Ross, *Creditocracy and the Case for
     Debt Refusal*, OR Books, 2014. Available at
     [http://www.orbooks.com/catalog/creditocracy/](http://www.orbooks.com/catalog/creditocracy/).
 
-[^3]: Jeff Madrick, ‘A Bit of Good News’, *Harper’s*, April 2013:
+[^1_5-Ross_3]: Jeff Madrick, ‘A Bit of Good News’, *Harper’s*, April 2013:
     6-7.
 
-[^4]: See [http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/](http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/)
+[^1_5-Ross_4]: See [http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/](http://dealbook.nytimes.com/2013/03/11/big-banks-go-wrong-but-pay-a-little-price/)
 
-[^5]: See Nomi Prins, *All the Presidents’ Bankers: The Hidden
+[^1_5-Ross_5]: See Nomi Prins, *All the Presidents’ Bankers: The Hidden
     Alliances that Drive American Power,* New York: Avalon, 2013.
 
-[^6]: Letter to Col. Edward Mandell House (21 November 1933), in
+[^1_5-Ross_6]: Letter to Col. Edward Mandell House (21 November 1933), in
     Elliott Roosevelt (ed.) *F.D.R.: His Personal Letters, 1928-1945*,
     New York: Duell, Sloan and Pearce, 1950, p. 373.
 
-[^7]: As quoted in Robert Manning, *Credit Card Nation: The
+[^1_5-Ross_7]: As quoted in Robert Manning, *Credit Card Nation: The
     Consequences of America’s Addiction to Credit Cards,* New York:
     Basic Books, 2000, p. 27.
 
-[^8]: According to an August 2013 report from the Federal Reserve
+[^1_5-Ross_8]: According to an August 2013 report from the Federal Reserve
     Bank of New York, almost 15 percent of all credit reports – covering
     an estimated 30 million consumers – displayed collection items from
     debt collection. In other words, one in seven Americans was being,
@@ -539,24 +539,24 @@ Books, 2014.
     Household Debt and Credit* (August 2013) accessible at
     [http://www.newyorkfed.org/research/national\_economy/householdcredit/DistrictReport\_Q22013.pdf](http://www.newyorkfed.org/research/national\_economy/householdcredit/DistrictReport\_Q22013.pdf).
 
-[^9]: Matt Taibbi, ‘Greed and Debt: The True Story of Mitt Romney
+[^1_5-Ross_9]: Matt Taibbi, ‘Greed and Debt: The True Story of Mitt Romney
     and Bain Capital’, *Rolling Stone*, 29 August 2012.
 
-[^10]: James MacDonald, *A Free Nation Deep in Debt: The Financial
+[^1_5-Ross_10]: James MacDonald, *A Free Nation Deep in Debt: The Financial
     Roots of Democracy*, New York: Farrar, Strauss & Giroux, 2003.
 
-[^11]: Peter Eavis and Ben Protess, ‘Considering the Fairness of
+[^1_5-Ross_11]: Peter Eavis and Ben Protess, ‘Considering the Fairness of
     JPMorgan’s Deal’, *The New York Times,* 22 October 2013.
 
-[^12]: Anat Admati and Martin Hellwig, *The Bankers’ New Clothes:
+[^1_5-Ross_12]: Anat Admati and Martin Hellwig, *The Bankers’ New Clothes:
     What’s Wrong with Banking and What to Do About It,* Princeton:
     Princeton University Press, 2013, p. 2.
 
-[^13]: Damien Millet and Eric Toussaint, *Who Owes Who? 50
+[^1_5-Ross_13]: Damien Millet and Eric Toussaint, *Who Owes Who? 50
     Questions about World Debt,* London: Zed Books, 2004; *Debt, the
     IMF, and the World Bank: Sixty Questions, Sixty Answers* New York:
     Monthly Review Press, 2010.
 
-[^14]: François Chesnais, *Les Dettes Illégitimes: Quand les
+[^1_5-Ross_14]: François Chesnais, *Les Dettes Illégitimes: Quand les
     Banques Font Main Basse sur les Politiques Publiques*, Paris: Liber,
     2012.

@@ -74,7 +74,7 @@ epochal events in such a short period would suggest that world society
 was quite well integrated even then. But in the 1870s, international
 trade accounted for no more than one percent of Gross National Product
 in most countries and the most reliable indicator of Britain’s annual
-economic performance was the weather at harvest-time.[^1]
+economic performance was the weather at harvest-time.[^1_1-Hart_Keith_1]
 
 Capitalism has always rested on an unequal contract between owners of
 large amounts of money and those who make and buy their products. This
@@ -102,7 +102,7 @@ extreme consequences, while encouraging their material benefits to
 accrue to citizens across the board. The national system became general
 after World War I and was the dominant social form of 20th
 century civilization. Its apogee or ‘golden age’ was in the period
-1945-1979.[^2] This was a time of developmental states, economic growth,
+1945-1979.[^1_1-Hart_Keith_2] This was a time of developmental states, economic growth,
 and redistribution when, for the first and only time in history, the
 purchasing power of working people and the public services available to
 them were the principal goals of economic policy everywhere – in the
@@ -146,7 +146,7 @@ to a more inclusive level than the 20th century norm, when society was
 identified with the nation-state. For us to live in the world together,
 we have to devise new ways of doing things for each other that go beyond
 the ideal of achieving local self-sufficiency that drove national
-economy in the modern era and domestic economy before that.[^3]
+economy in the modern era and domestic economy before that.[^1_1-Hart_Keith_3]
 Globalization is closely linked to the extension of society by means of
 money and markets. I follow a number of writers – Marx, Simmel, Mauss,
 Polanyi, Keynes – who believed in money’s centrality to a variety of
@@ -166,7 +166,7 @@ money circuit that has become detached from production and politics; and
 second, it is driven by a digital revolution whose symbol is the
 internet, the network of networks. Since then I have explored how the
 forms of money and exchange are changing in the context of this
-communications revolution.[^4]
+communications revolution.[^1_1-Hart_Keith_4]
 
 Money has acquired its apparent pre-eminence because the economy has
 been extended rapidly from a national to a global level with much less
@@ -231,7 +231,7 @@ crisis, but it may still come to be seen as the decisive nail in the
 coffin of the world economy today. We need to ask not what is beginning,
 but what is ending. This is not straightforward. What is ending is
 ‘national capitalism’, the synthesis of nation-states and industrial
-capitalism.[^5] Its main symbol has been national monopoly currency
+capitalism.[^1_1-Hart_Keith_5] Its main symbol has been national monopoly currency
 (legal tender policed by a central bank). It was the institutional
 attempt to manage money, markets and accumulation through central
 bureaucracy within a cultural community of national citizens. It was
@@ -280,7 +280,7 @@ economy.
 
 Karl Polanyi argued that only modern money combines the four functions
 (payment, standard, store, and exchange) in a few ‘all-purpose’ symbols,
-national currency.[^6] Although his analysis was intended just to
+national currency.[^1_1-Hart_Keith_6] Although his analysis was intended just to
 illuminate the history of money, Polanyi’s approach offers profound
 insight into the causes of today’s global economic crisis. Our challenge
 is to conceive of society once more as something plural rather than
@@ -296,7 +296,7 @@ rates, world economy has reverted to the plural pattern of competing
 currencies that was normal before central banks learned how to control
 national economies in the late 19th century. One aspect of the present
 crisis is that the international rule system imposed after World War II was subverted by the creation of an offshore banking system
-which brought the informal economy to the heart of global finance.[^7]
+which brought the informal economy to the heart of global finance.[^1_1-Hart_Keith_7]
 The separation of functions between different types of monetary
 instruments was also crucial to money’s great escape from the rules of
 the Keynesian consensus. Central bank control has been eroded by a shift
@@ -305,7 +305,7 @@ of corporations of many kinds, not just governments and banks.
 
 Georg Simmel considered money’s twin anchors to be its physical
 substance (coins, paper, etc.) and the social institutions supporting
-the community of its users.[^8] He predicted that the first would wither
+the community of its users.[^1_1-Hart_Keith_8] He predicted that the first would wither
 away, making the second more visible. Simmel’s prophecy has been
 realized to a remarkable degree, as the digital revolution accelerates
 and cheapens electronic transfers. But if the essence of money is its
@@ -314,7 +314,7 @@ made national capitalism seem a lot less self-sufficient than it did a
 century ago. Radical reductions in the cost of transferring information
 have introduced new conditions for engagement with the impersonal
 economy. The replacement of single currencies by numerous types of more
-specialized monetary instruments is one inevitable result of this.[^9]
+specialized monetary instruments is one inevitable result of this.[^1_1-Hart_Keith_9]
 
 We must therefore move from singular (national) to plural (federal)
 conceptions of society. The infrastructure of money has already become
@@ -359,9 +359,9 @@ possibilities for our personalities to develop. We learn about politics
 and our membership of larger groups by participation in monetary
 networks that exclude and entrap us even as they extend our horizons. As
 Marcel Mauss knew, the idea of society itself is reshaped by this
-multifarious expansion.[^10] If we hope for a more peaceful and
+multifarious expansion.[^1_1-Hart_Keith_10] If we hope for a more peaceful and
 integrated world society, money will certainly play an important role in
-its recovery from the present impasse.[^11]
+its recovery from the present impasse.[^1_1-Hart_Keith_11]
 
 The economy always has two faces, being pulled both inwards to secure
 local guarantees of a community’s rights and interests and outwards to
@@ -372,12 +372,12 @@ fantasy or at worst a threat. We need to build an infrastructure of
 money adequate to humanity’s common needs, although this agenda seems
 impossibly remote right now. One move in this direction goes by the name
 of ‘alter-globalization’ and the idea of a human economy offers a bridge
-to that movement.[^12]
+to that movement.[^1_1-Hart_Keith_12]
 
 ## Money in a Human Economy
 
 At the University of Pretoria we have organized a research team to
-develop a ‘human economy’ approach.[^13] Our first basic method is
+develop a ‘human economy’ approach.[^1_1-Hart_Keith_13] Our first basic method is
 inspired by the ethnographic revolution that launched social and
 cultural anthropology in the 20th century. A class of academics chose to
 break out of the ivory tower and join the people where they live in
@@ -445,9 +445,9 @@ confusion has been cleared up.
 ## Heads or Tails Revisited
 
 In my article ‘Heads or Tails? Two Sides of the Coin’, I argued
-following Polanyi[^14] that money is both a *token* of state authority
+following Polanyi[^1_1-Hart_Keith_14] that money is both a *token* of state authority
 and a *commodity* made by markets, at the same time an aspect of
-relations between persons and a thing detached from persons.[^15] States
+relations between persons and a thing detached from persons.[^1_1-Hart_Keith_15] States
 and markets are combined in national capitalism, but policy swings
 erratically between the two extremes. David Graeber has made a similar
 contrast between money as virtual credit and as currency or bullion to
@@ -456,7 +456,7 @@ the concrete symbol of our human potential to make universal society, we
 will first have to get past national capitalism as the 20th century’s
 dominant social form.
 
-Money, much as Durkheim argued for religion,[^16] is the principal means
+Money, much as Durkheim argued for religion,[^1_1-Hart_Keith_16] is the principal means
 for us all to bridge the gap between everyday personal experience and a
 society whose wider reaches are impersonal. It is often portrayed as a
 lifeless object separated from persons, whereas it is a creation of
@@ -465,7 +465,7 @@ dead. Money, as a token of society, must be impersonal in order to
 connect individuals to the universe of relations to which they belong.
 But people make everything personal, including their relations with
 society. This two-sided relationship is universal, but its incidence is
-highly variable.[^17] Money in capitalist societies stands for
+highly variable.[^1_1-Hart_Keith_17] Money in capitalist societies stands for
 alienation, detachment, impersonal society, the outside; its origins lie
 beyond our control (*the market*). Relations marked by the absence of
 money are the model of personal integration and free association, of
@@ -490,7 +490,7 @@ and finite determination. To turn our backs on markets and money in the
 name of collective as opposed to individual interests reproduces by
 negation the bourgeois separation of self and society. It is not enough
 to emphasize the controls that people already impose on money and
-exchange as part of their personal practice.[^18] That is the everyday
+exchange as part of their personal practice.[^1_1-Hart_Keith_18] That is the everyday
 world as most of us know it. We also need ways of reaching the parts of
 the macro-economy that we don’t know, if we wish to avert the ruin it
 could bring down on us all.
@@ -504,7 +504,7 @@ politics seems to be inevitable. But the imbalances of the money system
 are now global.
 
 Polanyi explained the world crisis of the mid-20th century as the
-outcome of a previous round of what we would call ‘globalization’.[^19]
+outcome of a previous round of what we would call ‘globalization’.[^1_1-Hart_Keith_19]
 There are substantial parallels between the last three decades and a
 similar period before 1914. In both cases, market forces were unleashed
 within national societies, leading to rapid capital accumulation and an
@@ -535,7 +535,7 @@ capitalism turned away from the world in an era of war and disruption of
 trade into an aspiration to self-sufficiency whose symbol was national
 currency. On a much smaller scale community currencies of the LETS type
 reject money’s capacity to link us to universal society in favor of
-local restrictions on exchange.[^20] Even Simmel believed that the
+local restrictions on exchange.[^1_1-Hart_Keith_20] Even Simmel believed that the
 dematerialization of money would reveal to us our dependence on society
 in the Durkheimian form of a singular state. All we know now is that the
 economy is global and lawless, while national capitalism is in full
@@ -544,7 +544,7 @@ and revolution, comparable to that of 1914-1945, the last time that
 several decades of financial globalization ended.
 
 We are not entitled, of course, to assume that neoliberalism is played
-out.[^21] Neoliberal privatization and the invasion of money into public
+out.[^1_1-Hart_Keith_21] Neoliberal privatization and the invasion of money into public
 and domestic life continue unabated. The penetration of finance into
 everyday reproduction poses problems that should be addressed through
 developing alternative approaches to money, not by denying its central
@@ -558,7 +558,7 @@ insisted that money is both personal and impersonal, subjective and
 objective, analytical and synthetic: and this is related to its ability
 to mediate the extremes of human experience. Money as memory links
 individual and community, past, present and future, science and story,
-local and global.[^22] We must resist the temptation to perch on one
+local and global.[^1_1-Hart_Keith_22] We must resist the temptation to perch on one
 pole of these paired categories, learning rather how to think
 dialectically through them and to begin to work out practical ways of
 combining them socially.
@@ -699,76 +699,76 @@ Simmel, Georg. *The Philosophy of Money*. London: Routledge, 1978
 Zelizer, Viviana A. *The Social Meaning of Money*, New York: Basic
 Books, 1994.
 
-[^1]: W. Arthur Lewis, *The Evolution of the International Economic
+[^1_1-Hart_Keith_1]: W. Arthur Lewis, *The Evolution of the International Economic
     Order*, Princeton: Princeton University Press, 1978.
 
-[^2]: Eric Hobsbawm, *The Age of Extremes: The Short Twentieth Century
+[^1_1-Hart_Keith_2]: Eric Hobsbawm, *The Age of Extremes: The Short Twentieth Century
     1914-1991*, London: Little Brown, 1994.
 
-[^3]: Chris Hann and Keith Hart, *Economic Anthropology: History,
+[^1_1-Hart_Keith_3]: Chris Hann and Keith Hart, *Economic Anthropology: History,
     Ethnography, Critique*, Cambridge: Polity, 2011.
 
-[^4]: Keith Hart, *The Memory Bank: Money in an Unequal World*, London:
+[^1_1-Hart_Keith_4]: Keith Hart, *The Memory Bank: Money in an Unequal World*, London:
     Profile, 2000.
 
-[^5]: Keith Hart, ‘Money in the Making of World Society’, in Chris Hann
+[^1_1-Hart_Keith_5]: Keith Hart, ‘Money in the Making of World Society’, in Chris Hann
     and Keith Hart (eds) *Market and Society*. Cambridge: Cambridge
     University Press, 2009, pp. 91-105.
 
-[^6]: Karl Polanyi, ‘Money Objects and Money Uses’, in *The Livelihood
+[^1_1-Hart_Keith_6]: Karl Polanyi, ‘Money Objects and Money Uses’, in *The Livelihood
     of Man. Studies in Social Discontinuity*, New York: Academic, 1977
     (1964).
 
-[^7]: Nicholas Shaxson, *Treasure Islands: Tax Havens and the Men Who
+[^1_1-Hart_Keith_7]: Nicholas Shaxson, *Treasure Islands: Tax Havens and the Men Who
     Stole the World*, New York: Vintage, 2011.
 
-[^8]: Georg Simmel, *The Philosophy of Money*. London: Routledge, 1978
+[^1_1-Hart_Keith_8]: Georg Simmel, *The Philosophy of Money*. London: Routledge, 1978
     (1900).
 
-[^9]: Paul H. Dembinski and Christophe Perritaz, ‘Towards the Break-up
+[^1_1-Hart_Keith_9]: Paul H. Dembinski and Christophe Perritaz, ‘Towards the Break-up
     of Money: When Reality Driven by Information Technology Outshines
     Simmel’s Vision’, *Foresight* 2.5 (2000): 483-97.
 
-[^10]: Marcel Mauss, *Écrits politiques,* M. Fournier (ed.) Paris:
+[^1_1-Hart_Keith_10]: Marcel Mauss, *Écrits politiques,* M. Fournier (ed.) Paris:
     Fayard, 1997; Keith Hart, ‘Marcel Mauss’s Economic Vision,
     1920-1925: Anthropology, Politics, Journalism’, *Journal of
     Classical Sociology* 14.1 (2014): 34-44.
 
-[^11]: Keith Hart and Horacio Ortiz, ‘The Anthropology of Money and
+[^1_1-Hart_Keith_11]: Keith Hart and Horacio Ortiz, ‘The Anthropology of Money and
     Finance: Between Ethnography and World History’, *Annual Review of
     Anthropology* 43 (2014): 465-482.
 
-[^12]: Geoffrey Pleyers, *Alter-Globalization: Becoming Actors in A
+[^1_1-Hart_Keith_12]: Geoffrey Pleyers, *Alter-Globalization: Becoming Actors in A
     Global World*, Cambridge: Polity, 2010.
 
-[^13]: See Keith Hart, Jean-Louis Laville, and Antonio Cattani (eds)
+[^1_1-Hart_Keith_13]: See Keith Hart, Jean-Louis Laville, and Antonio Cattani (eds)
     *The Human Economy: A Citizen’s Guide*, Cambridge: Polity, 2010,
     [http://www.up.ac.za/human-economy-program/](http://www.up.ac.za/human-economy-program/),
     [http://thehumaneconomy.blogspot.com/](http://thehumaneconomy.blogspot.com/).
 
-[^14]: Karl Polanyi, *The Great Transformation: The Political and
+[^1_1-Hart_Keith_14]: Karl Polanyi, *The Great Transformation: The Political and
     Economic Origins of Our Times*, Boston: Beacon, 2001 (1944).
 
-[^15]: Keith Hart, ‘Heads or Tails? Two Sides of the Coin’, *Man* 3.21
+[^1_1-Hart_Keith_15]: Keith Hart, ‘Heads or Tails? Two Sides of the Coin’, *Man* 3.21
     (1986): 637-56.
 
-[^16]: Emile Durkheim, *The Elementary Forms of the Religious Life,*
+[^1_1-Hart_Keith_16]: Emile Durkheim, *The Elementary Forms of the Religious Life,*
     Glencoe, IL: Free Press, 1965 (1912).
 
-[^17]: Keith Hart, ‘Money is Always Personal and Impersonal’,
+[^1_1-Hart_Keith_17]: Keith Hart, ‘Money is Always Personal and Impersonal’,
     *Anthropology Today* 23.5 (2007): 16-20.
 
-[^18]: Jonathan Parry and Maurice Bloch (eds) *Money and the Morality of
+[^1_1-Hart_Keith_18]: Jonathan Parry and Maurice Bloch (eds) *Money and the Morality of
     Exchange*, Cambridge: Cambridge University Press, 1989; Viviana A.
     Zelizer, *The Social Meaning of Money*, New York: Basic Books, 1994.
 
-[^19]: Polanyi, *The Great Transformation*.
+[^1_1-Hart_Keith_19]: Polanyi, *The Great Transformation*.
 
-[^20]: Jerome Blanc, ‘Community and Complementary Currencies’, in Keith
+[^1_1-Hart_Keith_20]: Jerome Blanc, ‘Community and Complementary Currencies’, in Keith
     Hart, Jean-Louis Laville, and Antonio David Cattani (eds) *The Human
     Economy*, Malden and Cambridge: Polity, 2010, pp. 303-312.
 
-[^21]: Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, New
+[^1_1-Hart_Keith_21]: Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, New
     York: Verso, 2013.
 
-[^22]: Keith Hart, *The Memory Bank*.
+[^1_1-Hart_Keith_22]: Keith Hart, *The Memory Bank*.

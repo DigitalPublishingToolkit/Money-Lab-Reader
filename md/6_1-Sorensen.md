@@ -31,11 +31,11 @@ platforms for creative projects; Seedrs caters for start up businesses;
 Sponsume innovators and social enterprises; and Gambitious connects game
 developers with investors. In 2013, £360 million was raised through a
 variety of crowdfunding models: donations, reward-based pledging,
-peer-lending, patronage, royalty and equity in the U.K. alone,[^1] and a
+peer-lending, patronage, royalty and equity in the U.K. alone,[^6_1-Sorensen_1] and a
 study for Nesta estimates that this could rise to £15 billion per year
-within five years.[^2] Consequently, this form of funding has won the
+within five years.[^6_1-Sorensen_2] Consequently, this form of funding has won the
 attention of politicians, legislators, academics, and the business
-community. Barack Obama described crowdfunding as ‘game-changing’[^3]
+community. Barack Obama described crowdfunding as ‘game-changing’[^6_1-Sorensen_3]
 and the U.S. and U.K. legislated for equity funding in 2012. This year,
 the EU is creating a pan-European workgroup to explore the potential and
 pitfalls of crowdfunding. These developments and the progressively more
@@ -50,7 +50,7 @@ surrounding them. Yet new issues around Intellectual Propert (IP) and
 co-ownership of crowdfunded projects continue to emerge, as for example
 the debates around who really owns the initially crowdfunded Oculus Rift
 (and consequently should benefit from Facebook’s \$2 billion acquisition
-of) have illustrated.[^4] Similarly, Ordanini, Miceli, Pizzetti, and
+of) have illustrated.[^6_1-Sorensen_4] Similarly, Ordanini, Miceli, Pizzetti, and
 Parasuraman explore the motivations of crowdfunders on pledge and
 donation platforms, however, since legislation on equity funding has
 only recently come into force there is still much more work to be done
@@ -81,12 +81,12 @@ Hollywood and translated into the crowdfunding platform Junction
 a net worth of over \$1 million U.S. dollars. Junction’s creator Dominic
 Patten sums up the rationale of the platform in this manner: ‘The real
 selling point here is the access and that the new Hollywood newbie
-investors get the same terms as the original investors.’[^5]
+investors get the same terms as the original investors.’[^6_1-Sorensen_5]
 Furthermore, and in marked contrast to the popular conception of
 crowdfunding as creating an equal playing field for film makers and
 democratizing the film production process, the crowd seems to favor a
 less diverse group filmmakers and often prefer to support established
-talent with track records and name recognition.[^6] Documentary film
+talent with track records and name recognition.[^6_1-Sorensen_6] Documentary film
 budgets are often significantly lower than those of fiction films and
 Morozov and Sørensen have explored whether crowdfunding, as the hype
 will sometimes have it, could offer a lifeline to independent
@@ -131,9 +131,9 @@ this is not to reject the idea of crowdfunding *per se.*
 Crowdfunding is not a new way to raise funds for films, but rather an
 online version of the patronage model that has funded all art forms
 throughout history. For instance Emile de Antonio’s 1968 Oscar winner
-*In the Year of the Pig* was funded through sponsor parties.[^7] Indeed
+*In the Year of the Pig* was funded through sponsor parties.[^6_1-Sorensen_7] Indeed
 online crowdfunders often describe themselves in philanthropic terms
-when they explain their reasons for donations.[^8]
+when they explain their reasons for donations.[^6_1-Sorensen_8]
 
 In principle, using crowdfunding to support any creative endeavors that
 would otherwise struggle to come to fruition can only enrich cultural
@@ -206,7 +206,7 @@ this.
 
 ### Declining Documentary Budgets 
 
-In the U.K. the majority of documentaries, 79 percent,[^9] are funded by
+In the U.K. the majority of documentaries, 79 percent,[^6_1-Sorensen_9] are funded by
 the four terrestrial broadcasters who commission and upfront and
 outright fund 100 percent of the entire production. The broadcasters
 then have the right to show the documentary twice, after which the
@@ -216,7 +216,7 @@ international distributors or outlets like Netflix and Lovefilm. The
 British model of funding documentary films is different from most other
 European countries, for example Denmark where co-production and
 co-funding is the main form for funding films, and the US where deficit
-funding is the norm.[^10] However as the world’s second largest producer
+funding is the norm.[^6_1-Sorensen_10] However as the world’s second largest producer
 and exporter of documentaries, what is happening within the British
 documentary industry is of global importance.
 
@@ -225,10 +225,10 @@ documentary film, have fallen in the U.K.. There has been a 22 percent
 fall in documentary budgets over five years, from a total spend of £585
 in 2007 to £455 in 2012, as Figure 1 illustrates. In this same time
 period the number of hours of factual programs and documentary films has
-gone up. The net effect is that the budget per film is declining.[^11]
+gone up. The net effect is that the budget per film is declining.[^6_1-Sorensen_11]
 
 Moreover there has been a polarization of budgets, so that high profile
-projects have more finance behind them than other productions.[^12] This
+projects have more finance behind them than other productions.[^6_1-Sorensen_12] This
 is eroding the budgets for more independent types of documentaries
 further.
 
@@ -252,7 +252,7 @@ senior lecturer in Film & Television Production wrote:
 > makers seeking support from the BBC have one destination:
 > *Storyville*, a cash-starved ghetto within BBC television. It’s a
 > similar story with Channel 4 – the funds available for feature
-> documentaries are vanishingly small.[^13]
+> documentaries are vanishingly small.[^6_1-Sorensen_13]
 
 Nick Fraser, Series editor of BBC *Storyville* noted the same trend as
 early as 2009:
@@ -260,7 +260,7 @@ early as 2009:
 > Documentary-makers were very worried about being overcome by Big
 > Brother and “Big Mac” docs, but I think that phase has passed and the
 > worry is now much more basic. These people are working for nothing.
-> We’re talking such small amounts of money, it’s getting alarming.[^14]
+> We’re talking such small amounts of money, it’s getting alarming.[^6_1-Sorensen_14]
 
 It is in this economic climate that documentary makers are turning to
 crowdfunding to produce their films. However, paradoxically,
@@ -272,7 +272,7 @@ filmmakers to create and nurture an audience for the film or audiovisual
 project before it is made, and can be used as a proof of concept of the
 project’s viability. Also, the fan and funder base offer the filmmaker
 emotional and practical peer support, as well as create free viral
-promotion and advertising for the project.[^15] These benefits pertain
+promotion and advertising for the project.[^6_1-Sorensen_15] These benefits pertain
 to crowdfunded projects across genres and industries as research by
 Ordanini et al. and Belleflamme et al. has shown. Also, crowdfunding
 allows filmmakers to produce films outside of the established funding
@@ -295,7 +295,7 @@ value is significantly less. Again, prices vary and exact terms of trade
 are contractually confidential. However, according to six industry
 insiders, feature documentaries are regularly bought for BBC’s
 *Storyville* and the Danish DR’s *Dokumania* strand for as little as
-£1500.00.[^16] In short, instead of an upfront commission for a
+£1500.00.[^6_1-Sorensen_16] In short, instead of an upfront commission for a
 documentary that previously may have cost £150,000, the broadcasters can
 now acquire a similar finished product for a fraction of the price.
 
@@ -376,7 +376,7 @@ especially if it is a documentary film. Money corrupts, and in
 crowdfunding it can be hard to tell where the money is coming from. As
 Nick Fraser, the BBC’s series editor of *Storyville*, puts it: ‘If Dr
 Goebbels appeared with a huge sack of money, there would be documentary
-film-makers queuing around the block to take it.’[^17] Fraser’s point is
+film-makers queuing around the block to take it.’[^6_1-Sorensen_17] Fraser’s point is
 valid: notions of impartiality and balance are hard to uphold, if a
 documentary is part funded by political parties, an NGO, pressure group,
 lobbyist, charity or business.
@@ -392,7 +392,7 @@ no such obligations. Although some crowdfunding platforms are charities,
 others are businesses. Their remit is profit or turnover, not plurality
 or making sure that a variety of films that represent a spectrum of
 voices are made. It is increasingly evident that the crowd favors films
-of mass appeal or those made by filmmakers with name recognition,[^18]
+of mass appeal or those made by filmmakers with name recognition,[^6_1-Sorensen_18]
 and another casualty of crowdfunding could be diversity and plurality of
 productions and voices.
 
@@ -425,7 +425,7 @@ model of museums, but taking these trends to their logical conclusion,
 why have public arts funding at all? The discourse around democratizing
 production and funding through ‘crowds’ and ‘communities’ is alluring,
 but it also chimes well with the Conservative British Prime Minister,
-David Cameron’s Big Society, as Evgeny Morozov points out.[^19] One
+David Cameron’s Big Society, as Evgeny Morozov points out.[^6_1-Sorensen_19] One
 might, if of a neoliberal predisposition, wonder why the state should
 subsidize the eight percent who watch ballet and contemporary dance,
 when dance fans could just crowdfund it themselves. Or ask why people
@@ -443,7 +443,7 @@ funding.
 
 In cultural economics it has long been acknowledged that artists
 subsidize the arts with their time, free work and self-funding of the
-development of projects.[^20] Artists also subsidize each other by
+development of projects.[^6_1-Sorensen_20] Artists also subsidize each other by
 helping out colleagues, collaborators and prospective employers as part
 of their practice. ‘Freebies’ is an established term within creative
 work, and although not always recognized as such in economic terms,
@@ -464,7 +464,7 @@ Documentary films perform a crucial role in exchanging and mediating
 knowledge and opinions in society. Carl Plantinga argues that the
 integrity and quality of non-fiction films is a precondition for the
 ‘healthy intersubjectivty’ that he sees as fundamental to the
-functioning of Western democracies.[^21] The conditions under which
+functioning of Western democracies.[^6_1-Sorensen_21] The conditions under which
 documentary films and content are produced are therefore of paramount
 importance. As crowdfunding increasingly becomes a way to fund these
 films it is necessary to highlight these unintended consequences for the
@@ -642,18 +642,18 @@ Crowdfunding an Ambitious Project, but Intellectual Property Issues,
 Ownership Rights and Perk Obligations Present Potential Hurdles to
 Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
 
-[^1]: This figure is the sum of equity, donations, reward-based, and
+[^6_1-Sorensen_1]: This figure is the sum of equity, donations, reward-based, and
     revenue-sharing profit crowdfunding in this report by Liam Collins,
     Richard Swart, and Bryan Zhang, *The Rise of Future Finance*, London:
     Nesta, Berkeley and University of Cambridge, 2013.
 
-[^2]: Nesta, [http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013](http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013).
+[^6_1-Sorensen_2]: Nesta, [http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013](http://www.nesta.org.uk/news/uk-crowdfunding-platforms-50-cent-2013).
 
-[^3]: Alex Fitzpatrick, ‘Obama Signs “Game-Changing” Crowd-Funding Jobs
+[^6_1-Sorensen_3]: Alex Fitzpatrick, ‘Obama Signs “Game-Changing” Crowd-Funding Jobs
     Act’, *Mashable*, 5 April 2012,
     [http://mashable.com/2012/04/05/jobs-act-signed/](http://mashable.com/2012/04/05/jobs-act-signed/).
 
-[^4]: Some of the implications of crowdfunding for IP are discussed by,
+[^6_1-Sorensen_4]: Some of the implications of crowdfunding for IP are discussed by,
     for example, Nicholas Wells, ‘The Risks of Crowdfunding: Most Have
     the Best Intentions When It Comes to Crowdfunding an Ambitious
     Project, but Intellectual Property Issues, Ownership Rights and Perk
@@ -662,29 +662,29 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     ‘Crowdfunding Technology Innovation’, *Computer* 46.3 (2013):
     100-103.
 
-[^5]: Ben Child, ‘Tom Hanks Film Seeks Crowdfunding via “Kickstarter for
+[^6_1-Sorensen_5]: Ben Child, ‘Tom Hanks Film Seeks Crowdfunding via “Kickstarter for
     the Rich” Site’, *The Guardian,* 27 March 2014,
     [http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction](http://www.theguardian.com/film/2014/mar/27/tom-hanks-film-crowdfunding-kickstarter-junction).
 
-[^6]: See Brabham’s, Mollick’s, Morozov’s, and Sørensen’s research.
+[^6_1-Sorensen_6]: See Brabham’s, Mollick’s, Morozov’s, and Sørensen’s research.
 
-[^7]: Jane Chapman and Kate Allison, *Issues in Contemporary
+[^6_1-Sorensen_7]: Jane Chapman and Kate Allison, *Issues in Contemporary
     Documentary*, Cambridge: Polity, 2009, p. 104.
 
-[^8]: As noted by Ethan R. Mollick, ‘The Dynamics of Crowdfunding: An
+[^6_1-Sorensen_8]: As noted by Ethan R. Mollick, ‘The Dynamics of Crowdfunding: An
     Exploratory Study’, *Journal of Business Venturing* 29. 1 (2014), as
     well as Paul Belleflamme, Thomas Lambert, and Armin Schwienbacher,
     ‘Crowdfunding: Tapping the Right Crowd’, paper presented at the
     International Conference of the French Finance Association (AFFI),
     11 May 2011.
 
-[^9]: PACT, *Pact Policy Survey and Financial Census 2009*, London:
+[^6_1-Sorensen_9]: PACT, *Pact Policy Survey and Financial Census 2009*, London:
     Oliver & Ohlbaum Associates ltd., 2009, p. 14.
 
-[^10]: Gillian Doyle, *Understanding Media Economics*, 2nd edition,
+[^6_1-Sorensen_10]: Gillian Doyle, *Understanding Media Economics*, 2nd edition,
     London: SAGE, 2013, pp. 111-114.
 
-[^11]: These figures are from Ofcom’s *Public Service Broadcasting
+[^6_1-Sorensen_11]: These figures are from Ofcom’s *Public Service Broadcasting
     Annual Report 2013*, London: Ofcom, 2013, pp. 9 and 16. However,
     Ofcom’s statistics as well as the BBC’s and Channel 4’s annual
     reports conflate factual programming and documentary in a ‘factual’
@@ -706,42 +706,42 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     Affairs’ and ‘Arts & Music’ have also declined, as Figure 1
     demonstrates.
 
-[^12]: Inge Sørensen, ‘Crowdsourcing and Outsourcing: The Impact of
+[^6_1-Sorensen_12]: Inge Sørensen, ‘Crowdsourcing and Outsourcing: The Impact of
     Online Funding and Distribution on the Documentary Film Industry in
     the UK’, *Media, Culture & Society* 34.6 (2012): p. 734.
 
-[^13]: David Hickman, ‘Documentary Funding Gap Stalls Great Films Like
+[^6_1-Sorensen_13]: David Hickman, ‘Documentary Funding Gap Stalls Great Films Like
     the Act of Killing’, *The Conversation,* 6 March 2014,
     [http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737](http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737).
 
-[^14]: Nick Fraser is cited in David Cox, ‘Is This the End of the Line
+[^6_1-Sorensen_14]: Nick Fraser is cited in David Cox, ‘Is This the End of the Line
     for the Impartial Documentary’*, The Guardian.co.uk*, 9 November
     2009,
     [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films).
 
-[^15]: Franny Armstrong relates her perceived benefits of crowdfunding
+[^6_1-Sorensen_15]: Franny Armstrong relates her perceived benefits of crowdfunding
     in an interview with Inge Sørensen. Full transcript in the appendix
     of Sørensen’s PhD diss., *Documentary in a Multiplatform Context*
     from the Department for Media, Cognition and Communication,
     Copenhagen University, Denmark, 2013,
     [http://curis.ku.dk/ws/files/44584781/Ph.d.\_2013\_S\_rensen.pdf](http://curis.ku.dk/ws/files/44584781/Ph.d.\_2013\_S\_rensen.pdf).
 
-[^16]: Four documentary makers have related this figure in personal
+[^6_1-Sorensen_16]: Four documentary makers have related this figure in personal
     communications with the author.
 
-[^17]: David Cox, ‘Is This the End of the Line for the Impartial
+[^6_1-Sorensen_17]: David Cox, ‘Is This the End of the Line for the Impartial
     Documentary’*, The Guardian*, 9 November 2009,
     [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films).
 
-[^18]: As described by Inge Sørensen, ‘Crowdsourcing and Outsourcing’
+[^6_1-Sorensen_18]: As described by Inge Sørensen, ‘Crowdsourcing and Outsourcing’
     and Darren C. Brabham, ‘The Myth of Amateur Crowds: A Critical
     Discourse Analysis of Crowdsourcing Coverage’,
     *Information, Communication & Society,* 15.3 (2012): 394-410.
 
-[^19]: Evgeny Morozov, ‘Kickstarter Will Not Save Artists from the Entertainment Industry’s Shackles:A New Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, Slate Magazine, 25September 2012, <http://www.slate.com/articles/technology/future_tense/2012/09/kickstarter_s_crowdfunding_won_t_save_indie_filmmaking_.html>.
+[^6_1-Sorensen_19]: Evgeny Morozov, ‘Kickstarter Will Not Save Artists from the Entertainment Industry’s Shackles:A New Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, Slate Magazine, 25September 2012, <http://www.slate.com/articles/technology/future_tense/2012/09/kickstarter_s_crowdfunding_won_t_save_indie_filmmaking_.html>.
 
-[^20]: Ruth Towse, *Advanced Introduction To Cultural Economics*,
+[^6_1-Sorensen_20]: Ruth Towse, *Advanced Introduction To Cultural Economics*,
     Cheltenham: Edward Elgar Publishing, 2014.
 
-[^21]: Carl R. Plantinga, *Rhetoric and Representation in Nonfiction
+[^6_1-Sorensen_21]: Carl R. Plantinga, *Rhetoric and Representation in Nonfiction
     Film*, Cambridge: Cambridge University Press, 1997, p. 219.

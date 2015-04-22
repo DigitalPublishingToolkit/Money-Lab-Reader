@@ -22,7 +22,7 @@ Rights: CC BY-NC 4.0
 
 ### Lena Rethel and Irwan Abdalloh {.author}
 
-In the wake of the global financial crisis of 2007-9,[^1] the search is
+In the wake of the global financial crisis of 2007-9,[^2_3-RethelAbdollah_1] the search is
 on for finding alternatives to a global financial system whose flaws
 have been thoroughly exposed, both in terms of its proneness to crisis
 and its highly uneven – if not unjust – economic and social impact.
@@ -57,7 +57,7 @@ despite being in many countries one of the most heavily regulated
 business sectors – struggles to come to terms with persistent problems
 of conflicts of interest, often to the disadvantage of smaller, less
 sophisticated (too often that is less well connected) market
-participants.[^2] Yet, despite questions of ethics going to the heart of
+participants.[^2_3-RethelAbdollah_2] Yet, despite questions of ethics going to the heart of
 financial market practice, precisely such questions are often side-lined
 in economic analyses. Indeed, as the study of economic social relations
 and dynamics has moved from the Moral Economy approaches of the 18th
@@ -66,10 +66,10 @@ century (think Adam Smith) to the Political Economy approaches of the
 disciplinary subject of Economics (think post-marginal revolution),
 markets have increasingly become conceptualised as *ethics free zones*,
 subject only to the coordinating function of the price mechanism,
-somehow arrived at through the intersection of demand and supply.[^3]
+somehow arrived at through the intersection of demand and supply.[^2_3-RethelAbdollah_3]
 
 In so doing, the always-embeddedness of markets – including those for
-capital – in social, cultural and even gendered relations is erased.[^4]
+capital – in social, cultural and even gendered relations is erased.[^2_3-RethelAbdollah_4]
 Rather than being reflective of the social reality of markets, this is
 very much an analytical (and often political) choice. Nevertheless,
 contesting the absence (of an explicit articulation) of the ethical and
@@ -79,7 +79,7 @@ literatures. Here, financial markets are not conceptualized as natural
 phenomena – that is abstract rational entities that follow objective,
 scientific principles – but as the result of historical contingencies,
 political contestation and the emergence of shared understandings which
-condition, and are conditioned by, financial practices.[^5] Its explicit
+condition, and are conditioned by, financial practices.[^2_3-RethelAbdollah_5] Its explicit
 claims to constitute a (more) ethical approach to finance, makes Islamic
 finance an interesting test case to explore.
 
@@ -88,18 +88,18 @@ significant role in the emergence and expansion of the modern economy.
 In so doing, the acceptance of receiving and paying interest as
 legitimate economic practice was part of the transformation of European
 social epistemologies in the transition from medieval economic and
-political systems to modernity.[^6] Like medieval Christian economic
+political systems to modernity.[^2_3-RethelAbdollah_6] Like medieval Christian economic
 thought, Islamic finance forbids interest. Nevertheless, in its current
 guise Islamic finance is a distinctively modern phenomenon. Local
 Islamic savings schemes emerged in a number of former British colonies
-after independence in the 1950s and 1960s.[^7] Private Islamic banks
+after independence in the 1950s and 1960s.[^2_3-RethelAbdollah_7] Private Islamic banks
 were established in the Middle East following the increase in oil prices
-in the early 1970s.[^8] Other parts of the world followed swiftly. As a
+in the early 1970s.[^2_3-RethelAbdollah_8] Other parts of the world followed swiftly. As a
 consequence, over the last thirty years, Islamic finance has made
 considerable inroads in both Muslim and non-Muslim societies. It has
 spread to more than 75 countries and – by current estimates – has
 achieved a global market size of more than 1trillion U.S. dollars in
-assets.[^9] Moreover, not only has the number of specialist Islamic
+assets.[^2_3-RethelAbdollah_9] Moreover, not only has the number of specialist Islamic
 financial institutions proliferated, but major international banks such
 a HSBC and Standard Chartered Bank have launched Islamic subsidiaries.
 
@@ -107,9 +107,9 @@ What are the foundations of Islamic finance’s claim to constituting a
 (more) ethical approach to finance? What constitutes its core
 principles? To begin, Islamic finance seeks to install a financial order
 that complies with the religious teachings of the Quran, the Sunnah and
-the Hadith.[^10] Interest – or *riba* (literally: increase; generally
+the Hadith.[^2_3-RethelAbdollah_10] Interest – or *riba* (literally: increase; generally
 interpreted as the paying and receiving of interest) – constitutes what
-Bill Maurer calls ‘the absent center of [Islamic finance] today’.[^11]
+Bill Maurer calls ‘the absent center of [Islamic finance] today’.[^2_3-RethelAbdollah_11]
 The prohibition of riba can be found in the Quran. For example, the
 Surah Al-Baqarah sets out a number of principles with regard to charity
 and money-lending. Lending is not considered a legitimately profitable
@@ -125,13 +125,13 @@ bank. Some scholars argue that banning the risk-free accumulation of
 capital, and the concentration of wealth in the hands of only a few, is
 part of Islam’s concern for greater economic and social justice. Thus
 for instance, the ‘economic viability and profitability’ of a project
-are crucial determinants of its fundability.[^12] Along these lines,
+are crucial determinants of its fundability.[^2_3-RethelAbdollah_12] Along these lines,
 Islamic finance also forbids *gharar* (profiting from contractual
 uncertainty) and *maisir* (gambling). Moreover, certain products and
 practices such as pork, alcohol or prostitution are deemed *haram*
 (prohibited). This also extends to their funding. Indeed, in Islamic
 economic thought the market mechanism is complemented by a ‘moral
-filter’ of what is socially desirable.[^13] Thus, Islamic finance bases
+filter’ of what is socially desirable.[^2_3-RethelAbdollah_13] Thus, Islamic finance bases
 its claim to being an ethical approach to finance on the *religious
 values with which it seeks to comply*.
 
@@ -182,7 +182,7 @@ Sharia board responsible for issuing national fatwas on Islamic finance
 is located at the Indonesian Council of Ulama (*Dewan Syariah Nasional –
 Majelis Ulama Indonesia* or DSN-MUI), more specifically its National
 Sharia Board. DSN-MUI, formed in 1999, has ‘responsibility for
-overseeing doctrinal compliance’ of Islamic financial institutions.[^14]
+overseeing doctrinal compliance’ of Islamic financial institutions.[^2_3-RethelAbdollah_14]
 In many countries, a major challenge is to find Sharia scholars who are
 not only proficient in Islamic jurisprudence but also have a good
 understanding of how financial markets work. Thus, Islamic finance bases
@@ -190,7 +190,7 @@ its claim to being an ethical approach to finance on the *legitimation
 practices* of Sharia scholars.
 
 Islamic finance combines elements of both deontological and
-consequentialist ethics.[^15] It does so on the grounds of both the
+consequentialist ethics.[^2_3-RethelAbdollah_15] It does so on the grounds of both the
 specific Sharia principles by which it abides, but also because of its
 commitment to a financial order of greater social justice, based on the
 general principles of equity, mutuality and sustainability, and its
@@ -206,7 +206,7 @@ negotiation of the social world of finance and political contestation of
 its value systems. Indeed, this is not just about how Islamic finance
 and its conventional counterpart have been framed in various
 professional, popular and media discourses before and after the global
-financial crisis.[^16] It goes to the very heart of a financial reality
+financial crisis.[^2_3-RethelAbdollah_16] It goes to the very heart of a financial reality
 that only acquires meaning through the practices to which it gives rise
 and the ways in which it is acted upon.
 
@@ -230,7 +230,7 @@ ratios. Indeed, whereas Islamic finance scholarship has paid
 considerable attention to the Sharia-compliance (or not) of a growing
 range of Islamic financial product structures and capital flows, less
 attention has been paid to the important other component of what ‘makes’
-financial markets – the transaction element.[^17]
+financial markets – the transaction element.[^2_3-RethelAbdollah_17]
 
 ## Transactional Ethics at the Indonesia Stock Exchange
 
@@ -245,7 +245,7 @@ classified as unbanked (i.e. without access to a bank account). The
 first Islamic bank in Indonesia – Bank Muamalat – was created in 1991
 and began its operations in 1992. It pursued a model of interest-free
 banking. The development of Islamic banking in Indonesia accelerated in
-the wake of the Asian financial crisis of 1997-8.[^18] With regard to
+the wake of the Asian financial crisis of 1997-8.[^2_3-RethelAbdollah_18] With regard to
 the development of the Islamic capital market (ICM) specifically, its
 beginnings can be traced back to 1997, which saw the release of the
 first Islamic mutual funds. In 2000, the Jakarta Islamic Index (JII) was
@@ -259,10 +259,10 @@ While the Islamic capital market in Indonesia is not a ‘stand-alone’
 market, but an integral part of the country’s capital markets and in
 principle uses the same underwriting and trading mechanisms as the
 conventional segment, both products and transactions have to comply with
-the stipulations of the Sharia.[^19] DSN-MUI issued its first capital
-market fatwa – on investment in Islamic mutual funds – in 2001.[^20]
+the stipulations of the Sharia.[^2_3-RethelAbdollah_19] DSN-MUI issued its first capital
+market fatwa – on investment in Islamic mutual funds – in 2001.[^2_3-RethelAbdollah_20]
 This was followed by a number of fatwas on the product structures deemed
-permissible in the Indonesian Islamic capital market.[^21] Along these
+permissible in the Indonesian Islamic capital market.[^2_3-RethelAbdollah_21] Along these
 lines, the early 2000s also saw the launch of the first sukuk in the
 Indonesian capital market, again with limited impact for the growth of
 Islamic capital markets. In the mid-2000s the Securities Exchange
@@ -277,7 +277,7 @@ developments aimed at: 1) increasing the visibility of the Islamic
 capital market segment, 2) strengthening in particular its Sharia
 governance and 3) raising awareness of Islamic capital market finance.
 Firstly, IDX launched the Indonesia Sharia Stock Index (ISSI) in May
-2011.[^22] As a consequence, there are now two Islamic stock indices in
+2011.[^2_3-RethelAbdollah_22] As a consequence, there are now two Islamic stock indices in
 the Islamic capital market of Indonesia: if the JII consists of the 30
 most liquid Islamic stocks, then the constituents of ISSI are the entire
 universe of Islamic stocks listed on the Indonesia Stock Exchange (IDX).
@@ -294,11 +294,11 @@ year, but after that the average of new issuances was fourteen per year.
 As of end of October 2013, the market capitalization of the Islamic
 capital market segment had reached IDR 2.618 trillion, approximating 60
 percent of the total market capitalization of IDX valued at IDR 4.485
-trillion.[^23]
+trillion.[^2_3-RethelAbdollah_23]
 
 Secondly, the revival of the Islamic capital market in Indonesia was
 marked by the launch of a new fatwa on the Sharia-compliance of equity
-trading mechanisms (in the following: Fatwa No. 80) in 2011.[^24] This
+trading mechanisms (in the following: Fatwa No. 80) in 2011.[^2_3-RethelAbdollah_24] This
 was the first DSN-MUI fatwa to be published simultaneously in Arabic,
 English, and Indonesian. The main objective of Fatwa No. 80 was to
 increase the confidence of investors who want to invest in Islamic
@@ -405,7 +405,7 @@ compliance as governed by Fatwa No. 80 as follows:
 
 4.  Short selling (investor sells stocks that is not owned by the
     seller) is prohibited because it is categorized as bai’ al
-    ma’dum.[^25]
+    ma’dum.[^2_3-RethelAbdollah_25]
 
 If a transaction is entered in SOTS that is in breach of Sharia
 principles, a window pops up that tells how the transaction violates
@@ -496,7 +496,7 @@ ultimately the greater availability of Sharia-compliant investment
 options is intended to draw more actors into the market, foreclosing the
 possibility of non-market based financial alternatives. At the same
 time, Islamic finance constitutes an inherently reflexive approach to
-finance.[^26] This is not just about passing finance through a moral
+finance.[^2_3-RethelAbdollah_26] This is not just about passing finance through a moral
 filter, or layering religious values on top of financial practice as
 usual. It goes to the heart of practical economic reasoning and in so
 doing opens up new possibilities for *doing finance differently*. The
@@ -581,7 +581,7 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
 *Global Islamic Finance Forum 2012*, Kuala Lumpur, 19 September 2012,
 <http://www.bis.org/review/r120920d.pdf>.
 
-[^1]: While it is notoriously difficult to pin down the exact time frame
+[^2_3-RethelAbdollah_1]: While it is notoriously difficult to pin down the exact time frame
     of the global financial crisis (and the term global might be a
     misnomer given that it was the transatlantic financial systems that
     were at its core), problems in the U.S. credit market that emerged in
@@ -593,104 +593,104 @@ welcoming address by the Governor of the Central Bank of Malaysia at the
     morphed into a crisis of sovereign debt in Europe and its
     repercussions are still felt today. 
 
-[^2]: See, Guido Palazzo and Lena Rethel, ‘Conflicts of interest in
+[^2_3-RethelAbdollah_2]: See, Guido Palazzo and Lena Rethel, ‘Conflicts of interest in
     financial intermediation’, *Journal of Business Ethics* 81.1(2008):
     193-207.
 
-[^3]: See Matthew Watson, ‘What Makes a Market Economy? Schumpeter,
+[^2_3-RethelAbdollah_3]: See Matthew Watson, ‘What Makes a Market Economy? Schumpeter,
     Smith and Walras on the Coordination Problem’ in: *New Political
     Economy* 10.2 (2005): 143-161.
 
-[^4]: For a critique, see James Brassett and Lena Rethel, ‘Sexy Money:
+[^2_3-RethelAbdollah_4]: For a critique, see James Brassett and Lena Rethel, ‘Sexy Money:
     The Hetero-Normative Politics of Global Finance’, *Review of
     International Studies*, forthcoming in 2015.
 
-[^5]: See Lena Rethel, ‘Whose Legitimacy? Islamic Finance and the Global
+[^2_3-RethelAbdollah_5]: See Lena Rethel, ‘Whose Legitimacy? Islamic Finance and the Global
     Financial Order’, *Review of International Political Economy* 18.1
     (2011): 75-98.
 
-[^6]: See Amartya K. Sen, *Money and Value: On the Ethics and Economics
+[^2_3-RethelAbdollah_6]: See Amartya K. Sen, *Money and Value: On the Ethics and Economics
     of Finance* [Denaro e Valore: Etica ed Economia della Finanza],
     Rome: Bank of Italy, 1991; Bill Maurer, *Pious Property. Islamic Mortgages in the United States*, New York:
     Russell Sage Foundation, 2006.
 
-[^7]: Ibrahim A. Warde, *Islamic Finance in the Global Economy*,
+[^2_3-RethelAbdollah_7]: Ibrahim A. Warde, *Islamic Finance in the Global Economy*,
     Edinburgh: Edinburgh University Press, 2000.
 
-[^8]: Clement M. Henry and Rodney Wilson (eds) *The Politics of Islamic
+[^2_3-RethelAbdollah_8]: Clement M. Henry and Rodney Wilson (eds) *The Politics of Islamic
     Finance*, Edinburgh: Edinburgh University Press, 2004.
 
-[^9]: Zeti Akhtar Aziz, ‘Internationalisation of Islamic Finance:
+[^2_3-RethelAbdollah_9]: Zeti Akhtar Aziz, ‘Internationalisation of Islamic Finance:
     Bridging Economies’, welcoming address by the Governor of the
     Central Bank of Malaysia at the *Global Islamic Finance Forum 2012*,
     Kuala Lumpur, 19 September 2012.
 
-[^10]: The Quran is the holy book of Islam, equivalent to the Bible in
+[^2_3-RethelAbdollah_10]: The Quran is the holy book of Islam, equivalent to the Bible in
     Christianity, whereas the Hadith is a religious text that contains
     the utterances of the Prophet Mohammed and the Sunnah recounts the
     teachings and way of life of the Prophet
 
-[^11]: Bill Maurer, *Mutual Life, Limited: Islamic Banking, Alternative
+[^2_3-RethelAbdollah_11]: Bill Maurer, *Mutual Life, Limited: Islamic Banking, Alternative
     Currencies, Lateral Reason*, Princeton: Princeton University Press,
     2005, p. 39.
 
-[^12]: Saad Al Harran (ed.) *Leading Issues in Islamic Banking and
+[^2_3-RethelAbdollah_12]: Saad Al Harran (ed.) *Leading Issues in Islamic Banking and
     Finance*, Petaling Jaya: Pelanduk Publications 1995, p. xii.
 
-[^13]: Gillian Rice, ‘Islamic Ethics and the Implications for Business’,
+[^2_3-RethelAbdollah_13]: Gillian Rice, ‘Islamic Ethics and the Implications for Business’,
     *Journal of Business Ethics* 18.4 (1999): 346.
 
-[^14]: Tim Lindsey, ‘Between Piety and Prudence: State Syariah and the
+[^2_3-RethelAbdollah_14]: Tim Lindsey, ‘Between Piety and Prudence: State Syariah and the
     Regulation of Islamic Banking in Indonesia’, *Sydney Law Review* 34
     (2012): 119.
 
-[^15]: See Sen 1991 for a similar argument applied to Judeo-Christian
+[^2_3-RethelAbdollah_15]: See Sen 1991 for a similar argument applied to Judeo-Christian
     finance
 
-[^16]: See G. Thompson, ‘What’s in the Frame? How the Financial Crisis
+[^2_3-RethelAbdollah_16]: See G. Thompson, ‘What’s in the Frame? How the Financial Crisis
     is Being Packaged for Consumption’, *Economy and Society* 38.3
     (2009): 520-524; and L. Rethel, ‘The Imaginary Landscapes of Islamic
     Finance’, chapter prepared for J. Pollard and R. Martin (eds)
     *Handbook of the Geographies of Money and Finance*, Cheltenham:
     Edward Elgar, 2016.
 
-[^17]: Compare Mitchell Y. Abolafia, *Making Markets: Opportunism and
+[^2_3-RethelAbdollah_17]: Compare Mitchell Y. Abolafia, *Making Markets: Opportunism and
     Restraint on Wall Street*, Boston: Harvard University Press, 1996.
 
-[^18]: Umar Juoro, ‘The Development of Islamic Banking in the
+[^2_3-RethelAbdollah_18]: Umar Juoro, ‘The Development of Islamic Banking in the
     Post-Crisis Indonesian Economy’, in G. Fealy and S. White (eds)
     *Expressing Islam: Religious Life and Politics in Indonesia*,
     Singapore: ISEAS, 2008, pp. 229-250.
 
-[^19]: See Miranti Kartika Dewi and Irwan Abdalloh,‘Socializing Islamic
+[^2_3-RethelAbdollah_19]: See Miranti Kartika Dewi and Irwan Abdalloh,‘Socializing Islamic
     Capital Market Products through Public Education Events: The Case of
     Indonesia’, Middle East Institute, 20 February 2013.
 
-[^20]: Fatwa No. 20/DSN-MUI/IX/2001 concerning ‘Guidelines for the
+[^2_3-RethelAbdollah_20]: Fatwa No. 20/DSN-MUI/IX/2001 concerning ‘Guidelines for the
     Implementation of Investment for Sharia Mutual Funds’.
 
-[^21]: The fatwas issued by DSN-MUI to date can be accessed at
+[^2_3-RethelAbdollah_21]: The fatwas issued by DSN-MUI to date can be accessed at
     [http://www.dsnmui.or.id/index.php?page=fatwa](http://www.dsnmui.or.id/index.php?page=fatwa).
     At the time of writing, Indonesia had fourteen fatwas issued by
     DSN-MUI specifically related to the Islamic capital market.
 
-[^22]: In 2007, the Jakarta Stock Exchange merged with the Surabaya
+[^2_3-RethelAbdollah_22]: In 2007, the Jakarta Stock Exchange merged with the Surabaya
     Stock Exchange to create the Indonesia Stock Exchange (IDX).
 
-[^23]: See IDX press release, 2 November 2013,
+[^2_3-RethelAbdollah_23]: See IDX press release, 2 November 2013,
     [http://www.idx.co.id/Beranda/BeritadanPengumuman/SiaranPers/ReadPressRelease/tabid/191/ItemID/d72739a7-a3cb-482f-8b2d-040c7ab0d4e8/language/id-ID/Default.aspx](http://www.idx.co.id/Beranda/BeritadanPengumuman/SiaranPers/ReadPressRelease/tabid/191/ItemID/d72739a7-a3cb-482f-8b2d-040c7ab0d4e8/language/id-ID/Default.aspx).
 
-[^24]: See Fatwa No. 80/DSN-MUI/III/2011 concerning ‘The Implementation
+[^2_3-RethelAbdollah_24]: See Fatwa No. 80/DSN-MUI/III/2011 concerning ‘The Implementation
     of Sharia Principles in the Equity Trading Mechanism at the Stock
     Exchanges Regular Market’.
 
-[^25]: Note that in the conventional market segment, IDX applies a
+[^2_3-RethelAbdollah_25]: Note that in the conventional market segment, IDX applies a
     policy of regulated short selling, which is a permitted market
     transaction, although only for certain shares. On the last trading
     day of every month, IDX announces the list of shares permitted for
     margin trading and short selling. See World Exchanges, ‘Indonesia
     Stock Exchange’ (no date).
 
-[^26]: See in particular Bill Maurer, ‘Resocializing Finance? Or
+[^2_3-RethelAbdollah_26]: See in particular Bill Maurer, ‘Resocializing Finance? Or
     Dressing it in Mufti? Calculating Alternatives for Cultural
     Economies’, *Journal of Cultural Economy* 1.1 (2008): 65-78.

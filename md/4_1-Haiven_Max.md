@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 
 Economic philosophers and historians generally agree that there are
 three (sometimes four) main qualities of modern money, qualities that we
-usually take for granted.[^1] First, for an object to serve as money, it
+usually take for granted.[^4_1-Haiven_Max_1] First, for an object to serve as money, it
 must be universally and consistently accepted in a given geographic or
 economic area, like a nation. It wouldn’t do much good if the money one
 received from one’s employer was only accepted in some stores, or if it
@@ -70,7 +70,7 @@ cards, etc.) as a medium of creative expression, often in profound and
 potentially transformative ways. For instance, J.S.G. Boggs, perhaps the
 best known ‘money artist’, has sustained a three-decades long practice
 focused on drafting painstakingly precise, one of a kind pen and ink
-‘copies’ of actual banknotes.[^2] Working largely outside the
+‘copies’ of actual banknotes.[^4_1-Haiven_Max_2] Working largely outside the
 contemporary gallery system, Boggs attempts to enter these artistic
 artifacts into circulation, seeking to ‘spend’ them at stores,
 restaurants and other commercial establishments at ‘face value’,
@@ -85,7 +85,7 @@ alienating and profoundly intimate.
 
 This is what distinguishes Boggs’ work from the all-too-easy cliché of
 pointing out that money is, in the pungent words of the American satire
-magazine *The Onion*, only a ‘symbolic, mutually shared illusion’.[^3]
+magazine *The Onion*, only a ‘symbolic, mutually shared illusion’.[^4_1-Haiven_Max_3]
 Everyone knows this, yet this realization has had no real impact on
 money’s power over our lives, which grows year upon year. And we need to
 be careful: fairly everyone (with a very few exceptions), including
@@ -97,7 +97,7 @@ historically and structurally to avoid these pitfalls.
 
 Historically speaking, money’s power over our lives and relationships
 has grown tremendously over the past forty years since the dawn of the
-global neoliberal revolution.[^4] As corporate and financial power has
+global neoliberal revolution.[^4_1-Haiven_Max_4] As corporate and financial power has
 grown, it has demanded that governments adopt an ideological paradigm
 that encourages tax cuts (especially for corporations and the wealthy),
 the deregulation of industry (including finance and banking) and the
@@ -105,17 +105,17 @@ privatization of social programs. Many aspects of our lives that we used
 to hold in common (elder care, child care, entertainment,
 companionship), or that used to be provided by the state (healthcare,
 pensions, education), are now turned into private commodities to be
-bought and sold.[^5] Transportation, education, healthcare and utilities
+bought and sold.[^4_1-Haiven_Max_5] Transportation, education, healthcare and utilities
 (water, electricity) have all been increasingly opened up to market
 competition. Meanwhile, as industry has globalized (thanks to
 encouragement by neoliberal governments), there is increased competition
-for jobs, driving down wages.[^6] At the same time, there has been a
+for jobs, driving down wages.[^4_1-Haiven_Max_6] At the same time, there has been a
 massive explosion of personal debt as people try and cover the shortfall
 between stagnant or declining wages and the rising costs of living in a
-privatized world.[^7] The end result is that, today, the vast majority
+privatized world.[^4_1-Haiven_Max_7] The end result is that, today, the vast majority
 of us are more at the mercy of money than ever before, a fact compounded
 by studies that indicate that the gap between the rich and the poor is
-widening nearly everywhere.[^8]
+widening nearly everywhere.[^4_1-Haiven_Max_8]
 
 This is, indeed, a dire state of affairs, and one with very grim
 consequences. It is well within our power, for instance, to address the
@@ -161,10 +161,10 @@ In order to see beyond these false alternatives, and to better
 understand how and why money is a medium of the imagination, we should
 look to the work of Karl Marx to see the capitalist economic order as it
 truly is: a crisis-ridden system of exploitation that will gladly
-sacrifice whole populations in the name of private accumulation.[^9]
+sacrifice whole populations in the name of private accumulation.[^4_1-Haiven_Max_9]
 While Marx’s thorny writings about the method for overcoming capitalism,
 and about what was to replace it, have led to a great deal of tragedy,
-his analysis of capitalism and money is invaluable.[^10]
+his analysis of capitalism and money is invaluable.[^4_1-Haiven_Max_10]
 
 In a nutshell, Marx, like many economists of his day, was interested in
 money as chief among many commodities. Commodities are things bought and
@@ -190,14 +190,14 @@ special commodity, money, and we’re all the better for it. In fact, we
 can save our money to spend later, or pool it with others to do
 something we couldn’t do alone (like build a road to make getting to
 market easier). Money, hence, allows for a more sophisticated economy
-and division of human labor, which, allegedly, benefits everyone.[^11]
+and division of human labor, which, allegedly, benefits everyone.[^4_1-Haiven_Max_11]
 
 For most economists, this is the logical and harmonious basis of
-economic life.[^12] But Marx was keen to show that this bucolic fantasy
+economic life.[^4_1-Haiven_Max_12] But Marx was keen to show that this bucolic fantasy
 was far from reality; a reality in which the European economy of his day
 was built on the unfree labor of enslaved people, colonized populations,
 and indentured servants, and in which even nominally ‘free’ laborers
-were not producing for their own benefit.[^13] True: the value of
+were not producing for their own benefit.[^4_1-Haiven_Max_13] True: the value of
 commodities came from labor, but that labor was, by and large, coerced
 and exploited. What’s more, the coercers and exploiters took the surplus
 they received from selling the fruits of their workers’ labors and
@@ -207,7 +207,7 @@ governments; they expanded their business interests and invested in
 other companies, and so on. It was (and remains) a vicious cycle, where
 money, put to work commanding other people’s time and labor, begets
 commodities which can be sold for profit, which begets more money, and
-so on, and so on.[^14]
+so on, and so on.[^4_1-Haiven_Max_14]
 
 Importantly, for Marx this ever-accelerating cycle actually takes on a
 monstrous, vampiric life of its own. After all, each individual
@@ -230,7 +230,7 @@ and coordinates human labor into incredibly sophisticated but largely
 decentralized formations, perhaps explains the prevalence of collage in
 money art. While generally speaking this technique has been marginalized
 in contemporary art, artists like C.K. Wilde, Chad Person, and Mark
-Wagner,[^15]among many others, have sought to use cut up fragments of
+Wagner,[^4_1-Haiven_Max_15]among many others, have sought to use cut up fragments of
 bills to create new, larger pictures. Sometimes these take the form of
 explicit political commentary (such as Wagner’s portraits of U.S.
 Presidents or Person’s representations of fearsome mythological beasts),
@@ -299,7 +299,7 @@ solidified form.
 
 In money, we *misimagine* the world and ourselves. In Marcel Mauss’s
 memorable phrase, ‘society always pays itself in the counterfeit coin of
-its dream’.[^16] We misrecognize our own collective, collaborative power
+its dream’.[^4_1-Haiven_Max_16] We misrecognize our own collective, collaborative power
 to create because we see it only as our individual capacity to buy. And
 because of this, we fail to see that, behind the physical or conceptual
 object of money, there is the broader force of money-in-motion, capital,
@@ -333,18 +333,18 @@ broader system, and it is also a medium of the imagination. And for that
 reason, money isn’t always purely alien and alienating. Sociologists
 like Viviana Zelizer, for instance, have shown how money becomes an
 intimate part of people’s lives, a means for them to negotiate and
-express their authentic feelings and relationships.[^17] Peter North has
+express their authentic feelings and relationships.[^4_1-Haiven_Max_17] Peter North has
 written a fascinating book on the ways alternative currencies can become
 the means for expressing (non-capitalist) utopian ideas and instigating
-radical communities.[^18] Certainly money, writ large, is not purely the
+radical communities.[^4_1-Haiven_Max_18] Certainly money, writ large, is not purely the
 tool of capitalism: nation-states and other political entities use it to
 impose their values and sovereignty, as in Canada, where the current
 right-wing government has changed the images on our banknotes to reflect
 its ideal of a masculine, militaristic and industrial-extractive
-national culture.[^19] Money has, for centuries, been a means to
+national culture.[^4_1-Haiven_Max_19] Money has, for centuries, been a means to
 (re)produce what Benedict Anderson has called ‘imagined communities’, a
 sense of national or imperial commonality among people who will never
-meet and who might not otherwise share many common features.[^20] And
+meet and who might not otherwise share many common features.[^4_1-Haiven_Max_20] And
 colonialism was enabled and reinforced by the compulsory monopoly of
 imperial currencies, which let subjugated peoples know who was in charge
 and helped control their economy and society.
@@ -363,14 +363,14 @@ aesthetic imperative and dependency. Simensky uses his new ‘neutral’
 currency as a medium in a variety of subsidiary artistic maneuvers,
 including ’spending’ them to purchase the artworks of others to create a
 mobile collection as an institutional critique of the art economy at
-large, which is, more than ever, dominated by finance and money.[^21]
+large, which is, more than ever, dominated by finance and money.[^4_1-Haiven_Max_21]
 
 The question then becomes what to do about money. As mentioned earlier,
 mainstream debate tends to be polarized into two equally unhelpful (and,
 really, mutually supportive) positions. On the one hand, money is
-imagined as the root of all evil, but accepted as a necessary evil.[^22]
+imagined as the root of all evil, but accepted as a necessary evil.[^4_1-Haiven_Max_22]
 On the other, money is imagined as a neutral tool, corrupted and
-manipulated by human foibles.[^23] In either case, by consecrating or
+manipulated by human foibles.[^4_1-Haiven_Max_23] In either case, by consecrating or
 desecrating money as either angelic or demonic, politics, policy, and
 the political imagination are constrained to developing more
 sophisticated and expert-driven ways of managing money. Such a political
@@ -402,7 +402,7 @@ nationalistic right-wing populism that is the byproduct of our economic
 crisis, governments are increasingly encouraged to intervene to declare
 certain areas of society off limits to money’s influence, citing
 allegedly superior ethical, national or religious values: citizenship,
-for instance, or birth control.[^24] This is not even to mention the
+for instance, or birth control.[^4_1-Haiven_Max_24] This is not even to mention the
 copious and generally increasing state spending on military and security
 apparatuses, largely in the interests of securing the conditions of
 corporate and financial accumulation.
@@ -411,7 +411,7 @@ For Anitra Nelson, Frans Timmermans, and the contributors to their
 recent collection *Life Without Money,* and to the other proponents of
 the broader paradigm of ‘non-market socialism’, only a rejection of
 money as a means to organize human cooperation can allow us to break
-free of money’s hold on the imagination.[^25] Nelson and Timmermans
+free of money’s hold on the imagination.[^4_1-Haiven_Max_25] Nelson and Timmermans
 argue that the failure of the Soviet Union, China and other socialist
 states has been their eagerness to maintain centralized control over
 currency, which resulted in essentially a form of state-run capitalism
@@ -437,7 +437,7 @@ cooperative energies.
 And so it should come as little surprise to us that some artists see
 their role as explicitly creating and sustaining other modes for
 organizing and imagining those cooperative energies. New York-based
-artist Caroline Woolard,[^26] for instance, specializes in creating
+artist Caroline Woolard,[^4_1-Haiven_Max_26] for instance, specializes in creating
 circumstances and institutions to support non-monetary exchange and
 barter relations between people. In addition to gallery shows,
 installations and events that promote new forms of exchange, Woolard has
@@ -445,10 +445,10 @@ been a central contributor to initiatives like OurGoods.org, a digital
 platform to link up barterers in New York City, and TradeSchool.coop, a
 free platform that allows individuals in various cities to barter for
 skills and knowledge. In a similar vein, in 2012, the German group
-geheimagentur,[^27] inspired by the community banking initiative
+geheimagentur,[^4_1-Haiven_Max_27] inspired by the community banking initiative
 pioneered by the Banco Palmas of Brazil, worked with community members
 and activists in the bankrupt German city of Oberhausen to establish a
-temporary institution called Schwartzbank[^28] in the town’s center,
+temporary institution called Schwartzbank[^4_1-Haiven_Max_28] in the town’s center,
 which enabled un(der)employed community-members to be compensated in an
 alternative currency (the Kohle, in honour of the town’s coal-mining
 history), which could then be exchanged for useful goods at
@@ -463,7 +463,7 @@ and utopian implications.
 
 Since 2012, I’ve been creating an online database of examples of
 artworks like these that either mobilize money directly as a medium or
-make it a central concern and target of artistic intervention.[^29]
+make it a central concern and target of artistic intervention.[^4_1-Haiven_Max_29]
 Research into this database reveals that money has proven a very
 difficult medium (or set of media) for artists to work with for a
 variety of reasons. In addition to its diverse and peculiar physical
@@ -477,17 +477,17 @@ innumerable artists who have painted on coins or bills, who have
 designed their own forms of money, or who have depicted money directly
 in their work. Most is atrocious, but some is extremely engaging
 (critics like Mark Shell and Katy Siegel and Paul Mattick consider some
-of the best in their fine books on the topic).[^30]
+of the best in their fine books on the topic).[^4_1-Haiven_Max_30]
 
 Perhaps it is a reflection of the everyday ritualistic qualities of
 money that explains the strong tendency in money-art towards relational
 or participatory orientations, even before these terms came into the
-vogue in the art world.[^31] In 1919 Marcel Duchamp attempted to pay his
+vogue in the art world.[^4_1-Haiven_Max_31] In 1919 Marcel Duchamp attempted to pay his
 dentist with an invented cheque drawn on ‘The Teeth's Loan & Trust
 Company Consolidated of New York’. Joseph Beuys, in the 1970s and 80s,
 would periodically scrawl messages like ‘Kunst=Kapital’ on banknotes,
 transforming them into art as if by magic, but in so doing revealing the
-magic already at play that gives money its imagined value.[^32] The
+magic already at play that gives money its imagined value.[^4_1-Haiven_Max_32] The
 Brazilian artist Cildo Meireles, in 1970, initiated his is *Insercoes em
 Circuitos Ideologicos* (Insertions into Ideological Circuits) series,
 including the stamping of subversive messages onto Brazilian banknotes
@@ -512,8 +512,8 @@ intimate world of the imagination that stands behind money. Dadara’s
 currencies based on non-monetary values) and *Transformoney Tree* are
 good examples: they invite audiences to become part of a conscious
 alternative to the reproduction of money’s imaginative and imaginary
-power.[^33] Likewise, artists like Cesare Pietroiusti,[^34] or Cassie
-Thornton,[^35] or Mel Chin[^36] specialize in creating circumstances and
+power.[^4_1-Haiven_Max_33] Likewise, artists like Cesare Pietroiusti,[^4_1-Haiven_Max_34] or Cassie
+Thornton,[^4_1-Haiven_Max_35] or Mel Chin[^4_1-Haiven_Max_36] specialize in creating circumstances and
 situations that reveal money’s reliance and influence on the way we
 imagine ourselves and our relationships, or that invite us to imagine
 ourselves and our relationships differently. They make that process
@@ -539,7 +539,7 @@ world will simply disappear if we all cease to believe in money’s
 imaginary power. The system is far more material, resilient and
 adaptable than that. Art is, I fear, no match for money. Social
 movements are required that are based in the militant refusal of the
-status quo, and that build living, breathing alternatives.[^37] Art’s
+status quo, and that build living, breathing alternatives.[^4_1-Haiven_Max_37] Art’s
 place in such a transformation is a matter of debate, but it can
 certainly help us realize that the current system does not reflect our
 values, and cause us to reflect on what it might actually take to build
@@ -586,13 +586,13 @@ subsumed into a more detailed explanation of how labor, once transformed
 into commodities and capital, is used to reproduce the crisis-prone
 capitalist system. By Volumes II and III of *Capital*, Marx had fully
 transitioned out of his youthful humanism and was clearly concerned with
-developing what he imagined to be a revolutionary ‘science’.[^38]
+developing what he imagined to be a revolutionary ‘science’.[^4_1-Haiven_Max_38]
 
 This transition helps contextualize Marx’s response to the Paris Commune
 of 1871, the tremendous uprising of the common people of Paris in the
 wake of the Napoleon III’s horrifically botched war on Prussia, which
 ended in France’s humiliating defeat and the specter of mass starvation
-and poverty as the victors claimed reparations.[^39] For two months, the
+and poverty as the victors claimed reparations.[^4_1-Haiven_Max_39] For two months, the
 National Guard and the working class citizens of Paris reclaimed their
 city, reorganizing the government and declaring a new order of
 grassroots democracy and, essentially, socialism. All this happened
@@ -606,7 +606,7 @@ commune’s mere existence was its most important feature: it proved that,
 in today’s parlance, ‘another world was possible’, that the working
 class could seize power, form a government, provide for their needs and
 essentially organize their own cooperation without the yoke of
-capital.[^40] On the other hand, Marx was (rightly) skeptical that the
+capital.[^4_1-Haiven_Max_40] On the other hand, Marx was (rightly) skeptical that the
 Commune would survive the combined attacks of the French establishment
 and the Prussian army, a prediction that was horrifically fulfilled in
 the brutal ‘Semaine Sanglante’ or Week of Blood, when between 10-20
@@ -627,7 +627,7 @@ its promise. As C.L.R. James puts it, Marx ‘showed that the capitalist
 army, the capitalist state, the capitalist bureaucracy, cannot be seized
 by the revolutionary proletariat and used for its own purposes. It had
 to be smashed completely and a new state organized, based upon the
-organization of the working class’.[^41]
+organization of the working class’.[^4_1-Haiven_Max_41]
 
 Such a tension crystallized in Marx’s criticism of the destruction of
 the Vendôme Column, a spectacle of public joy allegedly proposed by the
@@ -658,7 +658,7 @@ twenty years later:
 > hands of the Commune – this would have been worth more than 10,000
 > hostages. It would have meant the pressure of the whole of the French
 > bourgeoisie on the Versailles government in favor of peace with the
-> Commune.[^42]
+> Commune.[^4_1-Haiven_Max_42]
 
 Dedicated as it was to the creativity and vitality of grassroots
 resistance and the populist gestures, the government of the Commune
@@ -668,7 +668,7 @@ capitalist infrastructure intact, the transition to a different system
 was undermined. It was easier for the Commune to approve the symbolic
 gesture of liberation and tear down the Column than it was for them to
 seize the Bank, and, from there, the ill begotten assets of the
-capitalist class more broadly.[^43]
+capitalist class more broadly.[^4_1-Haiven_Max_43]
 
 Whether Marx was correct or incorrect about the short-lived but
 inspiring Commune, the contrast between the Vendôme Column and the Bank
@@ -822,133 +822,133 @@ University Press, 1997.
 Zelizer, Viviana. *The Purchase of Intimacy*. Princeton, NJ and London:
 Princeton University Press, 2005.
 
-[^1]: See Bruce G. Carruthers and Laura Ariovich, *Money and Credit: A
+[^4_1-Haiven_Max_1]: See Bruce G. Carruthers and Laura Ariovich, *Money and Credit: A
     Sociological Approach*, Cambridge and Malden, MA: Polity, 2010.
 
-[^2]: Lawrence Weschler, *Boggs: A Comedy of Values*. Chicago:
+[^4_1-Haiven_Max_2]: Lawrence Weschler, *Boggs: A Comedy of Values*. Chicago:
     University of Chicago Press, 1999.
 
-[^3]: *The Onion*, ‘U.S. Economy Grinds To Halt As Nation Realizes Money Just A Symbolic, Mutually Shared Illusion’, 16 February 2010, http://www.theonion.com/articles/us-economy-grinds-to-halt-as-nation-realizes-money,2912/.
+[^4_1-Haiven_Max_3]: *The Onion*, ‘U.S. Economy Grinds To Halt As Nation Realizes Money Just A Symbolic, Mutually Shared Illusion’, 16 February 2010, http://www.theonion.com/articles/us-economy-grinds-to-halt-as-nation-realizes-money,2912/.
 
-[^4]: David Harvey, *A Brief History of Neoliberalism*, Oxford: Oxford
+[^4_1-Haiven_Max_4]: David Harvey, *A Brief History of Neoliberalism*, Oxford: Oxford
     University Press, 2005.
 
-[^5]: Massimo De Angelis, *The Beginning of History: Value Struggles and
+[^4_1-Haiven_Max_5]: Massimo De Angelis, *The Beginning of History: Value Struggles and
     Global Capitalism*, London and Ann Arbor, MI: Pluto, 2007.
 
-[^6]: Walden Bello, *Capitalism’s Last Stand?:Deglobalization in the Age
+[^4_1-Haiven_Max_6]: Walden Bello, *Capitalism’s Last Stand?:Deglobalization in the Age
     of Austerity*, London: Zed, 2013.
 
-[^7]: Andrew Ross, *Creditocracy*, New York: OR Books, 2014.
+[^4_1-Haiven_Max_7]: Andrew Ross, *Creditocracy*, New York: OR Books, 2014.
 
-[^8]: Göran Therborn, *The Killing Fields of Inequality*, London:
+[^4_1-Haiven_Max_8]: Göran Therborn, *The Killing Fields of Inequality*, London:
     Polity, 2013.
 
-[^9]: See Terry Eagleton, *Why Marx Was Right*, New Haven, CT: Yale
+[^4_1-Haiven_Max_9]: See Terry Eagleton, *Why Marx Was Right*, New Haven, CT: Yale
     University Press, 2011.
 
-[^10]: See George Caffentzis, *Clipped Coins, Abused Words, and Civil
+[^4_1-Haiven_Max_10]: See George Caffentzis, *Clipped Coins, Abused Words, and Civil
     Government: John Locke’s Philosophy of Money*, Brooklyn NY:
     Autonomedia, 1989; Costas Lapavitsas, *Political Economy of Money
     and Finance*, London and New York: Macmillan, 1999; Anitra Nelson,
     *Marx’s Concept of Money: The God of Commodities*, London and New
     York: Routledge, 1999.
 
-[^11]: Michael Perelman, *Marx’s Crisis Theory: Scarcity, Labor and
+[^4_1-Haiven_Max_11]: Michael Perelman, *Marx’s Crisis Theory: Scarcity, Labor and
     Finance*, New York and London: Praeger, 1987.
 
-[^12]: See David Graeber, *Debt: The First 5000 Years*. New York:
+[^4_1-Haiven_Max_12]: See David Graeber, *Debt: The First 5000 Years*. New York:
     Melville House, 2011.
 
-[^13]: On the uses and abuses of this proto-capitalist fantasy-world and
+[^4_1-Haiven_Max_13]: On the uses and abuses of this proto-capitalist fantasy-world and
     the rise of bourgeois political economy and capitalism, see Michael
     Perelman, *The Invention of Capitalism: Classical Political Economy
     and the Secret History of Primitive Accumulation*, Durham, NC and
     London: Duke University Press, 2000.
 
-[^14]: On this process, see David Harvey, *The Limits to Capital*,
+[^4_1-Haiven_Max_14]: On this process, see David Harvey, *The Limits to Capital*,
     London and New York: Verso, 2006.
 
-[^15]: See http://www.artichokeyinkpress.com/;
+[^4_1-Haiven_Max_15]: See http://www.artichokeyinkpress.com/;
     http://www.chadperson.com/; http://markwagnerinc.com/.
 
-[^16]: See David Graeber, *Toward An Anthropological Theory of Value:
+[^4_1-Haiven_Max_16]: See David Graeber, *Toward An Anthropological Theory of Value:
     The False Coin of Our Own Dreams*, London and New York: Palgrave,
     2001.
 
-[^17]: Viviana Zelizer, *The Social Meaning of Money: Pin Money,
+[^4_1-Haiven_Max_17]: Viviana Zelizer, *The Social Meaning of Money: Pin Money,
     Paychecks, Poor Relief, and Other Currencies*, Princeton, NJ and
     London: Princeton University Press, 1997; *The Purchase of
     Intimacy*, Princeton, NJ and London: Princeton University Press,
     2005.
 
-[^18]: Peter North, *Money and Liberation: The Micropolitics of
+[^4_1-Haiven_Max_18]: Peter North, *Money and Liberation: The Micropolitics of
     Alternative Currency Movements*, Minneapolis and London: University
     of Minnesota Press, 2007.
 
-[^19]: Dean Beeby, ‘Feminist Disappears from Public History under Harper
+[^4_1-Haiven_Max_19]: Dean Beeby, ‘Feminist Disappears from Public History under Harper
     Government’, *The Toronto Star*, 27 July 2014,
     [http://www.thestar.com/news/canada/2014/07/27/feminist\_disappears\_from\_public\_history\_under\_harper\_government.html](http://www.thestar.com/news/canada/2014/07/27/feminist\_disappears\_from\_public\_history\_under\_harper\_government.html).
 
-[^20]: Benedict Anderson, *Imagined Communities*, London and New York:
+[^4_1-Haiven_Max_20]: Benedict Anderson, *Imagined Communities*, London and New York:
     Verso, 2006.
 
-[^21]: See Mark C. Taylor, ‘Financialization of Art’, *Capitalism and
+[^4_1-Haiven_Max_21]: See Mark C. Taylor, ‘Financialization of Art’, *Capitalism and
     Society* 6.2 (2011), <http://capitalism.columbia.edu/files/ccs/Mark%20C.%20Taylor.pdf>.
 
-[^22]: On this perspective, see Fredric Jameson, *Representing Capital:
+[^4_1-Haiven_Max_22]: On this perspective, see Fredric Jameson, *Representing Capital:
     A Reading of Volume One*, London and New York: Verso, 2011.
 
-[^23]: See Niall Ferguson, *The Ascent of Money: A Financial History of
+[^4_1-Haiven_Max_23]: See Niall Ferguson, *The Ascent of Money: A Financial History of
     the World*, New York: Penguin, 2008.
 
-[^24]: On the struggles over what areas of life ought to be exlcuded
+[^4_1-Haiven_Max_24]: On the struggles over what areas of life ought to be exlcuded
     from markets, see Michael J. Sandel, *What Money Can’t Buy: The
     Moral Limits of Markets*, New York: Farrar, Straus and Giroux, 2012.
 
-[^25]: Anitra Nelson and Frans Timmerman (eds) *Life Without Money:
+[^4_1-Haiven_Max_25]: Anitra Nelson and Frans Timmerman (eds) *Life Without Money:
     Building Fair and Sustainable Economies*, London: Pluto, 2011.
 
-[^26]: See http://carolinewoolard.com/.
+[^4_1-Haiven_Max_26]: See http://carolinewoolard.com/.
 
-[^27]: See http://www.geheimagentur.net/.
+[^4_1-Haiven_Max_27]: See http://www.geheimagentur.net/.
 
-[^28]: See [http://www.schwarzbank.org/](http://www.schwarzbank.org/).
+[^4_1-Haiven_Max_28]: See [http://www.schwarzbank.org/](http://www.schwarzbank.org/).
 
-[^29]: See <http://moneyandart.tumblr.com/>.
+[^4_1-Haiven_Max_29]: See <http://moneyandart.tumblr.com/>.
 
-[^30]: Marc Shell, *Art and Money*, Chicago: University of Chicago
+[^4_1-Haiven_Max_30]: Marc Shell, *Art and Money*, Chicago: University of Chicago
     Press, 1994; Katy Siegel and Paul Mattick, *Art Works: Money*,
     London: Thames and Hudson, 2004.
 
-[^31]: Claire Bishop, *Artificial Hells: Participatory Art and the
+[^4_1-Haiven_Max_31]: Claire Bishop, *Artificial Hells: Participatory Art and the
     Politics of Spectatorship*, London and New York: Verso, 2012.
 
-[^32]: Joseph Beuys et al. *What Is Money? A Discussion*, West Hoathly: Clairview, 2010.
+[^4_1-Haiven_Max_32]: Joseph Beuys et al. *What Is Money? A Discussion*, West Hoathly: Clairview, 2010.
 
-[^33]: See [http://blog.artasmoney.com/blog/](http://blog.artasmoney.com/blog/).
+[^4_1-Haiven_Max_33]: See [http://blog.artasmoney.com/blog/](http://blog.artasmoney.com/blog/).
 
-[^34]: See [http://www.nonfunctionalthoughts.net/](http://www.nonfunctionalthoughts.net/).
+[^4_1-Haiven_Max_34]: See [http://www.nonfunctionalthoughts.net/](http://www.nonfunctionalthoughts.net/).
 
-[^35]: See [http://www.cassiethornton.com/](http://www.cassiethornton.com/).
+[^4_1-Haiven_Max_35]: See [http://www.cassiethornton.com/](http://www.cassiethornton.com/).
 
-[^36]: See [http://www.melchin.org/](http://www.melchin.org/).
+[^4_1-Haiven_Max_36]: See [http://www.melchin.org/](http://www.melchin.org/).
 
-[^37]: See Max Haiven and Alex Khasnabish, *The Radical Imagination:
+[^4_1-Haiven_Max_37]: See Max Haiven and Alex Khasnabish, *The Radical Imagination:
     Social Movement Research in the Age of Austerity*, London and New
     York: Zed Books, 2014.
 
-[^38]: See Etienne Balibar, *The Philosophy of Marx*, London and New
+[^4_1-Haiven_Max_38]: See Etienne Balibar, *The Philosophy of Marx*, London and New
     York: Verso, 2007.
 
-[^39]: Karl Marx and V.I. Lenin, *The Civil War in France and the Paris
+[^4_1-Haiven_Max_39]: Karl Marx and V.I. Lenin, *The Civil War in France and the Paris
     Commune*, New York: International, 1993.
 
-[^40]: See <https://www.marxists.org/archive/marx/works/1871/civil-war-france/ch05.htm.>.
+[^4_1-Haiven_Max_40]: See <https://www.marxists.org/archive/marx/works/1871/civil-war-france/ch05.htm.>.
 
-[^41]: C.L.R. James, ‘They Showed the Way to Labor Emancipation: On Karl Marx and the 75th Anniversary of the Paris Commune’ (1946), <https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm>.
+[^4_1-Haiven_Max_41]: C.L.R. James, ‘They Showed the Way to Labor Emancipation: On Karl Marx and the 75th Anniversary of the Paris Commune’ (1946), <https://www.marxists.org/archive/james-clr/works/1946/03/paris-commune.htm>.
 
-[^42]: See <http://www.marxists.org/archive/marx/works/1871/civil-war-france/postscript.htm.>.
+[^4_1-Haiven_Max_42]: See <http://www.marxists.org/archive/marx/works/1871/civil-war-france/postscript.htm.>.
 
-[^43]: See Kristen Ross, *The Emergence of Social Space: Rimbaud and the
+[^4_1-Haiven_Max_43]: See Kristen Ross, *The Emergence of Social Space: Rimbaud and the
     Paris Commune*, Minneapolis: University of Minnesota Press, 1988.

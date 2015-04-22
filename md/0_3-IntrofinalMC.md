@@ -37,7 +37,7 @@ crowdfunding research, mobile money in Africa and beyond, and artistic
 responses to the 2008 global financial crisis, on-going recession,
 foreclosures and insolvencies. This reader can in part be read as the
 proceedings of this event (the program of the conference is included in
-the back of this publication). In our text ‘Friends with Money’[^1],
+the back of this publication). In our text ‘Friends with Money’[^0_3-IntrofinalMC_1],
 included in the *Disrupting Business: Art and Activism in Times of
 Financial Crisis* anthology, we have laid out the programmatic
 intentions of our interventionist research. We’re not going to repeat
@@ -76,7 +76,7 @@ idealistic hacker and the opportunistic start-up entrepreneur has
 started to blur. It is no longer clear whether genuine alternatives are
 unfolding, or we are simply witnessing creative destruction without a
 cause. Disruption has become an aim in itself. What will we pitch?
-Dunno? How about potato salad?[^2]
+Dunno? How about potato salad?[^0_3-IntrofinalMC_2]
 
 We used to take for granted that money circulates, but now we are forced
 to invent it, time and again. The Lab is our creative jail. No solution
@@ -157,7 +157,7 @@ similar cryptocurrency experiments. Early days wherever you looked.
 That’s the spirit of MoneyLab. The critique of global finance is there
 but is still waiting for its own ‘Piketty’ moment. There is a growing
 awareness of 'dark pools' and other absurdities (thanks to Scott
-Peterson[^3] and the pop literature of Michael Lewis[^4]), but how can
+Peterson[^0_3-IntrofinalMC_3] and the pop literature of Michael Lewis[^0_3-IntrofinalMC_4]), but how can
 all this evidence be turned into an organised outrage or even be
 translated into policy? Many of us fear that regulation alone will not
 do the job. It is not enough to decommission this or that financial
@@ -171,7 +171,7 @@ be tantamount to banishing civil engineers from the bridge-making
 profession after a bridge collapse. Instead, many believed the goal
 should be to design better bridges – or, in the case of the quants, more
 robust models that could withstand financial tsunamis, not create
-them.’[^5] But what's better ‘design’ in the age of algo wars? Is
+them.’[^0_3-IntrofinalMC_5] But what's better ‘design’ in the age of algo wars? Is
 Bitcoin the better bridge? What does it mean to improve systems when we
 have reached the end of the liberal market illusion? There will always
 be ‘new insiders’. Will it be Apple, Google and Facebook this time? Or
@@ -200,7 +200,7 @@ in an organized network and eventually flip into a Thought Collective
 (as Mirowski calls it), a global initiative that can review and
 distribute alternatives seeds. He asks, ‘What would a vital counter
 narrative to the epistemological commitments of the neoliberals look
-like?’[^6] Can we be so bold and answer: MoneyLab? Or would that be
+like?’[^0_3-IntrofinalMC_6] Can we be so bold and answer: MoneyLab? Or would that be
 premature? If the ‘major ambition of the Neoliberal Thought Collective
 is to sow doubt and ignorance amongst the populace,’ what role can
 internet-based research networks such as MoneyLab play? Is it enough to
@@ -226,13 +226,13 @@ economy in the global transformations of capitalism?’ One possible
 direction that needs to be discussed is the issue of the
 financialization from below. So far, financialization has only been
 understood as a move from trade and commodity production to profits from
-financial channels.[^7] Is the monetisation of services that were once
+financial channels.[^0_3-IntrofinalMC_7] Is the monetisation of services that were once
 free of cost (or that did not exist in the first place) changing this
 picture?\
 \
 Are initiatives such as MoneyLab ready for the ‘exception’ and the
 financial state of emergency as predicted by websites such as Zero Hedge
-and RT celebrities such as Max Keiser?[^8] Do we, unconsciously,
+and RT celebrities such as Max Keiser?[^0_3-IntrofinalMC_8] Do we, unconsciously,
 underestimate the urgency of the current situation? According to
 Mirowski this is precisely what defines the behaviour of financial
 elites: they know how to get ready for the next crash. ‘Neoliberals may
@@ -275,27 +275,27 @@ Books, 2013.
 
 Patterson, Scott. *Dark Pools, The Rise of A.I. Trading Machines and the Looming Threat to Wall Street*, New York: Random House, 2012.
 
-[^1]: Geert Lovink and Nathaniel Tkacz, *Data Browser*, New York: Autonomedia, 2013, pp.
+[^0_3-IntrofinalMC_1]: Geert Lovink and Nathaniel Tkacz, *Data Browser*, New York: Autonomedia, 2013, pp.
     175-191. See also:
     http://networkcultures.org/moneylab/about/background/.
 
-[^2]: Kate Harrison, ‘Crowdfunding Potato Salad: Funny or Insulting?’,
+[^0_3-IntrofinalMC_2]: Kate Harrison, ‘Crowdfunding Potato Salad: Funny or Insulting?’,
     *Forbes*, 08 August 2014,
     http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/
 
-[^3]: Scott Patterson, *Dark Pools, The Rise of A.I. Trading Machines
+[^0_3-IntrofinalMC_3]: Scott Patterson, *Dark Pools, The Rise of A.I. Trading Machines
     and the Looming Threat to Wall Street*, New York: Random House, 2012.
 
-[^4]: Michael Lewis, *Flash Boys: A Wall Street Revolt*, New York: W.W. Norton &
+[^0_3-IntrofinalMC_4]: Michael Lewis, *Flash Boys: A Wall Street Revolt*, New York: W.W. Norton &
     Co., 2014.
 
-[^5]: Scott Patterson, *The Quants*, p. 318.
+[^0_3-IntrofinalMC_5]: Scott Patterson, *The Quants*, p. 318.
 
-[^6]: Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, London: Verso
+[^0_3-IntrofinalMC_6]: Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, London: Verso
 Books, 2013, p. 356.
 
-[^7]: Costas Lapavitsas, *Profiling Without Producing, How Finance
+[^0_3-IntrofinalMC_7]: Costas Lapavitsas, *Profiling Without Producing, How Finance
     Exploits Us All*, London/New York: Verso, 2013, p. 138.
 
-[^8]: See, [http://www.zerohedge.com/](http://www.zerohedge.com/) and
+[^0_3-IntrofinalMC_8]: See, [http://www.zerohedge.com/](http://www.zerohedge.com/) and
     <http://rt.com/shows/keiser-report/>.

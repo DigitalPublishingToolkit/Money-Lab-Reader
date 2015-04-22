@@ -32,7 +32,7 @@ Finance, and returned to where we began.
 
 The goal of the performance was to distribute 100 one Dollar bills
 stamped with *Free Money* on one side and *Slave of Wall Street* on the
-other. ABS’s website[^1] was also stamped on the paper currency, actual
+other. ABS’s website[^4_4-costanzo_1] was also stamped on the paper currency, actual
 Federal Reserve Notes. The goal was to raise awareness of the predatory
 nature of capitalism and the Wall Street agenda of deregulation, fraud,
 and bailouts.
@@ -49,7 +49,7 @@ both sides; the front promotes nationalizing the Federal Reserve Bank
 (the Fed) by eliminating private bankers who run the national bank.
 Other aspects included giving no-interest loans to the people instead of
 to Wall Street and calling for a commonwealth based on the 21st century
-concept of the commons.[^2] It advocates for ‘Democracy Not Hamiltonian
+concept of the commons.[^4_4-costanzo_2] It advocates for ‘Democracy Not Hamiltonian
 Plutocracy’, a reference to Alexander Hamilton, America’s first Treasury
 Secretary. Hamilton, founder of the First National Bank, introduced the
 United States to an early form of British capitalism. ABS’s namesake,
@@ -106,7 +106,7 @@ addressed are serious.
 ## Genesis
 
 > Those who control the present, control the past and those who control
-> the past control the future.[^3]
+> the past control the future.[^4_4-costanzo_3]
 > 
 > – George Orwell, *1984*
 
@@ -224,7 +224,7 @@ distance and length of time involved in communications, the colonies had
 a certain degree of autonomy. The American Colonies could issue paper
 currency to facilitate local trade and commerce. In 1729 Benjamin
 Franklin published a pamphlet about the importance of paper
-currency,[^4] not only for trade and commerce, but also for the workers,
+currency,[^4_4-costanzo_4] not only for trade and commerce, but also for the workers,
 craftsmen, and small shop owners. Paper money, or fiat currency, was one
 of the reasons that the colonies were prosperous. After the French and
 Indian War of 1754-1763, the British government passed the Currency Act
@@ -248,7 +248,7 @@ first instance of armed rebellion based on debt.
 > government didn’t respond to the economic crisis by passing pro-debtor
 > laws (like forgiving debt and printing more paper money). As a result
 > local sheriffs seized many farms and some farmers who couldn’t pay
-> their debts were put in prison.[^5]
+> their debts were put in prison.[^4_4-costanzo_5]
 
 One of the most important reasons that the Constitution replaced the
 Articles of Confederation was to end the pro-debtor laws passed by
@@ -257,7 +257,7 @@ Constitution, was often quoted saying the Constitution would insure that
 the ‘right people’ would retain power. Or as Madison wrote in Federalist
 Paper \#10, ‘A rage for paper money, for an abolition of debts, for the
 equal division of property, or for any other improper or wicked project,
-will be less apt to pervade the whole body of the Union...’[^6] The
+will be less apt to pervade the whole body of the Union...’[^4_4-costanzo_6] The
 Constitution guaranteed that *wicked projects* like economic and social
 justice were not to be tolerated.
 
@@ -270,7 +270,7 @@ this editorial:
 > opportunity of expressing your sentiments of it by an equal
 > representation. They provided no other mode of reformation than the
 > inadequate and unequal one of a council of censors. Amendments to the
-> Constitution requires a two-thirds majority.[^7]
+> Constitution requires a two-thirds majority.[^4_4-costanzo_7]
 
 This editorial laid the foundation of the Whiskey Rebellion of 1791 that
 was sparked by Constitution and later fanned by Hamilton’s capitalist
@@ -282,8 +282,8 @@ political exchange. The Constitution set the legal bases for the Supreme
 Court’s Citizens United ruling that gave corporations the rights of
 citizens and a 2014 decision that Argentina must first pay hedge fund
 speculators before paying for education, health care, and
-infrastructure.[^8] Another example is a Detroit judge ruling that
-debtors who did not pay their bills have no right to water.[^9] These
+infrastructure.[^4_4-costanzo_8] Another example is a Detroit judge ruling that
+debtors who did not pay their bills have no right to water.[^4_4-costanzo_9] These
 rulings illustrate that the Constitution values property rights over
 human rights. To write a Constitutional Amendment that bans corporate
 citizenship will not change the relationship between creditors (the
@@ -376,7 +376,7 @@ occupation. Months later his name returned and he wrote this editorial:
 > opposite nature; sedition, fury, hatred, malice and mischief. By its
 > fruits judge, whether our insurrection proceeded from a spirit of
 > liberty, or of licentiousness; whether it was the work of God or the
-> Devil.[^10]
+> Devil.[^4_4-costanzo_10]
 
 Skull, like many of the founders, was a Deist so the reference to god
 was metaphorical. But the Devil was Hamilton and capitalism.
@@ -427,10 +427,10 @@ production.
 
 ## Multiple Paths to the Commons
 
-ABS is still active with OWS working groups Strike Debt,[^11] Making
+ABS is still active with OWS working groups Strike Debt,[^4_4-costanzo_11] Making
 Worlds, a Commons Collation and occasionally Occupy Museums. Strike Debt
-published the *Debt Registers’ Operation Manual*[^12] and launched the
-Rolling Jubilee.[^13] The *Manual* informs debtors about their rights
+published the *Debt Registers’ Operation Manual*[^4_4-costanzo_12] and launched the
+Rolling Jubilee.[^4_4-costanzo_13] The *Manual* informs debtors about their rights
 and forms of resistance both for individual and government debt. There
 is also a chapter on ‘Climate Debt’, the debt industrial nations owe
 to the developing world for creating the pollution that causes climate
@@ -474,7 +474,7 @@ promote commerce, and then allow entrepreneurs to use Free Markets and
 Free Trades for personal profits.
 
 America’s first Treasury Secretary, Alexander Hamilton, didn’t believe
-in Free Markets or Free Trade.[^14] Hamilton bailed out speculators and
+in Free Markets or Free Trade.[^4_4-costanzo_14] Hamilton bailed out speculators and
 placed tariffs on imported manufactured items in order to protect
 emerging American industries. He did use tax dollars to build
 infrastructure but he chose who would profit. Capitalism has never
@@ -502,7 +502,7 @@ currency and created the International Monetary Fund (IMF) and World
 Bank to protect the dollar. The reserve currency requires other nations
 to hold a significant quantity of U.S. dollars as part of their foreign
 exchange reserve and that the U.S. dollar is used in international
-transactions.[^15] Money is power and the dollar works with overwhelming
+transactions.[^4_4-costanzo_15] Money is power and the dollar works with overwhelming
 militarily superiority to enforce the rule of the American Empire.
 
 At home the U.S. companies have their taxes reduced by shipping jobs
@@ -512,30 +512,30 @@ also subsidized. These corporations and monopolies couldn’t survive
 without government support. Abroad the American Empire and its
 industrial allies use the IMF and the World Bank to place developing
 countries in debt, a tactic with a history. Haiti is still paying
-reparations, or debt, to France from their slave rebellion in 1791.[^16]
+reparations, or debt, to France from their slave rebellion in 1791.[^4_4-costanzo_16]
 This type of odious debt is the legacy of colonialism, imperialism, and
 current neo-liberal policies. This is different but parallel to the
 odious debt imposed on the citizens of the industrial world from the
 2008 international financial meltdown that resulted in tens of trillions
 of dollars in bailouts paid for by taxes on working people and cuts to
-social programs. Odious debt[^17], also known as illegitimate debt, is
+social programs. Odious debt[^4_4-costanzo_17], also known as illegitimate debt, is
 an international law theory that holds that national debt, sustained by
 a regime for purposes that do not serve the best interests of the
 nation, should not be enforceable.
 
 In 2012 between \$20 and \$30 trillion went to offshore accounts that
-paid no taxes and did not create jobs.[^18] In addition the stock
+paid no taxes and did not create jobs.[^4_4-costanzo_18] In addition the stock
 markets and corporate profits are at record highs while governments
 demand austerity. ‘Large-scale tax evasion skews key economic
 statistics, it hampers officials’ ability to manage the economy or make
-policy.’[^19] Tax evasion and odious debt has enriched transnational
+policy.’[^4_4-costanzo_19] Tax evasion and odious debt has enriched transnational
 corporations and the 1 percent while crippling the global economy. This
 is why austerity is a lie; this is why debt resistance is necessary to
 break the political and economic oppression created by deregulation and
 fraud.
 
-Cities across France have started debt audits to uncover odious debt[^20] and Argentina has just passed a law establishing a debt audit
-commission.[^21] However, debt resistance is just the first step, there
+Cities across France have started debt audits to uncover odious debt[^4_4-costanzo_20] and Argentina has just passed a law establishing a debt audit
+commission.[^4_4-costanzo_21] However, debt resistance is just the first step, there
 are thousands of roads necessary to end capitalism but, as previously
 stated, ABS is focused on monetary policy. This is not to imply that
 this is more import than other strategies but to end capitalism we must
@@ -544,7 +544,7 @@ control capital.
 The transnational Participatory Budgeting movement is a different way to
 manage public money, and to engage people in the political process. It
 is a democratic process in which community members directly decide how
-to spend part of the public budget.[^22] ABS supports Participatory
+to spend part of the public budget.[^4_4-costanzo_22] ABS supports Participatory
 Budgeting, but ABS believes that we must look at the entire budget and
 combine debt audits with participatory budgeting. We must examine
 national, state/regional, and local government budgets and go beyond
@@ -561,10 +561,10 @@ Another parallel strategy would be the establishment of government or
 socialist banks. The Public Banking Institute is campaigning to create
 state banks similar to the Bank of North Dakota. The institute also
 support the reinstatement of U.S. Post Office banks that were terminated
-in the 1960s[^23]. Though ABS supports the Public Banking Institute,
+in the 1960s[^4_4-costanzo_23]. Though ABS supports the Public Banking Institute,
 there must be additional forms of redistributing the commonwealth.
 Former congressman Dennis Kucinich proposed a bill to nationalize the
-Fed titled the NEED Act, HR 2990.[^24] This bill would have placed the
+Fed titled the NEED Act, HR 2990.[^4_4-costanzo_24] This bill would have placed the
 Fed, which is owned and run by private bankers, inside the Treasury
 Department and replaced private bankers with civil servants. The goal
 was to take Wall Street’s profits an turn them into a people’s equity
@@ -629,7 +629,7 @@ Piketty writes:
 > money, its measurement, the facts surrounding it, and its history.
 > Those who have a lot of it never fail to defend their interests.
 > Refusing to deal with numbers rarely serves the interest of the least
-> well-off. [^25]
+> well-off. [^4_4-costanzo_25]
 
 After the 2008 financial meltdown, the world is drowning in debt. Most
 of the debt in the industrial world was created by government
@@ -773,80 +773,80 @@ Rebellion’, <http://www.ushistory.org/us/15a.asp>.
 Wheelan, Joseph. *Jefferson’s Vendetta: The Pursuit of Aaron Burr and
 the Judiciary*, New York: Carroll & Graf Publishers, 2005.
 
-[^1]: See <http://www.aaronburrsociety.org/aaron_burr_society_home.html>.
+[^4_4-costanzo_1]: See <http://www.aaronburrsociety.org/aaron_burr_society_home.html>.
 
-[^2]: While this is an abstract concept with no set definition, most
+[^4_4-costanzo_2]: While this is an abstract concept with no set definition, most
     would agree that it is about establishing local autonomy and
     economic independence based on universal human rights. Worker, food,
     and farming coops, local green energy production, open source
     software and direct democracy are often cited as part of the
     commons.
 
-[^3]: George Orwell, *1984*, New York: Signet Classic, 1977 (1949).
+[^4_4-costanzo_3]: George Orwell, *1984*, New York: Signet Classic, 1977 (1949).
 
-[^4]: Benjamin Franklin, ‘Enquiry into the Nature and Necessity o/ a
+[^4_4-costanzo_4]: Benjamin Franklin, ‘Enquiry into the Nature and Necessity o/ a
     Paper Currency*’*, 1729.
 
-[^5]: U.S. History: Pre-Columbian to the New Millennium, ‘15a Shay’s
+[^4_4-costanzo_5]: U.S. History: Pre-Columbian to the New Millennium, ‘15a Shay’s
     Rebellion’,
     [http://www.ushistory.org/us/15a.asp](http://www.ushistory.org/us/15a.asp).
 
-[^6]: *The Federalist No. 10: The Utility of the Union as a Safeguard
+[^4_4-costanzo_6]: *The Federalist No. 10: The Utility of the Union as a Safeguard
     Against Domestic Faction and Insurrection*, Publius [James Madison],
     22 November 1787, Constitution Society,
     [http://www.constitution.org/fed/federa10.htm](http://www.constitution.org/fed/federa10.htm).
 
-[^7]: See John Scull, *Pittsburgh Gazette*, 16 May 1789.
+[^4_4-costanzo_7]: See John Scull, *Pittsburgh Gazette*, 16 May 1789.
 
-[^8]: Ellen Brown, ‘Cry for Argentina: Fiscal Mismanagement, Odious Debt
+[^4_4-costanzo_8]: Ellen Brown, ‘Cry for Argentina: Fiscal Mismanagement, Odious Debt
     or Pillage? The Web of Debt Blog*’*, 12 August 2014,
     [http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/](http://ellenbrown.com/2014/08/12/cry-for-argentina-fiscal-mismanagement-or-pillage/).
 
-[^9]: Rebecca Savastio, ‘Detroit Judge Rules There Is No Basic Human
+[^4_4-costanzo_9]: Rebecca Savastio, ‘Detroit Judge Rules There Is No Basic Human
     Right to Water’, *Guardian Liberty Voice*, 1 October 2014, <http://guardianlv.com/2014/10/detroit-judge-rules-there-is-no-basic-human-right-to-water>.
 
-[^10]: *Pittsburgh Gazette*, Pittsburgh, Pennsylvania, 17 December 1794.
+[^4_4-costanzo_10]: *Pittsburgh Gazette*, Pittsburgh, Pennsylvania, 17 December 1794.
 
-[^11]: See <http://strikedebt.org>.
+[^4_4-costanzo_11]: See <http://strikedebt.org>.
 
-[^12]: Strike Debt, *The Debt Resisters’ Operation Manual*, Brooklyn, NY
+[^4_4-costanzo_12]: Strike Debt, *The Debt Resisters’ Operation Manual*, Brooklyn, NY
     and Oakland: Common Notions/PM Press/Autonomedia, 2014.
 
-[^13]: Rolling Jubilee, <http://rollingjubilee.org>.
+[^4_4-costanzo_13]: Rolling Jubilee, <http://rollingjubilee.org>.
 
-[^14]: Susan Dunn (ed.) *Something that Will Surprise the World: the
+[^4_4-costanzo_14]: Susan Dunn (ed.) *Something that Will Surprise the World: the
     Essential Writings of the Founding Fathers*, New York: Basic Books,
     2006.
 
-[^15]: The BRIC nations are challenging the supremacy of the U.S. dollar
+[^4_4-costanzo_15]: The BRIC nations are challenging the supremacy of the U.S. dollar
     but they are also capitalist nations and will not change power
     relationships.
 
-[^16]: Kim Ives, ‘Haiti: Independence Debt, Reparations for Slavery and
+[^4_4-costanzo_16]: Kim Ives, ‘Haiti: Independence Debt, Reparations for Slavery and
     Colonialism, and International Aid’, *Global Research, Haïti
     Liberté*, 10 May 2013, <http://www.globalresearch.ca/haiti-independence-debt-reparations-for-slavery-and-colonialism-and-international-aid/5334619>.
 
-[^17]: International Monetary Fund, ‘Odious Debt’, <http://www.imf.org/external/pubs/ft/fandd/2002/06/kremer.htm>.
+[^4_4-costanzo_17]: International Monetary Fund, ‘Odious Debt’, <http://www.imf.org/external/pubs/ft/fandd/2002/06/kremer.htm>.
 
-[^18]: Democracy Now, ‘Exhaustive Study Finds Global Elite Hiding Up to
+[^4_4-costanzo_18]: Democracy Now, ‘Exhaustive Study Finds Global Elite Hiding Up to
     \$32 Trillion in Offshore Accounts’, 31 July 2012, <http://www.democracynow.org/2012/7/31/exhaustive_study_finds_global_elite_hiding>.
 
-[^19]: Jacques Leslie, ‘The True Cost of Hidden Money A Piketty
+[^4_4-costanzo_19]: Jacques Leslie, ‘The True Cost of Hidden Money A Piketty
     Protégé’s Theory on Tax Havens’, *The New York Times*, 15 June 2014, <http://www.nytimes.com/2014/06/16/opinion/a-piketty-proteges-theory-on-tax-havens.html?ref=opinion&_r=0>.
 
-[^20]: Strike Debt, ‘“Don’t Owe, Won’t Pay!” A Conversation with a
+[^4_4-costanzo_20]: Strike Debt, ‘“Don’t Owe, Won’t Pay!” A Conversation with a
     French Debt Resistor’*,* 24 June 2013, <http://strikedebt.org/publicdebtaudits/>.
 
-[^21]: Jubilee Debt Campaign, ‘Argentina Passes Law To Establish Debt
+[^4_4-costanzo_21]: Jubilee Debt Campaign, ‘Argentina Passes Law To Establish Debt
     Audit Commission’, 1 October 2014, <http://jubileedebt.org.uk/news/argentina-passes-law-establish-debt-audit-commission>.
 
-[^22]: Participatory Budgeting Project, <http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/>.
+[^4_4-costanzo_22]: Participatory Budgeting Project, <http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/>.
 
-[^23]: Records of the Post Office Department, <http://www.archives.gov/research/guide-fed-records/groups/028.html>.
+[^4_4-costanzo_23]: Records of the Post Office Department, <http://www.archives.gov/research/guide-fed-records/groups/028.html>.
 
-[^24]: National Emergency Employment Defense Act of 2011 [NEED Act, HR
+[^4_4-costanzo_24]: National Emergency Employment Defense Act of 2011 [NEED Act, HR
     2990], <https://www.govtrack.us/congress/bills/112/hr2990/text>.
 
-[^25]: Thomas Piketty, *Capitalism in the Twenty-First Century*, trans.
+[^4_4-costanzo_25]: Thomas Piketty, *Capitalism in the Twenty-First Century*, trans.
     Arthur Goldhammer, Cambridge, MA and London: The Belknap Press of
     Harvard University Press, 2014.

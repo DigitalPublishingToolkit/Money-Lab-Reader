@@ -28,7 +28,7 @@ alternative revenue. The Toolkit’s aim is to better inform prospective
 crowdfunding campaigners on what the crowdfunding process entails before
 they start a campaign.
 
-In its practical form, the toolkit is a website.[^1] In what follows we
+In its practical form, the toolkit is a website.[^6_3-Irina_Robert_1] In what follows we
 briefly introduce the three main components of the Toolkit: several
 in-depth interviews with users, statistics based on a survey of
 creatives using crowdfunding, and an interactive graph of 60 Dutch and
@@ -130,7 +130,7 @@ represent numbers of responses.`{.caption}
 
 There are hundreds of crowdfunding platforms worldwide, and most offer
 very little insight into what happens behind their popular
-interfaces.[^2] To tackle this issue the Toolkit’s third feature is an
+interfaces.[^6_3-Irina_Robert_2] To tackle this issue the Toolkit’s third feature is an
 interactive visualization that allows prospective campaigners to explore
 60 Dutch and international crowdfunding platforms, as well as look into
 various in-depth statistics that have not been available before. The
@@ -194,7 +194,7 @@ why many people would try it again.
 
 Also problematic, most crowdfunding websites hide particular types of
 information. For instance, the majority of crowdfunding campaigns
-fail,[^3] and these unsuccessful campaigns are rarely visible on
+fail,[^6_3-Irina_Robert_3] and these unsuccessful campaigns are rarely visible on
 crowdfunding platforms. Most of the browsing filters on crowdfunding
 platforms are designed to display only positive results and successful
 campaigns. Some crowdfunding platforms even have a policy of erasing
@@ -237,21 +237,21 @@ Mondriaan Fonds, <http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/>.
 MoneyLab Crowdfunding Toolkit,
 [www.networkcultures.org/moneylab-toolkit](http://www.networkcultures.org/moneylab-toolkit).
 
-[^1]: MoneyLab Crowdfunding Toolkit,
+[^6_3-Irina_Robert_1]: MoneyLab Crowdfunding Toolkit,
     [www.networkcultures.org/moneylab-toolkit](http://www.networkcultures.org/moneylab-toolkit).
     The research and design for the MoneyLab Crowdfunding Toolkit was
     conducted and coordinated by the Institute of Network Cultures as
     part of the MoneyLab: Coining Alternatives project in 2013-2014.
     Credits for the visual design of the toolkit go to Gabriele Colombo.
 
-[^2]: Each crowdfunding platform in the Toolkit was asked for the data.
+[^6_3-Irina_Robert_2]: Each crowdfunding platform in the Toolkit was asked for the data.
     Some responded with figures, others declined to share the
     information, while others never replied. When data such as average
     donation and number of contributors was not provided by the platform
     itself, it was gathered from the fifteen most recent successful
     projects.
 
-[^3]: Adrianne Jeffers, ‘Indie No-Go: Only One in Ten Projects Gets
+[^6_3-Irina_Robert_3]: Adrianne Jeffers, ‘Indie No-Go: Only One in Ten Projects Gets
     Fully Funded on Kickstarter’s Biggest Rival’, *The Verge*, 7 August
     2013,
     <http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded>.

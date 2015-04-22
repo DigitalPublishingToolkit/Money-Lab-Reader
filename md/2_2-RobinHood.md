@@ -436,7 +436,7 @@ losers, sad figures, dark souls, cynical opportunists, and depressed
 princesses. We are not tough or macho, we are soft and wet, impotent and
 feeble. We don’t march or demonstrate. We have difficulty in getting
 out of the bed. We need each other just for trying to stand up. We are
-‘molle’ people,[^1] the future of cooperation. This skepticism is not
+‘molle’ people,[^2_2-RobinHood_1] the future of cooperation. This skepticism is not
 cognitive but ethical. The impasse is ethical and political at once; it
 affects our position, our exploration of the world. It is the dead end
 of politics as we have known it, which is the breeding ground of Robin
@@ -628,7 +628,7 @@ the risks. Our individual and collective capability to assume debt, pay
 taxes and bear the austerity measures is used directly as raw material
 for making these profits. We are the wild side of finance.
 
-[^1]: The soft belly - *il ventre molle* - of Infosphere is a concept by
+[^2_2-RobinHood_1]: The soft belly - *il ventre molle* - of Infosphere is a concept by
     Franco Berardi. He developed it to think about the place of
     insurrection and mutation when controls have become arbitrary and
     start to operate through linguistic and technological automatisms,

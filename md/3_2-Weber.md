@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # The Economic Viability of Complementary Currencies: Bound to Fail?
 
-### Beat Weber[^1] {.author}
+### Beat Weber[^3_2-Weber_1] {.author}
 
 Bitcoin and similar cryptocurrencies are the latest embodiments of a
 longer history of attempts to establish something that is frequently
@@ -56,7 +56,7 @@ into divisive political camps, why not create communities around common
 goals and create currencies to represent these communities in the
 economic sphere? Indeed, grassroots complementary currency projects can
 initiate enthusiasm and effort that promotes ties among community
-members and in that way yield many social benefits.[^2] In democratic
+members and in that way yield many social benefits.[^3_2-Weber_2] In democratic
 theory, legitimacy can be conceived as input and output legitimacy.
 Input legitimacy refers to the extent to which community members have a
 voice in a project. Output legitimacy refers to the ability of the
@@ -76,7 +76,7 @@ insure themselves against unforeseen expenditures. In contrast to other
 forms of storing wealth (real estate, financial assets, and other items
 of value), money offers the advantage of being immediately available to
 buy commodities. That feature is referred to as money’s superior
-liquidity.[^3]
+liquidity.[^3_2-Weber_3]
 
 In general, the price system is based on the single unit of account. In
 the Eurozone, all prices are calculated and displayed in Euro. This
@@ -136,10 +136,10 @@ transactions and are subject to state regulation and supervision.
 Historically, the state was not always the sole issuer of cash. In many
 English speaking and a few contintental European countries, private
 banks issued their own notes in the 18th and 19th century, redeemable in
-precious metal.[^4] Costly non-par exchange among competing issuers,
+precious metal.[^3_2-Weber_4] Costly non-par exchange among competing issuers,
 widespread counterfeiting and reocurring bank failures made the costs of
 such a system so striking that public support grew for a stronger state
-role.[^5]
+role.[^3_2-Weber_5]
 
 But even after centralization, in a number of episodes in modern
 economic history, complementary currencies issued by entities other than
@@ -155,7 +155,7 @@ of official coins was impaired due to war, crisis, or specific policies.
 
 In the U.S. in the 19th century, private banknote issue was dominant.
 But banks were legally prevented from issuing small-denomination
-banknotes.[^6] Merchants, farmers and companies filled the gap by
+banknotes.[^3_2-Weber_6] Merchants, farmers and companies filled the gap by
 issuing paper currency notes and tokens in small denominations,
 denominated in dollars, or goods and services rendered. These tokens
 could be used to pay for products of the issuer and sometimes circulated
@@ -163,7 +163,7 @@ among the general public. The same happened during the U.S. civil war,
 when inflation led the price of precious metals to rise above their
 minted value in coins, causing metallic coins to disappear from
 circulation. Eventually, authorities filled the temporary gap again, and
-the use of private substitutes receded.[^7]
+the use of private substitutes receded.[^3_2-Weber_7]
 
 Many observers see small denomination online payments as a current
 example where usage of official currency is impaired by high transaction
@@ -187,7 +187,7 @@ will increase Bitcoin’s value in terms of official currency, the network
 has so far been able to attract sufficient volunteers (‘miners’) ready
 to engage in that gamble, in turn enabling cheap transactions among
 users of its payment network (that nevertheless entail considerable loss
-risks).[^8]
+risks).[^3_2-Weber_8]
 
 ### b) Complementarity with Respect to Specific Geographical Areas
 
@@ -201,7 +201,7 @@ elsewhere were often active in remote locations. Setting up company
 towns and serving their staff through company stores, these companies
 often issued their own currency (redeemable against goods in the company
 store) to pay workers. They could thereby overcome costs and risks
-involved in large distance transportation of physical currency,[^9] and
+involved in large distance transportation of physical currency,[^3_2-Weber_9] and
 profit from the advantages in holding a local monopoly in offering
 employment and goods, pricing them and issuing the means of payment.
 Prisoner of war camps, military bases abroad and ships on long voyages
@@ -217,11 +217,11 @@ other countries resorted to issuing so called ‘scrip money’. These were
 means of payment denominated in the official unit of account and
 redeemable for either proper money at a future date, for goods (as
 offered either by the issuer or some other producers ready to accept
-scrip) or as discharge of local tax liabilities.[^10] A similar
+scrip) or as discharge of local tax liabilities.[^3_2-Weber_10] A similar
 phenomenon was observed in Russia’s transition from a centrally planned
-economy in the 1990s.[^11] In a political crisis concerning the state
+economy in the 1990s.[^3_2-Weber_11] In a political crisis concerning the state
 budget in 2009, even the state of California resorted to issuing IOUs to
-meet its short-term financial obligations for a few months.[^12] In the
+meet its short-term financial obligations for a few months.[^3_2-Weber_12] In the
 recent crisis of 2008 – which in many ways was compared to the Great
 Depression – policy makers in most industrialized countries took
 measures to prevent deflation and breakdown of the financial
@@ -237,7 +237,7 @@ clubs, where club means of payment were issued to facilitate trade of
 goods and services among members. After a few months, instances of fraud
 and mismanagement within these arrangements and an improvement of
 overall financial stability led to the decline of private complementary
-currency use.[^13]
+currency use.[^3_2-Weber_13]
 
 Some regional complementary projects aim at reducing leakage of
 purchasing power and reorienting economic circulation towards the
@@ -346,7 +346,7 @@ kind of transactions.
 Game owners issue these currencies in order to financially motivate
 players, provide an incentive for customers to return once they have
 accumulated certain wealth (‘lock-in’), and generate additional revenue
-for themselves.[^14] The basis of game currency success is that their
+for themselves.[^3_2-Weber_14] The basis of game currency success is that their
 issuers control access to goods in demand, which creates demand for the
 currency among game users.
 
@@ -399,7 +399,7 @@ apprentice? Would a doctor, who invested years of study, be prepared to
 exchange one hour of her labor for an hour of labor by an unprofessional
 care worker? Such issues typically trigger disputes over the appropriate
 value standard and lead to the exit of suppliers that can get a better
-deal in markets based on official currency.[^15]
+deal in markets based on official currency.[^3_2-Weber_15]
 
 ### d) Complementarity with Respect to Specific Groups
 
@@ -415,19 +415,19 @@ new trading relationships among members of groups that may or may not be
 located within a specific region. In this context, ‘a complementary
 currency […] is an agreement to use something else than legal tender
 (i.e. national money) as a medium of exchange, with the purpose to link
-unmet needs with otherwise unused resources.’[^16]
+unmet needs with otherwise unused resources.’[^3_2-Weber_16]
 
 Since the 1980s, there has been growing interest in such initiatives.
 But while a number of grassroots projects have created early local
 enthusiasm for such projects, none of them has flourished for long or
 managed to reach a critical mass. Most falter after initial support
-energies fade.[^17]
+energies fade.[^3_2-Weber_17]
 
 LETS networks use interest-free local credit, so direct bilateral
 barter-like swaps do not need to be made. No physical money is issued,
 but rather transactions are recorded in a central location open to all
 members. As credit is issued by the network members, for the benefit of
-the members themselves, LETS are considered mutual credit systems.[^18]
+the members themselves, LETS are considered mutual credit systems.[^3_2-Weber_18]
 
 The main challenge is to attract a significant number of reciprocal
 trade opportunities. Participants lacking alternative income sources
@@ -442,7 +442,7 @@ won’t be attracted by a network offering piano lessons, carpet cleaning
 and related services in exchange for their products. As the Wikipedia
 entry on LETS puts it, ‘Conventional national currency is generally hard
 to earn, but easy to spend. To date LETSystems are comparatively easy to
-earn, but harder to spend’.[^19]
+earn, but harder to spend’.[^3_2-Weber_19]
 
 ## Why Currencies are Accepted
 
@@ -455,7 +455,7 @@ by users?
 
 In many accounts critical of existing monetary arrangements, it is
 assumed that official money is forced on users, based on ‘legal tender’
-status.[^20] But there is less behind this status than commonly
+status.[^3_2-Weber_20] But there is less behind this status than commonly
 believed. If you use the official currency in payment you will be
 protected by law against your transaction partner sueing you for
 non-payment (unless the underlying contract specifies otherwise). And if
@@ -534,7 +534,7 @@ at least shorter periods of time and which covers the most (and the most
 attractive) goods and services. The possibility and credibility of the
 issuer to assure the quality of a currency, and the likelihood of other
 users adopting it are therefore decisive features in currency network
-competition.[^21]
+competition.[^3_2-Weber_21]
 
 
 ### The Role of the Issuer
@@ -713,7 +713,7 @@ surpassing the cash reserves of the bank concerned and bringing it down.
 The ability for credit to act as money substitute is not restricted to
 credit issued by banks. For instance, inter-company loans such as trade
 credit granted among firms represents a significant part of the
-liabilities of the industrial sector.[^22] When firms issuing
+liabilities of the industrial sector.[^3_2-Weber_22] When firms issuing
 liabilities have good reputation, their debt might even circulate as
 means of payment among other firms.
 
@@ -736,7 +736,7 @@ alternatives. In many economically weak countries in economic history,
 currency substitution has taken place. Would such a deteriorating
 performance pose a chance for rivaling CCs based on private initiative?
 The answer tends to be no. Usually, substitutes are almost exclusively
-chosen from among the rank of other state supported currencies.[^23]
+chosen from among the rank of other state supported currencies.[^3_2-Weber_23]
 Private CCs are inevitably positioned at the bottom of the hierarchy of
 credit claims. In a situation of eroding trust in the national currency
 at the top of the domestic credit hierarchy, users usually try to
@@ -799,7 +799,7 @@ cannot be settled once and for all. But it has to be kept in mind that
 enforcement mechanisms to foster community participation can gain a
 repressive character beyond a certain limit. And while social and
 community building effects may be considered successful features of
-complementary currency projects which go beyond economic aspects,[^24]
+complementary currency projects which go beyond economic aspects,[^3_2-Weber_24]
 possible disputes among network members over valuation standards,
 distribution of benefits and governance issues are also part of the
 reality of CCs which have to be included in any assessment.
@@ -833,9 +833,9 @@ alter their logic.
 Some CC projects are based on the hope that a different currency can
 stop the growth of inequality, thought as being triggered by the
 accumulation of money and the alleged tendency of money to grow through
-the compound interest mechanism.[^25] But such an approach rests on the
+the compound interest mechanism.[^3_2-Weber_25] But such an approach rests on the
 conflation of money and wealth. Wealthy people do not hoard cash or bank
-accounts to a large extent.[^26] The primary form of wealth in
+accounts to a large extent.[^3_2-Weber_26] The primary form of wealth in
 capitalism is business ownership and income derived from owning or
 managing firms, as well as housing property and various financial
 assets. None of these are touched upon by reforming money. Inequality is
@@ -917,30 +917,30 @@ Jocelyn Pixley and G.C.Harcourt (eds) *Financial Crises and the Nature
 of Capitalist Money. Mutual Developments from the Work of Geoffrey
 Ingham,* Houndsmill/New York: Palgrave, 2013, pp. 101-123.
 
-[^1]: The views expressed in this text do not necessarily coincide with
+[^3_2-Weber_1]: The views expressed in this text do not necessarily coincide with
     those of my employer. I am grateful to Stefan Schmitz for comments
     on an earlier draft of this paper.
 
-[^2]: Gill Seyfang and Noel Longhurst, ‘Money, Money, Money? A Scoping
+[^3_2-Weber_2]: Gill Seyfang and Noel Longhurst, ‘Money, Money, Money? A Scoping
     Study of Grassroots Complementary Currencies for Sustainability’,
     *3S Working Paper*, 2012.
 
-[^3]: Geoffrey Ingham, *The Nature of Money*, Cambridge: Polity Press,
+[^3_2-Weber_3]: Geoffrey Ingham, *The Nature of Money*, Cambridge: Polity Press,
     2004; Makoto Itoh and Lapavitsas Costas, *Political Economy of Money
     and Finance*, Hampshire and London: MacMillan Press, 1999.
 
-[^4]: Lawrence H. White, ‘Competing Money Supplies’, in David R.
+[^3_2-Weber_4]: Lawrence H. White, ‘Competing Money Supplies’, in David R.
     Henderson (ed.) *The Concise Encyclopedia of Economics*,
     Indianapolis: Liberty Fund, 2007, pp. 71-73; Stefan W. Schmitz,‘Will
     Central Banking Survive Electronic Money?’, in Stephen Millard,
     Andrew Haldane, and Victoria Saporta (eds) *The Future of Payments*,
     London: Routledge, 2007, pp. 233-254.
 
-[^5]: Warren E. Weber, ‘The Efficiency of Private E-money-like Systems:
+[^3_2-Weber_5]: Warren E. Weber, ‘The Efficiency of Private E-money-like Systems:
     The U.S. Experience With State Bank Notes’, *Bank of Canada Working
     Paper*, 2014-15.
 
-[^6]: The reason for this ban can be found in an attempt by banks to
+[^3_2-Weber_6]: The reason for this ban can be found in an attempt by banks to
     install a disciplining device against banknote overissuance. In the
     system under consideration, banknotes had to be redeemable in gold
     held by banks. With large-denomination notes, so the argument went,
@@ -949,66 +949,66 @@ Ingham,* Houndsmill/New York: Palgrave, 2013, pp. 101-123.
     for too long a time, therefore offering banks an incentive to
     overissue them.
 
-[^7]: Bruce Champ, *Private Money in Our Past, Present, and Future*, in:Economic Commentary, Federal Reserve Bank of Cleveland, January 2007.
+[^3_2-Weber_7]: Bruce Champ, *Private Money in Our Past, Present, and Future*, in:Economic Commentary, Federal Reserve Bank of Cleveland, January 2007.
 
-[^8]: Beat Weber, ‘Can Bitcoin Compete With Money?’, *Journal of Peer
+[^3_2-Weber_8]: Beat Weber, ‘Can Bitcoin Compete With Money?’, *Journal of Peer
     Production* 4 (2014),
     [http://peerproduction.net/issues/issue-4-value-and-currency/invited-comments/can-bitcoin-compete-with-money/](http://peerproduction.net/issues/issue-4-value-and-currency/invited-comments/can-bitcoin-compete-with-money/).
 
-[^9]: Bruce Champ, *Private Money in Our Past, Present, and Future*, in:Economic Commentary, Federal Reserve Bank of Cleveland, January 2007.
+[^3_2-Weber_9]: Bruce Champ, *Private Money in Our Past, Present, and Future*, in:Economic Commentary, Federal Reserve Bank of Cleveland, January 2007.
 
-[^10]: Bruce Champ, *Stamp Scrip: Money People Paid to Use*, 2008, Available at: [http://core.ac.uk/download/pdf/6670241.pdf](http://core.ac.uk/download/pdf/6670241.pdf).
+[^3_2-Weber_10]: Bruce Champ, *Stamp Scrip: Money People Paid to Use*, 2008, Available at: [http://core.ac.uk/download/pdf/6670241.pdf](http://core.ac.uk/download/pdf/6670241.pdf).
 
-[^11]: David Woodruff, ‘Monetary Surrogates and Money’s Dual Nature’, in
+[^3_2-Weber_11]: David Woodruff, ‘Monetary Surrogates and Money’s Dual Nature’, in
     Jocelyn Pixley and G.C.Harcourt (eds) *Financial Crises and the
     Nature of Capitalist Money. Mutual Developments from the Work of
     Geoffrey Ingham,* Houndsmill and New York: Palgrave, 2013, pp.
     101-123.
 
-[^12]: See [http://www.sco.ca.gov/eo\_news\_registeredwarrants.html](http://www.sco.ca.gov/eo\_news\_registeredwarrants.html).
+[^3_2-Weber_12]: See [http://www.sco.ca.gov/eo\_news\_registeredwarrants.html](http://www.sco.ca.gov/eo\_news\_registeredwarrants.html).
 
-[^13]: Thomas Greco, *The End of Money and the Future of Civilization*,
+[^3_2-Weber_13]: Thomas Greco, *The End of Money and the Future of Civilization*,
     White River Junction: Chelsea Green Publishing (Kindle Edition),
     2009, p. 2943.
 
-[^14]: ECB (European Central Bank), *Virtual Currency Schemes*,
+[^3_2-Weber_14]: ECB (European Central Bank), *Virtual Currency Schemes*,
     Frankfurt, 2012.
 
-[^15]: Ingham, *The Nature of Money*, p. 185.
+[^3_2-Weber_15]: Ingham, *The Nature of Money*, p. 185.
 
-[^16]: Wikipedia, ‘Complementary Currency’,
+[^3_2-Weber_16]: Wikipedia, ‘Complementary Currency’,
     [http://en.wikipedia.org/wiki/Complementary\_currency](http://en.wikipedia.org/wiki/Complementary\_currency),
     accessed 17 August 2014.
 
-[^17]: Jérôme Blanc, ‘Classifying “CCs”: Community, Complementary and
+[^3_2-Weber_17]: Jérôme Blanc, ‘Classifying “CCs”: Community, Complementary and
     Local Currencies’ Types and Generations’, *International Journal of
     Community Currency Research* 15 (2011) D 4-10,
     [https://ijccr.files.wordpress.com/2012/05/ijccr-2011-special-issue-02-blanc.pdf](https://ijccr.files.wordpress.com/2012/05/ijccr-2011-special-issue-02-blanc.pdf);
     Greco, *The End of Money and the Future of Civilization*, p. 2659.
 
-[^18]: Wikipedia, ‘Local Exchange Trading System’,
+[^3_2-Weber_18]: Wikipedia, ‘Local Exchange Trading System’,
     accessed 23 November 2014.
 
-[^19]: Wikipedia, ‘Local Exchange Trading System’,
+[^3_2-Weber_19]: Wikipedia, ‘Local Exchange Trading System’,
     accessed 23 November 2014.
 
-[^20]: Greco, *The End of Money and the Future of Civilization Money and
+[^3_2-Weber_20]: Greco, *The End of Money and the Future of Civilization Money and
     the Future,* p. 2079.
 
-[^21]: Benjamin Cohen, *The Future of Money*, Princeton: Princeton
+[^3_2-Weber_21]: Benjamin Cohen, *The Future of Money*, Princeton: Princeton
     University Press, 2006, p. 11.
 
-[^22]: Task Force of the Monetary Policy Committee of the European
+[^3_2-Weber_22]: Task Force of the Monetary Policy Committee of the European
     System of Central Banks, ‘Corporate Finance and Economic Activity in
     The Euro Area’, Structural Issues Report 2013, *ECB Occasional Paper
     Series* 151 (2013): 7.
 
-[^23]: Cohen, *The Future of Money*, p. 25.
+[^3_2-Weber_23]: Cohen, *The Future of Money*, p. 25.
 
-[^24]: Axel T. Paul, ‘Die Legitimität des Geldes’, *Leviathan* 21
+[^3_2-Weber_24]: Axel T. Paul, ‘Die Legitimität des Geldes’, *Leviathan* 21
     (2002): pp. 109-129.
 
-[^25]: Greco, *The End*, p. 2032.
+[^3_2-Weber_25]: Greco, *The End*, p. 2032.
 
-[^26]: Thomas Piketty, *Capital in the 21st Century*, Cambridge, MA:
+[^3_2-Weber_26]: Thomas Piketty, *Capital in the 21st Century*, Cambridge, MA:
     Harvard University Press (Kindle Edition), 2014.

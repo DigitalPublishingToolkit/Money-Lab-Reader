@@ -89,7 +89,7 @@ aimed at increasing financial inclusion.
 
 Small-scale financial products might seem to be merely the newest trend
 in poverty alleviation, but it actually has a far longer history than
-the standard microcredit story reveals. According to David Roodman,[^1]
+the standard microcredit story reveals. According to David Roodman,[^5_3-TaylorEB_1]
 one of the earliest recorded examples of people engaging in charitable
 lending is Jonathan Swift, author of *Gulliver’s Travels*. In the 1720s,
 Swift would lend Dubliners five or ten pounds without interest, so long
@@ -137,7 +137,7 @@ welfare of its users?
 
 ## Mobile Money as Finance
 
-In M-Pesa’s ‘Send Money Home’ advertisement,[^2] a city worker glances
+In M-Pesa’s ‘Send Money Home’ advertisement,[^5_3-TaylorEB_2] a city worker glances
 fondly at a photograph on his desk. He picks up his phone and chooses
 the ‘send money’ option. As if by magic, bills fly from his phone and
 through the air. The camera cuts to a scene of a rural field, where an
@@ -166,7 +166,7 @@ attract the label ‘microfinance’. And yet, what is the aim of
 microfinance programs if not to incorporate its customers into the
 mainstream economy and financial system? Recipients of microfinance
 loans, for example, are encouraged to ‘graduate’ to bank accounts, debit
-and credit cards, and larger loans.[^3] Furthermore, the term
+and credit cards, and larger loans.[^5_3-TaylorEB_3] Furthermore, the term
 ‘microfinance’ itself is misleading, conjuring images of small programs
 in small communities. In actuality, microfinance is big business.
 
@@ -174,17 +174,17 @@ Second, mobile money articulates with movements in money across
 international borders. Over the past few decades, remittances have come
 to be an increasingly significant proportion of global cash flows.
 Worldwide, it is estimated that around \$414 billion was sent in
-2013,[^4] with a typical individual remittance totalling
-\$100-\$300.[^5] Until recently, mobile money services were generally
+2013,[^5_3-TaylorEB_4] with a typical individual remittance totalling
+\$100-\$300.[^5_3-TaylorEB_5] Until recently, mobile money services were generally
 confined within national borders due to technical and regulatory
 restrictions, but they are increasingly being used for international
 transfers. Since 2011, a partnership between Safaricom and Western Union
 permits international transfers from 43 countries to M-Pesa
-accounts.[^6] Safaricom plans to launch a cross-border service between
+accounts.[^5_3-TaylorEB_6] Safaricom plans to launch a cross-border service between
 M-Pesa customers in 2015, pending regulatory approval. In 2014, Orange
 launched a transfer service allowing its customers to send money between
 Mali, Senegal, and Cote d’Ivoire, and in 2014, Tigo enabled a
-wallet-to-wallet service between Rwanda and Tanzania.[^7] Furthermore,
+wallet-to-wallet service between Rwanda and Tanzania.[^5_3-TaylorEB_7] Furthermore,
 researchers have long noted that remittances are often send to a
 representative family member, who then redistributes the money among
 family members domestically. Mobile money provides a faster, more
@@ -199,11 +199,11 @@ services do not uniquely target poor users. While mobile money services
 are particularly amenable to people who have low incomes and no bank
 accounts, they are available to everyone. In fact, there is some
 evidence that early adopters in Kenya and Tanzania were generally people
-who already had bank accounts.[^8] In Haiti, InterMedia found that early
-adopters tended to be relatively affluent.[^9] As time goes on, ratios
+who already had bank accounts.[^5_3-TaylorEB_8] In Haiti, InterMedia found that early
+adopters tended to be relatively affluent.[^5_3-TaylorEB_9] As time goes on, ratios
 can shift. Suri and Jack found that, outside Nairobi ‘the share of the
 unbanked who used M-Pesa rose from about 21 percent in 2008 to 75
-percent in 2011’.[^10] Nevertheless, people who are relatively affluent
+percent in 2011’.[^5_3-TaylorEB_10] Nevertheless, people who are relatively affluent
 continue to make up a significant portion of mobile money users.
 
 Furthermore, it is incorrect to assume that all mobile money customers
@@ -212,13 +212,13 @@ money to make and receive payments. In fact, organizations using mobile
 money to make mass transactions are crucial for mobile money services to
 make traction in the early days of deployments. In Afghanistan, USAID
 worked with the government to implement the payment of police salaries
-via mobile money.[^11] Globally, USAID has encouraged NGOs to
-incorporate mobile money components into their programs.[^12] There is
+via mobile money.[^5_3-TaylorEB_11] Globally, USAID has encouraged NGOs to
+incorporate mobile money components into their programs.[^5_3-TaylorEB_12] There is
 also a push to develop merchant payments, as has been done with
 branchless banking in Brazil, to encourage wider use of mobile
-money.[^13] Indeed, the success of mobile money depends upon its
+money.[^5_3-TaylorEB_13] Indeed, the success of mobile money depends upon its
 integration, not just laterally among individuals in a society, but
-along economic value chains.[^14] Mobile money depends upon many small
+along economic value chains.[^5_3-TaylorEB_14] Mobile money depends upon many small
 transactions in order to be profitable, and for this, it must achieve
 scale at least at the national level, and preferably internationally.
 
@@ -241,10 +241,10 @@ supply and demand.
 
 If there was ever a country that appears to need new financial tools,
 then Haiti is it. Banking infrastructure is scarce, and approximately 66
-percent of bank branches are located in Port-au-Prince.[^15] Accessing
+percent of bank branches are located in Port-au-Prince.[^5_3-TaylorEB_15] Accessing
 bank branches can be difficult, and using them can be time consuming.
 Besides being badly distributed, bank branches are inefficient. Lines
-are long, with people often waiting hours to make a transaction.[^16]
+are long, with people often waiting hours to make a transaction.[^5_3-TaylorEB_16]
 Microcredit institutions such as Fonkoze cover a larger portion of the
 country, and formal remittance services such as Western Union and Caribe
 Express are also better distributed. But remittance services such as
@@ -290,7 +290,7 @@ on issues of security. It showed an elderly woman extracting money from
 hiding places around her house and depositing it in her mobile money to
 keep it safe from her thieving nephew. By the end of 2011, over 800,000
 Haitians had signed up for mobile money services; of these, between
-6,000-9,000 were in development programs at any given time.[^17] While
+6,000-9,000 were in development programs at any given time.[^5_3-TaylorEB_17] While
 these numbers represent significant progress, they were lower than
 expected. Maarten Boute, the former CEO of Digicel Haiti, commented ‘our
 main lesson learned is how difficult it is to educate customers. When we
@@ -298,7 +298,7 @@ launched the service we assumed it would be something like selling a
 mobile phone, where you stick a mobile phone into someone’s hand and
 almost anyone can start using it quite quickly because it’s very easy to
 understand. With a mobile banking service or a mobile money service it’s
-not quite that easy.’[^18] Hence demand for mobile money may be tempered
+not quite that easy.’[^5_3-TaylorEB_18] Hence demand for mobile money may be tempered
 by unfamiliarity with the technology. In the following section I discuss
 how barriers to uptake affect mobile money’s supply.
 
@@ -309,14 +309,14 @@ offered by private companies whose goal is to turn a profit. Often these
 are telecommunications companies that partner with banks. In Kenya,
 Safaricom has been very successful in scaling mobile money, and in the
 past year or so has launched an array of products that work on the
-mobile money platform, including insurance.[^19] However, mobile money
+mobile money platform, including insurance.[^5_3-TaylorEB_19] However, mobile money
 exhibits various factors that mean that a purely market-based solution
 is not always viable. As Maarten Boute described for Haiti, customers
 may be reluctant to adopt new technology and new ways of using money.
 Moreover, mobile money globally is plagued by a ‘scaling’ problem
 whereby people will not sign up for mobile money if there are not enough
 agents in convenient locations, and businesses will not sign up to be
-agents unless they feel that they have a strong customer base.[^20]
+agents unless they feel that they have a strong customer base.[^5_3-TaylorEB_20]
 Hence, while mobile money is a commercial service, non-profit players
 have been central to its development and uptake. In fact, one could
 argue that without non-profit interest, mobile money may not have come
@@ -327,13 +327,13 @@ Port-au-Prince and its surrounding areas, the Bill and Melinda Gates
 Foundation and the USAID-funded Haiti Integrated Finance for Value
 Chains and Enterprises (HIFIVE) announced the launch of the Haiti Mobile
 Money Initiative (HMMI) to stimulate the development of mobile banking
-services in Haiti.[^21] The HMMI offered \$10 million in prizes and \$5
+services in Haiti.[^5_3-TaylorEB_21] The HMMI offered \$10 million in prizes and \$5
 million in technical assistance for companies to develop and expand
 mobile banking services across the country. In October 2010, D,
 pocketing \$2.5 million. In August 2011, Voilá won the Second to Market
-Prize of \$1.5 million.[^22] Voilá were bought out by Digicel in 2012,
+Prize of \$1.5 million.[^5_3-TaylorEB_22] Voilá were bought out by Digicel in 2012,
 but mobile money survived. At the time of writing, TchoTcho Digicel
-claims to have 420 active agents distributed around Haiti.[^23] USAID
+claims to have 420 active agents distributed around Haiti.[^5_3-TaylorEB_23] USAID
 continue to drive demand by requiring NGOs in Haiti to include a mobile
 money component into their socioeconomic development programs, fostering
 links between market and welfare.
@@ -350,12 +350,12 @@ active users were connected to NGO programs. Most had been required to
 register for mobile money in order to receive aid, often receiving a
 free phone or SIM card in the process. From its launched in late 2010,
 Mercy Corps and World Vision used mobile money to deliver conditional
-cash grants and cash-for-work payments.[^24] A range of other
+cash grants and cash-for-work payments.[^5_3-TaylorEB_24] A range of other
 organizations have since started developing mobile money, including
-UNDP, CARE and the World Food Program.[^25] Government-to-person (G2P)
+UNDP, CARE and the World Food Program.[^5_3-TaylorEB_25] Government-to-person (G2P)
 payments are also taking place. In 2012, the Haitian government launched
 a program called Ti Manma Cheri to pay grants to mothers for keeping
-their children in school.[^26]
+their children in school.[^5_3-TaylorEB_26]
 
 Mobile money thereby blurs the line between commerce and development.
 Indeed, this is reflective of a trend over the last two decades towards
@@ -373,8 +373,8 @@ governments and scholars express frustration with the slow progress made
 in raising the living standards of the world’s poorest people, despite
 the influx of billions of dollars in development aid. Influential works
 such as C.K. Prahalad’s *The Fortune at the Bottom of the Pyramid*
-(2009),[^27] Benioff and Southwick’s *Compassionate Capitalism*
-(2004),[^28] and Hammond’s *The Next Four Billion* (2007)[^29] make a
+(2009),[^5_3-TaylorEB_27] Benioff and Southwick’s *Compassionate Capitalism*
+(2004),[^5_3-TaylorEB_28] and Hammond’s *The Next Four Billion* (2007)[^5_3-TaylorEB_29] make a
 business case for the ways in which corporations can profit to the
 benefit of the world’s poorest people. In these accounts, providing
 products of the poor attacks the bases of poverty by including people in
@@ -391,7 +391,7 @@ One of the most interesting characteristics of this shift is that it
 moves in two directions. Under multilateral partnerships for
 development, welfare is being outsourced to companies, but this is not
 the end of the story. The opposite is also occurring: companies
-outsourcing aspects of consumer welfare to non-profits.[^30] For
+outsourcing aspects of consumer welfare to non-profits.[^5_3-TaylorEB_30] For
 example, when Mercy Corps ran a conditional cash grant program in Saint
 Marc, Haiti, they gave away free mobile phones (supplied at reduced cost
 by Voilá) and taught customers how to set up and use mobile money. Mercy
@@ -406,13 +406,13 @@ mobile money service.
 But what of the customers? It is worth noting that, in the case of Mercy
 Corps’s cash grants and similar development programs, beneficiaries
 received a clear benefit (cash or goods), but they did not have a choice
-as to how they would receive their money.[^31] Hence one of the primary
+as to how they would receive their money.[^5_3-TaylorEB_31] Hence one of the primary
 purported benefits of market provision – consumer choice – is in this
 case eroded by the reconfiguration of supply to encourage demand.
 Somewhat ironically, while critics of the ‘products for the poor’ model
 critique the idea that free markets can be harnessed to increase
 consumer welfare and reduce the suffering that characterizes poverty, it
-turns out that the market is not free at all.[^32]
+turns out that the market is not free at all.[^5_3-TaylorEB_32]
 
 ## An Alternative, Inclusive Success Story?
 
@@ -436,7 +436,7 @@ From a political economy perspective, one could argue that it is high
 time that this financial inclusion – of the mobile money variety –
 occurred. In his book *The Ascent of Money*, Niall Ferguson argues that
 the development of financial products was a crucial component of the
-industrial revolution.[^33] Among other things, financial services
+industrial revolution.[^5_3-TaylorEB_33] Among other things, financial services
 facilitated the direction of capital to where it was needed. Countries
 that innovated financially, such as the Netherlands, got ahead of the
 curve in the global economy. Most of them are still strong today. In
@@ -456,7 +456,7 @@ distribution of wealth. First, organizations such as the GSMA contend
 that mobile money services can contribute to economic growth, but to
 date there appears to be no clear evidence of this. Indeed, there is no
 clear evidence that microfinance contributes to economic growth after
-four years of its existence.[^34] Of course, one could argue that it is
+four years of its existence.[^5_3-TaylorEB_34] Of course, one could argue that it is
 not mobile money alone that is intended to drive economic growth;
 rather, it is infrastructure that forms part of a process of
 development. This works much in the same way that a highway does not
@@ -487,7 +487,7 @@ achieve when our financial systems are becoming so integrated that it is
 impossible to predict where risk will come from, and to where it will
 ultimately flow. The idea behind inclusive finance is to move capital to
 the people who need it most, yet financial products tend to facilitate
-the flow of capital from periphery to core.[^35]
+the flow of capital from periphery to core.[^5_3-TaylorEB_35]
 
 What does this mean for mobile money? First and foremost, mobile money
 is not just microfinance, it’s also finance – and on a global scale.
@@ -530,7 +530,7 @@ whether people have a choice to use it or not. People should not be
 coerced into using it, but as Maarten Boute points out, nor can they
 choose to adopt it if they don’t know what it is. And yet, even in
 situations where people are informed and mobile money is a realistic
-option, it needs monitoring. More of a platform than a product,[^36]
+option, it needs monitoring. More of a platform than a product,[^5_3-TaylorEB_36]
 mobile money can easily be harnessed for ends that are truly useful to
 customers and an alternative to other, more costly financial tools. But
 the possibilities for mobile money to facilitate predatory lending and
@@ -615,38 +615,38 @@ Companion to Mobile Media*, New York: Routledge, 2014, pp. 462-471.
 Verdier, Daniel. *Moving Money: Banking and Finance in the
 Industrialized World*, Cambridge: Cambridge University Press, 2002.
 
-[^1]: David Roodman, *Due Diligence: An Impertinent Inquiry Into
+[^5_3-TaylorEB_1]: David Roodman, *Due Diligence: An Impertinent Inquiry Into
     Microfinance*, Washington: CGD Books, 2012.
 
-[^2]: See <https://www.youtube.com/watch?v=nEZ30K5dBWU>
+[^5_3-TaylorEB_2]: See <https://www.youtube.com/watch?v=nEZ30K5dBWU>
 
-[^3]: For example, BRAC developed their ‘graduation model’ to ‘graduate
+[^5_3-TaylorEB_3]: For example, BRAC developed their ‘graduation model’ to ‘graduate
     the poorest from ultra-poverty’,
     [http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest](http://www.brac.net/content/end-sight-ultra-poverty-scaling-bracs-graduation-model-poorest). Fonkoze in Haiti bases their Chemen Lavi Miyò program on this model,
 	<http://www.fonkoze.org/what-we-do/step-1-clm/>
 
-[^4]: World Bank, <http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013>.
+[^5_3-TaylorEB_4]: World Bank, <http://www.worldbank.org/en/news/feature/2013/10/02/Migrants-from-developing-countries-to-send-home-414-billion-in-earnings-in-2013>.
 
-[^5]: IFAD, <http://www.ifad.org/remittances/maps/>.
+[^5_3-TaylorEB_5]: IFAD, <http://www.ifad.org/remittances/maps/>.
 
-[^6]: Kusimba, ‘Mobile Kin and Mobile Money: The Anthropology of
+[^5_3-TaylorEB_6]: Kusimba, ‘Mobile Kin and Mobile Money: The Anthropology of
     International Remittances in Kenya’, IMTFI Working Paper, 2013.
 
-[^7]: Discussed by the GSMA, <http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity>.
+[^5_3-TaylorEB_7]: Discussed by the GSMA, <http://www.gsma.com/mobilefordevelopment/the-rise-of-mobile-wallet-to-wallet-cross-border-remittance-services-whats-the-opportunity>.
 
-[^8]: Gunnar Camner, Caroline Pulner, and Emil Sjöblom, *What Makes a
+[^5_3-TaylorEB_8]: Gunnar Camner, Caroline Pulner, and Emil Sjöblom, *What Makes a
     Successful Mobile Money Implementation? Learnings from M-Pesa in
     Kenya and Tanzania*, GSMA, 2012.
 
-[^9]: InterMedia, ‘Mobile Money in Haiti: A Baseline Analysis of Access,
+[^5_3-TaylorEB_9]: InterMedia, ‘Mobile Money in Haiti: A Baseline Analysis of Access,
     Use and Barriers to Adoption’,
     [http://audiencescapes.org/country-profiles/haiti/mobile-money-haiti-baseline-analysis-Gates-adoption-financial-services-HMMI](http://audiencescapes.org/country-profiles/haiti/mobile-money-haiti-baseline-analysis-Gates-adoption-financial-services-HMMI).
 
-[^10]: Tavneet Suri and Billy Jack, ‘Reaching the Poor: Mobile Banking
+[^5_3-TaylorEB_10]: Tavneet Suri and Billy Jack, ‘Reaching the Poor: Mobile Banking
     and Financial Inclusion’, *Slate*, 27 February 2012,
     [http://www.slate.com/blogs/future\_tense/2012/02/27/m\_pesa\_ict4d\_and\_mobile\_banking\_for\_the\_poor.html](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1681245).
 
-[^11]: This had two major advantages: it immediately added thousands of
+[^5_3-TaylorEB_11]: This had two major advantages: it immediately added thousands of
     users to Vodafone’s mobile money network, and it solved a serious
     corruption problem. People in the industry report that, when police
     officers received their salaries via mobile money for the first
@@ -656,73 +656,73 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     possible. See
     [http://www.bloomberg.com/news/2011-04-13/afghan-police-now-paid-by-phone-to-cut-graft-in-anti-taliban-war.html](http://www.slate.com/blogs/future_tense/2012/02/27/m_pesa_ict4d_and_mobile_banking_for_the_poor_.html).
 
-[^12]: ‘10 Ways to Accelerate Mobile Money: USAID-Citi Mobile Money Accelerator Alliance, Citibank/ USAID’, 2012, <http://www.citibank.com/transactionservices/home/public_sector/docs/Mobile_Money_Article.pdf>.
+[^5_3-TaylorEB_12]: ‘10 Ways to Accelerate Mobile Money: USAID-Citi Mobile Money Accelerator Alliance, Citibank/ USAID’, 2012, <http://www.citibank.com/transactionservices/home/public_sector/docs/Mobile_Money_Article.pdf>.
 
-[^13]: See, for example, CGAP’s various blogs about merchant payments,
+[^5_3-TaylorEB_13]: See, for example, CGAP’s various blogs about merchant payments,
     including branchless banking in Brazil, <http://www.cgap.org/blog/branchless-banking-brazil-making-it-work-small-merchants>.
 
-[^14]: Espelencia Baptiste, Heather A. Horst, and Erin B. Taylor,
+[^5_3-TaylorEB_14]: Espelencia Baptiste, Heather A. Horst, and Erin B. Taylor,
     *Haitian Monetary Ecologies and Repertoires: A Qualitative Snapshot
     of Money Transfer and Savings*, University of California Irvine:
     IMTFI, 2010.
 
-[^15]: This estimate is given by Fonkoze on their website, <http://www.fonkoze.org/why-it-matters/key-statistics/>
+[^5_3-TaylorEB_15]: This estimate is given by Fonkoze on their website, <http://www.fonkoze.org/why-it-matters/key-statistics/>
 
-[^16]: See Baptiste, Horst and Taylor 2010; Taylor and Horst 2014.
+[^5_3-TaylorEB_16]: See Baptiste, Horst and Taylor 2010; Taylor and Horst 2014.
 
-[^17]: Personal communication from Greta Greathouse, Chief of Party of
+[^5_3-TaylorEB_17]: Personal communication from Greta Greathouse, Chief of Party of
     HIFIVE, 15 February 2012.
 
-[^18]: Tate Watkins, ‘Overselling Mobile Money in Haiti’, *Haiti
+[^5_3-TaylorEB_18]: Tate Watkins, ‘Overselling Mobile Money in Haiti’, *Haiti
     Rewired*, 11 June 2012,
     [http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&commentId=4920407%3AComment%3A78008&xg\_source=activity](http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&commentId=4920407%3AComment%3A78008&xg\_source=activity).
 
-[^19]: See
+[^5_3-TaylorEB_19]: See
     [http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm](http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm).
 
-[^20]: Ignacio Mas and Dan Radcliffe, ‘Scaling Mobile Money’, Bill &
+[^5_3-TaylorEB_20]: Ignacio Mas and Dan Radcliffe, ‘Scaling Mobile Money’, Bill &
     Melinda Gates Foundation, 2010,
     <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1681245>.
 
-[^21]: Haiti Mobile Money Initiative/HIFIVE, ‘Awards Grant to Mercy
+[^5_3-TaylorEB_21]: Haiti Mobile Money Initiative/HIFIVE, ‘Awards Grant to Mercy
     Corps to expand Mobile Money Services in Rural Areas’, Press
     release, 27 October 2010,
     [http://www.microlinks.org/ev\_en.php?ID=46502\_201&ID2=DO\_TOPIC](http://www.microlinks.org/ev_en.php?ID=46502_201&ID2=DO_TOPIC).
 
-[^22]: See
+[^5_3-TaylorEB_22]: See
     [http://kdid.org/projects/field-support/hifive/hmmi](http://kdid.org/projects/field-support/hifive/hmmi).
 
-[^23]: See
+[^5_3-TaylorEB_23]: See
     [http://www.digicelhaiti.com/assets/uploads/Active\_Agent\_List.pdf](http://www.digicelhaiti.com/assets/uploads/Active_Agent_List.pdf).
 
-[^24]: ‘Mobile wallets help Haitians rebuild’, *Mercy Corps*, 3 August
+[^5_3-TaylorEB_24]: ‘Mobile wallets help Haitians rebuild’, *Mercy Corps*, 3 August
     2011,
     [http://www.mercycorps.org/articles/haiti/mobile-wallets-help-haitians-rebuild](http://www.mercycorps.org/articles/haiti/mobile-wallets-help-haitians-rebuild);
     see USAID for World Vision’s involvement,
     [http://www.usaid.gov/news-information/fact-sheets/haiti-mobile-money-initiative](http://www.usaid.gov/news-information/fact-sheets/haiti-mobile-money-initiative).
 
-[^25]: Bill & Melinda Gates Foundation/Dalberg,‘Haiti Mobile Money: A
+[^5_3-TaylorEB_25]: Bill & Melinda Gates Foundation/Dalberg,‘Haiti Mobile Money: A
     Point-In-Time Case Study’,
     [http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2012/05/Haiti-Mobile-Money.pdf](http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2012/05/Haiti-Mobile-Money.pdf).
 
-[^26]: ‘Helping Ti Manman Cheri in Haiti: Offering Mobile Money-Based
+[^5_3-TaylorEB_26]: ‘Helping Ti Manman Cheri in Haiti: Offering Mobile Money-Based
     Government-to-Person Payments in Haiti’, *Bankable Frontier
     Associates for CGAP*, July 2013,
     [http://www.cgap.org/sites/default/files/eg2p\_Haiti.pdf](http://www.cgap.org/sites/default/files/eg2p_Haiti.pdf).
 
-[^27]: C.K. Prahalad, *The Fortune at the Bottom of the Pyramid:
+[^5_3-TaylorEB_27]: C.K. Prahalad, *The Fortune at the Bottom of the Pyramid:
     Eradicating Poverty Through Profits*, Revised and Updated 5th
     Anniversary Edition, Upper Saddle River, NJ: FT Press, 2009.
 
-[^28]: Marc Benioff and Karen Southwick, *Compassionate Capitalism: How
+[^5_3-TaylorEB_28]: Marc Benioff and Karen Southwick, *Compassionate Capitalism: How
     Corporations Can Make Doing Good an Integral Part of Doing Well*,
     Pompton Plains, NJ: Career Press, 2004.
 
-[^29]: Allen Hammond, *The Next 4 Billion: Market Size and Business
+[^5_3-TaylorEB_29]: Allen Hammond, *The Next 4 Billion: Market Size and Business
     Strategy at the Base of the Pyramid*, Washington D.C.: The World
     Resources Institute, 2007.
 
-[^30]: It is worth noting that the blurring of the line between commerce
+[^5_3-TaylorEB_30]: It is worth noting that the blurring of the line between commerce
     and development goes both ways. Digicel have a great deal of
     experience in building social concerns into their products. When
     Digicel arrived in Jamaica in 2001, they cornered the market with
@@ -733,18 +733,18 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     Phone: An Anthropology of Communication*, Chicago: Berg Publishers,
     2006.
 
-[^31]: Privacy is also a growing issue, especially in cases where people
+[^5_3-TaylorEB_31]: Privacy is also a growing issue, especially in cases where people
     must supply biometric information to register for financial products.
 
-[^32]: Anke Schwittay, ‘The Marketization of Poverty’, *Current
+[^5_3-TaylorEB_32]: Anke Schwittay, ‘The Marketization of Poverty’, *Current
     Anthropology* 52.3 (2011): 71-82.
 
-[^33]: Niall Ferguson, *The Ascent of Money: A Financial History of the
+[^5_3-TaylorEB_33]: Niall Ferguson, *The Ascent of Money: A Financial History of the
     World*, New York: Penguin, 2008.
 
-[^34]: David Roodman, *Due Diligence.*
+[^5_3-TaylorEB_34]: David Roodman, *Due Diligence.*
 
-[^35]: Daniel Verdier, *Moving Money: Banking and Finance in the
+[^5_3-TaylorEB_35]: Daniel Verdier, *Moving Money: Banking and Finance in the
     Industrialized World*, Cambridge: Cambridge University Press, 2002.
 
-[^36]: Jack Kendall, et al. ‘An Emerging Platform: From Money Transfer System to Mobile MoneyEcosystem’, Innovations 6.4 (2012): 49-64.
+[^5_3-TaylorEB_36]: Jack Kendall, et al. ‘An Emerging Platform: From Money Transfer System to Mobile MoneyEcosystem’, Innovations 6.4 (2012): 49-64.
