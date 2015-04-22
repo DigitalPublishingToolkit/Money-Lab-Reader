@@ -57,14 +57,14 @@ book.md: clean $(allmarkdown)
 
 
 
-book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/cover.jpg
+book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/cover.png
 	cd md && pandoc \
 		--from markdown \
 		--to epub3 \
 		--self-contained \
 		--epub-chapter-level=1 \
 		--epub-stylesheet=../epub/styles.epub.css \
-		--epub-cover-image=../epub/cover.jpg \
+		--epub-cover-image=../epub/cover.png \
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
 		--toc-depth=1 \
