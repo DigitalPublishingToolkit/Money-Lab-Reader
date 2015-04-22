@@ -471,10 +471,7 @@ the Central Bank of Austria.
 
 
 
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 # When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to the MoneyLab Reader
 
 ### Saskia Sassen {.author}

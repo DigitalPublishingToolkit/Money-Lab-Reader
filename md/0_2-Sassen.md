@@ -10,16 +10,13 @@ Article-title: Contents
 Article-status: accepted
 Author: Saskia Sassen
 Author-email:   corresponding address
-Author-bio:  Saskia Sassen is a Robert S. Lynd Professor of Sociology and Co-Chair at Committeeon Global Thought at Columbia University. Her research and writing is focused onglobalization (including its social, economic, and political dimensions), immigration,new-networked technologies, and changes within the liberal state that result from currenttransnational conditions (www.saskiasassen.com).
+Author-bio:  Saskia Sassen is a Robert S. Lynd Professor of Sociology and Co-Chair at Committee on Global Thought at Columbia University. Her research and writing is focused on globalization (including its social, economic, and political dimensions), immigration, new-networked technologies, and changes within the liberal state that result from current transnational conditions (www.saskiasassen.com).
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 # When Money Becomes an Extraction Tool Rather Than Exchange Medium: Foreword to the MoneyLab Reader
 
 ### Saskia Sassen {.author}
