@@ -596,6 +596,291 @@ Complexity in the Global Economy*, Harvard University Press, 2014.
 
 
 
+# MoneyLab: Sprouting New Digital-Economic Forms
+
+### Geert Lovink and Nathaniel Tkacz {.author}
+ 
+
+> The best way to rob a bank is to design a currency.
+>
+> – Johan Sjerpstra
+
+Welcome to MoneyLab, a network of artists, activists and researchers,
+founded in 2013 by the Amsterdam-based Institute of Network Cultures;
+its aim is to research, discuss, and experiment with (alternative)
+internet-related revenue models in the arts and beyond. The initial
+MoneyLab: Coining Alternatives conference was organised in March 2014 in
+Amsterdam and focussed on the Bitcoin debate, first steps in
+crowdfunding research, mobile money in Africa and beyond, and artistic
+responses to the 2008 global financial crisis, on-going recession,
+foreclosures and insolvencies. This reader can in part be read as the
+proceedings of this event (the program of the conference is included in
+the back of this publication). In our text ‘Friends with Money’[^0_3-IntrofinalMC_1],
+included in the *Disrupting Business: Art and Activism in Times of
+Financial Crisis* anthology, we have laid out the programmatic
+intentions of our interventionist research. We’re not going to repeat
+that here. Instead, we want to go through a few key developments and
+identify touchstone authors in the MoneyLab *umfeld*. We conclude with
+the outlook of MoneyLab two years into the project and reassess the
+relation between experimentation-innovation and radical critique, inside
+and outside academia.
+
+MoneyLab begins when network cultures and their corporate counterparts
+come to see the network as generative of new economic forms. Money is no
+longer a given, coming from outside. Currency, tokens, ‘wallets’ and
+technologies of payment are all fair game, all up for grabs. The
+spectacle of Bitcoin has drawn everyone’s attention, but the
+heavyweights – Google, Facebook, Amazon, Apple, Samsung, etc. – have
+also been busy reimagining themselves as financial services and payment
+providers for the platformed masses.
+
+Meanwhile, the networked subjects are left to their devices, having to
+generate revenue themselves and create something out of nothing, from
+zero to one. Neoliberal subjects find themselves in permanent start-up
+mode. In times of advanced stagnation we can neither count on subsidies,
+nor investments provided by the traditional world of finance. Welcome to
+digital realism. The 99% have all become survival artists in our
+austerity networks, subjected to rolling crises amidst never-ending
+economic decline. The search for new modes of value extraction
+intensifies. The latest ubiquitous technology is financialization
+itself. In this not-so-brave new world, conflict risks being superseded
+by competing economic visions articulated through software. Destroy the
+system! Bitcoin or Ripple?
+
+The content potlatch is over. You can share – but who cares? The copy is
+neither the problem nor the solution and tends to postpone rather than
+speed-up the decisions ahead. The classic distinction between the
+idealistic hacker and the opportunistic start-up entrepreneur has
+started to blur. It is no longer clear whether genuine alternatives are
+unfolding, or we are simply witnessing creative destruction without a
+cause. Disruption has become an aim in itself. What will we pitch?
+Dunno? How about potato salad?[^0_3-IntrofinalMC_2]
+
+We used to take for granted that money circulates, but now we are forced
+to invent it, time and again. The Lab is our creative jail. No solution
+coming from here will ever become sustainable: we are locked-up in a mad
+house of temporary standards for ‘additional’ sources of income.
+Additional to what? many of us will ask ourselves. Will the tiny revenue
+streams ever swell, or will they remain as erratic as the global
+weather? Can micropayments ever create a New Renaissance or should we be
+more realistic? Shouldn’t we combine the desire for new revenue models
+with a demand to redistribute income?
+
+Let’s scan the future spectrum of technologies of (re)distribution. You
+have been signed up for the *network economicus*: the internet
+reconfigured as a suite of financial services, as a space for conducting
+and intensifying financial selves – entrepreneurs, funders, venturers,
+exchangers, and of course, debtors. *Network economicus* presents an
+archipelago of platform economies. Google, Apple, Facebook, Twitter—all
+working to harness the lock-in effects of social ties in order to
+generate and extract value from routine economic activities beyond the
+service/data-profile/advertising complex.
+
+Could it be that the real killer app of the net has been uniformly
+overlooked? We are talking, of course, of internet banking. Imagine how
+different the frontier mentality of earlier phases of ‘new media’ would
+look if it paid serious attention to net banking. There is no community,
+no collaboration, no anonymous exploration of multiple selves. It never
+took place in a virtual world and is in no way progressive. Instead we
+see user accounts linked to real identities supported by hard
+documentation. These are websites that function to support utterly
+mundane financial tasks. Security, of selves and of the general
+infrastructure, is a central concern. The goal of the net banking
+experience is seamless functionality and ease of transfer, devoid of any
+unforeseen potentiality, where financial subjectivity is quietly
+fostered through the routine browsing, clicking and scrolling through of
+one’s meaningful numbers.
+
+Large portions of the web have now been recast in this imagining of
+internet banking. But the converse is also true. Contemporary banking is
+folding in the logics of personalisation, recommendation and
+advertising, and is starting to borrow from design techniques pioneered
+in social media and other commercial platforms. In England, for example,
+online statements are now riddled with promotional material, which are
+derived from their clients spending and purchase histories. User
+accounts now come with money management dashboards that categorise and
+visualise spending and saving habits, or lack thereof. And, of course,
+the banks are in on the data profiling game.
+
+In the U.S., the East-West division of powers is shifting. The visions
+and aspirations of Wall Street and Silicon Valley are merging. Start-ups
+are now looking to innovate at the level of money, payment and funding,
+while financial companies innovate through technology. Finance is
+increasingly where the geeks end up: mathematical modelers, machine
+learning experts, physics majors and so on. Increasingly, their target
+is the ‘data flows’ of social media and related platforms. Front-end
+financialization of the web coincides with the discovery that the web
+can be used as a financial resource. Wikipedia page edits can be used to
+predict stock movements. Social media platforms are machine-readable and
+the content of these ‘flows’ is reflected in fluctuating stock values.
+The hacking of the Associated Press Twitter account in April 2013 showed
+all too well the new volatilities of finance when it becomes subject to
+the status update. MoneyLab takes place within this layering of
+financial techniques and technologies. Some of these developments are
+beyond reach, but we must not fear finance as such. This point has been
+made most clearly by financial activist Brett Scott, who contributed to
+the MoneyLab conference. Scott’s technique is to approach the world of
+finance through the mindset of the hacker. We might equally ask what
+other strategies of engagement are possible?
+
+Historically, the MoneyLab project can be situated as one of the many
+post-global financial crisis initiatives that emerged after the global
+uprisings of 2011, in particular Occupy. In a sense, Occupy was not
+enough about Wall Street and was too inward looking at the internal
+dynamics of becoming a movement in the 21st century. Occupy showed not
+only how mainstream the discontent of global finance was, but also
+demonstrated the need for alternative views on money, capital, income
+and finance. MoneyLab emerged a few years into the Bitcoin craze and
+similar cryptocurrency experiments. Early days wherever you looked.
+That’s the spirit of MoneyLab. The critique of global finance is there
+but is still waiting for its own ‘Piketty’ moment. There is a growing
+awareness of 'dark pools' and other absurdities (thanks to Scott
+Peterson[^0_3-IntrofinalMC_3] and the pop literature of Michael Lewis[^0_3-IntrofinalMC_4]), but how can
+all this evidence be turned into an organised outrage or even be
+translated into policy? Many of us fear that regulation alone will not
+do the job. It is not enough to decommission this or that financial
+tool. Besides a General Theory of Global Finance for the 21st Century,
+we also need blueprints for how money should be generated in this age of
+digital networks.\
+\
+MoneyLab talks strategy. In his book *The Quants*, Scott Patterson
+discusses proposals to ban quants from Wall Street. To him ‘that would
+be tantamount to banishing civil engineers from the bridge-making
+profession after a bridge collapse. Instead, many believed the goal
+should be to design better bridges – or, in the case of the quants, more
+robust models that could withstand financial tsunamis, not create
+them.’[^0_3-IntrofinalMC_5] But what's better ‘design’ in the age of algo wars? Is
+Bitcoin the better bridge? What does it mean to improve systems when we
+have reached the end of the liberal market illusion? There will always
+be ‘new insiders’. Will it be Apple, Google and Facebook this time? Or
+should we expect the telcos to become the new banks?\
+\
+In her 2014 book *Expulsions*, Saskia Sassen points to the Theatre of
+Cruelty, the neoliberal revenge on the poor, as a result of the 2008
+financial crisis. In terms of strategy, this is always good to keep in
+mind: there are hidden costs, there is a long-term fall out. The
+autonomy of the ‘money that went to heaven’ is relative. As we know from
+our own youth: not even a game of Monopoly is innocent and without
+consequences.\
+\
+Philip Mirowski’s *Never Let a Serious Crisis Go to Waste* from 2013
+asks the simple but hard question: how did the neoliberals emerge from
+the crisis stronger than ever? The MoneyLab project should at least open
+up this line of critique. What if all these well-meant, constructive
+alternatives only strengthen neoliberal policies and benefit the
+parasitic 1%? Or worse, what if the very alternatives proposed are
+themselves somehow neoliberal? Should we go on an alternatives strike
+and even refuse to formulate any form of criticism? What’s the deadliest
+form of negativity in the world of finance? The questions Mirowski asks
+eventually culminate in the organisation issue of the adversaries. On
+the positive side, initiatives such as MoneyLab can also come together
+in an organized network and eventually flip into a Thought Collective
+(as Mirowski calls it), a global initiative that can review and
+distribute alternatives seeds. He asks, ‘What would a vital counter
+narrative to the epistemological commitments of the neoliberals look
+like?’[^0_3-IntrofinalMC_6] Can we be so bold and answer: MoneyLab? Or would that be
+premature? If the ‘major ambition of the Neoliberal Thought Collective
+is to sow doubt and ignorance amongst the populace,’ what role can
+internet-based research networks such as MoneyLab play? Is it enough to
+emphasize the mix of radical critique and concept development? If, as
+Mirowski states, ‘true political power resides in the ability to make
+the decision to “suspend” the market in order to save the market,’ is it
+enough for opposite forces to uncool entrepreneurial myths and break the
+spell of the unchallenged capitalist consensus? Is our Decision a purely
+semiologic one?\
+\
+So far the left has mainly defended mid-20th century models of the
+welfare state and demanded the redistribution of money, instead of
+considering the radical reinvention of money itself. Alternative,
+complimentary and local currencies have remained at the margins. It is
+one thing to conclude that the think-tank model itself is an outmoded
+organisational form to do research and make policy. The professionalism
+of the NGO model is too dull, too slow for this fast-moving world of
+continuous events, wars, climate disasters and political ruptures. In
+this light Mirowski asks the 1000 Bitcoin question: ‘Is there a coherent
+alternative framework within which to understand the interaction of the
+financialization of the economy with larger ebbs and flows of political
+economy in the global transformations of capitalism?’ One possible
+direction that needs to be discussed is the issue of the
+financialization from below. So far, financialization has only been
+understood as a move from trade and commodity production to profits from
+financial channels.[^0_3-IntrofinalMC_7] Is the monetisation of services that were once
+free of cost (or that did not exist in the first place) changing this
+picture?\
+\
+Are initiatives such as MoneyLab ready for the ‘exception’ and the
+financial state of emergency as predicted by websites such as Zero Hedge
+and RT celebrities such as Max Keiser?[^0_3-IntrofinalMC_8] Do we, unconsciously,
+underestimate the urgency of the current situation? According to
+Mirowski this is precisely what defines the behaviour of financial
+elites: they know how to get ready for the next crash. ‘Neoliberals may
+preach the rule of law, and sneer in public about the ineptitude of
+government, but they win by taking advantage of “the exception” to
+introduce components of their program unencumbered by judicial or
+democratic accountability. They know what it means to never let a
+serious crisis go to waste.’ Are we ready? Are efforts to collectively
+imagine alternative, internet-based revenue models, for instance for the
+arts, ready to operate after the Great Collapse?
+
+The MoneyLab Reader brings developments in crowdfunding, digital and
+crypto currency, mobile money services, technologies of payment and
+other economic experiments into dialogue. It is naïve to see them as
+unrelated or to dismiss them offhand. Now more than ever we need
+constructive engagement with the hackers, entrepreneurs and other
+creators of economic alternatives. Audaciousness in times of austerity.
+First, though, we need a map of the present: What works and what
+doesn’t? What is worth pursuing and what must be left aside? What tips
+the dominant ideology? Which histories are bearing on the present? And
+what are the limits of our own economic imagination?
+
+## References
+
+Harrison, Kate. 'Crowdfunding Potato Salad: Funny or Insulting?'
+*Forbes*, 8 August 2014,
+<http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/>.
+
+Lapavitsas, Costas. *Profiling Without Producing, How Finance
+    Exploits Us All*, London/New York: Verso, 2013, p. 138.
+    
+Lewis, Michael. *Flash Boys: A Wall Street Revolt*, New York: W.W. Norton
+& Co., 2014.
+
+Lovink, Geert and Nathaniel Tkacz. *Data Browser*, New York: Autonomedia, 2013, pp.
+    175-191.
+
+Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, London: Verso
+Books, 2013.
+
+Patterson, Scott. *Dark Pools, The Rise of A.I. Trading Machines and the Looming Threat to Wall Street*, New York: Random House, 2012.
+
+[^0_3-IntrofinalMC_1]: Geert Lovink and Nathaniel Tkacz, *Data Browser*, New York: Autonomedia, 2013, pp.
+    175-191. See also:
+    http://networkcultures.org/moneylab/about/background/.
+
+[^0_3-IntrofinalMC_2]: Kate Harrison, ‘Crowdfunding Potato Salad: Funny or Insulting?’,
+    *Forbes*, 08 August 2014,
+    http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/
+
+[^0_3-IntrofinalMC_3]: Scott Patterson, *Dark Pools, The Rise of A.I. Trading Machines
+    and the Looming Threat to Wall Street*, New York: Random House, 2012.
+
+[^0_3-IntrofinalMC_4]: Michael Lewis, *Flash Boys: A Wall Street Revolt*, New York: W.W. Norton &
+    Co., 2014.
+
+[^0_3-IntrofinalMC_5]: Scott Patterson, *The Quants*, p. 318.
+
+[^0_3-IntrofinalMC_6]: Philip Mirowski, *Never Let a Serious Crisis Go to Waste*, London: Verso
+Books, 2013, p. 356.
+
+[^0_3-IntrofinalMC_7]: Costas Lapavitsas, *Profiling Without Producing, How Finance
+    Exploits Us All*, London/New York: Verso, 2013, p. 138.
+
+[^0_3-IntrofinalMC_8]: See, [http://www.zerohedge.com/](http://www.zerohedge.com/) and
+    <http://rt.com/shows/keiser-report/>.
+
+
+
+
 # Money in the Making of World Society
 
 ### Keith Hart {.author}
@@ -3596,6 +3881,2106 @@ Books, 2014.
 
 
 
+# Measuring Value in the Commons-Based Ecosystem: Bridging the Gap Between the Commons and the Market 
+
+### Primavera De Filippi and Samer Hassan  {.author}
+
+## Prelude
+
+>Maya is a bubbly girl who is well known for community activities in her small town. She has two clear passions: writing Wikipedia articles and making Creative Commons documentaries… yet she struggles to make ends meet, and resorts to stressful and unfulfilling advertising work in order to make some money.
+
+Maya is one among many who contribute daily to projects like Wikipedia,
+Creative Commons and Open Source software. But how much
+value does each of these projects have? How do people value these
+contributions? How could contributors be rewarded for their hard work
+while still retaining the voluntary and cooperative dynamics inherent to
+these projects? Ideally, we would like to figure out:
+
+-   A way for these kinds of projects to assess their own social value.
+-   A way for people to understand the value they are contributing to
+    these projects.
+-   A way for people to benefit from the goods and services provided by
+    the market, without necessarily having to play by the rules of the market.
+
+>Maya would love to have a way for her and others to see how much she is contributing to the social good. Maya’s family doesn’t understand why she spends so much time working on things that offer no money in return, while Maya is frustrated that her contributions to the commons are not recognized as actual work by society. Moreover, Maya would love her contributions to society to be recognized, and potentially rewarded, by the market, so that she would not have to spend so much time on her advertising job.
+
+How could we help Maya?
+
+We present here a system – which for the sake of this example, we will name Sabir – that can resolve some of the most recurrent problems encountered in Commons-based Peer Production (CBPP) communities. The Sabir system[^2_1-Primavera_1] is composed of three layers that will help us:
+
+1.  Understanding the social value – as opposed to the  market value – of
+    different CBPP communities, in order to make an informed comparison.
+2.  Identifying the value generated by individuals contributing to the
+    commons and evaluating it through a common denominator.
+3.  Creating an interface between the market and the CBPP ecosystem so
+    that the two can interact, and benefit from each other.
+
+## Introduction
+
+Today, the production and dissemination of information is increasingly
+done outside of the market economy. An alternative model of production
+is emerging – both on the internet and elsewhere – that does not rely on
+market transactions but rather on sharing and cooperation among peers.
+Production is based on voluntary collaboration and resources are
+released under specific licenses, such as Open Source and Creative
+Commons licenses, so that they may be freely used and reused by
+everyone. This new model of production – sometimes referred to as
+CBPP[^2_1-Primavera_2] – constitutes the sharing economy, which consists, for the most
+part, of social interactions outside of the market economy.
+In the realm of information, Wikipedia is perhaps the most popular
+example, along with Free/Libre Open Source Software (FLOSS) and Creative
+Commons, but the same is also true in the physical realm, with a growing
+number of initiatives such as the Open Source Ecology and FabLabs.
+
+Commons-based Peer Production (CBPP) is an emerging and innovative model
+of production, both online and offline, characterized by peer-to-peer
+collaboration and contribution oriented towards the production of a
+collectively-owned resource. CBPP lends itself to a different economic
+system based on the notions of *abundance* and *sharing*, which do not fit within the framework of most conventional economic theories
+based on notions of *scarcity* and *exchange*.[^2_1-Primavera_3]
+
+To the extent that CBPP operates outside of the market economy,
+conventional market mechanisms, such as pricing, are unable to give an indication of the overall social value of CBPP – which is based largely on
+non-market transactions.[^2_1-Primavera_4] In the market economy, the key concern is
+to assess the economic value (or market value) of things through the
+mechanism of supply and demand. All others values, such as friendship,
+solidarity, or even deeper ethical values such as freedom or justice, are regarded as mere externalities which will only be accounted for to
+the extent that they can be translated into monetary
+value.[^2_1-Primavera_5]
+
+Without the traditional system of ‘pricing’, we can no longer rely on a
+universal unit of analysis (i.e. a value proxy) to assess and
+compare the value of different CBPP platforms, or to indicate the value individual users contribute to these platforms.[^2_1-Primavera_6] Even when commons-based entities do have monetary value, we cannot rely on the traditional market mechanisms (such as pricing) to assess the value they produce. Hence, we need to identify another indicator of
+‘social value’ (other than price) capable of capturing the value generated by CBPP and this will allow us to assess, compare
+and communicate the value of different entities or projects that
+operate exclusively in the sharing economy.
+
+>Maya would like to show her friends and family, who are not part of the commons ecosystem, the value she is contributing to the world. Everyone knows about Wikipedia, but many people are not aware of Creative Commons, or even smaller initiatives like Couchsurfing. Moreover it is difficult for people to understand the value that these commons-based initiatives yield, even when they are (directly or indirectly) benefiting from them. 
+
+## Value Metric for Commons-Based Entities
+
+For instance, what is the value of Wikipedia? Does it have a monetary
+value? – and if so, would it make sense to measure it in monetary terms?
+We know it has a high social value because of the perceived value others attribute to it – but how can this value be measured? Ideally, we should have
+a quantified indicator of the approximate social value of Wikipedia or
+any commons-based entities (from now on referred to as CBEs[^2_1-Primavera_7]).
+
+>Maya could then describe the value of her work to her family and friends, by simply pointing out the value of the different CBEs she’s contributing to.
+
+Of course, in order to have an indicator, we need an alternative *value
+metric*, separate from the market one, which will allow us to understand
+the value of CBEs. We believe that a metric of the social value of a CBE
+should be constructed on two basic assumptions:
+
+1.   As an indicator of social value, its value should emerge from the
+    network of involved actors, that is, the CBEs;
+2.   As a subjective value, it should be based on the perception of
+    peers, that is, the other CBEs.
+
+Thus, based on these premises, we propose a value metric algorithm
+inspired by:
+
+-   Flattr[^2_1-Primavera_8], understood as a meter of individual appreciation that
+    translates into donations. Peers may express their
+    appreciation for other peers by clicking on their badge (*flattring*
+    them), and anyone can see the amount of flattrs a user receives.
+    (or something e.g.: a blog post, a project, etc).
+
+-   Google’s *PageRank*[^2_1-Primavera_9], as a means of evaluating the importance of a
+    webpage based on its incoming links. That is, the algorithm
+    calculates a quantification of the social relevance of each node
+    based on the network of links.
+
+In our model, we combine the two in order to achieve a more
+sophisticated system for estimating the social value of CBEs:
+
+1.  Inspired by Flattr, any CBE can *vouch* for another CBE that it
+    considers valuable.
+
+2.  Inspired by PageRank algorithm, we can then calculate how many
+    incoming vouches, as opposed to incoming links, a CBE has according
+    to a specific algorithm.
+
+3.  Inspired by the fractionality of Flattr, a CBE may assign a
+    particular weight to each one of its vouches (where the sum of these
+    weights given must be equal to 1).
+
+4.  Inspired by the transitivity of PageRank, a CBE channels a fraction
+    (a percentage indicated by the vouch weight) of its own social value
+    to the CBEs it is vouching for.
+
+5.  The more value a CBE accumulates, the more socially valuable it will
+    be considered. That is, quantity matters: how many vouches I have;
+    and quality matters: who is vouching for me.
+
+We can see an example of this indicator (which we will refer to as ‘the
+social value indicator’) in Fig. 1, where Wikipedia has a high value (1,500, and a larger circle) due to its weighted reputation. Couchsurfing is smaller, but it still has a value of 200 because even if
+it’s only receiving a weight of 0.1, it is ponderated with the weight assigned to it from the larger Wikipedia.
+
+![Fig. 1: Example of several CBEs vouching each other with different weights, resulting in a social value number for each.](media/Images_Primavera/image0.jpg)
+
+`Fig. 1: Example of several CBEs vouching each other with different weights, resulting in a social value number for each.`{.caption}
+
+As an algorithm, in its simplest form,[^2_1-Primavera_10] we can implement it as
+follows:
+
+For any given entity X, its social value (SV) at time (t) is expressed by
+the function SV(X, t). SV(W,t) indicates the total amount of *weight*
+(w) received by X from other entities in the system (A, B, C),
+ponderated by the SV of these entities:
+
+![Eq. 1](media/Images_Primavera/image1.png)
+
+`Eq. 1`{.caption}
+
+Taking into account that every CBE can assign weight to others, with a sum which must neccesarily be equal to one, the complete formula can be expressed as follows:
+
+![Eq. 2](media/Images_Primavera/image2.png)
+
+`Eq. 2`{.caption}
+
+> *where *
+>
+> *Ux = the universe of all the entities assigning a weight to X*
+>
+> *Vx = the universe of all the entities that were assigned weight by X*
+
+This specification complies with the definition of *ordered weighted
+averaging* (OWA)[^2_1-Primavera_11] aggregation operator in fuzzy logic, and therefore
+it possesses interesting mathematical properties.
+
+Finally, it is also important to note that the community of communities
+forming within the system is structurally, and necessarily, biased: it
+should only be composed of commons-based entities (CBEs) forming a
+web-of-trust. This requires some kind of pre- and post-filtering or
+discrimination. For example, how do we prevent Skype from joining, if it
+claims to be part of the commons ecosystem?
+
+-   Firstly, in order to join, a new CBE may need to be endorsed
+    by a certain number of CBEs (algorithm pre-filtering): e.g., one needs to be invited by at least five entities before it may join the system.
+
+
+-   Subsequently, the CBEs participating in the system would
+    self-regulate who belongs to the system (community filtering): e.g.,
+    if a large amount of CBEs believe Skype is not a CBE, it may be banned.
+
+-   In addition, the system may contain rules that would facilitate the
+    rejection process (algorithm post-filtering): e.g. if no user vouches
+    for an entity for a long period of time, it is a sign that it may be banned.
+
+Essentially, this would be creating a network-of-trust model, and therefore
+the initial selection of entities might have a significant impact on the
+subsequent population of the ecosystem.
+
+## Rewards for Contributors to the Commons
+
+Thanks to the social value indicator, we now have a clear indication of the social value each CBE has within the commons-based ecosystem.
+However, a CBE can do nothing with such an indicator except brag about it. We propose here a possible use for such an indicator, which would
+allow for the value contributed to the CBE to flow back to where it
+originated from: i.e. to the CBE contributors.
+
+The (macro) value of CBEs is generated exclusively by the
+community of individuals participating in (micro) creating content
+(articles, source code, videos, etc.), discussing, sharing, rating, and
+essentially contributing to the community. Therefore, the long-term
+sustainability of CBEs depends on a constant flow of quality
+contributions, which can only be achieved if the contributors are investing a sufficient amount of time, effort, and resources in the CBE. Therefore, it would be ideal if contributors to the commons could somehow be rewarded for their time and effort.
+
+Today, CBEs, and online platforms in general, can employ different
+mechanisms to gratify their contributors, by means of both immaterial
+rewards (e.g. reputation, admin rights and privileges) and material rewards
+(e.g. virtual currencies and donations) as seen in Table 1.
+
+[Table 1: A series of examples of existing value metrics and value
+rewards.]
+
+Yet, most of these reward mechanisms are limited by the following issues.
+On the one hand, rewarding contributors with material rewards – such as
+money, or a monetary equivalent – may lead to
+undesirable results:
+
+-   If some contributors are paid, others may no longer want to contribute
+    *for free*.
+
+-   As more users start contributing *for money,* efforts may
+    shift towards the things that will be the most highly rewarded, as
+    opposed to what people feel the most passionate about.
+
+-   Since money is scarce, contributors may start competing against each
+    other, instead of collaborating towards a common goal.
+
+On the other hand, if gratification is limited to immaterial rewards,
+the situation of contributors is barely improved. In other words, contributors
+will need to keep doing *those boring tasks that provide them with a source
+of income* rather than contribute to their favorite CBE: the one which
+does not know how to reward them appropriately. Besides, given that most
+of these rewards are CBE-dependant, contributions do not scale well in
+multiple CBEs. Each reward mechanism is disconnected from each other and
+contributors cannot aggregate, exchange or compare the value they helped
+generate in different communities.
+
+We propose here a mechanism for rewarding contributors, which adheres to
+the following principles:
+
+-   It should not involve money, nor any scarce and transferable
+    resource that may be exchanged for money – therefore avoiding the emergence of competitive or individualistic dynamics among contributors.
+
+-   It should support people *in the physical world,* who are currently dominated by the logic of the market. 
+
+-   It should account for the contributions from all CBEs the user may be participating in.
+
+In summary, what we aim for is an interface between the market and the
+commons-based ecosystem which will provide rewards that are
+non-transferable (i.e. not currency-based) but that the market may
+somehow recognize.
+
+Let’s imagine that we have such system – the so-called *Sabir* system –
+for a moment, and continue our story.
+
+
+
+## The Journey Towards Rewarding Maya
+
+Imagine a world with a flourishing commons-based ecosystem that operates
+alongside the market economy. In that world, some CBEs would be invited
+to join a network-based value system, where their value could be
+established by other CBEs according to their weight in the ecosystem
+(see the social value indicator in the previous section).
+
+>Now, let’s assume for a moment that, in such an imaginary world, Wikipedia (WP) has a social value of 1500 and Creative Commons (CC) has a social value of 1000. Maya is a CC video artist and WP contributor; she only has a part time job, because she wants to spend more time on doing what she loves, that is, making CC documentaries and WP articles.
+
+Whoever contributes to the commons is rewarded with a particular set of
+non-transferrable tokens issued by a specific CBE. Each CBE is free to
+decide the number of tokens it issues, and the manner in which
+these tokens will be redistributed to its contributors, according to an
+internal reward mechanism based on gratitude and appreciation. Each CBE
+has its own token type, that is, its tokens differ from those
+other CBEs issue.
+
+> WP has many contributors, so it has issued 12,500 tokens. CC has only issued 5,000 tokens so far. As Maya participates actively in both communities, she has received 125 WP-tokens and 200 CC-Tokens, which she collects in her portfolio.
+
+In order for people to compare the value of their contributions between
+different CBEs, the value of each token must be translated into a common
+denominator of value, Sabir, calculated with the following formula:
+
+![Eq. 3](media/Images_Primavera/image3.png)
+
+`Eq. 3`{.caption}
+
+and therefore, the number of sabirs per person *P* would be expressed by
+the following formula:
+
+![Eq. 4](media/Images_Primavera/image4.png)
+
+`Eq. 4`{.caption}
+
+Therefore, in the case of CC:
+
+![Eq. 5](media/Images_Primavera/image5.png)
+
+`Eq. 5`{.caption}
+
+>Hence, Maya’s 200 CC-Tokens are equal to 40 sabirs, and Maya’s overall contribution to the commons is equal to: Total number of sabirs (Maya) ![](media/Images_Primavera/image9.png)
+Maya is really proud of herself, not only can she understand the value that she has contributed to the commons over the past year, but she can also easily express it to her friends.
+
+### Gratification
+
+![Fig. 2: One CBE (Wikipedia), with its own social value, generates and
+distributes its own tokens (WP-tokens) to different contributors based
+on their task.](media/Images_Primavera/image6.jpg)
+
+`Fig. 2: One CBE (Wikipedia), with its own social value, generates and
+distributes its own tokens (WP-tokens) to different contributors based
+on their task.`{.caption}
+
+The system of gratification can be explained by the example shown
+in Fig. 2. Wikipedia, with a Social Value of 1500 as we saw in Fig. 1,
+issues 12,500 Wikipedia-tokens (WP-tokens). At this specific moment,
+Wikipedia is adopting a strategy of prioritizing the quality rather than
+the quantity of its articles, so it decides to reward article reviews
+the most, followed by donations and finally the creation of new articles.
+In the particular example we considered, Wikipedia rewards 20
+WP-tokens to all those providing a comprehensive review of existing articles,
+15 WP-tokens for each donation over \$200, and 10 WP-tokens for each
+article created longer than a stub that is accepted by the community.
+This way, it is providing a reward to its contributors. Even
+though this has the potential to distort the nature of contributions, if properly used, it can be employed as a tool for the CBE to provide incentives for the most essential tasks.
+For instance, if a contributor hesitates on whether to create a new
+article, or review an existing one, she might favor the review based on
+the higher value it has for the community, as expressed by the internal
+mechanism of rewards.
+
+The system should ensure that users know what kind of rewards can be
+earned by which tasks. Thus, each CBE should provide a standard table
+where these task and gratification is indicated. The more transparent
+it is, the more the CBE can encourage its contributors to focus on the
+most urgent tasks. The system should also ensure that each CBE keeps
+track of how many tokens are earned by each contributor. Therefore, CBEs should
+provide a standard way for accessing such information, either by querying
+the contributor’s profile, or via an API for people to use
+their own personal *wallet* – i.e. a software that records all the tokens earned and the sabir value of each token.
+
+Even though the tokens are a quantified expression of gratitude, we are
+not aiming to *quantify everything*. These rewards can be earned
+according to *internal rules* chosen by each CBE, and such rules may be quantitative or qualitative, and may refer to:
+
+-   Projects for which people can earn a particular number of
+    tokens. Rewards may be based on both quantity (e.g. number of words)
+    and quality (e.g. three or more approvals from librarians).
+-   A role which provides a salary-like remuneration.
+    This may be common for maintenance and caring-related roles, e.g.
+    Wikipedia administrators might earn 5 WP-token per month.
+-   Other surprise rewards. Tokens can be distributed as prizes to
+    really productive or skilled users that did remarkable
+    contributions. Some users may also be given administrative rights to distribute a certain quota of tokens as they see fit.  
+
+WP-tokens are generated on demand: Wikipedia can issue as many as they
+want, is other words, no *a priori* artificial limitation is imposed. Unlike real money and most virtual currencies (e.g. Bitcoin) it is not essential for these tokens to be scarce, Besides, these WP-tokens are non-transferable: a contributor cannot *sell* her tokens
+to someone else, nor exchange them. Finally, the value
+of each WP-token is different than the value of each CC-token: the value
+depends on the actual social value of the CBE issuing them, and on the
+amount issued.
+
+We propose here a simple way to normalize the value of all those CBE
+tokens, through our common denominator of value, *Sabir*: a quantified
+indicator that approximates the value of all contributions that a user has made to the commons. Such an indicator is easy to understand not
+just by the contributor herself but also by others, who may not be
+acquainted with the particular CBEs to which the contribution was made.
+
+## Interaction With Market Players
+
+Sabir can essentially be regarded as a proxy for value in the
+commons-based ecosystem. Like the role of pricing in the market economy,
+Sabir allows individual contributions to be assessed and compared
+according to a common denominator of value (which remains distinct from
+market-value). While price is linked to a particular service or product
+of exchange, Sabir is an expression of the value that a particular
+individual contributed to the commons over a lifetime, and should
+therefore remain linked to that individual over their whole lifetime (i.e.
+it is not transferrable).
+
+As a common denominator of value, Sabir establishes a common language
+(a lingua franca), and acts as a bridge between the commons and
+the market economy, so that the two can benefit from each other, without
+one actually taking over the other. Indeed, by introducing a
+quantitative denominator of value for commons-based contributions
+(similar to pricing in the market economy), Sabir makes it easier for
+market entities to understand the value generated by CBE contributors to
+the common good, and reward them accordingly. Hence people who make a large contribution to the commons but remain outside of the market economy, may eventually be able to gain recognition from commercial players. Perhaps some of these market players would provide free or discounted goods or services to significant contributors. [^2_1-Primavera_12]
+
+Maya’s part-time job doesn’t provide her with a sufficient income.
+Fortunately, there are several market entities, popular among CBE
+contributors, who recognize the value of her work. Once a week, Maya
+can have free lunch in a local restaurant whose owner is also a CC
+artist, and she gets a free license for Adobe Photoshop.
+
+From a commercial perspective, Sabir enables market players to
+price-discriminate between standard customers and CBE contributors,
+potentially restricting their offers only to those people who
+contributed at least 'x amount' of Sabir to the commons.
+
+Maya loves to record her songs with commercial recording software but
+the license is expensive. Fortunately for Maya, the software company provides free licenses to anyone who has contributed over 10 sabirs to the Free/Libre Open Source Software community.
+
+Since Sabir is an open value system anyone could potentially assign value to
+CBEs according to their own value metrics. For example schools or universities
+could apply an ‘education’ matrix, giving greater importance to Wikipedia
+and Creative Commons. Whereas a local restaurant might apply the ‘slow
+food’ matrix, giving more weight to local farmers and producers. Therefore,
+the previous Eq. \#4 could be customized by a third-party (M) as
+follows:
+
+![Eq. 6](media/Images_Primavera/image7.png)
+
+`Eq. 6`{.caption}
+
+In other words, the third party may apply its customized *value matrix* to the
+already given social value of the CBEs. However, not every third-party
+needs to build their own matrix: they may use the standard social value (Eq. 4),
+use their own customized matrix, or use a matrix deployed by others.
+For example, Github may use the standard social value, a customized
+Value\_Matrix\_Github, or the Value\_Matrix\_FOSS, a common matrix used
+by many within the Open Source Software realm.
+
+Maya is a good student; she’s smart and very passionate about the topics
+she loves. She spends a lot of time on Wikipedia, researching and
+reporting her findings together with a community of other enthusiastic users. Her school recognizes the value she’s contributing to the
+‘Commons’ and gives her better grades for that. On the other hand, the university looks at the commons through an ‘education lens’ which assigns greater
+value to academic institutions such as Wikipedia or the P2PUniversity, but does not recognize other CBEs such as Couchsurfing or
+other non-academic CBE platforms.
+
+Individuals can choose whether to work for the market (earning money) or
+for the commons (earning sabirs), without necessarily having to give up
+one for the other. By providing an interface between the commons and the
+market economy, Sabir might ultimately encourage people to contribute to
+the commons in order to benefit from the special deals provided by
+certain market entities to CBE contributors.
+
+Eventually, as more market entities recognize the value of
+Sabir, and CBE contributors accordingly, Maya will be able to spend more
+time doing what she loves, contributing to the commons, while benefiting
+from the products and services offered by the market without having
+to interact directly with the market economy.
+
+Over time, a positive feedback loop is established, as commercial
+entities that support the commons will gain reputation
+in the commons-based ecosystem. Ultimately, this would lead a larger number of people to purchase their products or services.
+
+Each time Maya discovers a new entity that supports the commons, she
+gives them a good rank, and tells her friends about them. Whether or
+not they are CBEs contributors themselves, they will nonetheless be
+happy to purchase the services offered by that entity, knowing that they are also helping the commons.
+
+![Fig. 3: Example illustrating the current state of affairs for
+contributors to the Commons and how Sabir may help change it.](media/Images_Primavera/image8.jpg)
+
+`Fig. 3: Example illustrating the current state of affairs for
+contributors to the Commons and how Sabir may help change it.`{.caption}
+
+In Fig. 3, we illustrate the benefits of the Sabir system, as an interface between the market and the commons-based ecosystem. Nowadays, Maya is contributing to various CBEs but, since she’s not earning any money from this contribution, she cannot benefit from the products provided by the market system (burgers and ice cream from McDonald’s in this example) unless she actually decides to play the market game by getting a wage-paying job. In the future, thanks to Sabir, Maya will be able to express the value that she has been contributing to the commons through a common denominator (the amount of sabir she has accumulated), which can easily be understood by market actors. In this example, McDonald’s recognizes the value of the commons and has implemented a specific policy to reward CBE contributors with free burgers and discounted ice creams, depending on the value of the contribution to the commons. Hence, Maya is happy since she can continue contributing to the commons, knowing that the time she spends doing so will count towards obtaining free burgers and ice cream from McDonalds. Bob also contributed to the commons, but to a lesser extent, and therefore he is only entitled to a discount on the ice cream.
+
+
+
+## Implications and Benefits
+
+In a nutshell, the proposed system can help (1) measure CBEs social
+value (2) distribute non-transferable tokens to relevant contributors
+and (3) facilitate the process of rewarding contributors by market
+entities. The system presents a variety of benefits for the various
+actors involved, as follows:
+
+### For Commons-Based Entities
+
+*Understand CBEs’ Perceived Systemic Value*
+
+From the perspective of CBEs, the clearest benefit of Sabir is that it
+allows for each CBE *to understand its own value within the CBPP
+ecosystem* thanks to the social value metric – or at least, an
+approximation of how it is perceived by others, and its evolution over
+time. For example, a decrease in the social value of a CBE may be
+regarded as a sign for a variety of things, e.g. poor relationships,
+bad communication, or perhaps just a lack of focus on what really
+matters. Without the social value metric, CBEs would remain ignorant of
+how they are perceived by other CBEs.
+
+*Encouraging Participation and Growth by Means of a Reward System for Contributors*
+
+Another benefit of Sabir is that it *facilitates the elaboration of a
+system of internal rewards for estimating the value of contributions*.
+This is a typical issue for many CBEs, they are interested in reward
+systems in order to promote participation, but still there are problems.
+Reputation systems can be risky, as they may trigger unexpected changes within communities and current reward mechanisms have many issues. With Sabir, the introduction of non-transferable
+CBE-dependant tokens can be done in a gradual and systematic manner.
+This would minimize the risks and, if the experimentation fails, it is
+easy to revert back to the initial state of affairs.
+
+
+*Attract Contributors and Direct Their Contributions Where they are the most Needed*
+
+A third benefit of such a gratification system is that it would likely
+*increase the participation and growth of the community of
+contributors*, while also providing a means to *direct the
+contributions* *to where they are most needed.* CBEs might not only be
+concerned with increasing participation, but also in promoting a certain
+type of contribution (donations, maintenance, technical tasks,
+filtering, etc,) that is urgently required but lacking.
+
+### For Commons-Based Contributors
+
+*Understand the Value Contributed to the CBEs and to the Whole Ecosystem*
+
+Similarly to CBEs, a direct benefit for contributors is the ability to
+understand the value they are providing both to the whole commons-based
+ecosystem (expressed in sabirs) and to each individual CBE (expressed in
+their own gratification-tokens). This is particularly useful to the
+extent that individual contributors can compare the value they
+contribute to different CBEs and understand where their contributions
+are most required. They may even switch to another community where their
+contribution is more appreciated. While it might seem like a loss to the
+community, it is better that the contributor acknowledges the fact that
+her contributions are not being appreciated, in order to reduce the
+possible frustrations which might lead to other contributors leaving the
+community.
+
+
+*Communicate the Value of One’s Contribution to the Commons*
+
+By providing a common denominator of value, which applies equally to all
+CBEs, Sabir makes it easier for ‘commoners’ to communicate the value
+they have contributed to society, and may even encourage others to
+join and contribute to the commons as well.
+
+*Receive Direct Benefits From the Market Entities Recognizing Sabir*
+
+The main benefits for contributors is obviously those coming from market
+players that recognize Sabir as a reliable indicator of the value that
+has been contributed by each individual to the commons-based ecosystem.
+With a growing community of commoners and market entities joining the
+system, Sabir may engender profound change and reduce dependence on traditional market mechanisms.
+
+### For Market Players[^2_1-Primavera_13]
+
+*Direct Economic Benefits Through Price Discrimination*
+
+Market players can engage in price discrimination, by
+means of customized pricing policies which allow them to allocate some
+of their resources to the commons, without
+noticeably altering the market price. For instance, a software
+company could offer particular benefits to open source contributors by
+means of specific licenses (akin to the ‘educational’ licensing schemes
+for students or universities). The advantage of such particular kind of
+price discrimination is that it does not theoretically effect the
+market price, because only commons-based contributors will be able to
+benefit from it.[^2_1-Primavera_14]
+
+
+*Indirect Economic Benefits as a Result of Greater Visibility and Reputation*
+
+Although they do not receive immediate economic returns, it is common
+practice for many market players to support commons-based initiatives,
+such as social, cultural, or educational programs, in order to gain
+greater visibility. With Sabir, market players can
+support the commons-based ecosystem without having to distinguish
+between different initiatives which they
+would prefer to donate their resources to. Instead they can indirectly
+contribute to the commons-based ecosystem as a whole, simply by showing
+appreciation to anyone who contributes to the commons and rewarding them
+accordingly. Although commercial entities maintain the right to assign more value to
+some initiatives over others. Market players participating in the
+system might benefit not only from greater visibility or reputation, but
+also from collateral economic returns, as people who share the same
+values will be more likely to purchase from them. Besides, those who benefit from
+discounted and free goods or services will also be more likely to purchase
+other goods or services provided by these same companies.
+
+*Self-Realization*
+
+Although, in most economic theories, market players are described as
+rational beings acting according to their own self-interest, in
+practice, behind the commercial façade there are also human beings with
+principles and ideological values that might go against traditional
+economic rationality. Hence, certain market players might be tempted to
+participate in the commons system for ethical reasons and to
+support the projects that reflect their own values and, more
+generally, by contributing to help make the world a better place.
+
+### Systemic
+
+*Interface Between the Market and the Commons-Based Ecosystem*
+
+From a systemic approach, the main advantage of Sabir is that it acts as
+a bridge between the commons-based ecosystem and the market economy,
+without necessarily favoring one over the other. Today, the market can
+take from the commons, i.e. it can benefit from the outcome of CBPP,
+without ever giving back to the commons-based ecosystem. Therefore, it is to
+some extent free riding over the commons (which are in this sense subsidizing the
+market economy). Conversely, the commons-based ecosystem cannot benefit
+from any of the goods or services that the market provides, unless it
+actually adopts the logic of the market, which necessarily entails the
+commodification of commons-based resources.
+
+*Cooperation Without Contamination*
+
+Thanks to Sabir, the two systems can keep operating according to their
+own rationale: *abundance,* *collaboration, and sharing* for CBPP,
+*scarcity,* *competition* and *exchange* for the market. Nonetheless CBPP and the market are able to interact with each another without the risk of
+contamination. Individuals can
+choose whether to work for the market (earning money) or for the commons
+(earning sabirs), without having to forgo one for the other. As Sabir
+becomes more widely adopted, people will be able to spend more time doing
+what they love, contributing to the commons while also benefiting from
+the market economy.
+
+
+*Positive Feedback Loop Between the Commons and the Market System*
+
+As a result, Sabir might encourage people to contribute to the commons
+in order to benefit from the deals provided to CBE contributors by
+certain market entities. Over time, a positive feedback loop will
+therefore be established, as market entities that support the commons will gain reputation within the commons-ecosystem. This
+may, ultimately, encourage more people to purchase their goods or
+services, knowing that are also supporting the commons.
+
+## Concluding Remarks
+
+The value of CBPP has been widely acknowledged over the past few
+years.[^2_1-Primavera_15] Accounting for the value produced by different CBEs and
+determining the relative value of each contribution is a worthy
+endeavor, however difficult it may be to achieve. Currently, there are still no proper tools capable of understanding the value of CBEs or
+estimating the value generated by their community members.
+
+The Sabir system combines some, but by no means all, characteristics of a credit
+score, a cryptocurrency, and a reputation system in order to provide an
+indicator which acts as a proxy for *social value*, as opposed to
+*market value*, in the commons-based ecosystem.
+
+As individuals contribute to the commons, they receive ‘gratitude’ from
+the CBE they have contributed to which is expressed in their own
+gratification-system, i.e. the CBE tokens. As a common denominator of
+value, Sabir represents the *lingua franca* between these different
+systems. It translates the gratitude generated by individual
+contributions into a numeric value according to an algorithm (standard
+or customized through a value matrix) ponderating every contribution
+within the overall social value of the commons to which they contributed
+(see Equation 3). As such, Sabir makes it easy for anyone to assess the
+value produced within a particular CBE and to compare the values
+of different CBEs among each other.
+
+Through Sabir, we can benefit from the
+advantages provided by a universal indicator of value, without falling
+under the restrictions of conventional economic theories. Indeed, just like the role of pricing in the market economy, Sabir allows for individual
+contributions to be compared according to a common denominator of value.
+Yet, the value expressed by Sabir is not the actual *market value* but rather the *value* *that emerges from every
+contribution to the commons*. In other words, Sabir acts as a proxy for
+the value of individual actions within the commons-based ecosystem.
+Hence, as opposed to price – which is linked to the product or service
+of exchange – Sabir is ultimately linked to the individuals contributing
+to the commons. It is, therefore, important not to confuse Sabir with an
+actual currency (or cryptocurrency). As opposed to conventional
+currencies, which can be transferred from one individual to another, the
+Sabir indicator should be associated with the same individual during her whole
+lifetime, i.e. it is not transferrable although, just like price, its
+value may fluctuate over time.
+
+Yet, measuring the value of CBPP within a non-market economy raises an important question. It is unclear, at the moment,
+whether the introduction of a system like Sabir, offering a formalized,
+personal indicator of value is likely to increase people's motivation to contribute to the
+CBPP ecosystem, or whether it might, on the contrary, disrupt that
+particular set of motivations which have been established thus far.[^2_1-Primavera_16]
+Could CBPP values (such as freedom, sharing, or cooperation)
+actually be translated into quantifiable terms, without incurring a
+loss?
+
+## Acknowledgements
+
+We would like to acknowledge the people of the P2Pvalue project for
+their feedback. This work was partially supported by the Framework
+program FP7-ICT-2013-10 of the European Commission through project
+P2Pvalue (grant no.: 610961).
+
+## References
+
+Bauwens, Michel. ‘The Political Economy of Peer Production*’*,
+*CTheory*, Vol. 1 (2005).
+
+Benkler, Yochai, *The Wealth of Networks. How Social production
+Transforms Markets and Freedom*, New Haven: Tale University Press, 2006.
+
+Benkler, Yochai. ‘Peer Production and Cooperation’, forthcoming in J.M.
+Bauer and M. Latzer (eds) *Handbook on the Economics of the Internet*,
+Cheltenham and Northampton: Edward Elgar Publishing Ltd., 2015.
+
+Buterin, Vitalik. *A Next-Generation Smart Contract and Decentralized
+Application Platform*, White Paper, 2014,
+<https://github.com/ethereum/wiki/wiki/White-Paper>.
+
+Cheal, David. *The Gift Economy*. New York: Routledge, 1988.
+
+Cohen, I. Glen. ‘The Price of Everything, the Value of Nothing:
+Reframing the Commodification Debate’, *Harvard Law Review*, 117.689
+(2003).
+
+De Filippi, Primavera. ‘Translating Commons-Based Peer Production Values
+into Metrics: Towards Commons-Based Crypto-Currencies’, forthcoming in
+Lee Kuo Chen D. (ed.) *The Handbook of Cryptocurrency*. Elsevier.
+
+Gold, Lorna. *The Sharing Economy: Solidarity Networks Transforming
+Globalisation*. Burlington: Ashgate Publishing, Ltd, 2014.
+
+Hess, Charlotte and Ostrom, Elinor. ‘A Framework for Analyzing the
+Knowledge Commons’, in *Understanding Knowledge as a Commons: From
+Theory to Practice*, Cambridge, MA: MIT Press, 2005.
+
+Lindenberg, Siegwart. ‘Contractual Relations and Weak Solidarity: The
+Behavioral Basis of Restraints on Gain-Maximization’, *Journal of
+Institutional and Theoretical Economics* (JITE)/Zeitschrift für die
+Gesamte Staatswissenschaft (1988): 39-5.
+
+Schiller, Robert. *Finance and the Good Society*, New Haven; Princeton
+University Press, 2012.
+
+Page, Lawrence, et al. *The PageRank Citation Ranking: Bringing Order to
+the Web*, 1999.
+
+Yager, Ronald R. and Kacprzyk, Janusz, *The Ordered Weighted Averaging
+Operators: Theory and Applications*, Kluwer: Norwell, MA, 1997.
+
+[^2_1-Primavera_1]: Sabir website: [http://sabir.cc](http://sabir.cc). For additional
+    details on the implementation, see the FAQ on the website.
+
+[^2_1-Primavera_2]: Yochai Benkler, *The Wealth of Networks*: *How Social Production
+    Transforms Markets and Freedom*, New Haven: Tale University Press,
+    2006.
+
+[^2_1-Primavera_3]: Charlotte Hess and Elinor Ostrom, ‘A Framework for Analyzing the
+    Knowledge Commons’, in Charlotte Hess and Elinor Ostrom (eds)
+    *Understanding Knowledge as a Commons: From Theory to Practice*,
+    Cambridge, MA: MIT Press, 2005.
+
+[^2_1-Primavera_4]: Robert Schiller, *Finance and the Good Society*, New Haven:
+    Princeton University Press, 2012.
+  
+[^2_1-Primavera_5]: Siegwart Lindenberg, ‘Contractual Relations and Weak Solidarity:
+    The Behavioral Basis of Restraints on Gain-Maximization’, *Journal
+    of Institutional and Theoretical Economics (JITE)/Zeitschrift für
+    die gesamte Staatswissenschaft*, 39.5 (1988); Glen I. Cohen, ‘The
+    Price of Everything, The Value of Nothing: Reframing the
+    Commodification Debate’, *Harvard Law Review*, 117.689 (2003).
+
+[^2_1-Primavera_6]: Primavera De Filippi, ‘Translating Commons-based Peer Production
+    Values Into Metrics: Towards Commons-based Crypto-Currencies’, in
+    Lee Kuo Chen D. (ed.) *The Handbook of Cryptocurrency*, Amsterdam:
+    Elsevier, forthcoming 2015.
+
+[^2_1-Primavera_7]: Which are usually named Commons-Based Peer Production (CBPP)
+    communities. Here we use CBE for the sake of simplicity.
+
+[^2_1-Primavera_8]: Flattr is a microdonation web service:
+    [http://flattr.com](http://flattr.com).
+
+[^2_1-Primavera_9]: Lawrence Page et al, ‘The PageRank Citation Ranking: Bringing
+    Order to the Web’, 1999.
+
+[^2_1-Primavera_10]: The following equations are a strong simplification, as there are
+    more complex algorithms available. Still, for preliminary testing in
+    a prototype and for the sake of communicating the concept, we’ll
+    stick to those.
+
+[^2_1-Primavera_11]: Ronald R. Yager and Janusz Kacprzyk, *The Ordered Weighted
+    Averaging Operators: Theory and Applications*, Kluwer: Norwell, MA,
+    1997.
+
+[^2_1-Primavera_12]: This is already happening, albeit in a very limited way: e.g.
+    Github provides free (*as in beer*) services to FLOSS accounts,
+    Bambuser provides premium accounts to journalists and activists, and
+    SafeCreative provides a restricted amount of ‘all rights reserved’
+    registrations.
+
+[^2_1-Primavera_13]: We refer here to market players as any entity that subsists
+    within the market economy and operates according to the logic of the market.
+
+[^2_1-Primavera_14]: Of course, as more people contribute to the commons, the system
+    might lead to a progressive drop in market price. Yet, this is only
+    a marginal problem since market players maintain the right to update
+    their commons policy at any time, in order preserve price-discrimination.
+
+[^2_1-Primavera_15]: David Cheal, *The Gift Economy*, New York: Routledge, 1988, pp.
+    1-19; Lorna Gold, *The Sharing Economy: Solidarity Networks
+    Transforming Globalisation*. Burlington: Ashgate Publishing, Ltd,
+    2014; Michel Bauwens, ‘The Political Economy of Peer Production’,
+    *CTheory*, Vol. 1, (2005); Yochai Benkler, *The Wealth of Networks*:
+    *How Social Production Transforms Markets and Freedom*, New Haven:
+    Tale University Press, 2006.
+
+[^2_1-Primavera_16]: Yochai Benkler, ‘Peer Production and Cooperation’, forthcoming in
+    J.M. Bauer and M. Latzer (eds) *Handbook on the Economics of the
+    Internet*, Cheltenham and Northampton: Edward Elgar, 2015.
+
+
+
+
+# Democratizing the Power of Finance: A Discussion About Robin Hood Asset Management Cooperative with founder Akseli Virtanen
+
+### Pekka Piironen and Akseli Virtanen {.author}
+
+**Pekka Piironen:** What is Robin Hood?
+
+**Akseli Virtanen:** Robin Hood is an asset management cooperative
+established in June 2012. It is a counter-investment bank of the
+precariat, which rethinks the means of finance and financial services.
+We bend the financialization of economy to our benefit. Robin Hood has
+the power and imagination to do this.
+
+**Pekka**: How does it work?
+
+**Akseli:** We operate a massive dynamic data-mining algorithm – we call
+it the ‘Parasite’ – which logs into the brains of the bankers on Wall
+Street, and they don’t even know it. We know exactly what they do and
+when. We know who can make money consistently with certain instruments
+and who cannot. Robin Hood is our means to share this knowledge. In the
+first year, the value of our portfolio rose 30.74%. With this result we
+were the third best hedge fund in the world. Now, after the second year,
+we are up 40.15%.
+
+**Pekka:** Some time ago the biggest Nordic newspaper headlined ‘Robin
+Hood robs from the financial elite. Asset management for those without
+assets.’ Is the mysterious Robin Hood Co-op an investment club, art, or
+philosophy?
+
+**Akseli:** Asset management for those without assets is quite a good
+headline. We talk about minor asset management. That’s our business.
+
+‘Minor’ originates from Gilles Deleuze and Félix Guattari’s conceptual
+toolbox. They took it from Kafka’s diaries, where he talks about authors
+writing in major languages who were able to transform their work into
+something else, by making the work crumble and stammer, by operating in
+the tissues and edges, from within, through the same language, but
+turning it into something else, making it their own. It is an attempt to
+think about political means, means of change, where there is no outside.
+Minor is something that always brings together the personal and
+political. It is always about making our existential territories more
+habitable. And it is always something collectively produced. It changes
+power relations by changing the conditions of the situation. It allows
+for ‘a people to come’ by opening new routes and processes of becoming.
+
+Robin Hood practices a special way of managing assets that makes
+something new possible in a situation when nothing new seems possible.
+It is a becoming. This is our invention. At the same time it is also
+management of the assets of minorities, in Kafka’s sense, who will and
+can never become major, but will always remain like spit in the salad.
+And it is this management of minor assets, small assets, that is our other
+particularity. A lot of small assets working together. We don’t mind the
+connotation of being underage – not legally responsible, a minor, in a
+process of still becoming – neither as an attribute to our way of
+managing assets or to the assets managed, there is something true there.
+
+‘Investment club’ is also an exciting choice of words; I don’t exactly
+know what it means. We are a normal Finnish company operating under
+Finnish law. The form of the company is a cooperative. And we are in the
+middle of establishing the American Robin Hood in Silicon Valley.
+
+We certainly embody a philosophy – especially in so far as we can think
+that the task of philosophy is to create new concepts or new little
+machines which correspond to real problems – but politics might be
+more understandable in terms of our context, starting points, and
+aims. Is Robin Hood business, art, or politics? This is an interesting
+starting point for any discussion.
+
+**Pekka:** Why the name Robin Hood?
+
+**Akseli:** Everybody knows what Robin Hood does. In the age of semiotic
+inflation and information overload, we don’t want to spend too much time
+explaining. You need to get it in a different, immediate way.
+
+The roots of Robin Hood are in the British Forest Law, which allowed
+Norman kings to add more and more common forest areas under their
+ownership. Villages, houses, fields, and even churches were destroyed to
+add new land to king’s forests. Inhabitants of those areas were thrown
+out without food, resources, opportunities, or prospects. They had very
+limited options for survival, some caved, some became informers, conmen,
+traitors, and other forms of opportunists. The local officers became
+corrupted by providing their services to those who could pay. And the
+punishments were severe: Robin Hood got the death penalty for poaching
+the king’s deer in Sherwood.
+
+**Pekka:** In a sense not that different from the situation today?
+
+**Akseli:** Now, six hundred years later, we see new ‘Forest Laws’ to be
+enforced everywhere, and the common is again under threat. We need
+the financial services of Robin Hood, our methods are just a little
+different due to the changed circumstances: now we follow all
+transactions at the U.S. stock exchanges, make databanks of market
+actors, deconstruct them from individuals into dividuals to extract
+their most important knowledge and capabilities, and to put them to work
+for us. But the consequences are the same: the Sheriffs of Nottingham
+are clueless when they can’t withhold the king’s deer, or guard the
+routes of the wealth expropriated from the people. Robin Hood’s business
+is [minor asset
+management.](http://www.robinhoodcoop.org/pages/democratization-of-finance-an-interview)
+It means sharing and democratizing the power of finance. This is now off
+limits to us.
+
+**Pekka:** You have talked about Robin Hood as a parasite of financial
+economy, providing access to money that is not tied to the necessity to
+work.
+
+**Akseli:** First of all, parasite is a concept of Michel Serres. What
+is important here is what it tells of the relationship we have with the
+financial market and its players. We let them do all the work and just
+imitate them. Why? Because, as Serres writes, the one who plays the
+position will always beat the one who does the content. The latter is
+simple and naïve, the former complex and intelligent. By playing the
+position we dominate the relationship. It means that we have a
+relationship with the relationship itself. It is the meaning of the
+prefix ‘para’ in the word parasite: to be on the side, not on the thing,
+but on the relationship. A parasite has relationships; it makes a system
+out of them.
+
+Secondly, today there is an asymmetrical division between those who are
+able to create money by transforming it into financial capital (to earn
+money as separate income without a necessity to work) and those whose
+only access to money is to work, possibly at any cost and condition – or
+first take on debt, and then work. And furthermore, these two forms of
+money, the money you get for doing work (money as means of payment,
+money as means of exchange), and money as capital, have very different
+powers. Or more precisely, the former has no power at all, it is money
+castrated of any power, while the latter has a power to organize and
+command the future, to reduce and submit what will be (all potentiality,
+change) into what is now (existing power relationships). It represents
+nothing; it has no equivalent, except in future exploitation of labor,
+nature, and society.
+
+Robin Hood challenges this debt mechanism of control and of limiting our
+future. We also offer this other group of people a possibility of
+income, which is not tied to the necessity of work. An access to money
+as capital. It is a very concrete opening of the field of possibility.
+It is an element of independence. That is why we can talk about
+democratization of finance or of profanation of finance. By taking
+something sacred, which we are not allowed to touch or which only the
+priests can touch and understand – just think about the economy, the
+financial market and its priests today – we are returning it to common use
+and play.
+
+**Pekka:** Robin Hood has been described as a ‘freak in the world of
+banking’, established by a group of professors in economics and the arts
+who work at the Finnish Aalto University.
+
+**Akseli:** This is true, even if the professors were maybe not the
+majority in this group. The founding members of the cooperative were:
+Tero Nauha, Karolina Kucia, Liisa Välikangas, Heidi Fast, Kari
+Yli-Annala, Jan Ritsema, Sakari Virkki, Teemu Mäki, Ana Fradique, Lauri
+Kananoja, Valentina Desideri, Pekka Piironen, and Akseli Virtanen. There
+were years of preparation and building of momentum before this. On the
+board at the moment are Jan Ritsema, Tere Vaden, Liisa Välikangas and
+Tiziana Terranova, and myself. We have over three hundred members from
+fifteen different countries and are about to move to the next level of
+the operation.
+
+**Pekka:** You have talked about Robin Hood also as a ‘hedge fund of the
+precariat’.
+
+**Akseli:** Our aim is to bend the financialization of economy to the
+benefit of those who have thus far been paying its costs: workers at the
+mercy of the precarization, suffering from the insecurity of labor
+markets and social rights, growing indebtedness, decreasing price of
+labor, and of the downsizing of the welfare state. That states quite
+clearly the relationship of our starting points. Disinflation is the
+monetary relationship of the financialization of capital and
+precarization of work. We see this now very clearly in Europe. How is it
+possible for these deficits to exist without any inflation? Because the
+logic has changed, the logic of derivatives has provided a means to
+manufacture liquidity, which does not devalue the base currency. At the
+moment our collective capacity to assume debt and pay taxes and be the
+direct bearer of austerity measures – for governments to downsize and spend
+less for one simple reason, to be able to borrow more – creates direct
+vehicles for financial asset accumulation (which is not investment in
+expanding production). The increasing supply of government bonds (safe
+means for capital preservation) is possible only through deficit cuts
+and excluding all inflationary spending. This is like the financial
+equivalent of raw material for industrial production, like Robert
+Meister has said so well. In the financial economy the surplus is
+extracted more directly from this collective capacity to become more
+indebted and pay taxes than from the stagnating number of people
+employed to goods and services production. Today the growth in the forms
+of indebtedness is the condition for capital accumulation, just like
+expansion of labor force participation was for expanding commodity
+production.
+
+In this situation, Robin Hood operates exactly like the hedge funds and
+not like a ‘retail fund’ of a bank. Robin Hood owns stock in other
+companies as the only asset, and operates with greater flexibility than
+banks. The investments of members are open ended and withdrawals are
+allowed only at certain moments of the fiscal year. The value is
+calculated as a share of the Net Asset Value (NAV), meaning that the
+increases and decreases in the value of a cooperative’s investment
+assets and expenses are directly reflected in the amount a member can
+later withdraw. This is exactly what hedge funds do too, but what Robin
+Hood hedges, is precarity: we take a position in the financial market to
+offset and balance risk adopted by assuming a position at a contrary
+market, the precarious labor market, where so far people have just been
+paying the bills of financialization by letting it use our capability to
+assume debt, pay taxes and worsen social rights as the main raw material
+for accumulation of financial assets.
+
+Robin Hood’s asset management is based on the idea at the origin of the
+derivative market: it is possible to produce new assets by means of
+hedging existing ones. Finance is essentially a technology to create
+spreads – through creation of doubts, uncertainty, volatility, constant
+threat of illiquidity – that are valued and can be arbitraged. Robin
+Hood is using in quite an intelligent way the same new capitalist
+financial alchemy of turning uncertainty into rent.
+
+**Pekka:** By this you mean the Parasite algorithm, which takes
+advantage of the spreads and volatilities of the stock markets?
+
+**Akseli:** From the beginning we said that we are utilizing the
+inefficiency of the financial market and our understanding of how public
+opinion, or market sentiment, organizes the multitude of actors at the
+market. We do big data. The Parasite, which Sakari has designed and
+developed, follows all the transactions at the U.S. stock markets,
+identifies the spreads, the best actors, follows their swarming – and
+then imitates the emerging consensus action of the financial oligarchy.
+Quite simply, the assets of the cooperative are invested at the market
+by following and imitating the emerging consensus action, or swarming,
+of the world’s best investors on each particular stock.
+
+Our Italian friends Christian Marazzi, Carlo Vercellone, Andrea
+Fumagalli, and Stefano Lucarelli have been writing about how money in
+its finance form escapes the public control, the control of monetary
+institutions like central banks, and becomes a prisoner of the
+conventions of the oligarchy of the financial market. Robin Hood works
+with the emergence and exploitation of the conventions of the oligarchy
+on the market: we tax them for exploiting our collective ability to pay
+taxes, bear austerity measures and become more indebted. Andrea and
+Stefano are absolutely right when they say that the governance of the
+conventions is the proxy of the expropriation of the common. We tax
+this expropriation.
+
+The hypothesis of the efficient market is, by the way, one of the most
+important truths of the current economic policies. Our operation is
+based on a completely different understanding of how the market works
+and what the mechanisms of creating economic value today are, for
+example: the role of flock behavior, origin of imitation, and means of
+controlling a swarm in this.
+
+**Pekka:** Some people would say you are just following a computer
+program.
+
+**Akseli:** It is funny when the Parasite and Robin Hood are interpreted
+like this. We are dealing here with a little bit more than ‘a computer
+program’. For example, the whole Polemos book series we did in early 2000
+in Finland was created for building this understanding and organization.
+These are wonderful books, 14 altogether, published in this series, from
+the best economic and political thinkers at the moment. For example,
+Christian Marazzi’s *Language and Capital*, Maurizio Lazzarato’s
+*Revolutions of Capitalism*, Paolo Virno’s *Grammar of Multitude*,
+Franco Berardi’s *Info-Labour and Precarious States of Mind*, Bracha
+Ettinger’s *Co-Poiesis*, Félix Guattari’s *Chaosmosis and Three
+Ecologies*, also your book *Economy of Insecurity*, my book *Critique of
+Biopolitical Economy* and the famous *Dictionary of New Work* which was
+based on a long lecture series we organized at the School of Economics.
+It is important to understand that the Parasite coded by Sakari is the
+essential part of the operation, but what is really important is the
+approach behind it, that is, the understanding of the changed nature of
+creation of value. That is why we are now capable of coming up with new
+products too. I don’t know how I could emphasize this more. It sounds so
+funny, when somebody just says that here are these dudes investing based
+on a program – I mean after all the research and intellectual
+investment, years of theoretical and experimental work we have put into
+this. And there is the massive empirical testing of the Parasite carried
+out over six years 2003-2009 at the U.S. stock markets, and even more
+importantly, Sakari’s research work on the algorithmic production and
+product development with the Parasite has been actually going on for
+more than 20 years. Robin Hood has not just dropped from the heavens.
+
+**Pekka:** Robin Hood has been in operation for two years. The co-op
+opened an office in June 2014 in Stuttgart, and then one in Berlin and
+Dublin.
+
+**Akseli:** The ‘office’ is a work form that suits us. We can set it up
+in any space, in a café, a museum, a park, a university. We call it an
+office, a temporary office, where we work like one does in the
+office… or how we imagine one works in the office…usually on particular
+themes like aesthetics of algorithmic production, rethinking financial
+services, crypto currency and equity, processes of the production of the
+common and some legal issues depending on what is on our immediate agenda.
+But the office is open and anybody is welcome to listen or join us in
+the work.
+
+It is hard to get our people to the same place and time as everybody is
+so ‘busy’ and production has become spatially boundless and temporally
+endless. And the offices are not gardens of Zen, but full of conflicts
+and uneasy moments. It is very hard to work together. And we require
+that the organizers put their ass on the line too, open their networks,
+help us meet key people who could be interested in Robin Hood, of
+cultural institutions (funds, museums, galleries), and from networks of
+real finance money, funds, wealthy individuals and artists, angel
+investors interested in production of common fare, disruptive financial
+services, impact investments, venture philanthropy. We don’t organize to
+run Robin Hood, we run Robin Hood to organize.
+
+**Pekka:** You draw an international audience: artists, activists,
+philosophers, and professors. I saw the images of the Stuttgart office
+and it was full of diagrams and words like ‘aesthetics of algorithmic
+production’, ‘subjective growth’, ‘dividual’, ‘exhaustion of possible’,
+‘machinic surplus value’, ‘common-fare’, ‘relations’. Some radical
+philosophers like Foucault, Deleuze and Guattari were dropped in the
+stream of the discussion as easily as I used to smoke Marlboroughs.
+
+**Akseli:** We are researchers of economy and organization. Already
+during the mid 1990s we found out that it would not be a picnic when we
+started using thinkers like Michel Foucault, Jacques Derrida, Gilles
+Deleuze, Félix Guattari, and then the Italian post-operaist writers to
+study and understand economy instead of the mainstream economic and
+business theorists. Yet, without caring too much about the consequences, we
+continued with the work because we knew that we were right – that this
+was the right way if we wanted to really understand how economy and its
+organization works today. So with these thinkers we were able to
+understand, for example, how signs and meanings are part of real
+production and not only some kind ideology or superstructure of
+production; how the use of language can have real effects; how the
+dynamic of the production of value is in the organization of a
+heterogeneity, of heterogeneous forces, and not only in the relationship
+between capital and labor; and how it is possible to control not only
+actual but potential action and thought. With them we also understood
+the blurring of the boundaries between economy and politics and how the
+paradoxes of immaterial production – for example, that relations have
+weight and the immaterial matters – cause problems to old approaches and
+distinctions, and that we need new concepts and methods if we want to
+understand what is going on. Some of the key issues of the production
+value in economy today, like how to create a public, get its attention, keep and modulate it, have already been thought through quite precisely in
+classical philosophy, rhetoric, and dramaturgy, in semiotics and
+linguistic theory.
+
+**Pekka:** As Robin Hood is connected to the ideas of basic income, is
+Robin Hood trying to overturn capitalism through the stock exchange?
+
+**Akseli:** Yes, the arguments for basic income are, in fact, quite
+similar. Our methods are just taken a little further. But
+‘overturning’ belongs to the political means of the last century and not
+those of Robin Hood. What is important for understanding Robin Hood is
+to understand why the old political means of building independent life
+do not work anymore and why we need to invent something new.
+
+The algorithmic and machinic functioning of economy today operates with
+component parts of subjectivity; with its sensations, cognition, memory,
+physical force, intelligence, affects, not-yet-individuated
+potentialities. Their synthesis does not lie in the person but in the
+machinic assemblage. What the person ‘wants’ or ‘wills’ is absolutely
+irrelevant. And we see this so clearly: no matter what we say, vote,
+demonstrate, argue, occupy, strike…nothing changes. The new mechanisms
+of value production do not work with individual subjects, but with their
+deterritorialization into dividuals. And that level does not involve
+representation or consciousness, it does not operate through repression
+or ideology, it takes us from the behind, from the inside, and from the
+outside.
+
+Our conclusion has been that also we need to start operating beyond
+persuasion, beyond communication, taking the game outside of identities
+and ‘self’ and towards dividuals, incremental desire, and imitation,
+information deficit and fundamental distrust. The game of becoming a
+member of Robin Hood is played here and not at the rational-cognitive
+level. We need to take advantage of the ongoing deterritorialization and
+move towards politics of dividualism and not try to return to a ‘subject
+of interest’ or rely on programmatic politics of ‘cognitive persuasion’
+or fall back on mythical-conscious narratives of the ‘worker’,
+‘employment’, ‘welfare’, etc. It means engaging financial capital where
+it draws its power: in its paradoxes, in its arbitrariness, in its
+dividualism and not on rational decision-making and market-based
+organization – they are not the problem here.
+
+**Pekka:** Could you elaborate on what Robin Hood’s relationship with
+art is?
+
+**Akseli:** We use art to camouflage, but more importantly to produce
+aesthetic surplus value, by trying to engage directly with art’s power
+to create unforeseen and unthinkable (economic, political, social,
+emotional, organizational…) processes. It is also interesting to ask,
+like Florin Flueras and Alina Popa have said many times, what does Robin
+Hood do to art? It is non-representative, non-visual, non-performative,
+non-conceptual and it does not operate within the safe environment and
+castrated power space of ‘Art’. Rather it uses art as an essential part
+of social organization, economy, politics and life – like art was used
+before it became something separate with its own axiological reference
+system, you know, in ‘primitive’ societies where for example dance,
+sound, plastic forms, signs on the body, ground and objects were
+essential part of the political organization, rituals, religious
+processes. From our perspective this is just pragmatics: we don’t give a
+shit if Robin Hood is art or politics or business, we are interested in
+what we can do with it; what are its effects, does it make our
+existential territory more habitable or not?
+
+**Pekka:** Robin Hood was originally a project in the Future Art Base
+coordinated by you for the university. The School of Arts presented it
+as a university level top priority strategic initiative in October 2012.
+But after information on Robin Hood reached the highest management of
+the university, you were told that the financing for the whole Future
+Art Base would be terminated immediately. They said ‘Robin Hood is
+potentially dangerous to the reputation of the university’.
+
+**Akseli:** It was a surprise that they did what they did – quite simply
+we were just fired – without even trying to find out what this project
+was about. Or I don’t know, was it surprising at all? More likely we
+were just naïve to think that something like this could be done there, it still makes me blush. It is an extremely conservative
+environment where no risks are taken. For them it was a hygienic
+preemptive action. I want to say this because we had prepared Robin Hood
+very carefully together with lawyers; we knew that there was nothing
+‘illegal’ about it.
+
+**Pekka:** You have said Robin Hood is ‘is unallowable, impossible and
+disgusting… a monster… but it corresponds to our subjectivity’. What is
+this subjectivity?
+
+**Akseli:** There is no heroism in the exhaustion and disillusionment we
+are experiencing. We have elsewhere described ourselves as a group of
+losers, sad figures, dark souls, cynical opportunists, and depressed
+princesses. We are not tough or macho, we are soft and wet, impotent and
+feeble. We don’t march or demonstrate. We have difficulty in getting
+out of the bed. We need each other just for trying to stand up. We are
+‘molle’ people,[^2_2-RobinHood_1] the future of cooperation. This skepticism is not
+cognitive but ethical. The impasse is ethical and political at once; it
+affects our position, our exploration of the world. It is the dead end
+of politics as we have known it, which is the breeding ground of Robin
+Hood. Robin Hood is belief in this world, and not in some other.
+
+**Pekka:** The art audience at Documenta found it difficult to stomach the
+performance by such merry men and women of Robin Hood.
+
+**Akseli:** It was a fairly elaborate installation or performance, whose
+form was a paradox. A lot has been written about it, but I can say it
+again: Robin Hood is an attempt to think about the possibility of
+cooperation in a condition where it seems that distrust, suspicion, and
+exploitation of others has become the most important means of our
+survival. We have talked about these as the precarious states of mind.
+What does a cooperation of opportunists look like? How does a community
+of depressed people function? Or cooperation in a situation where we are
+exhausted by the fact that we need to put all our thoughts, feelings,
+tastes and relationships to work all the time in every short-term
+project we get. These states of mind are organic parts of the way in
+which the economy works. Economy has become a production of
+subjectivity. Here is also the reason why the old political means – like
+solidarity, creation of a collective conscious subjectivity, creation of
+your own values – are not operational anymore and we need to create new
+forms, paradoxes, monsters which don’t fit to the normal flow of thought
+and action and may seem disgusting, especially from the perspective of
+the old morality of the left.
+
+**Pekka:** The artistic director of Documenta 13 accused you of
+concentrating only on money?
+
+**Akseli:** Carolyn Christov-Bagargiev, who I really admire and like,
+perhaps got a little irritated in the end and raised her voice to ask us
+why we only think about money while the entire Documenta 13, for
+example, was made with love! Well, with love and €29 million we might
+add… but she said that money does not exist, only love. She meant that,
+essentially, it was not money that made Documenta happen, but love from
+which in turn, artworks emerged. And the entire big art audience nodded
+and hummed as a sign of consensus. We answered that we know the
+situation very well, because we work and produce everything all the time
+only with love too – and it is exactly this, which exhausts us. Robin
+Hood offers affective rest in this situation. This affective rest – that
+the members do not need to put all their abilities and skills and
+relationships to work, to bond, to create a community etc. – with still
+a possibility of income, is the core of Robin Hood. Just give your
+money, we will make it work and give you back more, and you can do what
+ever you want. You can save your love. We are a love bank. Documenta 13
+crystallized it almost perfectly.
+
+**Pekka:** The profit made by Robin Hood is distributed amongst its
+members, who have the possibility of either keeping the whole amount or
+giving a part of it to the common pool of the co-op.
+
+**Akseli:** That’s right.
+
+**Pekka:** So far, the investments by Robin Hood have been doing well.
+
+**Akseli:** In this business nothing but the results matter. We have
+been able to create a start-up that financed itself already during its
+first year by income funding, that is pretty rare. And during the second
+year, we multiplied our assets under management tenfold. This is just a
+beginning; you haven’t yet seen anything of what we can really do. We
+are preparing for some serious kick-ass operations to start taking
+place.
+
+**Pekka:** Many newspaper reporters have asked about a proof of
+existence of the portfolio.
+
+**Akseli:** This is a very interesting question. How can we be certain
+that the Robin Hood portfolio exists? How can you be certain of the
+value of something? Because this is what they are really asking: does
+Robin Hood really exist, does its portfolio exist, and how can they be
+certain of that? And then we have provided formal documents, company
+registry papers, an auditing report of the accounting by Ernst & Young,
+our portfolio report by Interactive Brokers which is one of the most
+respected brokerage houses in the world. I don’t know what else we could
+do. I don’t know if they are as thorough when they go to a normal bank,
+what kind of evidence they ask to believe that this or that fund offered
+by the bank really exists? I wonder how those banks would answer if
+asked ‘do you really exist, does this fund really exist?’
+
+How can we be certain that a portfolio of any investment bank really exists?
+That it has value? Of what is this value made? You must trust. Think
+about the Bernie Madoff affair for example, the largest financial fraud
+in U.S. history, how long he was able to carry on his investment scam,
+just because he was the ex-chairman of NASDAQ. The big banks spend
+billions to appear trustworthy and seduce people to trust them. On
+average banks have 20 to 30 sales people per one analyst. That is their
+real business. And do you think we should trust them? I mean, after all
+we know, that they cheat, con, exploit clients for their own profit,
+manipulate European level interest rates, the incredible bonus systems.
+How is trust created? This is the question at core of Robin Hood. Unlike
+the normal banks and investment houses, we are fully transparent and not
+afraid of this question. How is value actually made? And this is also
+why the clergy tries to refuse our entrance to the temple, so that the
+emperors without clothes will not be revealed.
+
+This is what the priests repeat: you philosophers and artists and
+temporary workers, you have no access, to the temple, you don’t
+understand, you cannot come here, you cannot touch this, you must let us
+deal with this. The funniest thing of course is, that Robin Hood has
+been able to create something that this clergy will not understand. This
+is also our best protection.
+
+We have the power and imagination to invent the new financial
+instruments and services that we need.
+
+**Pekka:** Robin Hood also invests in oil, weapons industry, and other
+companies that traditionally might be considered to be evil.
+
+**Akseli:** Yes, we do.
+
+**Pekka:** What is the ethics of this?
+
+**Akseli:** We place our tax on all instruments in which we see the
+financial oligarchy move. It is a shameless ethic, a scandalous ethic,
+which binds itself directly into politics. It is an ethical order that
+perhaps goes beyond the Greek and Christian traditions of ethics, a
+post-ethical ethics and post-political politics that corresponds to our
+subjectivity and situation.
+
+Robin Hood is not a moralistic organization. It is not an organization
+of the ‘good’. We make no promises of the ‘good’ around which we would
+organize. And we are trying to not be an ethical organization either.
+Production of ethics – of the conditions and environments of our action
+and thought, of the habits and rules that we follow as our ‘second
+nature’ as Aristotle put it – has become an important method to exhaust
+the potentiality of our action. We are trying to break out of this form
+of control. Our ethics are about reopening the field of the possible.
+
+So Robin Hood ethics are about being able to take action upon oneself and
+others. An ethical subject is a subject that is capable of taking risks,
+posing a challenge, introducing conflict and division into community,
+and of governing oneself and others in a situation of conflict. Our
+ethics have to do much more with combat and politics, than with being
+nice and responsible, doing what is accepted, staying in a place
+assigned to you. The ethics of Robin Hood do not include such aspects.
+It is an ethics closer to a poetic notion, as our philosopher friend Juha Varto
+has beautifully said.
+
+A poetic stance takes place in active doing, being in operation, not
+stopping to reflect. It is a warrior’s stance that has no individual or
+personal or collective message to fight for but a profession of a simple
+existential pragmatic that gives meaning to all there is to do.
+Poetic stance is an ethic-free, moral-free territory where
+experimentation is the only guiding principle. Anything may be expected
+from us. There is no criterion for good or bad since there is no solid
+context to which such an evaluation could refer.
+
+Today poetic stances belongs to people who are active without a cause
+and without a need to legitimize their every step in order to be able to
+take the next one. It includes the idea that steps cannot be separated
+if one is in the middle of what is happening, just like the motion in
+Zeno’s paradox, where the arrow is motionless at every separate point of
+its trajectory and seems to annul the reality of motion and change for
+anyone ends up in communication and the power of meaningful language
+ridiculed by the sophist. Poetic means being in the middle, it leads
+towards a change, a region, which is not controlled by, determined space
+and time. This is where ethics begins. Ethics is a question about the
+possibility of the future.
+
+**Pekka:** Does it mean that Robin Hood is trying to beat the enemy by
+joining them?
+
+**Akseli**: We are trying to find a way forward from the
+financialization of economy. There is no way for some kind of return;
+our money is already there. Every time you use your credit card you take
+part in the creation of finance. As soon as your money hits your
+account, the banks start to use it for expanding credit. Your retirement
+money is working day and night at the market. And money does not obey
+boundaries like ‘good’ and ‘bad’, you cannot tell it to stay in one
+place, like in the stock of a ‘nice company’ and not to go somewhere
+else. Money does not function like that. There are no financial virgins.
+
+And even more importantly, our individual and collective capability to
+assume debt and pay taxes is the main raw material for the accumulation
+of financial assets at the moment; it is the base for the continuous
+supply of safe collateral for capital that allows riskier credit, like
+derivatives, to be priced. The size of the derivative market has grown
+in the past 30 years to become over 20 times bigger than entire world
+Gross National Product. And at the same time the number of banks has
+decreased by 40%. Only nine big investment banks actually control almost
+the entire derivative market. This has nothing to do with free
+competition or ‘may the best win’. During the first three months of 2014
+alone the net earnings of Goldman Sachs was over 2.02 billion dollars,
+HSBC 5.1 billion dollars, JP Morgan 5.3 billion dollars...in three
+months! It is quite a lucrative business. And our money, for example in
+retirement funds, is there too. We never see the profits. We just carry
+the risks. Our individual and collective capability to assume debt, pay
+taxes and bear the austerity measures is used directly as raw material
+for making these profits. We are the wild side of finance.
+
+[^2_2-RobinHood_1]: The soft belly - *il ventre molle* - of Infosphere is a concept by
+    Franco Berardi. He developed it to think about the place of
+    insurrection and mutation when controls have become arbitrary and
+    start to operate through linguistic and technological automatisms,
+    which predispose our aptitudes, tendencies and positions at a
+    dividual level. It is no use to rebel or demonstrate against them,
+    it means nothing to their functionality. Yet their weak spot is in
+    the softness or unpredictability of social sensibility and
+    unconsciousness. It is their ‘soft belly’.
+
+
+
+
+# Inculcating Ethical Behaviour in Market Transactions? The Case of the Sharia Online Trading System in Indonesia
+
+### Lena Rethel and Irwan Abdalloh {.author}
+
+In the wake of the global financial crisis of 2007-9,[^2_3-RethelAbdollah_1] the search is
+on for finding alternatives to a global financial system whose flaws
+have been thoroughly exposed, both in terms of its proneness to crisis
+and its highly uneven – if not unjust – economic and social impact.
+Commentators have identified a whole plethora of financial products – an
+alphabet soup of CDOs, CDS, etc. – as highly implicated in the crisis
+and coined terms such as ‘toxic assets’ and ‘financial weapons of mass
+destruction’ for these products. Islamic finance is one of the
+alternatives that has been put forward in post-crisis debates. It is a
+fast expanding segment of international financial markets with annual
+growth rates estimated to range from 15 to 20 percent. Deriving its core
+principles from the jurisprudential body of knowledge known as the
+Sharia, Islamic finance has distinct notions about debt,
+creditworthiness and the relationship between the ‘financial’ and the
+‘real’ economy. Its advocates suggest that Islamic finance draws on
+religious values to promote a (more) ethical approach to finance that is
+at the same time transaction-friendly. It joins the ranks of other
+investment approaches proclaimed to be ‘more ethical’ such as socially
+responsible finance, green financing or financing for development.
+However, unlike other proposals for a more ethical finance, Islamic
+finance clearly sees the transaction element of finance within its
+ethical remit. The Sharia Online Trading System promoted by the
+Indonesia Stock Exchange and discussed here is a case in point.
+
+## Islamic Finance, Markets and Ethics
+
+The global financial crisis of 2007-9 once more brought the questionable
+ethics of international financial markets to the fore. Pundits variously
+traced the causes of the crisis back to ‘a giant ponzi scheme’, high
+street banks losing ‘their moral compass’ or the ‘flexible ethics’ of
+investment bankers. As a whole, the financial services industry –
+despite being in many countries one of the most heavily regulated
+business sectors – struggles to come to terms with persistent problems
+of conflicts of interest, often to the disadvantage of smaller, less
+sophisticated (too often that is less well connected) market
+participants.[^2_3-RethelAbdollah_2] Yet, despite questions of ethics going to the heart of
+financial market practice, precisely such questions are often side-lined
+in economic analyses. Indeed, as the study of economic social relations
+and dynamics has moved from the Moral Economy approaches of the 18th
+century (think Adam Smith) to the Political Economy approaches of the
+19th century (think David Ricardo) and then on to the 20th century
+disciplinary subject of Economics (think post-marginal revolution),
+markets have increasingly become conceptualised as *ethics free zones*,
+subject only to the coordinating function of the price mechanism,
+somehow arrived at through the intersection of demand and supply.[^2_3-RethelAbdollah_3]
+
+In so doing, the always-embeddedness of markets – including those for
+capital – in social, cultural and even gendered relations is erased.[^2_3-RethelAbdollah_4]
+Rather than being reflective of the social reality of markets, this is
+very much an analytical (and often political) choice. Nevertheless,
+contesting the absence (of an explicit articulation) of the ethical and
+social dimensions of financial markets is a key theme pervading the more
+critically inclined political economy and social studies of finance
+literatures. Here, financial markets are not conceptualized as natural
+phenomena – that is abstract rational entities that follow objective,
+scientific principles – but as the result of historical contingencies,
+political contestation and the emergence of shared understandings which
+condition, and are conditioned by, financial practices.[^2_3-RethelAbdollah_5] Its explicit
+claims to constitute a (more) ethical approach to finance, makes Islamic
+finance an interesting test case to explore.
+
+The advent of fully-fledged interest-based financial systems played a
+significant role in the emergence and expansion of the modern economy.
+In so doing, the acceptance of receiving and paying interest as
+legitimate economic practice was part of the transformation of European
+social epistemologies in the transition from medieval economic and
+political systems to modernity.[^2_3-RethelAbdollah_6] Like medieval Christian economic
+thought, Islamic finance forbids interest. Nevertheless, in its current
+guise Islamic finance is a distinctively modern phenomenon. Local
+Islamic savings schemes emerged in a number of former British colonies
+after independence in the 1950s and 1960s.[^2_3-RethelAbdollah_7] Private Islamic banks
+were established in the Middle East following the increase in oil prices
+in the early 1970s.[^2_3-RethelAbdollah_8] Other parts of the world followed swiftly. As a
+consequence, over the last thirty years, Islamic finance has made
+considerable inroads in both Muslim and non-Muslim societies. It has
+spread to more than 75 countries and – by current estimates – has
+achieved a global market size of more than 1trillion U.S. dollars in
+assets.[^2_3-RethelAbdollah_9] Moreover, not only has the number of specialist Islamic
+financial institutions proliferated, but major international banks such
+a HSBC and Standard Chartered Bank have launched Islamic subsidiaries.
+
+What are the foundations of Islamic finance’s claim to constituting a
+(more) ethical approach to finance? What constitutes its core
+principles? To begin, Islamic finance seeks to install a financial order
+that complies with the religious teachings of the Quran, the Sunnah and
+the Hadith.[^2_3-RethelAbdollah_10] Interest – or *riba* (literally: increase; generally
+interpreted as the paying and receiving of interest) – constitutes what
+Bill Maurer calls ‘the absent center of [Islamic finance] today’.[^2_3-RethelAbdollah_11]
+The prohibition of riba can be found in the Quran. For example, the
+Surah Al-Baqarah sets out a number of principles with regard to charity
+and money-lending. Lending is not considered a legitimately profitable
+activity. According to Islamic financial thought, the prohibition of
+riba precludes conventional borrower-lender relationships in which
+borrowers are exposed to all sorts of risk, whilst the lender only risks
+the borrower’s default. Islamic finance therefore is thought to exhibit
+a strong preference for equity finance over debt finance. For example,
+bank accounts – unless funds are kept with a bank purely for safekeeping
+purposes – typically take the form of profit and loss sharing accounts,
+where the account holder enters into a partnership arrangement with the
+bank. Some scholars argue that banning the risk-free accumulation of
+capital, and the concentration of wealth in the hands of only a few, is
+part of Islam’s concern for greater economic and social justice. Thus
+for instance, the ‘economic viability and profitability’ of a project
+are crucial determinants of its fundability.[^2_3-RethelAbdollah_12] Along these lines,
+Islamic finance also forbids *gharar* (profiting from contractual
+uncertainty) and *maisir* (gambling). Moreover, certain products and
+practices such as pork, alcohol or prostitution are deemed *haram*
+(prohibited). This also extends to their funding. Indeed, in Islamic
+economic thought the market mechanism is complemented by a ‘moral
+filter’ of what is socially desirable.[^2_3-RethelAbdollah_13] Thus, Islamic finance bases
+its claim to being an ethical approach to finance on the *religious
+values with which it seeks to comply*.
+
+Given these stipulations, what makes Islamic finance distinct as a
+practice? Prima facie, Islamic finance promotes specific ideas about
+debt, creditworthiness and the relationship between the financial and
+the productive economy. Debt – no matter if sovereign, corporate or
+household – is not a legitimately profitable activity. Creditworthiness
+is based on the ‘worthiness’ (in terms of economic profitability but in
+some interpretations also social desirability) of the project, and not
+primarily the repayment capacity of the borrower. Islamic finance is
+asset-oriented in that financial products have to be linked to the
+‘real’ economy, which rules out many of the recent synthetic financial
+innovations that were so heavily implicated in the 2007-9 global
+financial crisis. In so doing, Islamic finance is thought to embrace the
+mutually constitutive roles of the financial and the productive
+dimensions of the economy. Indeed, on this reading the primary purpose
+of finance is seen as serving the needs of the latter. Thus, the social
+epistemology from which Islamic finance is built is distinct from that
+which underpins much of contemporary mainstream finance. Moreover, these
+features of Islamic finance have to be seen in the wider context of
+Islamic economic philosophy which contains strong elements of
+redistribution (notably through zakat, mandatory alms-giving by
+individuals and firms), the idea of participatory economic growth, and
+risk-sharing as the basis of a more equitable development, together with
+a certain materiality or transactions focus as expressed in the sanctity
+of contracts and property rights already maintained in the Quran. Thus,
+Islamic finance bases its claim to being an ethical approach to finance
+on the greater social justice of *the outcomes it intends to achieve*.
+
+At the same time, however, procedural elements play an important role to
+ensure the compliance of Islamic financial products and services with
+the principles of the Sharia. In this regard, governance through Sharia
+boards has emerged as a key mechanism in the Islamic legitimation of
+Islamic financial products and services. Models of Sharia governance
+vary across countries. Typically, Sharia boards operate at the firm
+level, advising financial institutions on the Sharia compliance of the
+products they develop. Here, the Sharia board derives its authority from
+the reputation of the scholars specialised in Islamic jurisprudence who
+compose it. However, in a number of countries, including Malaysia and
+Indonesia, there also exist Sharia boards (or advisory councils) at the
+national level, which hold the ultimate authority in ruling on what is
+compliant or non-compliant with the principles of the Sharia. This is
+meant to ensure consistency of Sharia interpretation and to provide
+market participants with greater certainty. In Indonesia, the Sharia
+governance of Islamic finance is civil society-centric in that the
+Sharia board responsible for issuing national fatwas on Islamic finance
+is located at the Indonesian Council of Ulama (*Dewan Syariah Nasional –
+Majelis Ulama Indonesia* or DSN-MUI), more specifically its National
+Sharia Board. DSN-MUI, formed in 1999, has ‘responsibility for
+overseeing doctrinal compliance’ of Islamic financial institutions.[^2_3-RethelAbdollah_14]
+In many countries, a major challenge is to find Sharia scholars who are
+not only proficient in Islamic jurisprudence but also have a good
+understanding of how financial markets work. Thus, Islamic finance bases
+its claim to being an ethical approach to finance on the *legitimation
+practices* of Sharia scholars.
+
+Islamic finance combines elements of both deontological and
+consequentialist ethics.[^2_3-RethelAbdollah_15] It does so on the grounds of both the
+specific Sharia principles by which it abides, but also because of its
+commitment to a financial order of greater social justice, based on the
+general principles of equity, mutuality and sustainability, and its
+emphasis on the social embeddedness of financial activity. In short, the
+claim of Islamic finance to constituting an ethical approach to finance
+rests both on the religious values that it embodies, the socio-economic
+outcomes that it seeks to achieve, and the legitimation practices in
+particular of Sharia scholars. Nevertheless, rather than presenting a
+unified alternative to mainstream financial practice, Islamic finance
+exhibits great variation both in the ways in which it is understood and
+enacted, but also reacted to. Islamic finance is a product of ongoing
+negotiation of the social world of finance and political contestation of
+its value systems. Indeed, this is not just about how Islamic finance
+and its conventional counterpart have been framed in various
+professional, popular and media discourses before and after the global
+financial crisis.[^2_3-RethelAbdollah_16] It goes to the very heart of a financial reality
+that only acquires meaning through the practices to which it gives rise
+and the ways in which it is acted upon.
+
+With regard to capital market finance specifically, attention has mainly
+focused on developing new products that are Sharia-compliant and filter
+out those that breach the principles of the Sharia. Interest-based
+financial instruments such as conventional bonds are not acceptable.
+Nevertheless, with *sukuk* Islamic finance promotes a class of
+Sharia-compliant financial products that fulfil very similar functions.
+Sukuk are typically structured in the form of claims on assets that
+generate an income stream, such as land/rental income or leased assets,
+whilst not being interest-based. In sharing profits and losses, equity
+finance is by nature participatory and thus less controversial from an
+Islamic perspective. Here, the focus very much lies on developing
+screening technologies to filter out stocks that are not
+Sharia-compliant, be it because a company engages in haram activities
+(e.g. breweries producing and selling alcohol, arms manufacturers
+producing and selling weapons etc.) or because it finances itself
+through debt and thus engages in riba and fails to meet financial
+ratios. Indeed, whereas Islamic finance scholarship has paid
+considerable attention to the Sharia-compliance (or not) of a growing
+range of Islamic financial product structures and capital flows, less
+attention has been paid to the important other component of what ‘makes’
+financial markets – the transaction element.[^2_3-RethelAbdollah_17]
+
+## Transactional Ethics at the Indonesia Stock Exchange
+
+With a population of about 250 million people, roughly 87 percent of
+which are Muslim, Indonesia is the country with the biggest Muslim
+population in the world. This marks the emergence of Islamic finance in
+Indonesia as an important development not just with regard to its
+national implications but also its potentially wider global
+significance. Nevertheless, Indonesia is still at a relatively early
+stage of financial development – around 60 percent of the population are
+classified as unbanked (i.e. without access to a bank account). The
+first Islamic bank in Indonesia – Bank Muamalat – was created in 1991
+and began its operations in 1992. It pursued a model of interest-free
+banking. The development of Islamic banking in Indonesia accelerated in
+the wake of the Asian financial crisis of 1997-8.[^2_3-RethelAbdollah_18] With regard to
+the development of the Islamic capital market (ICM) specifically, its
+beginnings can be traced back to 1997, which saw the release of the
+first Islamic mutual funds. In 2000, the Jakarta Islamic Index (JII) was
+launched, containing the 30 most liquid Islamic stocks. However, its
+impact on the development of the Islamic capital market in Indonesia was
+marginal. Market participants hardly recognized that the capital market
+of Indonesia had an Islamic stock index as indicator of Islamic capital
+market performance.
+
+While the Islamic capital market in Indonesia is not a ‘stand-alone’
+market, but an integral part of the country’s capital markets and in
+principle uses the same underwriting and trading mechanisms as the
+conventional segment, both products and transactions have to comply with
+the stipulations of the Sharia.[^2_3-RethelAbdollah_19] DSN-MUI issued its first capital
+market fatwa – on investment in Islamic mutual funds – in 2001.[^2_3-RethelAbdollah_20]
+This was followed by a number of fatwas on the product structures deemed
+permissible in the Indonesian Islamic capital market.[^2_3-RethelAbdollah_21] Along these
+lines, the early 2000s also saw the launch of the first sukuk in the
+Indonesian capital market, again with limited impact for the growth of
+Islamic capital markets. In the mid-2000s the Securities Exchange
+Commission Bapepam-LK (now submerged within the 2013 established
+Financial Services Authority or OJK) issued a number of regulations to
+promote the development of capital markets both in terms of market share
+and number of investors, but growth remained slow.
+
+Indeed, the development of the Islamic capital market in Indonesia only
+gained momentum from 2011 onwards, which saw a number of landmark
+developments aimed at: 1) increasing the visibility of the Islamic
+capital market segment, 2) strengthening in particular its Sharia
+governance and 3) raising awareness of Islamic capital market finance.
+Firstly, IDX launched the Indonesia Sharia Stock Index (ISSI) in May
+2011.[^2_3-RethelAbdollah_22] As a consequence, there are now two Islamic stock indices in
+the Islamic capital market of Indonesia: if the JII consists of the 30
+most liquid Islamic stocks, then the constituents of ISSI are the entire
+universe of Islamic stocks listed on the Indonesia Stock Exchange (IDX).
+The existence of ISSI had a positive impact on the development of the
+Islamic capital market in Indonesia because it provided more options for
+investors and investment managers wanting to invest in or manage Islamic
+stock portfolios. It can also serve as a performance benchmark. The data
+shows that the market responded positively to the presence of ISSI. The
+importance of Islamic mutual funds as a popular product for investing in
+Islamic stocks increased significantly, both in terms of number of funds
+and assets under management. In the five years prior to the launch of
+ISSI, the average of new issuance was only five Islamic mutual funds per
+year, but after that the average of new issuances was fourteen per year.
+As of end of October 2013, the market capitalization of the Islamic
+capital market segment had reached IDR 2.618 trillion, approximating 60
+percent of the total market capitalization of IDX valued at IDR 4.485
+trillion.[^2_3-RethelAbdollah_23]
+
+Secondly, the revival of the Islamic capital market in Indonesia was
+marked by the launch of a new fatwa on the Sharia-compliance of equity
+trading mechanisms (in the following: Fatwa No. 80) in 2011.[^2_3-RethelAbdollah_24] This
+was the first DSN-MUI fatwa to be published simultaneously in Arabic,
+English, and Indonesian. The main objective of Fatwa No. 80 was to
+increase the confidence of investors who want to invest in Islamic
+stocks in Indonesia’s capital market. Research showed that people who
+want to invest in an Islamic way still worried about the compliance of
+products and trading mechanisms in the Islamic capital market of
+Indonesia with the Sharia. Although DSN-MUI had launched a number of
+fatwas which related to Islamic capital market products, including the
+types of *akad* (agreement) which could be used to structure products,
+it was thought that the public still needed to be convinced that capital
+market transactions themselves were compliant with Sharia principles.
+Therefore, IDX in collaboration with DSN-MUI launched Fatwa No. 80.
+Unlike previous capital market fatwas issued by DSN-MUI, where almost
+the entire fatwa was focused on regulating Islamic capital market
+products and related akad, Fatwa No. 80 regulates how to conduct
+transactions in accordance with Sharia principles. In order to be
+categorized as a Sharia-compliant investment, according to the fatwa,
+two conditions must be met: only Islamic (i.e. Sharia-compliant) stock
+can be traded (thus e.g. excluding stocks of breweries or conventional
+banks) and the transaction itself must also comply with the Sharia.
+Fatwa No. 80 details fourteen transactions that either do not comply
+with the principles of the Sharia or are outright prohibited by the
+Sharia. These include margin trading (interest-based transactions),
+short selling (*bai’ al ma’dum*) and cornering (*ikhtikar*). In so
+doing, Fatwa No. 80 takes a stand against speculative practices in
+financial markets.
+
+Thirdly, greater efforts were undertaken to raise awareness of Islamic
+capital market finance among financial market practitioners, but also
+journalists and the public at large. IDX in particular began to conduct
+regular one-day training sessions on the Islamic capital market (Islamic
+Capital Market Schools or *Sekolah Pasar Modal Syariah*). These are held
+at the IDX office in the Sudirman Central Business District, Jakarta’s
+main financial district. The syllabus includes an overview of the
+Indonesian capital market in general, of Sharia principles and of the
+Islamic capital market specifically. According to a survey IDX conducted
+among past participants, it appears that the characteristics of
+Sharia-based investors are relatively similar. They are more concerned
+with Sharia-compliance than purely capital gain or return on investment.
+If they are convinced that investing in the stock market is
+Sharia-compliant then they would be investors, even if the advantages of
+the investment may be relatively less compared to other investment
+return. Therefore, the approach taken to draw them into the capital
+market is relatively different from the conventional approach. They are
+classified as new investors in the stock market, previously not willing
+to invest in the stock market as they saw it as gambling and therefore
+prohibited by the Sharia. However, after being given the proper
+education about investing in the stock market and the issuance of Fatwa
+No. 80, they became convinced that investing in the stock market can be
+Sharia-compliant.
+
+In combination, the launch of ISSI, together with the issuance of Fatwa
+No. 80 and intense efforts to educate both financial market
+practitioners and the public at large about Islamic finance has advanced
+the development of the Islamic capital market in Indonesia. In
+particular, the public understanding of the Islamic capital market
+increased significantly as particular surveys with past participants of
+training seminars indicate and led to growing interest in investing in
+Islamic stocks. However, there remained a disconnect between the high
+public interest in Sharia-based investment and a lack of understanding
+of the mechanisms of Sharia-compliant transactions. It was deemed that
+there was a need to create a system to accommodate the condition and to
+assist investors when investing in Islamic stocks in meeting the
+criteria of Sharia-compliant transactions detailed in Fatwa No. 80.
+
+In response, IDX came up with a system of Sharia-compliant transactions,
+the so-called Sharia Online Trading System. SOTS was developed in the
+second half of 2011 and began its use as a pilot project at the end of
+2011. SOTS gives practical definition to Fatwa No. 80 as a tool for
+transacting Islamic stock in the Indonesian Islamic capital market. The
+SOTS business model was created by IDX, but the actual systems are
+developed by securities companies (brokers) which are exchange members.
+They are then reviewed by DSN-MUI, which certifies their Sharia
+compliance subject to them meeting all criteria and complying with Fatwa
+No. 80. The Indonesia Stock Exchange (IDX) acts as a technical assistant
+for exchange members (brokers) that develop SOTS. The purpose of this
+assistance is to ensure that the development of SOTS complies with Fatwa
+No. 80.
+
+Exchange members that develop SOTS must have online trading systems that
+comply with the Exchange’s criteria because it is an online-based system
+for transacting Islamic stocks. As a mechanism for Islamic-based
+transactions, SOTS must fulfil the main requirements of Islamic
+compliance as governed by Fatwa No. 80 as follows:
+
+1.  Only Islamic stocks can be traded. SOTS will block any transaction
+    of stock that does not comply with the Sharia. Blocking is started
+    from the first step of the transaction – that is when investors input
+    a buying order of stocks.
+
+2.  It must be a cash-basis transaction for buying Islamic stocks.
+    Therefore, SOTS must clearly separate between cash in the Investor
+    Account and Islamic stocks in the Securities Account. From an
+    Islamic finance point of view, both have different definitions and
+    functions. Therefore, SOTS does not recognise the existence of the
+    net position between stocks and cash of investor transactions in the
+    same day. The consequence of this concept is that exchange members
+    (brokers) cannot execute a force-selling transaction of the investor
+    portfolio.
+
+3.  Margin trading (investor borrows money from broker to purchase
+    stocks) is prohibited because it is categorized as a riba-based
+    transaction.
+
+4.  Short selling (investor sells stocks that is not owned by the
+    seller) is prohibited because it is categorized as bai’ al
+    ma’dum.[^2_3-RethelAbdollah_25]
+
+If a transaction is entered in SOTS that is in breach of Sharia
+principles, a window pops up that tells how the transaction violates
+Fatwa No. 80 (see Figures 1 and 2 for examples of margin trading and
+short selling). While other stock exchanges such as the Islamic segment
+of Bursa Malaysia also prevent activities such as short-selling, to the
+best of our knowledge IDX SOTS is unique in that it is not only directly
+derived from a fatwa, but also in that it very clearly has an
+educational objective; it does not just prevent prohibited transactions
+but highlights which Sharia principles are violated and thus seeks to
+inculcate greater awareness of Sharia principles.
+
+![Fig. 1: Screenshot of Prohibited Margin Trading. This transaction
+violates specific provision 3h of Fatwa No. 80: Actions included in riba
+category.](media/Images_Rethel/image1.jpg)
+
+`Fig. 1: Screenshot of Prohibited Margin Trading. This transaction
+violates specific provision 3h of Fatwa No. 80: Actions included in riba
+category.`{.caption}
+
+![Fig. 2: Screenshot of Prohibited Short Selling. This transaction
+violates specific provision 3h of Fatwa No. 80: Actions included in bai’
+as-ma’dum category.](media/Images_Rethel/image2.jpg)
+
+`Fig. 2: Screenshot of Prohibited Short Selling. This transaction
+violates specific provision 3h of Fatwa No. 80: Actions included in bai’
+as-ma’dum category.`{.caption}
+
+The inculcation of ethical behaviour in market transactions through
+Fatwa No. 80 and SOTS is the result of a process of *double
+translation*. In a first step, it entails the translation of financial
+market behavior that is deemed unethical into a language understood by
+Sharia scholars, who are proficient in the deliberation and application
+of Sharia principles, but who are not necessarily experts on financial
+markets. In a second step, Sharia principles specifically in regard to
+these types of behavior are then translated into computer-based trading
+systems to prevent prohibited transactions and produce the pop-up
+screens intended not only to influence the behavior of market
+participants but also to educate them in the principles of the Sharia.
+At the Indonesia Stock Exchange, ethical behavior in market transactions
+is sought to be enacted through a combination of concrete market
+practices developed in dialogue with the interpretation and deliberation
+of more abstract religious norms.
+
+Currently, there are eight exchange members that have developed SOTS in
+the Islamic capital market of Indonesia. In terms of numbers, this is
+still a small fraction if compared to the total number of exchange
+members in Indonesia that have implemented online trading systems.
+However, the existence of SOTS in the Islamic capital market of
+Indonesia has driven significant growth in terms of the numbers of
+Islamic investors. According to IDX data, the number of investors
+investing in a Sharia-compliant way in 2013 increased by 51 percent
+compared to the previous year. In addition, all indicators of Islamic
+stock trading performance, such as market capitalization, frequency, and
+number of Islamic stocks showed a significant market share of over 50
+percent. Thus, as the one and only Islamic stock trading system in the
+world, SOTS has successfully accelerated the growth of the Islamic
+capital market in Indonesia, especially with regard to Sharia-compliant
+stocks and the trading in them. This is deemed to be very much in the
+spirit of Islamic finance – developing mechanisms that comply with the
+principles of the Sharia that are at the same time transaction-friendly
+and here particularly intended to promote the growth not just of the
+Islamic capital market segment, but the Indonesian capital market as a
+whole.
+
+## Islamic Finance: Mainstream/Alternative?
+
+Advocates of Islamic finance see their claims for a more ethical
+financial system vindicated by the fallout from the global financial
+crisis of 2007-9. The crisis itself served as an accelerator of the
+expansion of Islamic finance in terms of product innovation,
+standardization of practices and geographical coverage. Indeed, just at
+the time of writing, we see countries from across the globe intensifying
+their engagement with Islamic finance – just witness the debut issuance
+of sovereign sukuk by non-Muslim majority countries as diversely
+situated as the UK, South Africa and Hong Kong. Both in its scale and in
+terms of the space it occupies, Islamic finance is certainly very
+different from some of the financial experiments discussed in this
+volume. It is promoted by states, practiced by mainstream financial
+institutions and makes use of the same platforms and knowledge
+infrastructures as conventional finance. So has Islamic finance then
+become part of the mainstream, increasingly detached from the
+ethical/religious values which it supposedly purports?
+
+The development of the Islamic capital market at the nexus of ethical
+principles and market growth is not unambiguous – especially so as
+ultimately the greater availability of Sharia-compliant investment
+options is intended to draw more actors into the market, foreclosing the
+possibility of non-market based financial alternatives. At the same
+time, Islamic finance constitutes an inherently reflexive approach to
+finance.[^2_3-RethelAbdollah_26] This is not just about passing finance through a moral
+filter, or layering religious values on top of financial practice as
+usual. It goes to the heart of practical economic reasoning and in so
+doing opens up new possibilities for *doing finance differently*. The
+example of the Sharia Online Trading System discussed here is a case in
+point.
+
+## References
+
+Abolafia, M.Y. *Making Markets: Opportunism and Restraint on Wall
+Street*, Boston: Harvard University Press, 1996.
+
+Al Harran, S. (ed.). *Leading Issues in Islamic Banking and Finance*,
+Petaling Jaya: Pelanduk Publications, 1995.
+
+Brassett, J. and L. Rethel. ‘Sexy Money: The Hetero-Normative Politics
+of Global Finance’, *Review of International Studies*, forthcoming,
+2015.
+
+DSN-MUI. Fatwa No.80/DSN-MUI/III/2011 concerning ‘The Implementation of
+Sharia Principles in The Equity Trading Mechanism at The Stock
+Exchange’s Regular Market’, 2007,
+<http://www.idx.co.id/Portals/0/StaticData/ProductAndServices/Sharia/Fatwano.80_English.pdf>.
+
+Henry, C.M. and R. Wilson (eds). *The Politics of Islamic Finance*,
+Edinburgh: Edinburgh University Press, 2004.
+
+Lindsey, T. ‘Between Piety and Prudence: State Syariah and the
+Regulation of Islamic Banking in Indonesia’, *Sydney Law Review* 34
+(2012): 107-127.
+
+Maurer, B. *Mutual Life, Limited: Islamic Banking, Alternative
+Currencies, Lateral Reason*, Princeton: Princeton University Press,
+2005.
+
+Maurer, B. ‘Resocializing finance? Or Dressing it in Mufti? Calculating
+Alternatives for Cultural Economies’, *Journal of Cultural Economy* 1.1
+(2008): 65-78.
+
+Maurer, B. *Pious Property: Islamic Mortgages in the United States*, New
+York: Russell Sage Foundation, 2006.
+
+Miranti K.D. and I. Abdalloh. ‘Socializing Islamic Capital Market
+Products through Public Education Events: The Case of Indonesia’, Middle
+East Institute, 20 February 2013,
+<http://www.mei.edu/content/socializing-islamic-capital-market-products-through-public-education-events-case-indonesia>.
+
+Palazzo. G. and L. Rethel.‘Conflicts of interest in financial
+intermediation’, *Journal of Business Ethics* 81.1, 2008: 193-207.
+
+Rethel, L. ‘Whose Legitimacy? Islamic Finance and the Global Financial
+Order’, *Review of International Political Economy* 18.1 (2011): 75-98.
+
+Rethel, L. ‘The Imaginary Landscapes of Islamic Finance’, chapter
+prepared for J. Pollard and R. Martin (eds) *Handbook of the Geographies
+of Money and Finance*, Cheltenham: Edward Elgar, 2016.
+
+Rice, G. ‘Islamic ethics and the implications for business’, *Journal of
+Business Ethics* 18.4 (1999): 345-358.
+
+Sen, A.K. *Money and Value: On the Ethics and Economics of Finance*
+[Denaro e Valore: Etica ed Economia della Finanza], Rome: Bank of Italy,
+1991.
+
+Thompson, G. ‘What’s in the Frame? How the Financial Crisis is Being
+Packaged for Consumption’, *Economy and Society* 38.3 (2009): 520-524.
+
+Umar J. ‘The Development of Islamic Banking in the Post-Crisis
+Indonesian Economy’, in: G. Fealy and S. White (eds.) *Expressing Islam:
+Religious Life and Politics in Indonesia*, Singapore: ISEAS, 2008, pp.
+229-250.
+
+Warde, I. A. *Islamic Finance in the Global Economy*, Edinburgh:
+Edinburgh University Press, 2000.
+
+Watson, M. ‘What Makes a Market Economy? Schumpeter, Smith and Walras on
+the Coordination Problem’, *New Political Economy* 10.2 (2005): 143-161.
+
+World Exchanges‘Indonesia Stock Exchange’, (no date) available at: <http://www.world-exchanges.org/member-exchanges/key-information-/indonesia-stock-exchange>.
+
+Zeti A.A. ‘Internationalisation of Islamic Finance: Bridging Economies’,
+welcoming address by the Governor of the Central Bank of Malaysia at the
+*Global Islamic Finance Forum 2012*, Kuala Lumpur, 19 September 2012,
+<http://www.bis.org/review/r120920d.pdf>.
+
+[^2_3-RethelAbdollah_1]: While it is notoriously difficult to pin down the exact time frame
+    of the global financial crisis (and the term global might be a
+    misnomer given that it was the transatlantic financial systems that
+    were at its core), problems in the U.S. credit market that emerged in
+    late 2006 led to tighter liquidity that resulted amongst other
+    things in the bank run on U.K.-based Northern Rock in 2007, the first
+    run on a British bank in over a century. The period from 2007-2009
+    was characterised by a global liquidity crunch and recession in the
+    U.S. This is not to say that the crisis is truly over yet. In 2009 it
+    morphed into a crisis of sovereign debt in Europe and its
+    repercussions are still felt today. 
+
+[^2_3-RethelAbdollah_2]: See, Guido Palazzo and Lena Rethel, ‘Conflicts of interest in
+    financial intermediation’, *Journal of Business Ethics* 81.1(2008):
+    193-207.
+
+[^2_3-RethelAbdollah_3]: See Matthew Watson, ‘What Makes a Market Economy? Schumpeter,
+    Smith and Walras on the Coordination Problem’ in: *New Political
+    Economy* 10.2 (2005): 143-161.
+
+[^2_3-RethelAbdollah_4]: For a critique, see James Brassett and Lena Rethel, ‘Sexy Money:
+    The Hetero-Normative Politics of Global Finance’, *Review of
+    International Studies*, forthcoming in 2015.
+
+[^2_3-RethelAbdollah_5]: See Lena Rethel, ‘Whose Legitimacy? Islamic Finance and the Global
+    Financial Order’, *Review of International Political Economy* 18.1
+    (2011): 75-98.
+
+[^2_3-RethelAbdollah_6]: See Amartya K. Sen, *Money and Value: On the Ethics and Economics
+    of Finance* [Denaro e Valore: Etica ed Economia della Finanza],
+    Rome: Bank of Italy, 1991; Bill Maurer, *Pious Property. Islamic Mortgages in the United States*, New York:
+    Russell Sage Foundation, 2006.
+
+[^2_3-RethelAbdollah_7]: Ibrahim A. Warde, *Islamic Finance in the Global Economy*,
+    Edinburgh: Edinburgh University Press, 2000.
+
+[^2_3-RethelAbdollah_8]: Clement M. Henry and Rodney Wilson (eds) *The Politics of Islamic
+    Finance*, Edinburgh: Edinburgh University Press, 2004.
+
+[^2_3-RethelAbdollah_9]: Zeti Akhtar Aziz, ‘Internationalisation of Islamic Finance:
+    Bridging Economies’, welcoming address by the Governor of the
+    Central Bank of Malaysia at the *Global Islamic Finance Forum 2012*,
+    Kuala Lumpur, 19 September 2012.
+
+[^2_3-RethelAbdollah_10]: The Quran is the holy book of Islam, equivalent to the Bible in
+    Christianity, whereas the Hadith is a religious text that contains
+    the utterances of the Prophet Mohammed and the Sunnah recounts the
+    teachings and way of life of the Prophet
+
+[^2_3-RethelAbdollah_11]: Bill Maurer, *Mutual Life, Limited: Islamic Banking, Alternative
+    Currencies, Lateral Reason*, Princeton: Princeton University Press,
+    2005, p. 39.
+
+[^2_3-RethelAbdollah_12]: Saad Al Harran (ed.) *Leading Issues in Islamic Banking and
+    Finance*, Petaling Jaya: Pelanduk Publications 1995, p. xii.
+
+[^2_3-RethelAbdollah_13]: Gillian Rice, ‘Islamic Ethics and the Implications for Business’,
+    *Journal of Business Ethics* 18.4 (1999): 346.
+
+[^2_3-RethelAbdollah_14]: Tim Lindsey, ‘Between Piety and Prudence: State Syariah and the
+    Regulation of Islamic Banking in Indonesia’, *Sydney Law Review* 34
+    (2012): 119.
+
+[^2_3-RethelAbdollah_15]: See Sen 1991 for a similar argument applied to Judeo-Christian
+    finance
+
+[^2_3-RethelAbdollah_16]: See G. Thompson, ‘What’s in the Frame? How the Financial Crisis
+    is Being Packaged for Consumption’, *Economy and Society* 38.3
+    (2009): 520-524; and L. Rethel, ‘The Imaginary Landscapes of Islamic
+    Finance’, chapter prepared for J. Pollard and R. Martin (eds)
+    *Handbook of the Geographies of Money and Finance*, Cheltenham:
+    Edward Elgar, 2016.
+
+[^2_3-RethelAbdollah_17]: Compare Mitchell Y. Abolafia, *Making Markets: Opportunism and
+    Restraint on Wall Street*, Boston: Harvard University Press, 1996.
+
+[^2_3-RethelAbdollah_18]: Umar Juoro, ‘The Development of Islamic Banking in the
+    Post-Crisis Indonesian Economy’, in G. Fealy and S. White (eds)
+    *Expressing Islam: Religious Life and Politics in Indonesia*,
+    Singapore: ISEAS, 2008, pp. 229-250.
+
+[^2_3-RethelAbdollah_19]: See Miranti Kartika Dewi and Irwan Abdalloh,‘Socializing Islamic
+    Capital Market Products through Public Education Events: The Case of
+    Indonesia’, Middle East Institute, 20 February 2013.
+
+[^2_3-RethelAbdollah_20]: Fatwa No. 20/DSN-MUI/IX/2001 concerning ‘Guidelines for the
+    Implementation of Investment for Sharia Mutual Funds’.
+
+[^2_3-RethelAbdollah_21]: The fatwas issued by DSN-MUI to date can be accessed at
+    [http://www.dsnmui.or.id/index.php?page=fatwa](http://www.dsnmui.or.id/index.php?page=fatwa).
+    At the time of writing, Indonesia had fourteen fatwas issued by
+    DSN-MUI specifically related to the Islamic capital market.
+
+[^2_3-RethelAbdollah_22]: In 2007, the Jakarta Stock Exchange merged with the Surabaya
+    Stock Exchange to create the Indonesia Stock Exchange (IDX).
+
+[^2_3-RethelAbdollah_23]: See IDX press release, 2 November 2013,
+    [http://www.idx.co.id/Beranda/BeritadanPengumuman/SiaranPers/ReadPressRelease/tabid/191/ItemID/d72739a7-a3cb-482f-8b2d-040c7ab0d4e8/language/id-ID/Default.aspx](http://www.idx.co.id/Beranda/BeritadanPengumuman/SiaranPers/ReadPressRelease/tabid/191/ItemID/d72739a7-a3cb-482f-8b2d-040c7ab0d4e8/language/id-ID/Default.aspx).
+
+[^2_3-RethelAbdollah_24]: See Fatwa No. 80/DSN-MUI/III/2011 concerning ‘The Implementation
+    of Sharia Principles in the Equity Trading Mechanism at the Stock
+    Exchanges Regular Market’.
+
+[^2_3-RethelAbdollah_25]: Note that in the conventional market segment, IDX applies a
+    policy of regulated short selling, which is a permitted market
+    transaction, although only for certain shares. On the last trading
+    day of every month, IDX announces the list of shares permitted for
+    margin trading and short selling. See World Exchanges, ‘Indonesia
+    Stock Exchange’ (no date).
+
+[^2_3-RethelAbdollah_26]: See in particular Bill Maurer, ‘Resocializing Finance? Or
+    Dressing it in Mufti? Calculating Alternatives for Cultural
+    Economies’, *Journal of Cultural Economy* 1.1 (2008): 65-78.
+
+
+
 
 # Bitcoin as Politics: Distributed Right-Wing Extremism 
 
@@ -5532,6 +7917,392 @@ Ingham,* Houndsmill/New York: Palgrave, 2013, pp. 101-123.
 
 
 
+# Financial Capital and the Money of the Common: The Case of Commoncoin
+
+### Tiziana Terranova and Andrea Fumagalli {.author}
+
+On the 21st and 22nd of June 2014, just a few months after the MoneyLab
+conference in Amsterdam, a group of researchers and militants including
+the authors of this article met at the social center Macao (located in
+the ex-slaughterhouse of the city of Milan) to discuss different ways to
+implement a new cryptocurrency, which was later named ‘Commoncoin’. The
+Macao workshop was just one in a series of events to take place across
+Europe in 2014. The events included (among others) the workshop on
+Algorithms and Capital hosted by the Digital Culture Research Unit at
+Goldsmiths College in London[^3_3-Terranova_1]; the launch of D-Cent, a European
+research project on complementary currencies[^3_3-Terranova_2]; the MoneyLab
+conference in Amsterdam[^3_3-Terranova_3]; and the workshop of the Robin Hood Minor
+Asset Management Cooperative in Stuttgart.[^3_3-Terranova_4] These events took place
+against the background of the possibilities opened up by the success of
+Bitcoin, but also against the pressure of the ongoing recession and the
+austerity policies imposed by the European Central Bank after 2008,
+dictating to countries such as Greece, Portugal, Spain, and Italy
+structural adjustment policies already familiar to Asian and African
+nations since the 1990s. In such a way, the financial crisis of 2008 was
+turned into the occasion for the imposition of an ever more intensive
+precarization of labor compounded by drastic cuts to public services
+opening the way to privatization and a re-structuring of the Welfare
+State into a Workfare model.[^3_3-Terranova_5] These European meetings thus expressed
+a specific, situated response to a global process of financialization,
+looking at the changed nature of money and capital while also
+considering whether an alternative financial circuit could break the
+hold that the financial oligarchy exercises on our hopes and lives.
+
+Rather than hoping for a return to the ‘real’ (Fordist) economy against
+the ‘false’ economy of finance, the meeting in Milan drew on theoretical
+arguments, which emphasized the structural importance of finance to a
+global economy where the extraction of surplus value is generalized to
+the whole of society while labor as such assumes an affective,
+cooperative, and cognitive dimension.[^3_3-Terranova_6] From this perspective,
+financialization is considered as the answer of capitalism to the
+urgency of creating a new dispositif of accumulation given the
+centrality of the network as a mode of logistical organization and
+patterning of social cooperation. As the division of labor in the
+factory and the distinction between productive and reproductive work is
+supplemented and displaced by social cooperation as the main source of
+value, the political concept of the common identifies a new political
+platform beyond public and private, state and market.[^3_3-Terranova_7] The capability
+of finance to express the value of such cooperation through a form of
+money which is not simply exchangeable into commodities but which has
+the power to shape the future(s) is a crucial stake in new forms of
+struggle, which envelop and exceed the terms of the older workers’
+movements. Labor performed for a wage within given times and spaces
+(factories, offices), and organized by entrepreneurs and managers, is
+only a part of a larger pool of value-creating activities. These
+activities know no difference between work and leisure, paid work and
+free labor and depends on extensive socialization and circulation of
+ideas, percepts, and affects. At the meeting in Milan, we started from
+the notion that the common – that is the pre-and trans-individual
+potential which we draw onto and create when communicating, talking,
+listening, making, designing, calculating, caring for each other and for
+the earth, bringing up children, making music, film, etc. – is the
+ontological basis of the production of wealth and social life as such.
+By privatizing gains and socializing losses, financialization both
+expresses the importance of the common as source of value – the dire
+consequences of financial capital as a dispositif of accumulation – and
+the possibility of financial institutions of the common nurturing and
+nourishing that financial capital depletes.
+
+At the Milan conference, organized by Effemera Network (born, together
+with the Euronomade network, after the dissolution of UniNomade 2.0),
+the focus was on the idea of a new cryptocurrency aimed at the circuit
+of Italian occupied theatres, at the movements of precarious workers, at
+the network of social centers, but also at the larger alternative
+economy circuit including farmers’ movements against seed patenting and
+others. At the end of the meeting the new cryptocurrency was named
+‘Commoncoin’ and a model was developed which started from the Bitcoin
+protocol, but introduced some elements of novelty. The first point of
+deviation was the statement that the ‘Commoncoin’ aimed to contribute to
+the invention of an alternative economic system as a form of
+finance/credit money able to remunerate social cooperation and the work
+performed by the general intellect. Functioning against the widespread
+logic of unpaid and voluntary work, a Commoncoin should be able to
+finance new forms of welfare (commonfare) based on unconditional basic
+income hypothesis and free access to common goods. The idea was raised
+of an alternative form of money that generates a production of
+use-values rather than functioning as a medium of exchange-values. The
+second point of departure was in the consideration that the objective
+design of the Bitcoin protocol should make space for the inclusion of a
+subjective and social element in money creation by possibly deploying
+the technologies of the social internet. The mood surrounding the event
+was one which posed, against the dire backdrop of austerity and debt,
+the possibility of an historical opportunity enabled by the total
+dematerialization of money after the collapse of Bretton Woods and the
+rise of finance money as ‘pure sign’, without any form of control by
+state monetary sovereignty.
+
+The notion that 90 percent of money in circulation exists already as a
+digital signal encoded in networks of computers can produce a kind of
+neo-Baudrillardian interpretation of virtual money. As sign without
+referent, virtual currency could be understood as the final colonization
+of the real economy by a hyperreal domain of speculation – a pure
+simulation. The notion of a bad, fake financialization opposed to the
+real economy is contested both by activist anthropologists of the
+financial world[^3_3-Terranova_8], but also by post-workerist Marxists who, as we have
+seen, consider financialization as the answer of capital to the crisis
+of measure – that is the inability to measure productivity on the basis
+of the labor theory of value. Financialization has a potential: it
+reveals how money can function as an invention and that it can also
+account for different ways of organizing the production and distribution
+of wealth, which is alternative to both socialism (state) and market
+(capital). Financialization makes us also think of the potential for
+monetary production to be designed in such a way as to enrich not only
+the few (communism of capital), but the many (the communism of the
+common).
+
+The notion of something like a ‘commoncoin’ for the network of occupied
+spaces in Italy is just one of the examples one could point to in the
+veritable proliferation of digital currencies which has characterized
+the early 2010s (such as Litecoin, Ripple, Bitcoin). Most of these
+cryptocurrencies have copied, forked or innovated Bitcoin, the first one
+to attract the attention both of stock markets and mainstream media.
+Discussions around the best way to encode and implement a cryptocurrency
+such as Commoncoin emphasize how the design of a cryptocurrency
+expresses not simple technical choices aiming at maximizing efficiency,
+but also value systems. To use the most common example, Bitcoin emerged
+out of the hacker community energized into action by the so-called
+WikiLeaks financial blockade. This saw the whole financial
+infrastructure of the internet (PayPal, Visa, Mastercard) mobilized
+against Julian Assange and his team of cypherpunks under the lead of the
+U.S. government. Bitcoin encodes the core values of the libertarian
+cypherpunk society: a rejection of state control and of the dominion of
+large corporations; the endorsement of anonymity or at least
+pseudonymity; the deployment of a peer-to-peer architecture with no
+central control; and a distrust of subjective relations which aims at
+minimizing the human and social element by means of objective
+mechanisms.
+
+The question that the larger cryptocurrency movement poses, however, can
+also be framed in these terms: can other sets of values be encoded in a
+cryptocurrency beyond those expressed by the Bitcoin protocol? How can
+different communities, collectives, and assemblages engage with the
+process of virtual currency creation? In the case of Commoncoin, the
+question was further specified: can we conceive of not just a single
+cryptocurrency, but a whole cryptocurrency network as an aid and a tool
+for an alternative mode of production? The economists present at the
+Milan meeting brought a strong argument to the workshop: with the
+transition from the hegemony of Taylorist-Fordist capitalism to
+cognitive and financialized bio-capitalism – the main function of money
+has changed. The credit function was typical of the previous phase,
+where the ‘M(oney)-C(ommodity)-M(oney)’ circuit (the monetary production
+economy) provided liquidity to invest in the production of goods by
+means of a monetary anticipation causing the indebtness of economic
+actors (either private firms or the state). What we are facing today is
+a transition from credit money to financial money that coincides with
+the total dematerialization of money, which thus becomes pure sign
+money. What makes the cryptocurrency movement possible and important is
+the transition from credit money, which is issued under the control of
+monetary institutions (such as Central Banks) to finance money, which
+depends on the social dynamics of the oligarchy of the financial market.
+
+For theorists of cognitive capitalism, money, and the determination of
+its value is thus no longer under the control of Central Banks (even as
+specific central banks such as the ECB and the Fed might implement
+different strategies). At the very moment when money becomes pure sign
+money, it escapes any public scrutiny. Money loses the status of ‘public
+property good’ and its value is determined moment by moment through the
+operations of the speculative activity in financial markets. Its
+functions as means of payment and unit of account (measure of value), as
+well as a store of value and means of finance accumulation, escape
+control. At a time when its quantity and mode of issue are determined by
+the conventions that dominate an increasingly concentrated financial
+system, money becomes hostage to the expectations that the oligarchy (or
+rather, the dictatorship of the oligarchy) of the financial markets is
+able to exercise.
+
+Today, we can say that the creation of finance money is the expression
+of the libertarian communism of capital. Money is, thus, an expression
+of financial bio-power, since its value is determined by the financial
+conventions, whose governance represents a proxy of the expropriation of
+the common, as the new form of capital-labor exploitation in cognitive
+biocapitalism. The question becomes: can a network of cryptocurrencies,
+once freed by institutional constraints, become part of a larger
+assemblage able to carry a counter-attack to the oligarchy of large
+financial intermediaries? In other words, can the cryptocurrency
+networks, even when they play the role of store of value (as in
+Bitcoin), avoid being subsumed by the traditional financial system? Can
+they contribute to emancipation and not subsumption; be an alternative
+and not merely another compatible module? The new cryptocurrency
+movement will have the difficult task of connecting to a larger movement
+capable of overturning those relations of forces, which have produced
+financialization as ‘revolution from above’, and turned labor into a
+commodity whose cost is ever closer to zero. Can cryptocurrencies
+contribute to the creation of what Christian Marazzi has called a ‘money
+of the common’, that is a ‘money that gives expression to and
+acknowledges what is common to a multitude… in a political, social and
+demographic space?’[^3_3-Terranova_9]
+
+If conceived as alternative to the monetary and financial production
+economy, Commoncoin could be used at first as complementary monetary
+payment of labor-force, able to increase the wages, paid in traditional
+money, but also finance a basic income as primary income, able to
+remunerate the entire life put to labor and, hence, to value. A money of
+the common (of which Commoncoin constitutes an experiment) could
+re-create a different economic circuit, in which material and immaterial
+production is no more financed by the credit market. And the simplest
+way is, from this point of view, to imagine a sort of common financial
+institution, able to generate money according to the logic of social
+cooperation, which is irreducible and irreconcilable to the traditional
+financial hierarchies. In other words, we need a tool, or better, more
+tools able to favor the reappropriation of the Commonwealth that we all
+contribute to generate.
+
+Unlike even heterodox economists such as Robert Shiller and André
+Orléan, Marazzi insists that money-creation does not dissolve into a
+pure mimetic space, but expresses somehow the ‘substance’ of social
+cooperation and its main product: the Commonwealth as the expression of
+the biopolitical existence of human beings. In the extractivist mode of
+accumulation which for some characterizes contemporary capitalism, this
+money flows into the hands of the financial oligarchy as insurance and
+pension funds, mortgage and loan payments, national debts interests,
+profit enabled by the privatization of the institutions of welfare, and
+the commercialization of data generated by use in the mode of peer
+production which are now added to the traditional extraction of surplus
+work from waged labor. The Common is composed by the vital and cognitive
+faculties of human beings, from knowledge to the body, from relations to
+sensations, from language to movement, from sensuality to thought: a
+production of surplus that derives from the mere fact of existing. As
+Brian Massumi has recently put it, the economy can be seen to rest on
+the groundless ground of ‘bare activity’.[^3_3-Terranova_10] In its two main
+articulations (the re/productive and the cognitive commonwealth), the
+common is the basis on which the process of *subsumption* of life under
+capital in the age of cognitive-biocapitalism is articulated: it is a
+source of absolute, as well as of relative surplus value. Appropriation
+of the Commonwealth thus means the appropriation of the relative and
+absolute surplus value generated by the subsumption of life, pointing to
+the necessity to go beyond the capitalist stage towards new form of
+organization of existence. From this point of view, the money of the
+common together with the concept of welfare of the Common (Commonfare),
+irreducible to process of managing and supplying common goods, is a
+revolutionary proposal.
+
+If money can be designed, it is argued, it is because the general
+intellect has evolved and can thus perform not just exchange but also
+finance. Within the current forms of scriptural, financialized money, it
+is possible to glimpse the possibility of a currency sustaining an
+anthropogenetic economy based on a post-socialist form of welfare. A new
+ecology of money able to perform different functions and feeding the
+common rather than exhausting it will need algorithms and peer-to-peer
+networks (Bitcoin innovation) but also social plug ins, tagging, comment
+boxes, and algorithms working on social quantities (entropic data); it
+will express a different kind of subjectivity and social values of a
+larger population that the one of brokers, traders, investment fund
+managers, hedge funders and such likes. It will break with the notion
+that human beings are profit-maximizing individuals and open up to a
+multiplicity of values and interests that humans hold because they are
+social beings; associative creatures who cannot but live in societies,
+who develop bonds, who need the company, conversation, and support of
+other humans, and hence are dependent on a variety of elements (natural,
+technological etc.) to sustain and reinvent their existence.
+
+## References
+
+Bollier David and Helfrich Silke. *The Wealth of the Commons: A World
+Beyond Market and State*, Amherst, MA: Levellers Press, 2012.
+
+Fumagalli, Andrea. ‘Digital (Crypto) Money and Alternative Financial
+Circuits: Lead the Attack to the Heart of the State, Sorry, of Financial
+Market’, in *Quaderni di San Precario*, 2014,
+<http://quaderni.sanprecario.info/2014/02/digital-crypto-money-and-alternative-financial-circuits-lead-the-attack-to-the-heart-of-the-state-sorry-of-financial-market-by-andrea-fumagalli/>.
+
+Fumagalli, Andrea and Stefano Lucarelli. ‘Cognitive Capitalism as
+Financial Economy of Production’, in Andrea Fumagalli, Carlo Vercellone,
+and Vladimir Cvijanović (eds) *Cognitive Capitalism and its Reflections
+in South-Eastern Europe*, Frankfurt, Peter Lang, 2010.
+
+Griziotti, Giorgio. ‘Biorank: Algorithms and Transformation in the Bios
+of Cognitive Capitalism’, in *Quaderni di San Precario*, 6 February
+2014,
+<http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/>.
+
+Hardt, Michael, and Antonio Negri. *Commonwealth*. Cambridge, MA:
+Belknap Press, 2011.
+
+Lazzarato, Maurizio. *Les révolutions du capitalisme*, Paris: Empêcheurs
+de Penser en Rond, 2004.
+
+Lucarelli, Stefano. ‘Il principio della liquidità e la sua corruzione.
+Un contributo alla discussione su algoritmi e capitale’, in *Quaderni di
+San Precario*, 4 February 2014,
+<http://quaderni.sanprecario.info/2014/02/il-principio-della-liquidita-e-la-sua-corruzione-un-contributo-alla-discussione-su-algoritmi-e-capitale-di-stefano-lucarelli/>.
+
+Marazzi, Christian. ‘Summer School: La moneta del comune’, *Uninomade
+2.0,* 13 September 2012, <http://www.uninomade.org/moneta-del-comune/>.
+
+Massumi, Brian. *The Power at the End of the Economy, Art Beyond
+Interest, Joy Beyond Reason.* São Paulo and Helsinki: n-1 Edições, 2014.
+
+Morini, Cristina. *Per amore o per forza. Femminilizzazione del lavoro e biopolitiche del corpo.* Verona: Ombre Corte, 2010.
+
+Piironen, Pekka and Virtanen, Akseli. ‘Democratization of Finance: An
+Interview’, *Robin Hood Minor Asset Management*,
+<http://www.robinhoodcoop.org/pages/democratization-of-finance-an-interview>.
+
+Roos, Jerome. ‘In Each Other We Trust: Coining Alternatives to
+Capitalism’, *Roarmag.org*, 31 March 2014,
+<http://roarmag.org/2014/03/moneylab-conference-alternative-currencies/>.
+
+Scott, Brett. *The Heretic’s Guide to Global Finance: Hacking the Future
+of Money*. London: Pluto Press, 2013.
+
+Terranova, Tiziana. ‘Red Stack Attack! Algorithms, Capital and the Automation of the Common’, *Euronomade*, <http://www.euronomade.info/?p=2268>.
+
+\_\_\_\_\_\_.‘Social Unionism and Digital Labor in the Transnational
+Space of European Austerity’, *Euronomade*,
+<http://www.euronomade.info/?p=3416>.
+
+Vercellone, Carlo. ‘From Formal Subsumption to General Intellect:
+Elements for a Marxist Reading of the Thesis of Cognitive Capitalism’,
+*Historical Materialism* 15.1 (2007): 13-36.
+
+[^3_3-Terranova_1]: For further reference see: Tiziana, Terranova, ‘Red Stack Attack!
+    Algorithms, Capital and the Automation of the Common’, *Euronomade*,
+    [http://www.euronomade.info/?p=2268](http://www.euronomade.info/?p=2268); Stefano
+    Lucarelli, ‘Il principio della liquidità e la sua corruzione. Un
+    contributo alla discussione su algoritmi e capitale’, *Quaderni di
+    San Precario*, 4 February 2014,
+    [http://quaderni.sanprecario.info/2014/02/il-principio-della-liquidita-e-la-sua-corruzione-un-contributo-alla-discussione-su-algoritmi-e-capitale-di-stefano-lucarelli/](http://quaderni.sanprecario.info/2014/02/il-principio-della-liquidita-e-la-sua-corruzione-un-contributo-alla-discussione-su-algoritmi-e-capitale-di-stefano-lucarelli/);
+    Andrea, Fumagalli, ‘Digital (Crypto) Money and Alternative Financial
+    Circuits: Lead the Attack to the Heart of the State, Sorry, of
+    Financial Market’, *Quaderni di San Precario*, 2 February 2014,
+    [http://quaderni.sanprecario.info/2014/02/digital-crypto-money-and-alternative-financial-circuits-lead-the-attack-to-the-heart-of-the-state-sorry-of-financial-market-by-andrea-fumagalli/](http://quaderni.sanprecario.info/2014/02/digital-crypto-money-and-alternative-financial-circuits-lead-the-attack-to-the-heart-of-the-state-sorry-of-financial-market-by-andrea-fumagalli/);
+    Giorgio, Griziotti, ‘Biorank: Algorithms and Transformation in the
+    Bios of Cognitive Capitalism’, *Quaderni di San Precario*, 6
+    February 2014,
+    [http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/](http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/).
+
+[^3_3-Terranova_2]: See, <http://dcentproject.eu>.
+
+[^3_3-Terranova_3]: Jerome Roos, ‘In Each Other We Trust: Coining Alternatives to
+    Capitalism’, *Roarmag.org*, 31 March 2014,
+    [http://roarmag.org/2014/03/moneylab-conference-alternative-currencies/](http://roarmag.org/2014/03/moneylab-conference-alternative-currencies/).
+
+[^3_3-Terranova_4]: Pekka Piironen and Akseli Virtanen, ‘Democratization of Finance:
+    An Interview’, *Robin Hood Minor Asset Management*,
+    [http://www.robinhoodcoop.org/pages/democratization-of-finance-an-interview](http://www.robinhoodcoop.org/pages/democratization-of-finance-an-interview).
+
+[^3_3-Terranova_5]: Tiziana Terranova, ‘Social Unionism and Digital Labor in the
+    Transnational Space of European Austerity’, *Euronomade*,
+    [http://www.euronomade.info/?p=3416](http://www.euronomade.info/?p=3416).
+
+[^3_3-Terranova_6]: For further reading see: Christian Marazzi, ‘Summer School: La
+    moneta del comune’, *Uninomade 2.0,* 13 September 2012,
+    Cristina Morini and Andrea Fumagalli, ‘Life Put to Work: Towards a
+    Theory of Life-Value’, *Ephemera* 10.3/4 (2010): 234-252; Cristina
+    Morini, *Per amore o per forza. Femminilizzazione del lavoro e
+    biopolitiche del corpo*, Verona: Ombre Corte, 2010*;* Carlo
+    Vercellone, ‘From Formal Subsumption to General Intellect: Elements
+    for a Marxist Reading of the Thesis of Cognitive Capitalism’,
+    *Historical Materialism* 15.1 (2007): 13-36; Maurizio Lazzarato,
+    *Les révolutions du capitalisme*, Paris: Empêcheurs de Penser en
+    Rond, 2004.
+
+[^3_3-Terranova_7]: David Bollierand and Silke Helfrich, *The Wealth of the Commons: A
+    World Beyond Market and State*, Amherst, MA: Levellers Press, 2012;
+    Andrea Fumagalli, ‘Twenty Theses on Contemporary Capitalism
+    (Cognitive Biocapitalism)’, *Angelaki* 16 (2011): 7-17; Michael
+    Hardt and Antonio Negri, *Commonwealth*, Cambridge, MA: Belknap
+    Press, 2011; Cristina Morini, *Per amore o per forza.
+    Femminilizzazione del lavoro e biopolitiche del corpo*, Verona:
+    Ombre Corte, 2010*;* Andrea Fumagalli, and Stefano Lucarelli,
+    ‘Cognitive Capitalism as Financial Economy of Production’, in Andrea
+    Fumagalli, Carlo Vercellone and Vladimir Cvijanović (eds) *Cognitive
+    Capitalism and its Reflections in South-Eastern Europe,* Frankfurt:
+    Peter Lang, 2010*;* Christian Marazzi, ‘Summer School: La moneta del
+    commune’.
+
+[^3_3-Terranova_8]: Brett Scott, *The Heretic’s Guide to Global Finance: Hacking the
+    Future of Money*. London: Pluto Press, 2013.
+
+[^3_3-Terranova_9]: Christian Marazzi, ‘Summer School: La Moneta del Commune’.
+
+[^3_3-Terranova_10]: Brian Massumi, *The Power at the End of the Economy, Art Beyond
+    Interest, Joy Beyond Reason.* São Paulo and Helsinki: n-1 Edições,
+    2014.
+
+
+
+
 # Heat Exchanges
 
 ### Finn Brunton {.author}
@@ -5860,7 +8631,7 @@ were only printed on one side. The weight, the mass of money was a
 direct concrete expression of how valueless it was: one would no more
 gather it than you would armfuls of wet, decaying leaves in the fall.
 Hyperinflation, underinflation, black markets in currency – Venezuela,
-Poland, Argentina, Brazil, Taiwan trust and confidence is a problem
+Poland, Argentina, Brazil, Taiwan... trust and confidence is a problem
 for the individual notes themselves (is this one good?) and for all of
 them generally (will it stay stable?), spurred by the illegitimate
 producers, selling bricks of bills for pennies on the dollar to
@@ -7475,8 +10246,8 @@ McKay alludes to this shift in space program mentality towards looking more
 like tech startups. The author understates the actual issue of
 government funding dwindling and the privatization of the industry. ‘Dr.
 McKay sees a world of possibilities emerging from this democratization
-[] When your experiment costs 300 million dollars, and you do one a
-decade, you can’t take any risks. [] But if your experiment is a
+[...] When your experiment costs 300 million dollars, and you do one a
+decade, you can’t take any risks. [...] But if your experiment is a
 million dollars and being done by grad students, you can do crazy and
 brilliant things.’[^4_2-Rothenberg_10]
 
@@ -8066,7 +10837,7 @@ Constitution, was often quoted saying the Constitution would insure that
 the ‘right people’ would retain power. Or as Madison wrote in Federalist
 Paper \#10, ‘A rage for paper money, for an abolition of debts, for the
 equal division of property, or for any other improper or wicked project,
-will be less apt to pervade the whole body of the Union’[^4_4-costanzo_6] The
+will be less apt to pervade the whole body of the Union...’[^4_4-costanzo_6] The
 Constitution guaranteed that *wicked projects* like economic and social
 justice were not to be tolerated.
 
@@ -8659,6 +11430,460 @@ the Judiciary*, New York: Carroll & Graf Publishers, 2005.
 [^4_4-costanzo_25]: Thomas Piketty, *Capitalism in the Twenty-First Century*, trans.
     Arthur Goldhammer, Cambridge, MA and London: The Belknap Press of
     Harvard University Press, 2014.
+
+
+
+
+# Wild, Wild West: A View From Two Californian Schoolmarms 
+
+### Bill Maurer and Lana Swartz {.author}
+
+People who work in payment innovation are really into the Wild West.
+Since 2008, when the industry started to heat up, we’ve heard them say,
+over and over again and across contexts, that ‘it’s a Wild West out
+there’, or ‘we are in the Wild West’. Sometimes they use it in marketing
+material, where it evokes the exciting, the new. Other times, they use
+it in terms of compliance, where it means that the legal or regulatory
+environment is murky, unsettled. Usually, these two discourses wind up
+being two sides of the same coin: the Wild West is a land of opportunity
+where anything goes and fortune favors those who can afford to take
+risks. That is, at least until the regulator shows up, the sheriff (or
+maybe the schoolmarm) riding into town.
+
+The Wild West talk goes even further. Metaphors that are used in the
+payments industry to describe its networks and technologies often come
+directly out of 19th century Western expansion of the United States of
+America. There is talk of gold rushes, of land grabs, of railroads, of
+pioneers. It suggests something deeper: an unsettling of old
+allegiances, perhaps, an opening of new frontiers and the shaking loose
+of some of the conventions of person, property, state, and market.
+
+## Payment
+
+‘Payment’ is conceptually and practically distinct from ‘exchange’.
+Anthropology, the field to which at least one of us belongs, is built on
+notions of exchange. In the classic work *The Gift,* Marcel Mauss set
+forth the basic understanding that human sociality is solidified through
+various exchanges of one kind or another, of shells or money or other
+sorts of valuables or gifts or kin, ramifying social relations in
+enduring webs of obligation.[^5_1-Maurer-Swartz_1] Through our research in the payments
+industry, however, we have had to rethink this exchange-centrism.
+
+The payments industry is the set of business and government entities
+that facilitate the transfer of value from point A to point B any time
+you are not using cash or coin, that is, any time you’re not using
+state-issued tokens representing fiat currency. From your employer to
+your bank account in the form of your electronic paycheck; from your
+credit card account to a merchant whenever you use a plastic card to pay
+for something; from a person to another person when a sending electronic
+credits via text message in a mobile money service like Kenya’s M-Pesa.
+
+Payment is different from exchange. With exchange, there is usually a
+transaction in which people are equilibrating values. This is the old
+barter story. I’ve got some pigs, you’ve got some yams. We’re going to
+exchange. We have to do a kind of calculation to figure out how many
+pigs for how many yams. Payment is a separate process: once we have
+decided how to calibrate the value of our items, how do I get the value
+that’s embodied in my pigs over to you, and then get the value embodied
+in your yams over to me? It seems almost trivial. In the mythical barter
+situation, the payment infrastructure is our hands, the baskets in which
+we place the yams, the stick we use to herd the pigs. In a cash
+exchange, similarly, it is the hands that facilitate payment. I take
+cash in my hand. I give it to your hand. We have transferred value.
+
+With non-cash payments, it’s not so simple, or trivial. We need network
+infrastructures built, maintained, gated, and tolled by all the diverse
+players in payments: card networks, point of sale device manufacturers,
+payment processors, billing companies, wire services, application
+developers, mobile network operators, and government-mandated systems,
+too. Payments innovators are looking for opportunities in the transit of
+value. Some of them are looking for opportunities in the medium of
+exchange, too – to supplement or even replace state-issued currencies.
+Wild West indeed!
+
+## The Old West
+
+Even when it is not overtly referred to, visions of the ‘wild west’ are
+summoned in many ways in today's payments industry. For example, the
+Visa network is routinely described as a set of ‘rails’, referring to
+transcontinental railroads that moved people, news, mail, currency, and
+gold across the widening United States and, in most grand narratives,
+consolidated it as a nation.
+
+Eventually, in the actual Wild West, the actual rails were regulated as
+‘common carriers’, private utilities operating in the public interest.
+Farmers, who depended on this new infrastructure to transport their
+goods to market and whose land had been ceded to build the rails,
+demanded universal service, freedom from price discrimination, and
+reasonable expectation of safe delivery. Regulation also arose to
+protect the nascent United States Postal Service, which was in
+competition with private express shipping cartels – who rode the
+infrastructure and colluded with the railroads and each other.
+
+In the early 21st century, the language and principle of common carriage
+was ported onto telecommunication infrastructure. In the United States
+(at least at time of writing) and other countries, Internet Service
+Providers are obliged to treat all data equally, to not discriminate in
+terms of price or speed according to user, site, or platform.
+
+But the most direct descendant of ‘rails’ is not the internet but the
+payments industry. By the start of the 20th century, the private
+expresses were threatened by competition from the telegraph, but they
+had already moved on to a new, lucrative, and unregulated way to move
+value: Money Orders for the poor, the immigrant, and the illiterate and
+Travelers' Checks for the elite. Crucially, the ‘float’ – the money left
+over each month from checks not yet cashed – could be invested at
+interest. During World War I, the private express industry was
+nationalized. With little incentive to remain in the shipping business,
+the cartels officially consolidated as American Express and focused on
+their payments services and financial activities.[^5_1-Maurer-Swartz_2] The modern
+payments industry was born.
+
+No private infrastructure industry wants to be regulated as serving the
+public good. Railroads, private expresses, Western Union, and internet
+service providers have all resisted – with varied success – becoming a
+common carrier. No private rails want to be, as they put it in the
+telecom industry, a ‘dumb pipe’. All private rails seek rents and
+control. The payments industry is no different. Today – in internet and
+payment alike – the rents sought are increasingly not just fees but
+data. Personal and social data, to be used for the purposes of marketing
+and modeling, is described in the payments industry and beyond as
+‘gold’, another Wild West throwback.
+
+So, when we hear tell of new moneys built on data collection or its
+circumvention – be it American Express points or bitcoins – we think of
+‘wildcat bankers’ who issued notes to pioneers backed by dubious
+reserves. We also think of a Twitter exchange by some of our payment
+industry interlocutors. One wrote of the current explosion of innovation
+in payments, ‘In a gold rush, you can mine for gold or sell
+shovels’.[^5_1-Maurer-Swartz_3] Another countered, ‘Or set up a bank’.[^5_1-Maurer-Swartz_4] Another
+offered, ‘You could sell treasure maps too. Today we call that
+consulting’.[^5_1-Maurer-Swartz_5] If we were wearing our capitalist black Stetsons
+instead of our schoolmarm bonnets, we might suggest that if they really
+wanted to be the winning robber barons in this metaphor, they might
+consider a railroad.
+
+
+## The *Old* Old West
+
+There is another Wild West worth considering: the far west of the
+Achaemenid Empire that stretched from India to Anatolia under kings like
+Darius and Xerxes. Some of the world’s first metal coins come from the
+west of that empire, Lydia and Ionia in what is now Turkey. State
+authorities issued ancient coins bearing an image of the king –
+sometimes standing, sometimes kneeling; with a spear, or a bow and
+arrow. Yet users of those coins marked them with their own insignia,
+tiny counterstamps indicating... what? The answer is not entirely clear.
+These were definitely not test cuts – gouges into a coin to ensure it
+was solid silver or gold. Many of the marks are intricate, delicate,
+beautiful abstract designs, small hands, lion’s paws.
+
+Remember that the earliest moneys were not tokens but records, receipts
+inscribed on cuneiform tablets, more like contracts or letters of credit
+than cash or coin.[^5_1-Maurer-Swartz_6] These were also often held centrally, by
+religious or state authorities, in storehouses where grain or silver or
+tribute items might also be maintained. Did the early users of this new
+Wild West technology, the coin, feel compelled to write their own
+stories on them, mark their own debts and obligations? Or simply
+proclaim their status (‘I have a scale, and I have weighed this coin.
+Here is my mark’.). Such proclamation would suggest a world where rank
+trumps the kind of calculability we have traditionally associated with
+money tokens.
+
+Perhaps those placing their marks on the early coins were still living
+in a ledger-based mentality, unfamiliar with the idea that there could
+be an unmediated means of exchange, a form of payment without an obvious
+infrastructure. Perhaps they did not fully understand that the coin
+could be a state issued, anonymous means of exchange that required no
+payment infrastructure other than the king’s mints and the hands, bags,
+and maybe scales and weights of their daily exchange.
+
+The state part of the story is important in this early history of coin,
+and it is what some payments innovators today are chafing against. For
+kings, like modern states, would exact taxes or tribute in their own
+token, an expression of political sovereignty that also exercised
+economic control. We think back to those marked coins, however, this
+desire to write, to make records. Because there is a growing awareness
+again today that money is nothing but records, after all. At least in
+some quarters. Not a commodity unto itself, but a database – a book of
+credits and debits, a statement of transactions.[^5_1-Maurer-Swartz_7]
+
+## New Rails
+
+If, in that Anatolian Wild West, people were inscribing on coins their
+own marks as if to re-make the coin into a kind of tablet, today among
+payments innovators, people are remaking the tablets. They are doing so,
+also, in a game of status and rank: against each other (Google versus
+Apple; Dwolla versus PayPal; Heartland versus FirstData; Verifone versus
+Ingenico), against the banks, and – crucially – against the states that
+still issue and warrant currency and mandate the fairness and function
+of some of the rails and provide oversight of all of them.
+
+But banks and states are still important. Today in the United States,
+the Automated Clearing House facilitates more than 60 percent of
+non-cash payments by value (all those paychecks!), though debit cards
+account for almost 40 percent of non-cash payments by number of
+transactions (all those small purchases at the point of sale!).[^5_1-Maurer-Swartz_8] The
+ACH is a federally-mandated interbank network responsible for clearing
+and settling transfers between bank accounts. The debit card networks
+developed from the automatic teller machine (ATM) networks built by the
+banks to make it easier and cheaper to get money to account holders.[^5_1-Maurer-Swartz_9]
+
+Payment innovators come from another place. Many of them come from the
+Wild West – at least as far as the American continent is concerned – the
+information technology, start-up culture, and venture capital associated
+with the northern part of the State of California: gold rush territory.
+Even VISA, now the most mundane of payment rails, was, in the 1970s,
+envisioned as a radical disruption by its San Francisco-based founder
+and feared by traditional bank executives.[^5_1-Maurer-Swartz_10] First PayPal in the late
+1990s, and now ApplePay in 2014, a host of new companies have come into
+being since 2008 seeking to jump into payments.
+
+Why? A convergence of inspirational stories, new possibilities, and one
+giant financial crisis. The mobile telecommunications provider Safaricom
+lauched M-Pesa in 2008, a service that allowed Kenyans to send small
+amounts of money to one another via their simple mobile phones. It took
+the country by storm, and was widely reported in the tech and business
+media in the global North. And then there was the iPhone, Apple’s foray
+into mobile telephony unleashing a burst of application development and
+a new business model, as well as revealing the possibilities of taking
+high-powered computing mobile. Why did the global financial crisis
+matter for payments? For one thing, it further eroded public confidence
+in banks: banking itself, as an overarching ‘brand’, suffered. For
+another, it actively pushed more and more people out of conventional
+banking and into alternative financial services – from pawnshops to check
+cashing services and payday lenders, as well as prepaid payment cards.
+Entrepreneurial folk looking at payments started to see opportunity in
+non-bank provision of money services. Among payments innovators, there
+was a palpable sense that anything was possible. Who needs banks? Who
+even needs money – the state kind, anyway?
+
+## New Territories
+
+Much payment innovation is taking place in the domain of
+person-to-person payments, seeking an M-Pesa type service for the Global
+North, and purchases at the physical world point of sale, seeking an
+alternative to cash and cards at the merchant’s till. The latter has
+been described to us as a ‘last commons’, an as-yet unfenced field of
+potential personal transactional data, ripe for ‘mining’.
+
+The payments game, in other words, is being played over databases: who
+shall collect, fence, own, leverage the commons of transactional data
+currently locked up in cash purchases? Who will bring purchase histories
+together with payment information together with locational, credit,
+social network, or other histories? David Stearns chronicles how fights
+between big merchants and the emerging card networks led to the
+development of different technological standards for inventory and
+payment.[^5_1-Maurer-Swartz_11] The stores, using optical scanner technology, gained
+access to what consumers were buying, but only in their own shop or
+franchise. The networks, using magnetic stripe technology on plastic
+cards, could know levels of spending and locations, but would not get
+information on the details of each purchase. The legacy of this split
+endures: some payments innovators base their technology on optical
+scanning, generating QR codes or bar codes on mobile devices; others
+embed data-generating technology in the form factor of the device
+itself, with near-field communication chips. Wherever you see the
+former, be on the lookout for ‘merchant’ interests; where you see the
+latter, look for the card networks and the banks.
+
+Imagine a great database, split in two: purchase data and payment data
+sundered. Some payments innovators want to reunify the database. Others
+– especially of the crypto-variety – seem to want to disperse it,
+massively replicate it so that no one entity can control it.
+
+The empire’s coin asserted state authority but freed people to trade,
+with no necessary centralized infrastructure. Yet people reinscribed
+status and rank and personality into those coins, perhaps advertising
+their own infrastructures for value – scales with which to weigh the
+metal.
+
+The state’s money reasserted political authority and the state’s central
+banks affirmed the position of the state in monetary policy and banking.
+It also facilitated free exchange, with an infrastructure for producing
+and distributing cash but no central record of how that cash was being
+used. In the Simmel story, this is anonymized and de-hierarchized money.
+Viviana Zelizer, Jane Guyer, and others, however, have shown how people
+took that deracinated money and reinserted it into relations of
+rank.[^5_1-Maurer-Swartz_12]
+
+What is happening now? Centralized database owners vie with one another
+over ownership of new and vast transactional archives that are always in
+the making. Infrastructures are not just the sites of transfer of the
+information in those archives, but the sites of its production and
+capture. This is itself a kind of decentralization, into multiple
+databases.
+
+## New Politics
+
+Michael Warner argued in *Letters of the Republic* that broadsides in
+early colonial America at first provided a representation of a God-given
+hierarchical natural order, with the King firmly ensconced at that top of that
+order.[^5_1-Maurer-Swartz_13] The Revolutionaries were different: they were, after all,
+trying to constitute a new kind of person through these letters: fellow
+citizens, whom they would hail as such. By hailing the person into a
+distributed horizontal community they would then constitute the
+Republican polity. If new payment systems are proliferating the records
+of transactionality for human beings, what kind of person and what kind
+of public are thereby being constituted? What’s the nature of the
+database of all human interaction and transaction? Where is it? Who
+controls it?
+
+Money can serve as an externalized memory of social transactions and
+relations.[^5_1-Maurer-Swartz_14] What we are seeing now is a kind of memory. One kind
+of decentralization is corporate. There is decentralization from the
+mass payment markets of the ACH, the card networks, and checks – with
+designs on cash. There is then a corresponding recentralization into
+closed corporate communities, to borrow wrongly an ethological phrase,
+of the payment innovators. Another decentralization is the distributed
+system represented by the Bitcoin blockchain, a massively replicated
+ledger, broadly and publicly shared, with a public whose speech is
+somehow concealed.
+
+Payments today are a spaghetti of cables and wires and rails and portals
+and protocols. We are now seeing new linkages among these private
+infrastructures, private gateways between, say, ApplePay and American
+Express, or Braintree (the payment service behind almost all ‘sharing
+economy’ ventures) and PayPal. Virtually invisible, those private
+gateways may become sites of political concern. They are the
+recentralized, enclosed storehouses of our memories, our histories of
+interrelation.
+
+We, two wild west schoolmarms, want to prod people – the payments
+innovators, the public, you, dear reader – to think anew about the
+interfaces and compositions among these types of systems. Regulators do
+this all the time, when they mandate interoperability between systems,
+and we benefit from it, even though it flies under our radar, because we
+ignore what company’s point-of-sale terminal we’re using to pay with
+whatever card we wish, and we can’t even see the Independent Sales
+Organization or the payment processor behind that terminal. There are
+switches and interchanges mandated to allow our money to ride these
+rails; there are tons of intermediaries in what seems like the simplest
+card swipe or PIN entry.
+
+If we think about infrastructures or channels as closed political
+claims, payment innovation can be an unsettling of those claims, and the
+opening up of possible alternatives. The alternative can be liberating.
+Or, frankly, expensive or extortionist. We pay to pay every time we use
+a non-cash system. How will various forms of money-memory interoperate
+in a world no longer necessarily undergirded by the old narratives of
+nation, state, and economy?
+
+How will the Wild West be won – and who will win it?
+
+## Acknowledgements
+
+We would like to thank our partners in payments research, Taylor C.
+Nelms and Scott Mainwaring, for their camaraderie and insight as we
+ventured into the Wild West together. We also thank all the participants
+in the MoneyLab convening in Amsterdam, in March, 2014. Maurer’s
+research on payments has been supported by the U.S. National Science
+Foundation, (SES 0960423). The opinions presented here are the authors
+own and do not reflect those of the National Science Foundation or any
+other organization.
+
+
+## References 
+
+Grossman, Peter Z. *American Express: The Unofficial History of the
+People Who Built the Great Financial Empire*, New York: Random House
+Value Publishing, 1987.
+
+Guyer, Jane. *Marginal Gains: Monetary Transactions in Atlantic Africa*,
+Chicago: University of Chicago Press, 2004.
+
+Harper, Tom and Bernardo Batiz-Lazo. *Cash Box: The Invention and
+Globalization of the ATM*, Louisville, KY: NetWorld Media Group, 2013.
+
+Hart, Keith. *Memory Bank: Money in an Unequal World*, London: Profile,
+2000.
+
+Hudson, Michael. The Development of Money-of-Account in Sumer’s Temples,
+in Michael Hudson and Cornelia Wunsch (eds) *Creating Economic Order:
+Record-keeping, Standardization, and the Development of Accounting in
+the Ancient Near East*, Volume IV. Bethesda, MD: CDL, 2000, pp. 303-330.
+
+Ingham, Geoffrey, ‘“Babylonian Madness”: On the Historical and
+Sociological Origins of Money’, in John Smithin (ed.) *What Is Money?*
+London: Routledge, 2000, pp. 16-41.
+
+Mauss, Marcel. *The Gift: The Form and Reason for Exchange in Archaic
+Societies*. New York: W.W. Norton & Co., 1954.
+
+Simmel, Georg. *The Sociology of Georg Simmel*, trans. Kurt H. Wolff,
+Glencoe, IL: The Free Press, 1950.
+
+Stearns, David. *Electronic Value Exchange: Origins of the VISA
+Electronic Payment System*, New York: Springer, 2011.
+
+U.S. Federal Reserve. *2013 Federal Reserve Payments Study: Recent and
+Long-Term Payment Trends in the United States: 2003-2012, Summary Report
+and Initial Data Release*, Washington, DC, 2013.
+
+Warner, Michael, *The Letters of the Republic: Publication and the
+Public Sphere in Eighteenth-Century America*, Cambridge, MA: Harvard
+Univ. Press, 1992.
+
+Zelizer, Viviana A. *The Social Meaning of Money*, Princeton: Princeton University Press, 1994.
+
+[^5_1-Maurer-Swartz_1]: Marcel Mauss, *The Gift: The Form and Reason for Exchange in
+    Archaic Societies*, New York: W.W. Norton & Co., 1954.
+
+[^5_1-Maurer-Swartz_2]: For a journalistic history of American Express, see Peter Z.
+    Grossman, *American Express: The Unofficial History of the People
+    Who Built the Great Financial Empire*, New York: Random House Value
+    Publishing, 1987.
+
+[^5_1-Maurer-Swartz_3]: @sammaule, ‘My tweet back in Oct: In a gold rush you can mine for
+    gold or sell shovels. Nice shovel @obedier @GetPoynt \#CGDigital.’
+    Twitter post, 4 November 2014, 6:28 AM,
+    [https://twitter.com/sammaule/status/529641370638897152](https://twitter.com/sammaule/status/529641370638897152).
+
+[^5_1-Maurer-Swartz_4]: @dgwbirch, ‘“@sammaule: My tweet back in Oct: In a gold rush you
+    can mine for gold or sell shovels" or set up a bank.’ Twitter post,
+    4 November 2014, 7:09
+    AM, [https://twitter.com/dgwbirch/status/529651610461282304](https://twitter.com/dgwbirch/status/529651610461282304).
+
+[^5_1-Maurer-Swartz_5]: @Greg\_Coogan, ‘@dgwbirch @sammaule You could sell treasure maps
+    too. Today we call that consulting.’ Twitter post, 4 November 2014,
+    7:10 AM, [https://twitter.com/Greg\_Coogan/status/529651859942678529](https://twitter.com/Greg\_Coogan/status/529651859942678529).
+
+[^5_1-Maurer-Swartz_6]: See Michael Hudson, ‘The Development of Money-of-Account in
+    Sumer’s Temples’, in Michael Hudson and Cornelia Wunsch (eds)
+    *Creating Economic Order: Record-keeping, Standardization, and the
+    Development of Accounting in the Ancient Near East*, Volume IV,
+    Bethesda MD: CDL, 2000 pp. 303-330; and Geoffrey Ingham, ‘Babylonian
+    Madness: On the Historical and Sociological Origins of Money’, in
+    John Smithin (ed.) *What Is Money?* London: Routledge, 2000, pp.
+    16-41.
+
+[^5_1-Maurer-Swartz_7]: This is a position long held by the economic anthropologist Keith
+    Hart. See his *Memory Bank: Money in an Unequal World*, London:
+    Profile, 2000.
+
+[^5_1-Maurer-Swartz_8]: US Federal Reserve, 2013 ‘Federal Reserve Payments Study: Recent
+    and Long-Term Payment Trends in the United States: 2003-2012’,
+    *Summary Report and Initial Data Release*, Washington, DC, 2013.
+
+[^5_1-Maurer-Swartz_9]: See Tom Harper and Bernardo Batiz-Lazo, *Cash Box: The Invention
+    and Globalization of the ATM*, Louisville, KY: NetWorld Media Group,
+    2013.
+
+[^5_1-Maurer-Swartz_10]: See David Stearns, *Electronic Value Exchange: Origins of the
+    VISA Electronic Payment System*, New York: Springer, 2011.
+
+[^5_1-Maurer-Swartz_11]: David Stearns. *Electronic Value Exchange: Origins of the VISA Electronic Payment System*, New York: Springer, 2011.
+
+[^5_1-Maurer-Swartz_12]: Georg Simmel, *The Sociology of Georg Simme*l, trans. Kurt H.
+    Wolff, Glencoe, IL: The Free Press, 1950; Jane Guyer, *Marginal
+    Gains: Monetary Transactions in Atlantic Africa*, Chicago:
+    University of Chicago Press, 2004; Viviana A. Zelizer, *The Social
+    Meaning of Money*, Princeton: Princeton University Press, 1994.
+
+[^5_1-Maurer-Swartz_13]: Michael Warner, *The Letters of the Republic: Publication and the
+    Public Sphere in Eighteenth-Century America,* Cambridge, MA: Harvard
+    University Press, 1992.
+
+[^5_1-Maurer-Swartz_14]: Keith Hart, *Memory Bank: Money in an Unequal World*, London: Profile, 2000.
 
 
 
@@ -10259,6 +13484,560 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
 
 
 
+# ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
+
+### Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco {.author}
+
+
+Currency experiments are enjoying something of a renaissance. Some have
+the number of digital currencies as high as 143, most of which have
+emerged over the last five years. How did we get here? These experiments
+have been praised and rallied around by dedicated followers. For some,
+dedication approaches religious fervor. Critique has also been quick to
+the scene: constructive critique by insiders or fence-sitters; critique
+from the outside; critique on the grounds of politics, of economics,
+ecology, or gender – the list is long and pointed.
+
+The duration of these experiments is also roughly equivalent to the
+global economic downturn, which is to say that most people have had less
+money of the non-experimental kind. Money is perhaps the primary media
+of economic *crisis* in that it translates abstract global disasters
+into felt hardship, into lack. It is felt most as a medium of crisis
+when it is in retreat, when its function as a medium of exchange
+falters. The same cannot be said of technology over the same period.
+Personal computational devices are only getting ‘smarter’. Moore’s law
+rolls on. The Hacker Ego is at an all time high. Is this how we got
+here? Perhaps. But among this general backdrop is a more specific
+history, of digital cash and technologies of payment. It is a history of
+developing standards, of road toll systems, magnetic stripe (magstripe)
+cards and cards with processors (smart card), of radical prototyping and
+blue-sky experiments, of international cooperation, of banks mixing (or
+fighting) with telcos, of privacy and security, of failed experiments,
+of failures that were also successes. This is a history of those who
+‘live as friends and count as enemies’.
+
+These are Eduard de Jong’s words, and his personal history is woven
+through that of digital payment. In June 2014 de Jong visited Nathaniel
+Tkacz in the English Midlands and over a series of interviews at The
+University of Warwick, he mapped out some of this largely untold
+history. Pablo Velasco Gonzalez sorted through the raw material and
+turned it into something coherent. The arrangement, style, and
+references are thanks to him. Below, the passages in bold are extracted
+directly from the interviews. All originate with de Jong and they
+function to punctuate the rest of the material. The text surrounding the
+extracted material is collaboratively written, at times summarizing and
+others elaborating the interview material. Like the history of digital
+cash itself, de Jong’s story begins with David Chaum’s enterprise,
+DigiCash.
+
+…
+
+In 1990, Chaum was already a renowned cryptographer working at the
+University of Amsterdam’s Center for Mathematics and Informatics (CMI).
+At the time, the Minister of Transport in the Netherlands was
+considering the introduction of road pricing: the automatic collection
+of a toll for the use of the motorway system. Chaum took this as an
+opportunity to implement his ideas for electronic money and start a
+business. His goal was to provide a working prototype of a payment
+system that was capable of making complete transactions at speeds of up
+to 80 km/h, and which were *secure* and protected the *privacy* of the
+payer. Chaum gathered a group of skilled engineers, mostly from his
+Eindhoven University former contacts,[^5_4-DeJongNate_1] and started building his
+e-Cash system with a smart card to hold the funds. De Jong was hired to
+document the implementation of this system. Specifically, he came up
+with a formal method to describe the implementation of the e-Cash
+algorithms, which acted as a bridge of sorts between the algorithms and
+the assembly language implemented in a smart card. In less than three
+months, a prototype was ready that included a smart card, a card
+terminal for use in a car, and a central system unit dubbed the ‘bank’.
+
+**‘This was really the first fully electronic payment system ever. There
+was a body of knowledge; the 80s had seen a lot of progress, a lot of
+theories and analyses about how to implement cryptographic algorithms
+for electronic money efficiently and securely. So the theoretical basis
+was there, but it was the first time it all came together into building
+something that could work.’**
+
+The smart card was first of all a store of value. The stored value was
+securely transferred with a cryptographic key and algorithm also stored
+in the card. It was in the tradition of prepaid phone and credit cards,
+but focused much more on security and privacy. To protect privacy in
+public key cryptography Chaum had invented ‘blind signatures’ in the
+early 80s.[^5_4-DeJongNate_2] A first draft of his currency system – without any
+attempt at implementation – was also already published in 1982, when he
+was still a Professor at UCLA.[^5_4-DeJongNate_3] The blind public key signature that
+protected the transfer of e-Cash money was cleverly mixed with the Data
+Encryption Standard (DES – which was developed at IBM by Mathias and
+Meyer and based on the work of Horst Feistel). For an e-Cash transfer to
+occur a cryptogram based on a pre-generated digital signature was
+inscribed with the value to transfer and the smart card software
+subtracted the value from its stored ‘spendable money’ before sending
+out the cryptogram. One would spend one signature to encode a quantity
+of money and the card stored about 20 or 30 usable payment signatures,
+cleverly wrapped into a small number of blind signatures (and loading
+money in the card also loaded new signatures). For security purposes
+each payment signature could only be used once. E-Cash mimicked the
+qualities of traditional cash: transfers were immediate and one could
+not spend more than one had. Another unique characteristic of the first
+e-Cash implementation was that it used a ‘cold processor’ protocol: the
+terminal receiving the money guided the card through all the needed
+steps to do the cryptography. This protocol enabled e-Cash to overcome
+the processing limitations in the smart card for the use of public key
+cryptography. From a purely technological perspective, e-Cash was a
+success. However, the first prototype to be used in cars was never
+tested on the road.
+
+**‘Politics in the Netherlands changed and there was no longer support
+for a toll road payment system. E-Cash was ready, but it was no longer
+relevant.’**
+
+The DigiCash team had fulfilled its first goal of making a working
+prototype for the national road-pricing scheme, ready to be converted by
+manufacturers into the roadside and in-car equipment. But Chaum was more
+of a cryptographer than a technology marketer. He failed to recognize
+the complexity involved in creating a market for this new technology. He
+underestimated the *nontechnical effort* involved in turning the
+prototype into a product. DigiCash struggled along without a successful
+implementation of its prototype. Two years later it realized a second
+prototype of e-Cash, this time for general payment and with a bank as
+lead customer, but with a similar result. De Jong learned from these
+early experiences, and years later, the market failure of e-Cash shaped
+his thinking about how to approach the market after the development of
+Java Card technology, which is based on his patents. For Java Card the
+initial marketing cost were five times the development costs.
+
+**‘DigiCash was not looking at the market. All the focus was on the
+prototype. Where DigiCash completely failed was in realizing how much
+work it would be to get a foothold in the market with what they had.
+Instead, they were spending their money on even more advanced
+technologies. They completely lost the link with reality, of how to
+market a technology so advanced, and how to get people to buy into it.
+DigiCash was certainly way more advanced than any solution that society
+was willing to accept at the time. It's probably fair to say that it was
+*too early* in its insistence and successful implementation of
+*absolute* security.’**
+
+In 1992, de Jong left DigiCash and together with another former DigiCash
+employee, he started a consultation company on smart cards and
+cryptographic techniques. By September 1998, after failing to attract
+more than a handful of strategic partners, DigiCash had declared
+bankruptcy. Attempts to keep its technology together failed, and one
+company took up the smart card operating system, while the Intellectual
+Property portfolio was sold to a Canadian company. Its communication
+technology, in a simpler and less secure way, was deployed in other kind
+of ledger-oriented enterprises, such as E-tag in Australia.
+
+Fifteen years earlier banks had started to look at smart cards as the
+next technological step in the use of payment cards. Credit cards, and
+in Europe also debit cards, equipped with magstripe and complemented by
+data communication to back office computers with an account database,
+were the majority of electronic payments at that the time. They invested
+manpower in international standardization of this emerging technology,
+both in Europe within CEN (Centre European des Normes) and in ISO, where
+the standards for the embossed credit card and the magstripe card had
+already been developed. However, the banks were not interested in cash;
+that is, in digital cash systems as the opposite of their traditional
+ledger systems – at least not as a priority. If anything, the emergence
+of the first electronic cash systems, systems without the need for a
+ledger, was met with some trepidation by the banks. They were concerned
+about their role in payments being reduced. Such fears were not
+completely without ground, as a number of large European telecom
+operators were looking at new opportunities to use their experiences
+with successfully replacing physical cash in payphones. Expanding to
+other small payments, newspapers, snacks, vending machines and so on,
+looked like good business opportunities for these telcos. As we will see
+below, some banks took up the challenge and got involved in experiments
+with electronic-cash smart cards.
+
+After DigiCash was established, the next attempt to realize electronic
+cash was Danmønt, in 1991. It was a smart card with a disposable
+‘electronic purse’ for small payments, developed by a subsidiary of PBS
+(Danmønt S/A) and endorsed by KTAS, the Copenhagen Telephone Company,
+and HT (Capital Traffic, a transport institution). Its pilot started in
+1992 and it was introduced on a nation-wide scale in 1993, mostly as a
+payment method for launderettes and telephone booths.[^5_4-DeJongNate_4] With Danmønt,
+the payer smart card sent a message with value to a merchant smart card
+that was authenticated by a secret key using the DES algorithm. Keys
+were stored in the smart cards, as was the amount of money to spend or
+receive, respectively.
+
+A year later, Mondex followed. Initiated by the cryptographer David
+Everett, who worked at NatWest bank at the time, Mondex, like e-Cash and
+Danmønt, used an exchange of messages to transfer a value. The Mondex
+team started building a system with technology that had already been
+patented in 1990 by Tim Jones and Graham Higgins, who refer in their
+patent application to Chaum’s ideas. In the Mondex
+scheme a secure computer acted as ‘originator’, one per country, to
+create units of electronic cash, which were then sold for traditional
+currency to ‘issuers’ (banks) that could sell them – again, in exchange
+for traditional currency – to final Mondex users. A transaction between
+two users was validated by secret keys and algorithms stored on the
+smart cards held by each user. Electronic money received by an end user
+could only be exchanged back to legal tender by transferring it back to
+an issuer. The Mondex originator, its issuers and end users all used the
+same basic security protocol to transfer value, with the issuers
+expected to deploy racks filled with smart cards. According to de Jong,
+the fully off-line security provided a potential fatal security
+weakness. Mondex was put to a consumer test in July 1995 in Swindon,
+U.K., McDonald's, BP, Sainsbury's, and other major retailers were
+involved in the test.[^5_4-DeJongNate_5] NatWest and Midland Bank (now part of HSBC)
+were shareholders of Mondex. The Bank of Scotland was also a
+sub-franchise holder, and both the Royal Bank of Canada and the Canadian
+Imperial Bank had planned a pilot program for it in 1996.[^5_4-DeJongNate_6] The system
+was eventually sold to Mastercard, which kept it alive for the smart
+card operating system, Multos,[^5_4-DeJongNate_7] which was developed to support the
+electronic money system. Mondex’s security protocol has not been
+published[^5_4-DeJongNate_8] and consisted of public key signatures to validate
+messages with a public key from the Mondex originator protecting the
+authenticity and the privacy of the per card unique transfer key. In
+1996, smart card chips could not yet perform public key cryptography
+efficiently and the Swindon trial for Mondex used a modified protocol
+using the DES algorithm and shared secret keys.
+
+Smart cards had already been used as pre-paid phone cards from the
+mid-1970s. But consciousness of their much broader possible application,
+in medical records, banks transfers, driver’s licenses, public
+transport, and electronic payments, for example, only emerged through
+the 1980s and 90s. The 1987 Smart Card 2000 conference co-organized by
+Chaum is testimony to this growing awareness. International
+standardization for smart cards started in 1984 as an extension to
+standardisation on credit cards, which had started in 1970. Advanced
+technology people from banks, researchers at telco-labs, and
+representatives of the fledgling smart card industry came together four
+or five times a year under the banner of ISO/IEC SC 17WG4 to discuss
+standards for physical design aspects, like the size and placement of
+the chip in the card, the size and shape of the chip contacts for
+communication with the processor, and for the basic operations to be
+supported, such as reading and writing to memory and doing cryptography.
+By 1989, work in ‘WG4’ on the first aspects of standardization resulted
+in three standard documents. Like all standardization work these
+documents reflected the ‘give-and-take’ negotiations of the
+participating companies. Consensus for the location of the contacts, for
+example, proved hard to achieve and the first standard allowed for two
+different places. One chip location, called, with some chuckles, the
+‘French position’ specified in the first standard was phased out in
+later documents. Finally in 1995 a fourth standard was published:
+ISO/IEC 7816-4. For those involved, this result was celebrated by
+handing out T-shirts with the text: ‘survivor of ISO/IEC 7816-4’. De
+Jong joined the ISO standardization group just before this milestone.
+
+European countries had identified these cards as an area in need of
+European regulation and standardization beyond what was happening in the
+ISO group. In particular they were looking for standards for card
+applications. The European Standardization Body (CEN TC224) was set up
+to do this work in 1990. Within TC224 an Electronic Money Group (WG10)
+was established with someone sponsored by Danmønt as its first convenor,
+and included members from the Bank Union in Norway (Edmond Alnianakian),
+Masterpay in Belgium (Phillipe Duhamel), the U.K.’s telecommunications,
+RATP (Régie Autonome des Transports Parisiens) (Phillipe Vapperau) also
+in France, and de Jong as the independent technology provider from
+DigiCash. He joined in 1991, while still at DigiCash, mostly to decide
+what should be added to the standard to ensure that it would be
+compatible with the more complex security protocols used by DigiCash.
+The collision between people from the electronic cash, banks, transport
+and payment industries, and across five countries, created difficulties
+in achieving a technical agreement or even an understanding of the
+standard. All the parties had different interests in the different
+aspects of the technology. Indeed, initially in WG10 there was no clear
+understanding of the nature of an electronic money system as something
+that is actually different from traditional cash. This general
+understanding did emerge, but further difficulties arose with the
+specification of the actual protocols. De Jong recalls that the main
+discrepancies were on the structure of data stored in the smart cards
+and their security attributes. The Germans on the task force wanted
+something more structured than the other parties were willing to accept,
+and for a long time representatives from Mondex, who joined the group
+later, were unwilling to modify their message protocol to fit with the
+standard’s idea for a unified set of messages.
+
+**‘In standardization for IT, agreeing has come to mean: we agree to
+have a label for each other, for our technology, and you implement my
+technology using my label and I implement your technology using your
+label.’**
+
+More parties joined later, including Chris Stanford of the U.K.’s GEC
+Traffic Automation Company and Ram Banarjee, one of the founders of
+General Information Systems Ltd (GIS). Established in 1985 in Cambridge,
+GIS was an early Mondex supporter, designing and building ‘wallets’ to
+give a Mondex user an interface to review transactions in the card as
+well as the overall balance. Five years and 20 meetings after de Jong’s
+inclusion in the electronic purse standardization group, the number of
+people had grown from 6 to 60 (in 1996). It was the peak time of the
+electronic cash systems’ deployment.
+
+**‘They all believed this was going to happen soon. I mean, DigiCash
+proved that there was a lot of interest. It had generated a lot of hype.
+They believed, if they could just all come together, get organized, get
+a standard and get the implementations deployed…’**
+
+The test in Swindon was happening at this time, both in banking and
+transport. Another bankcard was deployed in Germany (but with government
+specifications that demanded the strong involvement of a telco), and
+Carte Bancaire deployed a least one in France. In the Netherlands two
+cards were deployed, one supported by telcos and one by banks.
+
+**‘We are in 1996. Everybody is ready to deploy and everybody deploys.
+And then, basically, nothing happens.’**
+
+Why? According to de Jong, the banks remained primarily interested in
+strengthening their existing cashless payment systems, the credit and
+debit card transactions at the point of sale. To that end, the three
+international payment associations that handle the majority of these
+transactions, Europay, Mastercard and Visa, got together to form yet
+another standardization organization (EMV). In other words, there were
+multiple energies going in different directions and multiple strategies
+being deployed or tested simultaneously. EMV developed a standard for
+actually using a smart card at the point of sale, to recognize the type
+of payment (credit, debit, electronic cash), and with user elements like
+entering a PIN. A smart card system for debit or credit cards was a
+migration from the familiar magstripe cards. Towards the end of the 90s
+these standards were all but ready, and once in place the banks became
+very focussed on actually introducing smart cards as payment cards. They
+wanted to reap the benefits of reduced card fraud that smart cards
+promised. That is, they were more interested in smart cards as a
+security technology and less interested in its capacity to facilitate
+digital cash transactions.
+
+Getting ‘PIN&Chip’ (as the use of smart card in point-of-sale payments
+became known) introduced took a full decade. As a migration from
+magstripe cards, smart cards did not fundamentally alter the centralized
+model of banking. This banking model is known as a ledger system,
+where the actual transfer of value does not take place at the point of
+interaction between payer and payee but rather through the
+administrative action of an intermediary. The word ‘ledger’ comes from
+the large flat books that banks traditionally used to keep records of
+the financial transactions they performed for their customers.
+
+With the introduction of smart cards for debit and credit payments well
+underway, two more payment networks, American Express and JCB
+(originally Japanese) join EMV. By that time – in the early 2000s –
+banks reduce their direct involvement in smart card standardization, and
+instead channel their influence through EMV and Global Platform – yet
+another smart card related standards organization. The banks’ interest
+in digital cash had lost momentum, and had begun to look more like a
+defensive, knee-jerk reaction to Chaums’ e-Cash implementation. Despite
+standardization agreements and ‘technically’ successful deployment in
+many countries in Europe, most electronic cash systems are not widely
+adopted by the public. As a result, the interest of operators, banks,
+and telcos wanes. The banks stick with their ledgers and the
+‘sufficient’ security offered by the emerging pin-and-chip cards. With
+Moore’s law ensuring ever more processing power, the implementation of
+the large database systems to implement a ledger payment eventually
+became so efficient that each single transaction was effectively free of
+costs. The European standards group TC224 WG10 that de Jong had joined
+in 1991 to initially develop card application standards beyond the ISO,
+was shutdown in 2009.
+
+In terms of electronic cash not gaining much traction with the public,
+Danmønt is perhaps a notable exception. Through its integration with the
+Danish launderette system, Danmønt enjoyed levels of usage and social
+penetration beyond most other implementations, managing to stick around
+until 2005. The relative success of Danmønt holds lessons that need to
+be examined in future experiments.
+
+**‘They (electronic cash systems) worked technically, but there is no
+longer an incentive to actually make them work commercially.’**
+
+While interest in smart cards for banking settled on deploying PIN&Chip,
+another application of a ledger-based smart card system had been
+enjoying huge successes. The telecommunication industry had focused its
+attention on smart cards to use in the then emerging mobile telephony
+industry. To support mobile telephony the Telecommunications Commission
+of the CEPT (Conférence Européenne des Postes et Télécommunications) had
+created a standardization group, GSM (Groupe Spéciale Mobile, and later
+renamed as Global System for Mobile Communications). By 1989, its first
+phase of specifications were approved based on the ISO standards for
+card size and communication. Once the European (and later global)
+standard was developed, phone-embedded GSM smart cards enjoyed a
+ready-made (phone) market and were very easy to mass produce.[^5_4-DeJongNate_9]
+
+**‘What really takes off with smart cards is GSM. There was a made-in-heaven combination of technologies and that led to the take off of the
+smart card production. At one point banking would do about 100 million
+smart cards a year, and there were 3 billion smart cards in phones, per
+year.’**
+
+Smart card manufactures were interested in the success of the GSM
+standard because it allowed them to make secure transactions and encrypt
+communication. Handset manufacturers were equally invested because the
+standard would allow them to focus on making machines that would do the
+radio communication and network deployments, which made the link between
+the phone and the person. Common interest resulted in the fast
+implementation and deployment of a chip-based secure model for wireless
+phones – the GSM standard – in 1998. The standard had two central goals:
+*protect the communication* and *ensure its payment*.
+
+**‘The privacy threatening nature of centralized accounting […] if there
+is anything that David inspired in me, it is the concern of
+fundamentally privacy sensitive systems.’**
+
+Privacy and security had been the quintessential concerns for much of
+the developer and hacker community. Chaums’ invention of blind
+signatures was specifically motivated by the protection of privacy. It
+was a clear political motivation. He is on the record stating that, ‘The
+difference between a bad electronic cash system and well-developed
+digital cash will determine whether we will have a dictatorship or a
+real democracy’.[^5_4-DeJongNate_10] Cash and ledger systems manage two fundamentally
+different types of value transfer messages. In the former, the message
+*is* the value and in the latter the message is an *instruction to
+transfer* a value. E-Cash, Danmønt, and Mondex differed in terms of
+cryptography and architecture, but they were all *cash* systems. The
+information stored in the cards was itself spendable. To lose a card
+meant losing the money. With ledger systems, where the message only
+carries information about the transfer of value, the actual transfer
+happens later. The ledger generates centralized traces of all activity
+and these are almost always tied to accounts with real identities. The
+existence of the ledger is why losing a credit or debit card doesn’t
+necessarily mean losing money (because an individual *account* is kept
+at a distance from the media and messages that inform the ledger about
+transactions), and equally why ledger-based transactions are not
+difficult to reverse (because the ledger is the actual site of the
+transaction). The same attributes of the ledger that separate message
+from transaction and enable reversibility, make it a political target
+for people like Chaum.
+
+Money had been what de Jong refers to as ‘transubstantiated’ into
+electronic information much earlier than the birth of digital cash. In
+the 1920s Amsterdam had seen the first automatic ledger system,
+processing transactions by updating account cards with mechanical
+retrieval and sorting. For de Jong, the ledger is the crucial technology
+– or ‘cultural technique’– that transforms money into information for
+the first time. This ‘other great transformation’,[^5_4-DeJongNate_11] sets the quest
+for the re-creation of the *qualities* of cash into motion. Ledgers are
+anathema to supporters of digital cash.
+
+In the 1970s, electrons are being stored in silicon in early phone cards
+to represent a stored value, still a good ten years before magstripe
+technology used the ledger system to identify account information on
+paper slips or with a networked connection. Telco companies like GSM
+used a ledger system that was a lot simpler than those of the banks, but
+it was nevertheless a centralized accounting system designed to keep
+efficient control of airtime through its quantification, and reconciled
+with monthly payment or a prepaid account. The step from this purely
+administrative system to a transfer and ultimately a payment system,
+like the one used today in mobile money transfers, was not a big one.
+Indeed, the cost of entering a ledger transaction approaching zero,
+combined with the ability to buy discrete quantities of airtime (made
+possible by an efficient database implementing the ledger), was enough
+for phones to become money systems with no initial strategic oversight.
+Phones had slowly become money-machines, technologies of payment, which
+is not the same as exchange. Payment *colors* exchange, it augments but
+also colonizes it in various ways. We are dealing with payment when all
+of the mirco-mediations of exchange are understood as forming a value
+chain, as comprising a unique political economy. This process of phones becoming payment machines partly explains what happened in Kenya with M-Pesa.
+
+**‘Apart from cash (notes and coins) all the money systems are ledger
+based. Everything is balances, records of aggregated amounts received
+and paid. Every balance has an identifier attached, an account, and that
+identity-based accounting is the core of banking. We can criticize the
+use of the system, but the system is all that exists. Our current money
+system has proven itself a very close fit with a wide array of societal
+needs. Maybe we haven’t realized how integrated it is into society. By
+trying to create alternatives, you discover how finely tuned traditional
+money is to all kind of needs in society.’**
+
+The recent proliferation of cryptocurrencies modelled after or inspired
+by Bitcoin, enact a novel combination of cash and ledger systems. In
+these systems, the ledger is hosted across multiple servers and
+geographically decentralized, but the ledger very much remains the
+foundation of these systems. Indeed, in some ways these systems are even
+more centralized because – at least in the minds of believers – the
+ledger becomes the ultimate authority, with no possibility for appeal if
+things go wrong. The ledger is conflated with sovereign authority.
+
+De Jong says there is once again an interest in cash systems. For him,
+digital cash is a spectre haunting the new ledger-hybrids. Right now he
+is working on a community currency system, capable of integration with
+existing currencies. Its protocol uses asymmetric security, allowing the
+payer to be stay anonymous but not the payee, as in traditional cash
+payments, and will be usable through a phone user interface. There are
+plans to deploy it in Canada.
+
+
+
+## References
+
+Böhle, Knud, Michael Rader, and Ulrich Riehm. ‘Electronic Payment
+Systems in European Countries: Country Synthesis Report’,
+Forschungszentrum Karlsruhe*,* September 1999,
+<http://www.itas.kit.edu/pub/v/1999/boua99b.pdf>.
+
+Chaum, David. ‘Blind Signatures for Untraceable Payments’, in David
+Chaum, Ronald L. Rivest, and Alan T. Sherman (eds), *Advances in
+Cryptology*, New York: Springer, 1983, pp.199-203,
+<http://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18>.
+
+Clemons, E.K., D.C. Croson, and B.W. Weber. ‘Reengineering Money: The
+Mondex Stored Value Card and Beyond’, in *Proceedings of the
+Twenty-Ninth Hawaii International Conference on System Sciences*, Vol.
+4, 1996: 254-61, doi:10.1109/HICSS.1996.495345.
+
+Greenberg, Andy. *This Machine Kills Secrets: How WikiLeakers,
+Hacktivists, and Cypherpunks Are Freeing the World’s Information*, New
+York: Random House, 2012.
+
+Haug, Thomas. ‘A Commentary on Standardization Practices: Lessons from
+the NMT and GSM Mobile Telephone Standards Histories’,
+*Telecommunications Policy* 26 (2002): 101-107.
+
+‘How DigiCash Blew Everything’, January 1999, <http://cryptome.org/jya/digicrash.htm>.
+
+Landrock, Peter. ‘Mondex’, in Henk C. A. van Tilborg (ed.) *Encyclopedia of Cryptography and
+Security*, New York: Springer, 2005, p.
+394,
+<http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262>.
+
+Polanyi, Karl. *The Great Transformation: The Political and Economic
+Origins of Our Time*. 2nd edition, Boston, MA: Beacon Press, 2002.
+
+Schellhorn, Gerhard, Holger Grandy, Dominik Haneberg, and Wolfgang Reif.
+‘The Mondex Challenge: Machine Checked Proofs for an Electronic Purse’,
+in Jayadev Misra, Tobias Nipkow, and Emil Sekerinski (eds) *FM 2006:
+Formal Methods*, Lecture Notes in Computer Science 4085, Berling and
+Heidelberg: Springer, 2006, pp. 16-31,
+<http://link.springer.com/chapter/10.1007/11813040_2>.
+
+[^5_4-DeJongNate_1]: ‘How DigiCash Blew Everything’, January 1999, <http://cryptome.org/jya/digicrash.htm>.
+
+[^5_4-DeJongNate_2]: David Chaum, ‘Blind Signatures for Untraceable Payments’, in David Chaum,
+    Ronald L. Rivest, and Alan T. Sherman (eds) *Advances in
+    Cryptology*, New York: Springer, 1983, pp. 199-203,
+
+[^5_4-DeJongNate_3]: Andy Greenberg, *This Machine Kills Secrets: How WikiLeakers,
+    Hacktivists, and Cypherpunks Are Freeing the World’s
+    Information*, New York: Random House, 2012.
+
+[^5_4-DeJongNate_4]: Knud Böhle, Michael Rader, and Ulrich Riehm, ‘Electronic Payment Systems
+    in European Countries: Country Synthesis Report’, Forschungszentrum
+    Karlsruhe*,* September 1999, <http://www.itas.kit.edu/pub/v/1999/boua99b.pdf>.
+
+[^5_4-DeJongNate_5]: E.K. Clemons, D.C. Croson, and B.W. Weber, ‘Reengineering Money:
+    The Mondex Stored Value Card and Beyond’, in *Proceedings of the
+    Twenty-Ninth Hawaii International Conference on System Sciences
+    1996*, Vol. 4, (1996): 254-61, doi:10.1109/HICSS.1996.495345.
+
+[^5_4-DeJongNate_6]: Clemons, Croson, and Weber, ‘Reengineering Money’.
+
+[^5_4-DeJongNate_7]: Peter Landrock, ‘Mondex’, in Henk C.A. van Tilborg (ed.) *Encyclopedia of Cryptography and Security*, Berlin and Heidelberg: Springer, 2005, p.
+    394, <http://link.springer.com/referenceworkentry/10.1007/0-387-23483-7_262>.
+
+[^5_4-DeJongNate_8]: Gerhard Schellhorn et al., ‘The Mondex Challenge: Machine Checked Proofs for
+    an Electronic Purse’, in Jayadev Misra, Tobias Nipkow, and Emil
+    Sekerinski (ed.) *FM 2006: Formal Methods*, Lecture Notes in
+    Computer Science 4085, Berlin and Heidelberg: Springer, 2006, pp. 16-31.
+
+[^5_4-DeJongNate_9]: Thomas Haug, ‘A Commentary on Standardization Practices: Lessons from the
+    NMT and GSM Mobile Telephone Standards Histories’,
+    *Telecommunications Polic* 26 (2002): 101-107.
+
+[^5_4-DeJongNate_10]: ‘How DigiCash Blew Everything’.
+
+[^5_4-DeJongNate_11]: Karl Polanyi, *The Great Transformation: The Political and
+    Economic Origins of Our Time*, 2nd edition, Boston, MA: Beacon
+    Press, 2002.
+
+
+
+
 # Go Crowdfund Yourself! Some Unintended Consequences of Crowdfunding for Documentary Film and Industry in the U.K.
 
 ### Inge Ejbye Sørensen {.author}
@@ -11693,3 +15472,244 @@ Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
 [^6_2-Ridgway_51]: ‘The crowdfunding donations are a prerequisite, testing open projects for the subsequent search of micro-investments that may be the way to further fuel the emergence of this new world of business models and non-profit oriented real social purpose, rather than the model of a maximization of profit and perpetual growth regardless of the needs of society’, ‘Sobre la regulación del crowdfunding y Ley de Fomento de la Financiación Empresarial’,
     <https://goteo.org/blog/4325>.
      
+
+
+
+# The MoneyLab Crowdfunding Toolkit for Creatives
+
+### Irina Enache and Robert van Boeschoten {.author}
+
+The MoneyLab Crowdfunding Toolkit (MCT) helps creatives explore the
+opportunities and challenges of an increasingly popular form of
+alternative revenue. The Toolkit’s aim is to better inform prospective
+crowdfunding campaigners on what the crowdfunding process entails before
+they start a campaign.
+
+In its practical form, the toolkit is a website.[^6_3-Irina_Robert_1] In what follows we
+briefly introduce the three main components of the Toolkit: several
+in-depth interviews with users, statistics based on a survey of
+creatives using crowdfunding, and an interactive graph of 60 Dutch and
+international crowdfunding websites. We conclude with some insights into
+future needs of the crowdfunding model.
+
+## Adding the Missing Voice
+
+An important issue with the ongoing crowdfunding hype is that the voices
+of creative workers – the ones actually using crowdfunding platforms as
+a way to finance their projects – are missing from the debate.
+Therefore, the MoneyLab Crowdfunding Toolkit draws from eight interviews
+with practitioners experienced in crowdfunding and active in various
+creative sectors (performance and theater, music, filmmaking, social
+entrepreneurship, publishing, etc.) to identify the opportunities and
+challenges of crowdfunding from their perspectives. The interviews
+inquired into what motivated these professionals to crowdfund, what
+challenges and opportunities they identified, their relationship to the
+crowdfunding platform, to the funders, to their project, and whether
+they would do it again.
+
+The interviews offer prospective campaigners a firsthand experience of
+what crowdfunding involves, both positive and negative. For instance,
+all interviewees stated that crowdfunding is more than just about
+raising money; it helps to build a community around a project, and it is
+an organized way to involve one’s personal network. The process also
+makes the person or group who are crowdfunding feel more independent
+from traditional forms of finance. Yet the interviewees hinted that
+crowdfunding platforms at this moment do not suit people working in the
+arts and culture sector. This situation has to do with the business
+model used by the crowdfunding platforms, the amount of time and effort
+required to work on a crowdfunding campaign, and the reliance on friends
+and family for money. The widely held notion that crowdfunding helps you
+find an anonymous crowd actively participating and financially
+supporting your project is questionable.
+
+## What Does Crowdfunding Involve? Some Numbers
+
+Second, the Toolkit addresses the lack of informational resources at
+hand for those who are planning to start a crowdfunding campaign. What
+do creatives need to know before deciding to crowdfund? The Toolkit
+discusses the statistics gained via a survey that asked creatives with
+crowdfunding experience about the challenges of the process.
+
+Below are some of these graphs, showing statistics on the amount of
+hours people put into their campaign; how many funders they had; who
+they were (family and friends? acquaintances? strangers?); how they were
+reached (via social media, face to face, email, or formal meetings), as
+well as the average financial contribution received.
+
+![Fig. 1: Time invested in the crowdfunding campaign.](media/Images_Irina/image1.jpg)
+
+`Fig. 1: Time invested in the crowdfunding campaign.`{.caption}
+
+The upper figures represent number of hours invested. The lower figures
+represent the number of responses. The amount of time people invested in
+a campaign was on average between ten and fifteen hours a week, but a
+tenth of all respondents worked on their campaign over 30 hours a week.
+
+![Fig. 2: The main activities of the crowdfunding process and the time
+invested in them.](media/Images_Irina/image2.jpg)
+
+`Fig. 2: The main activities of the crowdfunding process and the time
+invested in them.`{.caption}
+
+The figures in the circles represent the number of responses. Here it
+becomes obvious that most of the time of a campaign (almost half) is
+spent on promoting it. The majority of respondents did not have
+dedicated expertise in this field and instead needed to perform the task
+themselves.
+
+![Fig. 3: Who funded the campaigns? The segmentation of funders according
+to their relation with the campaigner.](media/Images_Irina/image3.jpg)
+
+`Fig. 3: Who funded the campaigns? The segmentation of funders according
+to their relation with the campaigner.`{.caption}
+
+An interesting outcome was that we could see who the funders were. The
+majority of funders were close relatives. Thus the idea of an anonymous
+crowd helping with one’s campaign seems to be questionable.
+
+![Fig. 4: Types of external help received or needed during the
+crowdfunding campaign.](media/Images_Irina/image5.jpg)
+
+`Fig. 4: Types of external help received or needed during the
+crowdfunding campaign.`{.caption}
+
+Figures represent number of responses. The figures show 1/3 needed
+external help in their campaign, mainly on research on how to develop
+different aspects of the campaign.
+
+![Fig. 5: 35 out of 60 respondents would crowdfund again. Figures
+represent numbers of responses.](media/Images_Irina/image6.jpg)
+
+`Fig. 5: 35 out of 60 respondents would crowdfund again. Figures
+represent numbers of responses.`{.caption}
+
+## Visualizing Crowdfunding Platforms
+
+There are hundreds of crowdfunding platforms worldwide, and most offer
+very little insight into what happens behind their popular
+interfaces.[^6_3-Irina_Robert_2] To tackle this issue the Toolkit’s third feature is an
+interactive visualization that allows prospective campaigners to explore
+60 Dutch and international crowdfunding platforms, as well as look into
+various in-depth statistics that have not been available before. The
+Toolkit is useful for projects that aim to raise less than 50,000 Euro;
+it draws from the Dutch context of crowdfunding and is therefore
+particularly useful for Dutch creatives.
+
+The Toolkit allows filtering and sorting of the crowdfunding platforms,
+according to the following data:
+
+-   The total amount of money raised (by all successful campaigns).
+
+-   The type of projects they host.
+
+-   The crowdfunding model they use (donation / equity / loans /
+    pre–order / subscription).
+
+-   The type of rewards that platforms allow (symbolic, product, shares,
+    none).
+
+-   Whether they are suited for small (5,000 Euro\<), medium
+    (5,000-10,000 Euro) or large (\>10,000 Euro) budget campaigns.
+
+-   The total amount of money raised (by all successful campaigns).
+
+-   The average financial contribution that a funder gives to a
+    successful campaign.
+
+-   The average number of funders for a successful campaign.
+
+![Fig. 7: The interactive visualization – the legend that explains the
+visual encodings.](media/Images_Irina/image7.jpg)
+
+`Fig. 7: The interactive visualization – the legend that explains the
+visual encodings.`{.caption}
+
+![Fig. 8: The Toolkit’s filtering and sorting options.](media/Images_Irina/image8.jpg)
+
+`Fig. 8: The Toolkit’s filtering and sorting options.`{.caption}
+
+![Fig. 9: The results displayed after opting for the filter and sorting
+options in Fig. 8.](media/Images_Irina/image9.jpg)
+
+`Fig. 9: The results displayed after opting for the filter and sorting
+options in Fig. 8.`{.caption}
+
+## In Closing: Critical Comments on the Future of Crowdfunding Platforms
+
+Crowdfunding is commonly hailed as the new, democratic and transparent
+finance model for creative industries. However, crowdfunding is a
+business model, even when based on donations; once a campaign has
+started, all efforts are directed to marketing, outreach, and meeting
+the goal by any means. While seemingly making creative workers
+independent of or less dependent on traditional funding sources,
+crowdfunding platforms pin crowdfunders down to the business dynamics of
+the platform in question. Crowdfunding is perhaps even more complicated
+than traditional applications for funds or sponsorships; it comes with
+an extra baggage of time, free effort, multiple roles, and reliance on
+personal networks. But it also brings much added value, which explains
+why many people would try it again.
+
+Also problematic, most crowdfunding websites hide particular types of
+information. For instance, the majority of crowdfunding campaigns
+fail,[^6_3-Irina_Robert_3] and these unsuccessful campaigns are rarely visible on
+crowdfunding platforms. Most of the browsing filters on crowdfunding
+platforms are designed to display only positive results and successful
+campaigns. Some crowdfunding platforms even have a policy of erasing
+unsuccessful campaigns or making them hard if not impossible to find on
+their websites. These design choices made it impossible to add ‘success
+ratio’ data to the Toolkit. This lack of transparency also causes
+misinformation, offering too much of an optimistic view of what
+crowdfunding can do. This design becomes problematic when the business
+model and design interface of big players such as Indiegogo.com are
+copy-pasted by most crowdfunding platforms, old or new; it perpetuates
+their faults.
+
+Making internal data public and existing public data easier to find is a
+first step to assist prospective campaigners and allow further research.
+Some crowdfunding platforms have already adopted this slightly different
+approach. SciFund Challenge, one of the very few crowdfunding platforms
+dedicated to research and science, updates regular statistics on average
+donation, funders, progress of campaigns, etc. Ulule, a French platform
+with international activity, does the same. Others take a step further
+and have adapted the platform to serve not only crowdfunding purposes
+but also crowdsourcing ones, such as Goteo. The next step is rethinking
+the standard design of platforms in order to better respond to the
+disparate needs of people using it. One standard interface and a suite
+of standardized services cannot provide an accurate response to these
+very different needs.
+
+## References
+
+Amsterdams Fonds voor de Kunst, <http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/>.
+
+Culture Crowd UK, <http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf>.
+
+Jeffers, Adrianne. ‘Indie No-go: Only One in Ten Projects Gets Fully
+Funded on Kickstarter's Biggest Rival’, The Verge, 7 August 2013, <http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded>.
+
+Kickstarter, <https://www.kickstarter.com/help/stats>.
+
+Mondriaan Fonds, <http://www.mondriaanfonds.nl/Aanvragen/item/Voor_de_kunst/>.
+
+MoneyLab Crowdfunding Toolkit,
+[www.networkcultures.org/moneylab-toolkit](http://www.networkcultures.org/moneylab-toolkit).
+
+[^6_3-Irina_Robert_1]: MoneyLab Crowdfunding Toolkit,
+    [www.networkcultures.org/moneylab-toolkit](http://www.networkcultures.org/moneylab-toolkit).
+    The research and design for the MoneyLab Crowdfunding Toolkit was
+    conducted and coordinated by the Institute of Network Cultures as
+    part of the MoneyLab: Coining Alternatives project in 2013-2014.
+    Credits for the visual design of the toolkit go to Gabriele Colombo.
+
+[^6_3-Irina_Robert_2]: Each crowdfunding platform in the Toolkit was asked for the data.
+    Some responded with figures, others declined to share the
+    information, while others never replied. When data such as average
+    donation and number of contributors was not provided by the platform
+    itself, it was gathered from the fifteen most recent successful
+    projects.
+
+[^6_3-Irina_Robert_3]: Adrianne Jeffers, ‘Indie No-Go: Only One in Ten Projects Gets
+    Fully Funded on Kickstarter’s Biggest Rival’, *The Verge*, 7 August
+    2013,
+    <http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded>.
+

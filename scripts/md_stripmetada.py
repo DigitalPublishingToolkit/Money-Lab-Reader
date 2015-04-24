@@ -17,7 +17,7 @@ input_filename=os.path.abspath(sys.argv[1])
 input_file = open(input_filename, "r") # open and parse
 name = ((os.path.basename(input_filename))[:-3]).encode("ascii")
 text = (input_file.read()).decode("utf-8")
-yaml_regex = re.compile(r'(\.\.\.|\-\-\-.*\n(.*\:.*\n){2,}\.\.\.)')
+yaml_regex = re.compile(r'((^|\n)(---|\.\.\.)[\s\S]+?\n\.\.\.)')
         
 def replace(text):    
     if bool(re.match(yaml_regex, text)) == True:
