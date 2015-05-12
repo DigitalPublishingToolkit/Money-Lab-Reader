@@ -60,7 +60,10 @@ def spine(filename): # makes cover & title page linear is <spine>
     manifest = tree.find('.//{http://www.idpf.org/2007/opf}manifest')
     for child in spine.getchildren():
         if child.attrib['idref'] == 'cover_xhtml'or child.attrib['idref'] == 'title_page_xhtml':            
-            (child.attrib).pop("linear")
+            try:
+                (child.attrib).pop("linear")
+            except KeyError:
+                print("Potential error epub_process.py: attribute linear doesn't exist\n")
             #child.attrib['linear'] = 'yes'
     return tree
 
