@@ -67,7 +67,10 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-cover-image=../epub/cover.png \
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
-		--toc-depth=1 \
+		--epub-embed-font=../lib/HelveticaNeueLTStd-Roman.otf \
+		--epub-embed-font=../lib/HelveticaNeueLTStd-Bd.otf \
+		--epub-embed-font=../lib/HelveticaNeueLTStd-It.otf \
+		--epub-embed-font=../lib/HelveticaNeueLTStd-BdCn.otf \
 		-o ../book.epub \
 		book.md ; \
 	cd ../ ; \

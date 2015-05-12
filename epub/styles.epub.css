@@ -2,32 +2,32 @@
     font-family:"HelveticaNeueLT Std";
     font-style:normal;
     font-weight:normal;
-    src : url("../lib/HelveticaNeueLTStd-Roman.otf");
+    src : url("HelveticaNeueLTStd-Roman.otf");
 }
 @font-face {
     font-family:"HelveticaNeueLT Std";
     font-style:normal;
     font-weight:bold;
-    src : url("../lib/HelveticaNeueLTStd-Bd.otf");
+    src : url("HelveticaNeueLTStd-Bd.otf");
 }
 @font-face {
     font-family:"HelveticaNeueLT Std";
     font-style:italic;
     font-weight:normal;
-    src : url("../lib/HelveticaNeueLTStd-It.otf");
+    src : url("HelveticaNeueLTStd-It.otf");
 }
 @font-face {
     font-family:"HelveticaNeueLT Std";
     font-style:oblique;
     font-weight:normal;
-    src : url("../lib/HelveticaNeueLTStd-It.otf");
+    src : url("HelveticaNeueLTStd-It.otf");
 }
 @font-face {
     font-family:"HelveticaNeueLT Std Cn";
     font-style:normal;
     font-weight:bold;
     font-stretch:condensed;
-    src : url("../lib/HelveticaNeueLTStd-BdCn.otf");
+    src : url("HelveticaNeueLTStd-BdCn.otf");
 }
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
     padding:0;
