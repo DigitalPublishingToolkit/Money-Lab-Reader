@@ -324,3 +324,10 @@ h2 {
     font-size: 1em;
     font-weight: 700;
 }
+
+blockquote {
+    /* this follows the style of the book */
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-right: 1em;
+}
