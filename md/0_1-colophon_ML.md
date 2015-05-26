@@ -39,7 +39,7 @@ At stake is the full spectrum of technologies of economic
 Editors: Geert Lovink, Nathaniel Tkacz and Patricia de Vries  
 Copy editing: Annie Goodner, Morgan Currie, Jess van Zyl, Matthew Beros, Miriam Rasch  
 Design: Katja van Stiphout  
-EPUB development: André Castro   
+EPUB development: André Castro, Gottfried Haider (PublishingLab)
 Cover design: Content Context  
 Printer: Drukkerij Tuijtel  
 Publisher: Institute of Network Cultures, Amsterdam, 2015  
