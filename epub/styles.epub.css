@@ -331,3 +331,7 @@ blockquote {
     margin-top: 1em;
     margin-right: 1em;
 }
+
+section.author h3 {
+    margin-bottom: 1em;
+}
