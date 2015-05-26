@@ -332,6 +332,10 @@ blockquote {
     margin-right: 1em;
 }
 
+h1 {
+    margin-bottom: 1em;
+}
+
 section.author h3 {
     margin-bottom: 1em;
 }
