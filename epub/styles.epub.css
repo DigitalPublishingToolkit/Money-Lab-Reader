@@ -335,3 +335,8 @@ blockquote {
 section.author h3 {
     margin-bottom: 1em;
 }
+
+section.footnotes li a {
+    /* move the word "back" a little bit to the right */
+    margin-left: 0.3em;
+}
