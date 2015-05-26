@@ -313,3 +313,8 @@ div.ludovico img {
     line-height: 1.3em;
     margin-left: 0.2em;
 }
+
+code.caption {
+    /* book's Markdown includes the caption for figures twice, hide the second */
+    display: none;
+}
