@@ -318,3 +318,9 @@ code.caption {
     /* book's Markdown includes the caption for figures twice, hide the second */
     display: none;
 }
+
+h2 {
+    /* make subheadings the same size, but bold */
+    font-size: 1em;
+    font-weight: 700;
+}
