@@ -348,3 +348,7 @@ section.footnotes li a {
     /* move the word "back" a little bit to the right */
     margin-left: 0.3em;
 }
+
+h1, h2, h3 {
+    line-height: 1.2em;
+}
