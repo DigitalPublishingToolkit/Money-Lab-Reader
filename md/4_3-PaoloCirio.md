@@ -10,7 +10,10 @@ Article-title: (W)orld Currency
 Article-status: accepted
 Author: Paolo Cirio
 Author-email:   corresponding address
-Author-bio:  Paolo Cirio’s art projects investigate issues such as privacy, transparency, copyright,finance, and democracy. He renders his conceptual works through performances,photos, drawings, videos, and installations. His work has unsettled Facebook, Amazon,Google, and NAT O, among others. He currently lives in New York City.
+Author-bio:  Paolo Cirio’s art projects investigate issues such as privacy, transparency, copyright,
+finance, and democracy. He renders his conceptual works through performances,
+photos, drawings, videos, and installations. His work has unsettled Facebook, Amazon,
+Google, and NAT O, among others. He currently lives in New York City.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -110,7 +113,7 @@ Images and picture courtesy by the artist Paolo Cirio
 
 ## Selected shows 
 *London Design Festival*, exhibition at Victoria and Albert Museum,
-2014, London - UK
+2014, London - U.K.
 
 *Synthetisch Vernünftig,* exhibition at LEAP, 2014, Berlin - Germany
 
