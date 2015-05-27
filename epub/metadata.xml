@@ -11,7 +11,7 @@
 <meta refines="#epub-contributor-0" property="role" scheme="marc:relators">edt</meta>
 <dc:contributor id="epub-contributor-1">Nathaniel Tkacz</dc:contributor>
 <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
-<dc:contributor id="epub-contributor-2">Patricia de Vries/dc:contributor>
+<dc:contributor id="epub-contributor-2">Patricia de Vries</dc:contributor>
 <meta refines="#epub-contributor-2" property="role" scheme="marc:relators">edt</meta>
 <dc:contributor id="epub-contributor-3">Katja van Stiphout</dc:contributor>
 <meta refines="#epub-contributor-3" property="role" scheme="marc:relators">dsr</meta>
