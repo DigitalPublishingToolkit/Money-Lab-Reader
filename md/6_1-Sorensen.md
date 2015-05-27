@@ -10,7 +10,11 @@ Article-title: title of the article
 Article-status: accepted
 Author: Inge Ejbye Sørensen
 Author-email:   corresponding address
-Author-bio:  Inge Ejbye Sørensen is Lord Kelvin Adam Smith Research Fellow in Digital Economyand Culture at Centre for Cultural Policy Research, University of Glasgow. She is anaward-winning film producer and academic, who writes about crowdfunding, creativeindustries, documentary film production, and digital distribution and delivery of audiovisualcontent.
+Author-bio:  Inge Ejbye Sørensen is Lord Kelvin Adam Smith Research Fellow in Digital Economy
+and Culture at Centre for Cultural Policy Research, University of Glasgow. She is an
+award-winning film producer and academic, who writes about crowdfunding, creative
+industries, documentary film production, and digital distribution and delivery of audiovisual
+content.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -215,7 +219,7 @@ follows the rights to resell the documentaries to other broadcasters,
 international distributors or outlets like Netflix and Lovefilm. The
 British model of funding documentary films is different from most other
 European countries, for example Denmark where co-production and
-co-funding is the main form for funding films, and the US where deficit
+co-funding is the main form for funding films, and the U.S. where deficit
 funding is the norm.[^6_1-Sorensen_10] However as the world’s second largest producer
 and exporter of documentaries, what is happening within the British
 documentary industry is of global importance.
@@ -570,7 +574,7 @@ Kendall, Geraldine.
 39.
 
 Kickstarter.
-http://www.[kickstarter.com](http://www.kickstarter.com).
+[kickstarter.com](http://www.kickstarter.com).
 
 Kocer, Suncem. ‘Social Business in Online Financing: Crowdfunding
 Narratives of Independent Documentary Producers in Turkey’, *New Media
@@ -615,7 +619,7 @@ Technology Innovation’, *Computer* 46. 3 (2013): 100-103.
 
 Sørensen, Inge.
 ‘Crowdsourcing and Outsourcing: The Impact of Online Funding and
-Distribution on the Documentary Film Industry in the UK’, *Media ,
+Distribution on the Documentary Film Industry in the U.K.’, *Media ,
 Culture & Society* 34.6 (2012): 726-743.
 
 \_\_\_\_\_. *Documentary in a
@@ -708,14 +712,14 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
 
 [^6_1-Sorensen_12]: Inge Sørensen, ‘Crowdsourcing and Outsourcing: The Impact of
     Online Funding and Distribution on the Documentary Film Industry in
-    the UK’, *Media, Culture & Society* 34.6 (2012): p. 734.
+    the U.K.’, *Media, Culture & Society* 34.6 (2012): p. 734.
 
 [^6_1-Sorensen_13]: David Hickman, ‘Documentary Funding Gap Stalls Great Films Like
     the Act of Killing’, *The Conversation,* 6 March 2014,
     [http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737](http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737).
 
 [^6_1-Sorensen_14]: Nick Fraser is cited in David Cox, ‘Is This the End of the Line
-    for the Impartial Documentary’*, The Guardian.co.uk*, 9 November
+    for the Impartial Documentary’, *The Guardian.co.uk*, 9 November
     2009,
     [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films).
 
@@ -730,7 +734,7 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     communications with the author.
 
 [^6_1-Sorensen_17]: David Cox, ‘Is This the End of the Line for the Impartial
-    Documentary’*, The Guardian*, 9 November 2009,
+    Documentary’, *The Guardian*, 9 November 2009,
     [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films).
 
 [^6_1-Sorensen_18]: As described by Inge Sørensen, ‘Crowdsourcing and Outsourcing’
@@ -738,7 +742,9 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     Discourse Analysis of Crowdsourcing Coverage’,
     *Information, Communication & Society,* 15.3 (2012): 394-410.
 
-[^6_1-Sorensen_19]: Evgeny Morozov, ‘Kickstarter Will Not Save Artists from the Entertainment Industry’s Shackles:A New Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, Slate Magazine, 25September 2012, <http://www.slate.com/articles/technology/future_tense/2012/09/kickstarter_s_crowdfunding_won_t_save_indie_filmmaking_.html>.
+[^6_1-Sorensen_19]: Evgeny Morozov, ‘Kickstarter Will Not Save Artists from the Entertainment Industry’s Shackles:
+A New Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, Slate Magazine, 25
+September 2012, <http://www.slate.com/articles/technology/future_tense/2012/09/kickstarter_s_crowdfunding_won_t_save_indie_filmmaking_.html>.
 
 [^6_1-Sorensen_20]: Ruth Towse, *Advanced Introduction To Cultural Economics*,
     Cheltenham: Edward Elgar Publishing, 2014.

@@ -10,7 +10,11 @@ Article-title: Crowdfunding the Commons?
 Article-status: accepted
 Author: Renée Ridgway
 Author-email:   corresponding address
-Author-bio:  Renée Ridgway is an artist, curator, writer, and educator. Ridgway is currently a PhDfellow at Copenhagen Business School in the Department of Management, Philosophyand Politics in cooperation with Leuphana University’s Digital Cultures ResearchLab. Her current research merges artistic and curatorial practice within the digitaleconomies.
+Author-bio:  Renée Ridgway is an artist, curator, writer, and educator. Ridgway is currently a PhD
+fellow at Copenhagen Business School in the Department of Management, Philosophy
+and Politics in cooperation with Leuphana University’s Digital Cultures Research
+Lab. Her current research merges artistic and curatorial practice within the digital
+economies.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -49,7 +53,7 @@ use crowdsourced initiatives for the social good, or commons, deemed
 ‘civic crowdfunding’. Although volunteering time has always been a
 ‘neighborly’ thing to do, by helping out friends, family, and
 colleagues, more and more people are reaching into their social networks
-to ask not only for favors, but also for monetary ‘gifts’. In the UK
+to ask not only for favors, but also for monetary ‘gifts’. In the U.K.
 currently, the Big Society ‘nudges’ taxpayers to contribute to society,
 and in turn people ‘nudge’ their friends (or neighbors) for cash to
 causes they feel are important, yet ostensibly don’t have the money to
@@ -573,9 +577,10 @@ Peoples Project, ‘First People’s Drones’,
 
 Perulero, María G. (Goteo), Interview on 12 September 2014.
 
-Platoniq. <http://www.youcoop.org/>.
+Platoniq, <http://www.youcoop.org/>.
 
-Ridgway, Renée. ‘Crowdfunding: Monetizing the Crowd’, *n.e.w.s.*, 2 March 2014, http://northeastwestsouth.net/crowdfunding-monetizing-crowd.
+Ridgway, Renée. ‘Crowdfunding: Monetizing the Crowd’, *n.e.w.s.*, 2 March 2014, 
+<http://northeastwestsouth.net/crowdfunding-monetizing-crowd>.
 
 \_\_\_\_\_. ‘Monetizing the Crowd?’ at the online journal *Open!
 Platform for Art, Culture and the Public Domain*,
@@ -616,7 +621,7 @@ Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
 [^6_2-Ridgway_11]: Kickstarter, ‘Marina Abramovic Institute: The Founders’,
     <https://www.kickstarter.com/projects/maihudson/marina-abramovic-institute-the-founders>.
 
-[^6_2-Ridgway_12]: For more about the jury process see: https://www.artbasel.com/en/Crowdfunding/Discover-Projects. The initiative can be found here:
+[^6_2-Ridgway_12]: For more about the jury process see: <https://www.artbasel.com/en/Crowdfunding/Discover-Projects>. The initiative can be found here:
     <https://www.artbasel.com/crowdfunding>.
 
 [^6_2-Ridgway_13]: ‘In the United States Equity Crowdfunding is only accessible for accredited investors, but this could change soon based on the JOBS Act. This is an exciting development for investors and also start-up entrepreneurs as this expands their possibilities of raising capital’, Isabelle De Clerq, ‘Untangling Peer-To-Peer Lending, Crowdfunding, and Microlending’, *BTC Jam*, 24 July 2014,
@@ -633,7 +638,8 @@ Stadler, Felix. ‘Crowdfunding the Commons: Goteo.org Interview’,
 [^6_2-Ridgway_17]: Indiegogo, ‘AFDI Jihad Awareness Campaign’, https://www.indiegogo.com/projects/afdi-jihad-awareness-campaign. Cited from: Rodrigo Davies, ‘The Ethics of Crowdfunding’, Center for Digital Ethics and Policy, Loyola University Chicago, 17 December 2013,
     <http://digitalethics.org/essays/the-ethics-of-crowdfunding/>. 
 
-[^6_2-Ridgway_18]: Kickstarter, ‘We Were Wrong’, 21 June 2013, https://www.kickstarter.com/blog/we-were-wrong,and see Davies, ‘The Ethics of Crowdfunding’.
+[^6_2-Ridgway_18]: Kickstarter, ‘We Were Wrong’, 21 June 2013, <https://www.kickstarter.com/blog/we-were-wrong>,
+and see Davies, ‘The Ethics of Crowdfunding’.
 
 [^6_2-Ridgway_19]: Davies, ‘The Ethics of Crowdfunding’. 
 
