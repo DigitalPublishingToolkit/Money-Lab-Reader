@@ -2,17 +2,14 @@
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
 <dc:title id="epub-title-1">MoneyLab Reader: An Intervention in Digital Economy</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
-<meta name="calibre:series" content="INC Reader"/>
-<meta name="calibre:series_index" content="10"/>
+<meta content="INC Reader" name="calibre:series"/>
+<meta content="1" name="calibre:series_index"/>
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
 <dc:date id="epub-date">2015-04</dc:date>
 <dc:language>en-US</dc:language>
-<dc:contributor id="epub-contributor-0">Geert Lovink</dc:contributor>
-<meta refines="#epub-contributor-0" property="role" scheme="marc:relators">edt</meta>
-<dc:contributor id="epub-contributor-1">Nathaniel Tkacz</dc:contributor>
-<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
-<dc:contributor id="epub-contributor-2">Patricia de Vries</dc:contributor>
-<meta refines="#epub-contributor-2" property="role" scheme="marc:relators">edt</meta>
+<dc:creator opf:file-as="Lovink, Geert &amp; Tkacz, Nathaniel &amp; de Vries, Patricia" opf:role="eds">Geert Lovink</dc:creator>
+<dc:creator opf:file-as="Lovink, Geert &amp; Tkacz, Nathaniel &amp; de Vries, Patricia" opf:role="eds">Nathaniel Tkacz</dc:creator>
+<dc:creator opf:file-as="Lovink, Geert &amp; Tkacz, Nathaniel &amp; de Vries, Patricia" opf:role="eds">Patricia de Vries</dc:creator>
 <dc:contributor id="epub-contributor-3">Katja van Stiphout</dc:contributor>
 <meta refines="#epub-contributor-3" property="role" scheme="marc:relators">dsr</meta>
 <dc:contributor id="epub-contributor-4">André Castro</dc:contributor>
