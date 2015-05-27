@@ -10,7 +10,10 @@ Article-title: title of the article
 Article-status: accepted
 Author: Max Haiven
 Author-email:   corresponding address
-Author-bio:  Max Haiven is an Assistant Professor in the Division of Art History and Critical Studiesat the Nova Scotia College of Art and Design, Canada. He is author of Crises of Imagination,Crises of Power (2014), The Radical Imagination (2014) with Alex Khasnabish,and Cultures of Financialization (2014).
+Author-bio:  Max Haiven is an Assistant Professor in the Division of Art History and Critical Studies
+at the Nova Scotia College of Art and Design, Canada. He is author of Crises of Imagination,
+Crises of Power (2014), The Radical Imagination (2014) with Alex Khasnabish,
+and Cultures of Financialization (2014).
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -738,7 +741,7 @@ Caffentzis, George. *Clipped Coins, Abused Words, and Civil Government:
 John Locke’s Philosophy of Money*, Brooklyn NY: Autonomedia, 1989.
 
 Carruthers, Bruce G. and Laura Ariovich. *Money and Credit: A
-Sociological Approach*, Cambridge, UK and Malden, MA: Polity, 2010.
+Sociological Approach*, Cambridge, U.K. and Malden, MA: Polity, 2010.
 
 Eagleton, Terry. *Why Marx Was Right*, New Haven, CT: Yale University
 Press, 2011.
@@ -828,7 +831,7 @@ Princeton University Press, 2005.
 [^4_1-Haiven_Max_2]: Lawrence Weschler, *Boggs: A Comedy of Values*. Chicago:
     University of Chicago Press, 1999.
 
-[^4_1-Haiven_Max_3]: *The Onion*, ‘U.S. Economy Grinds To Halt As Nation Realizes Money Just A Symbolic, Mutually Shared Illusion’, 16 February 2010, http://www.theonion.com/articles/us-economy-grinds-to-halt-as-nation-realizes-money,2912/.
+[^4_1-Haiven_Max_3]: *The Onion*, ‘U.S. Economy Grinds To Halt As Nation Realizes Money Just A Symbolic, Mutually Shared Illusion’, 16 February 2010, <http://www.theonion.com/articles/us-economy-grinds-to-halt-as-nation-realizes-money,2912/>.
 
 [^4_1-Haiven_Max_4]: David Harvey, *A Brief History of Neoliberalism*, Oxford: Oxford
     University Press, 2005.
@@ -869,8 +872,8 @@ Princeton University Press, 2005.
 [^4_1-Haiven_Max_14]: On this process, see David Harvey, *The Limits to Capital*,
     London and New York: Verso, 2006.
 
-[^4_1-Haiven_Max_15]: See http://www.artichokeyinkpress.com/;
-    http://www.chadperson.com/; http://markwagnerinc.com/.
+[^4_1-Haiven_Max_15]: See <http://www.artichokeyinkpress.com/>;
+    <http://www.chadperson.com/>; <http://markwagnerinc.com/>.
 
 [^4_1-Haiven_Max_16]: See David Graeber, *Toward An Anthropological Theory of Value:
     The False Coin of Our Own Dreams*, London and New York: Palgrave,
@@ -909,9 +912,9 @@ Princeton University Press, 2005.
 [^4_1-Haiven_Max_25]: Anitra Nelson and Frans Timmerman (eds) *Life Without Money:
     Building Fair and Sustainable Economies*, London: Pluto, 2011.
 
-[^4_1-Haiven_Max_26]: See http://carolinewoolard.com/.
+[^4_1-Haiven_Max_26]: See <http://carolinewoolard.com/>.
 
-[^4_1-Haiven_Max_27]: See http://www.geheimagentur.net/.
+[^4_1-Haiven_Max_27]: See <http://www.geheimagentur.net/>.
 
 [^4_1-Haiven_Max_28]: See [http://www.schwarzbank.org/](http://www.schwarzbank.org/).
 
