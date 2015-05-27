@@ -193,7 +193,7 @@ acknowledged. Yes, bloggers and YouTubers have had many successes,
 particularly against government. They have brought down a Republican
 senator, an attorney general, and even made headway against the
 repressive net censorship of the Chinese. WikiLeaks has released
-thousands of documents much to the consternation of the US government,
+thousands of documents much to the consternation of the U.S. government,
 and the people of Egypt and Syria have utilized technologies as
 corporate-driven as Facebook to organize resistance to repressive
 regimes. YouTube not only embarrassed then-candidate Barack Obama about
@@ -307,7 +307,7 @@ Warcraft, PhD diss., Amsterdam: Faculty of Humanities, University of
 Amsterdam, 2010.
 
 Goetz, Thomas. ‘Open Source Everywhere’, Wired, November 2003,
-http://www.wired.com/wired/archive/11.11/opensource.html.
+<http://www.wired.com/wired/archive/11.11/opensource.html>.
 
 Howe, Jeff. ‘The Rise of Crowd Sourcing’, Wired, June 2006.
 
@@ -330,7 +330,7 @@ O'Reilly, 2006.
 
 O’Reilly, Tim and John Battelle. ‘Web Squared: Web 2.0 Five Years On.’
 Web 2.0 Summit, 10 October 2009,
-http://www.web2summit.com/web2009/public/schedule/detail/10194.
+<http://www.web2summit.com/web2009/public/schedule/detail/10194>.
 
 Postman Neil and Charles Weingartner. Teaching As a Subversive Activity,
 New York: Delacorte Press, 1969.
@@ -339,7 +339,7 @@ Raymond, Eric S. Cathedral and Bazaar, Cambridge, MA: O’Reilly, 2001.
 
 Rosoff, Matt. ‘Google’s 15 Biggest Acquisitions And What Happened To
 Them Read More’, Business Insider, 14 March 2011,
-http://www.businessinsider.com/googles-15-biggest-acquisitions-and-what-418happened-to-them-2011-3\#\#ixzz1WO6AhkU3.
+<http://www.businessinsider.com/googles-15-biggest-acquisitions-and-what-418happened-to-them-2011-3\#\#ixzz1WO6AhkU3>.
 
 Rushkoff, Douglas. Get Back in the Box, New York: Collins, 2005.
 
@@ -347,11 +347,11 @@ Rushkoff, Douglas. Media Virus. New York: Ballantine Books, 1994.
 
 Searls, Doc and David Weinberger. ‘World of Ends: What the Internet Is
 and How to Stop Mistaking It for Something Else, 10 March 2003,
-http://worldofends.com.
+<http://worldofends.com>.
 
 Wolk, D. ‘Future of Open Source: Collaborative Culture’, Wired, June
 2009,
-http://www.wired.com/dualperspectives/article/news/2009/06/dp\_opensource\_wired0616.
+<http://www.wired.com/dualperspectives/article/news/2009/06/dp\_opensource\_wired0616>.
 
 Young, Robert. ‘Giving it Away: How Red Hat Software Stumbled Across a
 New Economic Model and Helped Improve an Industry’, in Chris DiBona, Sam
@@ -385,7 +385,7 @@ Revolution, Sebastopol: O’Reilly, 1999.
 
 [^1_4-Rushkoff_1_4-Rushkoff_7]: Carse, *Finite & Infinite Games*, 1986.
 
-[^1_4-Rushkoff_1_4-Rushkoff_8]: See http://www.itex.com.
+[^1_4-Rushkoff_1_4-Rushkoff_8]: See <http://www.itex.com>.
 
 [^1_4-Rushkoff_1_4-Rushkoff_9]: Bernard Lietaer, *The Mystery of Money: Beyond Greed and
     Scarcity,* Munich: Riemann Verlag, 2000, p. 183.
@@ -418,25 +418,25 @@ Revolution, Sebastopol: O’Reilly, 1999.
 
 [^1_4-Rushkoff_1_4-Rushkoff_19]: Doc Searls and David Weinberger, ‘World of Ends What the Internet
     Is and How to Stop Mistaking It for Something Else’, 10 March 2003,
-    http://worldofends.com.
+    <http://worldofends.com>.
 
 [^1_4-Rushkoff_1_4-Rushkoff_20]: Thomas Goetz, ‘Open Source Everywhere*’, Wired*, November 2003,
-    http://www.wired.com/wired/archive/11.11/opensource.html.
+    <http://www.wired.com/wired/archive/11.11/opensource.html>.
 
 [^1_4-Rushkoff_1_4-Rushkoff_21]: D. Wolk, ‘Future of Open Source: Collaborative Culture’*, Wired*
     (June 2009):
-    http://www.wired.com/dualperspectives/article/news/2009/06/dp\_opensource\_wired0616.
+    <http://www.wired.com/dualperspectives/article/news/2009/06/dp\_opensource\_wired0616>.
 
 [^1_4-Rushkoff_1_4-Rushkoff_22]: Eric S. Raymond, *Cathedral and Bazaar,* Cambridge, MA: O’
     Reilly, 2001.
 
 [^1_4-Rushkoff_1_4-Rushkoff_23]: Tim O’Reilly and John Battelle, ‘Web Squared: Web 2.0 Five Years
     On’, *Web 2.0 Summit,* 10 October 2009,
-    http://www.web2summit.com/web2009/public/schedule/detail/10194
+    <http://www.web2summit.com/web2009/public/schedule/detail/10194>.
 
 [^1_4-Rushkoff_1_4-Rushkoff_24]: Matt Rosoff, ‘Google’s 15 Biggest Acquisitions and What Happened
     to Them’, *Business Insider,* 14 March 2011,
-    http://www.businessinsider.com/googles-15-biggest-acquisitions-and-what-happened-to-them-2011-3?op=1&IR=T.
+    <http://www.businessinsider.com/googles-15-biggest-acquisitions-and-what-happened-to-them-2011-3?op=1&IR=T>.
 
 [^1_4-Rushkoff_1_4-Rushkoff_25]: As just one example, the purchase of Dodgeball by Google in 2005.
 
