@@ -10,7 +10,10 @@ Article-title: Heat Exchanges
 Article-status: accepted
 Author: Finn Brunton
 Author-email:   corresponding address
-Author-bio:  Finn Brunton is Assistant Professor in the Department of Media, Culture, and Communicationat NYU’s Steinhardt School. He is the author of Spam: A Shadow History ofthe Internet (MIT, 2013), and the forthcoming Obfuscation: A User’s Guide (MIT, 2015)with Helen Nissenbaum. He is working on a book about cryptocurrencies.
+Author-bio:  Finn Brunton is Assistant Professor in the Department of Media, Culture, and Communication
+at NYU’s Steinhardt School. He is the author of Spam: A Shadow History of
+the Internet (MIT, 2013), and the forthcoming Obfuscation: A User’s Guide (MIT, 2015)
+with Helen Nissenbaum. He is working on a book about cryptocurrencies.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -191,8 +194,8 @@ hashes of data – that is, they’re mining Bitcoin.[^3_4-Brunton_17]
 
 ## Making Money Money
 
-‘Superdollars’, said a Europol anti-counterfeiting officer, ‘are just US
-dollars not made by the US government’.[^3_4-Brunton_18] He was speaking of the
+‘Superdollars’, said a Europol anti-counterfeiting officer, ‘are just U.S.
+dollars not made by the U.S. government’.[^3_4-Brunton_18] He was speaking of the
 counterfeit U.S. hundred called the Supernote, believed to originate
 from North Korea (likely cranked out on the excellent currency presses
 inherited from East Germany after the fall of Berlin Wall, where they’d
@@ -474,7 +477,7 @@ The photographs from the first round of Bitcoin’s popularity, the images
 of people’s awesomely eccentric home-built mining rigs, were pictures of
 improvised heat management. Box fans, big stretches of the corrugated
 tubing normally used to channel the waste heat from clothes driers,
-precariously poised air conditioners, and USB-powered fans resting
+precariously poised air conditioners, and U.S.B-powered fans resting
 directly on the finned heat sinks of boards were the rule. Stories
 abounded of early Bitcoin devotees rerouting their home flues to keep
 the warm, hash-generating air circulating through their houses in
