@@ -277,11 +277,11 @@ Patterson, Scott. *Dark Pools, The Rise of A.I. Trading Machines and the Looming
 
 [^0_3-IntrofinalMC_1]: Geert Lovink and Nathaniel Tkacz, *Data Browser*, New York: Autonomedia, 2013, pp.
     175-191. See also:
-    http://networkcultures.org/moneylab/about/background/.
+    <http://networkcultures.org/moneylab/about/background/>.
 
 [^0_3-IntrofinalMC_2]: Kate Harrison, ‘Crowdfunding Potato Salad: Funny or Insulting?’,
     *Forbes*, 08 August 2014,
-    http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/
+    <http://www.forbes.com/sites/kateharrison/2014/08/08/crowdfunding-potato-salad-funny-or-insulting/>
 
 [^0_3-IntrofinalMC_3]: Scott Patterson, *Dark Pools, The Rise of A.I. Trading Machines
     and the Looming Threat to Wall Street*, New York: Random House, 2012.
