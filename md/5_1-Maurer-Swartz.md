@@ -11,8 +11,14 @@ Article-status: accepted
 Author: Bill Maurer, Lana Swartz
 Author-email:   corresponding address
 Author-bio:  
-Bill Maurer is Dean of Social Sciences and Professor of Anthropology and Law, Universityof California, Irvine. He is also the Director of the Institute for Money, Technologyand Financial Inclusion. A cultural anthropologist, he conducts research on moneyand finance, focusing on the technological infrastructures and social relations of exchangeand payment.
-Lana Swartz is a PhD candidate at the Annenberg School of Communication andJournalism, University of Southern California. Most of her research is about money andother regimes of value and its transfer.
+Bill Maurer is Dean of Social Sciences and Professor of Anthropology and Law, University
+of California, Irvine. He is also the Director of the Institute for Money, Technology
+and Financial Inclusion. A cultural anthropologist, he conducts research on money
+and finance, focusing on the technological infrastructures and social relations of exchange
+and payment.
+Lana Swartz is a PhD candidate at the Annenberg School of Communication and
+Journalism, University of Southern California. Most of her research is about money and
+other regimes of value and its transfer.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -445,7 +451,7 @@ Zelizer, Viviana A. *The Social Meaning of Money*, Princeton: Princeton Universi
     Hart. See his *Memory Bank: Money in an Unequal World*, London:
     Profile, 2000.
 
-[^5_1-Maurer-Swartz_8]: US Federal Reserve, 2013 ‘Federal Reserve Payments Study: Recent
+[^5_1-Maurer-Swartz_8]: U.S. Federal Reserve, 2013 ‘Federal Reserve Payments Study: Recent
     and Long-Term Payment Trends in the United States: 2003-2012’,
     *Summary Report and Initial Data Release*, Washington, DC, 2013.
 
