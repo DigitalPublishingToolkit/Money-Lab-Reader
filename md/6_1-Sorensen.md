@@ -719,7 +719,7 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     [http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737](http://theconversation.com/documentary-funding-gap-stalls-great-films-like-the-act-of-killing-23737).
 
 [^6_1-Sorensen_14]: Nick Fraser is cited in David Cox, ‘Is This the End of the Line
-    for the Impartial Documentary’, *The Guardian.co.uk*, 9 November
+    for the Impartial Documentary’, *The Guardian*, 9 November
     2009,
     [http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films](http://www.theguardian.com/film/filmblog/2009/nov/09/sheffield-docfest-documentary-films).
 
@@ -743,7 +743,7 @@ Making a Dream Become Reality’, *Risk Management* 60. 2 (2013): 26-9.
     *Information, Communication & Society,* 15.3 (2012): 394-410.
 
 [^6_1-Sorensen_19]: Evgeny Morozov, ‘Kickstarter Will Not Save Artists from the Entertainment Industry’s Shackles:
-A New Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, Slate Magazine, 25
+A New Study Says Crowdfunding Benefits Only Certain Kinds of Movies’, *Slate Magazine*, 25
 September 2012, <http://www.slate.com/articles/technology/future_tense/2012/09/kickstarter_s_crowdfunding_won_t_save_indie_filmmaking_.html>.
 
 [^6_1-Sorensen_20]: Ruth Towse, *Advanced Introduction To Cultural Economics*,
