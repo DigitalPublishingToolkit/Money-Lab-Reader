@@ -10,7 +10,11 @@ Article-title: title of the article
 Article-status: accepted
 Author: David Golumbia
 Author-email:   corresponding address
-Author-bio:  David Golumbia teaches at Virginia Commonwealth University. He is the author of TheCultural Logic of Computation (Harvard, 2009), and of many articles on digital culture,language, linguistics, and literary studies. He maintains the blog http://uncomputing.org. Golumbia is completing a book titled Cyberlibertarianism: The False Promise ofDigital Freedom.
+Author-bio:  David Golumbia teaches at Virginia Commonwealth University. He is the author of The
+Cultural Logic of Computation (Harvard, 2009), and of many articles on digital culture,
+language, linguistics, and literary studies. He maintains the blog http://uncomputing.
+org. Golumbia is completing a book titled Cyberlibertarianism: The False Promise of
+Digital Freedom.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -173,8 +177,8 @@ yet reading Bitcoin materials it often seems as if its advocates refuse
 to acknowledge they are different.[^3_1-Golumbia_10]
 
 ‘Money’ names the instrument in which official transactions in that
-nation-state are conducted: all other things being equal, US Government
-bonds have a value in US dollars, and taxes in the US must be paid in
+nation-state are conducted: all other things being equal, U.S. Government
+bonds have a value in U.S. dollars, and taxes in the U.S. must be paid in
 dollars. As another economist puts it, ‘in post-Keynesian monetary
 theory money is anything that will settle a legal contractual
 obligation. And by the civil law of contracts, the government determines
@@ -565,7 +569,7 @@ View*, 25 December 2013,
 
 Golumbia, David. ‘Bitcoinsanity 1: The (Ir)relevance of Finance, or,
 It’s (Not) Different This Time’, *Uncomputing*, 6 January 2014,
-http://www.uncomputing.org/?p=307.
+<http://www.uncomputing.org/?p=307>.
 
 \_\_\_\_\_. ‘Bitcoinsanity 2: Revolutions in Rhetoric’, *Uncomputing*,
 26 June 2014, <http://www.uncomputing.org/?p=1390>.
@@ -904,8 +908,7 @@ Yermack, David. ‘Is Bitcoin a Real Currency? An Economic Appraisal’,
     and to Rumpelstatskin, ‘Everything I Was Afraid to Ask About Bitcoin
     but Did’, *Naked Capitalism*, 21 November 2013, <http://www.nakedcapitalism.com/2013/11/everything-i-was-afraid-to-ask-about-bitcoin-but-did.html>. 
     Also see the comments collected by the Twitter account ‘Shit
-    /r/Bitcoin says’ (@shit\_rbtc\_says,
-    https://twitter.com/shit\_rbtc\_says), some of which are discussed
+    /r/Bitcoin says’ [@shit\_rbtc\_says](https://twitter.com/shit_rbtc_says), some of which are discussed
     in David Golumbia, ‘Bitcoinsanity 2: Revolutions in Rhetoric’,
     *Uncomputing*, 26 June 2014, <http://www.uncomputing.org/?p=1390>.
     Vasilis Kostakis and Chris Giotitsas, ‘The (A)Political Economy of
