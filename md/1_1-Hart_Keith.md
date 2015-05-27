@@ -10,7 +10,11 @@ Article-title: Money in the Making of World Society
 Article-status: accepted
 Author: Keith Hart
 Author-email:   corresponding address
-Author-bio:  Keith Hart is Centennial Professor of Economic Anthropology at the London Schoolof Economics and International Director at the Human Economy Program, Universityof Pretoria. His writings on money include ‘Heads or Tails? Two Sides of the Coin’(1986), and The Memory Bank: Money in an Unequal World (2000), available at <http://thememoryba nk.co.uk/book/>.
+Author-bio:  Keith Hart is Centennial Professor of Economic Anthropology at the London School
+of Economics and International Director at the Human Economy Program, University
+of Pretoria. His writings on money include ‘Heads or Tails? Two Sides of the Coin’
+(1986), and The Memory Bank: Money in an Unequal World (2000), available at <http://
+thememoryba nk.co.uk/book/>.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -597,7 +601,7 @@ outbreak of war in 1914.
 
 1979-2008            Second age of financial globalization
 
-2008- …                 Third age of war and revolutions?
+2008- …              Third age of war and revolutions?
 
 This is not a prophecy that the outcome of the present global crisis
 will be inevitably dire, but rather an invitation to public debate at a
