@@ -169,20 +169,20 @@ according to the following data:
 
 -   The average number of funders for a successful campaign.
 
-![Fig. 7: The interactive visualization – the legend that explains the
+![Fig. 6: The interactive visualization – the legend that explains the
 visual encodings.](media/Images_Irina/image7.jpg)
 
-`Fig. 7: The interactive visualization – the legend that explains the
+`Fig. 6: The interactive visualization – the legend that explains the
 visual encodings.`{.caption}
 
-![Fig. 8: The Toolkit’s filtering and sorting options.](media/Images_Irina/image8.jpg)
+![Fig. 7: The Toolkit’s filtering and sorting options.](media/Images_Irina/image8.jpg)
 
-`Fig. 8: The Toolkit’s filtering and sorting options.`{.caption}
+`Fig. 7: The Toolkit’s filtering and sorting options.`{.caption}
 
-![Fig. 9: The results displayed after opting for the filter and sorting
+![Fig. 8: The results displayed after opting for the filter and sorting
 options in Fig. 8.](media/Images_Irina/image9.jpg)
 
-`Fig. 9: The results displayed after opting for the filter and sorting
+`Fig. 8: The results displayed after opting for the filter and sorting
 options in Fig. 8.`{.caption}
 
 ## In Closing: Critical Comments on the Future of Crowdfunding Platforms
