@@ -21,7 +21,7 @@ Rights: CC BY-NC 4.0
 
 # ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 
-### Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco {.author}
+### Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco González {.author}
 
 
 Currency experiments are enjoying something of a renaissance. Some have
