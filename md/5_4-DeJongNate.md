@@ -493,7 +493,7 @@ plans to deploy it in Canada.
 
 Böhle, Knud, Michael Rader, and Ulrich Riehm. ‘Electronic Payment
 Systems in European Countries: Country Synthesis Report’,
-Forschungszentrum Karlsruhe*,* September 1999,
+Forschungszentrum Karlsruhe, September 1999,
 <http://www.itas.kit.edu/pub/v/1999/boua99b.pdf>.
 
 Chaum, David. ‘Blind Signatures for Untraceable Payments’, in David
