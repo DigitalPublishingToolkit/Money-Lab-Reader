@@ -353,8 +353,7 @@ Financialization* (2014).
 London School of Economics and International Director at the Human Economy
 Program, University of Pretoria. His writings on money include ‘Heads or
 Tails? Two Sides of the Coin’ (1986), and *The Memory Bank: Money in an
-Unequal World* (2000), available at [http://thememoryba
-nk.co.uk/book/](http://thememorybank.co.uk/book/).
+Unequal World* (2000), available at [http://thememorybank.co.uk/book/](http://thememorybank.co.uk/book/).
 
 **Samer Hassan** is an activist and Assistant Professor at the
 Universidad Complutense de Madrid. With an interdisciplinary background,
@@ -384,7 +383,7 @@ anthropologist, he conducts research on money and finance, focusing on
 the technological infrastructures and social relations of exchange and
 payment.
 
-**Rachel O’Dwyer** is a post-doctoral researcher and lecturer in the School of Computer Science in Trinity College Dublin. She is the leader of the Dublin Art and Technology Association (www.data.ie) and the initiator and lead curator of Openhere, a festival and conference on the digital commons. She writes about digital media, political economy of communications, and media art and culture.
+**Rachel O’Dwyer** is a post-doctoral researcher and lecturer in the School of Computer Science in Trinity College Dublin. She is the leader of the Dublin Art and Technology Association (<http://www.data.ie>)  and the initiator and lead curator of Openhere, a festival and conference on the digital commons. She writes about digital media, political economy of communications, and media art and culture.
 
 **Pekka Piironen** a Finnish economic and strategy theorist, known
 for his theory of the collective pledge and biopolitics of firms. He is
