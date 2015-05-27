@@ -352,7 +352,7 @@ Elements for a Marxist Reading of the Thesis of Cognitive Capitalism’,
     February 2014,
     [http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/](http://quaderni.sanprecario.info/2014/02/biorank-algorithms-and-transformation-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti/).
 
-[^3_3-Terranova_2]: See, <http://dcentproject.eu>.
+[^3_3-Terranova_2]: See <http://dcentproject.eu>.
 
 [^3_3-Terranova_3]: Jerome Roos, ‘In Each Other We Trust: Coining Alternatives to
     Capitalism’, *Roarmag.org*, 31 March 2014,
