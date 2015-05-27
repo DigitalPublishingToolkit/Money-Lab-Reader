@@ -587,21 +587,41 @@ the 1930s, but the Great Depression was part of a sequence launched when
 three decades of financial globalization were interrupted by the
 outbreak of war in 1914.
 
-1776-1815            Age of war and revolutions
+<table>
+	<tr>
+		<td>1776-1815</td>
+		<td>Age of war and revolutions</td>
+	</tr>
+	<tr>
+		<td>1815-1848</td>
+		<td>Industrial revolution</td>
+	</tr>	
+	<tr>
+		<td>1848-1873</td>
+		<td>Origins of national capitalism</td>
+	</tr>	
+	<tr>
+		<td>1873-1914</td>
+		<td>First age of financial globalization</td>
+	</tr>
+	<tr>
+		<td>1914-1945</td>
+		<td>Second age of war and revolutions</td>
+	</tr>
+	<tr>
+		<td>1945-1979</td>
+		<td>Golden age of national capitalism</td>
+	</tr>
+	<tr>
+		<td>1979-2008</td>
+		<td>Second age of financial globalization</td>
+	</tr>
+	<tr>
+		<td>2008-...</td>
+		<td>Third age of war and revolutions?</td>
+		<tr/>
+</table>
 
-1815-1848            Industrial revolution
-
-1848-1873            Origins of national capitalism
-
-1873-1914            First age of financial globalization
-
-1914-1945            Second age of war and revolutions
-
-1945-1979            Golden age of national capitalism
-
-1979-2008            Second age of financial globalization
-
-2008- …              Third age of war and revolutions?
 
 This is not a prophecy that the outcome of the present global crisis
 will be inevitably dire, but rather an invitation to public debate at a
