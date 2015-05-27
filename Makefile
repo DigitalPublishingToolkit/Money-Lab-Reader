@@ -68,9 +68,13 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
 		--epub-embed-font=../lib/open-sans-v13-latin-300.woff \
+		--epub-embed-font=../lib/open-sans-v13-latin-300.ttf \
 		--epub-embed-font=../lib/open-sans-v13-latin-300italic.woff \
+		--epub-embed-font=../lib/open-sans-v13-latin-300italic.ttf \
 		--epub-embed-font=../lib/open-sans-v13-latin-700.woff \
+		--epub-embed-font=../lib/open-sans-v13-latin-700.ttf \
 		--epub-embed-font=../lib/open-sans-v13-latin-700italic.woff \
+		--epub-embed-font=../lib/open-sans-v13-latin-700italic.ttf \
 		-o ../book.epub \
 		book.md ; \
 	cd ../ ; \
