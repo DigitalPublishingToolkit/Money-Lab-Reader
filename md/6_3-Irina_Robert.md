@@ -10,8 +10,16 @@ Article-title: title of the article
 Article-status: accepted
 Author: Irina Enache and Robert van Boeschoten
 Author-email:   corresponding address
-Author-bio:  Irina Enache is a communication and new media enthusiast. She has collaboratedwith the Institute of Network Cultures as a researcher for the MoneyLab project inappendices 3052013-2014. She gained her BA in Communication and Public Relations in Bucharest,Romania (2011) and MA in New Media and Digital Culture in Amsterdam, the Netherlands(2013).
-Robert van Boeschoten is a philosopher interested in the cultural impact of media onsociety at large, and organizations in particular. His work is divided over the Universityof Applied Sciences Amsterdam (HvA) at the Communication and Multimedia Departmentand The University for Humanistics (UvH) in Utrecht.
+Author-bio:  Irina Enache is a communication and new media enthusiast. She has collaborated
+with the Institute of Network Cultures as a researcher for the MoneyLab project in
+appendices 305
+2013-2014. She gained her BA in Communication and Public Relations in Bucharest,
+Romania (2011) and MA in New Media and Digital Culture in Amsterdam, the Netherlands
+(2013).
+Robert van Boeschoten is a philosopher interested in the cultural impact of media on
+society at large, and organizations in particular. His work is divided over the University
+of Applied Sciences Amsterdam (HvA) at the Communication and Multimedia Department
+and The University for Humanistics (UvH) in Utrecht.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -225,7 +233,7 @@ very different needs.
 
 Amsterdams Fonds voor de Kunst, <http://www.amsterdamsfondsvoordekunst.nl/wat-wij-doen/voordekunst/>.
 
-Culture Crowd UK, <http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf>.
+Culture Crowd U.K., <http://www.culturecrowd.co.uk/wp-content/uploads/Equity-Crowdfunding-for-the-Arts-June-2013.pdf>.
 
 Jeffers, Adrianne. ‘Indie No-go: Only One in Ten Projects Gets Fully
 Funded on Kickstarter's Biggest Rival’, The Verge, 7 August 2013, <http://www.theverge.com/2013/8/7/4594824/less-than-10-percent-of-projects-on-indiegogo-get-fully-funded>.
