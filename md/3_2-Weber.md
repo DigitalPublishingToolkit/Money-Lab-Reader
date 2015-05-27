@@ -10,7 +10,9 @@ Article-title: The Economic Viability of Complementary Currencies: Bound to Fail
 Article-status: accepted
 Author: Beat Weber
 Author-email:   corresponding address
-Author-bio:  Beat Weber studied economics at the Vienna University of Economics and Business.He is an expert at the Division for European Affairs and International Financial Organizationsof Oesterreichische Nationalbank, the Central Bank of Austria.
+Author-bio:  Beat Weber studied economics at the Vienna University of Economics and Business.
+He is an expert at the Division for European Affairs and International Financial Organizations
+of Oesterreichische Nationalbank, the Central Bank of Austria.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -329,7 +331,7 @@ enter into transactions with each other using Linden Dollar. The
 currency can be purchased from the game owner or from third party
 exchanges and used to purchase virtual goods and services (as offered by
 the game owner or other game users) within the game. The game owner
-tries to keep a stable exchange rate with the US dollar by creating new
+tries to keep a stable exchange rate with the U.S. dollar by creating new
 Linden Dollars as demand increases. In World of Warcraft, users can buy
 equipment with digital ‘gold coins’ in order to help them advance in the
 game. Digital coins are given away by the game owners as rewards for
