@@ -10,8 +10,15 @@ Article-title: title of the article
 Article-status: accepted
 Author: Lena Rethel and Irwan Abdalloh
 Author-email:   corresponding address
-Author-bio:  Lena Rethel is Associate Professor of International Political Economy at the Universityof Warwick, working on financial development and Islamic finance. Her publicationsinclude The Problem with Banks (Zed Books, 2012; with Timothy J. Sinclair) and TheEveryday Political Economy of Southeast Asia (Cambridge University Press, 2015; withJuanita Elias).
-Irwan Abdalloh is the head of Islamic Capital Market Development at the IndonesiaStock Exchange (IDX). He is a lecturer in Islamic Investment in the PostgraduateProgram of the University of Indonesia and at the Tazkia University College of IslamicEconomics. He is the founder of icmspecialist.com.
+Author-bio:  Lena Rethel is Associate Professor of International Political Economy at the University
+of Warwick, working on financial development and Islamic finance. Her publications
+include The Problem with Banks (Zed Books, 2012; with Timothy J. Sinclair) and The
+Everyday Political Economy of Southeast Asia (Cambridge University Press, 2015; with
+Juanita Elias).
+Irwan Abdalloh is the head of Islamic Capital Market Development at the Indonesia
+Stock Exchange (IDX). He is a lecturer in Islamic Investment in the Postgraduate
+Program of the University of Indonesia and at the Tazkia University College of Islamic
+Economics. He is the founder of icmspecialist.com.
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
@@ -481,7 +488,7 @@ standardization of practices and geographical coverage. Indeed, just at
 the time of writing, we see countries from across the globe intensifying
 their engagement with Islamic finance – just witness the debut issuance
 of sovereign sukuk by non-Muslim majority countries as diversely
-situated as the UK, South Africa and Hong Kong. Both in its scale and in
+situated as the U.K., South Africa and Hong Kong. Both in its scale and in
 terms of the space it occupies, Islamic finance is certainly very
 different from some of the financial experiments discussed in this
 volume. It is promoted by states, practiced by mainstream financial
