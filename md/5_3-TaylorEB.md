@@ -677,8 +677,7 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     Rewired*, 11 June 2012,
     [http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&commentId=4920407%3AComment%3A78008&xg\_source=activity](http://haitirewired.wired.com/profiles/blog/show?id=4920407%3ABlogPost%3A77664&commentId=4920407%3AComment%3A78008&xg\_source=activity).
 
-[^5_3-TaylorEB_19]: See
-    [http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm](http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm).
+[^5_3-TaylorEB_19]: See [http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm](http://www.cgap.org/blog/m-insurance-ensuring-take-while-doing-no-harm).
 
 [^5_3-TaylorEB_20]: Ignacio Mas and Dan Radcliffe, ‘Scaling Mobile Money’, Bill &
     Melinda Gates Foundation, 2010,
@@ -690,10 +689,10 @@ Industrialized World*, Cambridge: Cambridge University Press, 2002.
     [http://www.microlinks.org/ev\_en.php?ID=46502\_201&ID2=DO\_TOPIC](http://www.microlinks.org/ev_en.php?ID=46502_201&ID2=DO_TOPIC).
 
 [^5_3-TaylorEB_22]: See
-    [http://kdid.org/projects/field-support/hifive/hmmi](http://kdid.org/projects/field-support/hifive/hmmi).
+   [http://kdid.org/projects/field-support/hifive/hmmi](http://kdid.org/projects/field-support/hifive/hmmi).
 
 [^5_3-TaylorEB_23]: See
-    [http://www.digicelhaiti.com/assets/uploads/Active\_Agent\_List.pdf](http://www.digicelhaiti.com/assets/uploads/Active_Agent_List.pdf).
+   [http://www.digicelhaiti.com/assets/uploads/Active\_Agent\_List.pdf](http://www.digicelhaiti.com/assets/uploads/Active_Agent_List.pdf).
 
 [^5_3-TaylorEB_24]: ‘Mobile wallets help Haitians rebuild’, *Mercy Corps*, 3 August
     2011,
