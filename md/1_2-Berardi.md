@@ -653,7 +653,7 @@ Publications, 1998 (1921).
 [^1_2-Berardi_13]: Griziotti Vercellone, *‘*Biorank vs Commoncoin: Algorithms and
     Crypto-Currencies in the Bios of Cognitive Capitalism’, in *Quaderni
     di San Precario*, Vol. 8 (June 2014). 
-    http://quaderni.sanprecario.info/2014/06/biorank-vs-commoncoin-algorithms-and-crypto-currencies-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti-and-carlo-vercellone/. 
+    <http://quaderni.sanprecario.info/2014/06/biorank-vs-commoncoin-algorithms-and-crypto-currencies-in-the-bios-of-cognitive-capitalism-di-giorgio-griziotti-and-carlo-vercellone/>. 
 
 [^1_2-Berardi_14]: Vercellone, ‘Biorank vs Commoncoin: Algorithms and
     Crypto-Currencies in the Bios of Cognitive Capitalism’’.
