@@ -383,8 +383,8 @@ Yunas, Muhammed. Nobel Lecture, Oslo, 10 December 2006,
 [^4_2-Rothenberg_8]: Ken Goldberg, ‘The Telegarden’,
     [http://www.ieor.berkeley.edu/\~goldberg/garden/Ars](http://www.ieor.berkeley.edu/\~goldberg/garden/Ars).
 
-[^4_2-Rothenberg_9]: Tarun Wadhwa, ‘NASA’s Next Frontier: Growing Plants on the Moon’, [http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon](http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon).
-    *Forbes*, 20 November 2013,
+[^4_2-Rothenberg_9]: Tarun Wadhwa, ‘NASA’s Next Frontier: Growing Plants on the Moon’, *Forbes*, 20 November 2013, [http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon](http://www.forbes.com/sites/tarunwadhwa/2013/11/20/nasas-next-frontier-growing-plants-on-the-moon).
+    
 
 [^4_2-Rothenberg_10]: Wadhwa, ‘NASA’s Next Frontier’.
 
