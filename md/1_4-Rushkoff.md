@@ -339,7 +339,7 @@ Raymond, Eric S. Cathedral and Bazaar, Cambridge, MA: O’Reilly, 2001.
 
 Rosoff, Matt. ‘Google’s 15 Biggest Acquisitions And What Happened To
 Them Read More’, Business Insider, 14 March 2011,
-<http://www.businessinsider.com/googles-15-biggest-acquisitions-and-what-418happened-to-them-2011-3\#\#ixzz1WO6AhkU3>.
+<http://www.businessinsider.com/googles-15-biggest-acquisitions-and-what-happened-to-them-2011-3?op=1&IR=T>.
 
 Rushkoff, Douglas. Get Back in the Box, New York: Collins, 2005.
 
