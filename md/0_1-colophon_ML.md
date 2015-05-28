@@ -195,10 +195,10 @@ Wild, Wild West: A View from Two Californian Schoolmarms
 **Rachel O’Dwyer**  
 Money Talks: The Enclosure of Mobile Payments
 
-**Erin Taylor**  
+**Erin B. Taylor**  
 Mobile Money: Financial Globalization, Alternative, or Both?
 
-**Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco**  
+**Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco Gonzalez**  
 ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 
 ## Crowdfunding and Beyond
