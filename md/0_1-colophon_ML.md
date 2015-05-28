@@ -198,7 +198,7 @@ Money Talks: The Enclosure of Mobile Payments
 **Erin B. Taylor**  
 Mobile Money: Financial Globalization, Alternative, or Both?
 
-**Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco Gonzalez**  
+**Eduard de Jong, Nathaniel Tkacz, and Pablo Velasco González**  
 ‘Live as Friends and Count as Enemies’: On Digital Cash and the Media of Payment
 
 ## Crowdfunding and Beyond
